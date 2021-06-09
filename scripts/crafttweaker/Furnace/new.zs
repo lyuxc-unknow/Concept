@@ -1,0 +1,1 @@
+furnace.addRecipe(<prodigytech:ash>, <minecraft:stick>, 1.25f);

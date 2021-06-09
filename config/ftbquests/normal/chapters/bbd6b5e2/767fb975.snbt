@@ -1,0 +1,15 @@
+{
+	x: 5.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "8196145a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "alchemistry:element",
+			Damage: 84s
+		}]
+	}]
+}

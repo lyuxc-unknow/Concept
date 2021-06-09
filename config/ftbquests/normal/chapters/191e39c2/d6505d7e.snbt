@@ -1,0 +1,26 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	dependencies: [
+		"252b3009"
+	],
+	tasks: [{
+		uid: "e0232892",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeLeaves",
+					id: "ore"
+				},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树叶"
+				}
+			}
+		}]
+	}]
+}

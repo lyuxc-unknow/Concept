@@ -1,0 +1,286 @@
+{
+	x: -1.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "06e60aa6",
+		type: "dimension",
+		title: "&e欢迎来到这个世界",
+		dim: 0
+	}],
+	rewards: [{
+		uid: "7cf8be62",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "bloodmagic:arcane_ashes"
+		}
+	},
+	{
+		uid: "1b8d416a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "minecraft:chest",
+			tag: {
+				BlockEntityTag: {
+					Items: [{
+						Slot: 0b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 1b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 2b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 3b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 4b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 5b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 6b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 7b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 8b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 9b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 10b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 11b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 12b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 13b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 14b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 15b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 16b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 17b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 18b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 19b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 20b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 21b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 22b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 23b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 24b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 25b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					},
+					{
+						Slot: 26b,
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": {}
+						},
+						id: "minecraft:stick",
+						Count: 2b,
+						Damage: 0s
+					}],
+					id: "minecraft:chest",
+					Lock: ""
+				},
+				display: {
+					Lore: [
+						"(+NBT)"
+					],
+					Name: "一箱木棍"
+				}
+			}
+		}
+	}]
+}

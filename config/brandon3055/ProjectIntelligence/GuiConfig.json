@@ -1,0 +1,27 @@
+{
+  "downloadsAllowed": true,
+  "tutorialDisplayed": true,
+  "editMode": true,
+  "etCheckFluid": true,
+  "editingRepoLoc": "E:\\game\\minecraft\\Instances\\Ramdom 3 Unknow Field (1)\\config\\brandon3055\\ProjectIntelligence\\ModDocs",
+  "editorAlwaysOnTop": false,
+  "editorLineWrap": false,
+  "maxTabs": 16,
+  "editorLAF": "",
+  "screenMode": 0,
+  "screenPosOverride": false,
+  "screenPosX": 118,
+  "screenPosY": 84,
+  "userLanguage": "[MINECRAFT-LANG]",
+  "homePage": "projectintelligence:",
+  "searchMode": "EVERYWHERE",
+  "pageLangOverrides": {
+    "enderio:": "zh_cn",
+    "draconicadditions:armor_generator": "en_us",
+    "draconicadditions:": "en_us"
+  },
+  "modLangOverrides": {
+    "draconicadditions": "en_us"
+  },
+  "modVersionOverrides": {}
+}

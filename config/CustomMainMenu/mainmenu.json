@@ -1,0 +1,146 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "unknowfield:menu/title.png",
+            "posX" : -150,
+            "posY" : 30,
+            "width" : 300,
+            "height" : 64,
+            "alignment" : "top_center"
+        }
+    },
+	
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -270,
+            "posY" : 20,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -270,
+            "posY" : 42,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -270,
+            "posY" : 64,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -270,
+            "posY" : 86,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -270,
+            "posY" : 130,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		"gezi_bilibili": {
+			"text": "\u5730\u56fe\u5efa\u9020\u0040\u9e3d\u5b50",
+			"posX": -270,
+			"posY": 108,
+			"width": 100,
+			"height": 20,
+			"action": {
+				"type": "openLink",
+				"link": "https://space.bilibili.com/3748156#/"
+			}
+		}
+
+    },
+	
+	  "labels":
+    {
+		"forge":{
+			"text" : "Forge #forgeversion#",
+            "posX" : 2,
+            "posY" : -10,
+			"fontSize" : 1.1,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# Mods Loaded",
+            "posX" : 2,
+            "posY" : -20,
+			"fontSize" : 1.1,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"minecraft":{
+			"text" : "Minecraft 1.12.2",
+            "posX" : -64,
+            "posY" : -20,
+			"fontSize" : 1.1,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+		},
+		"mojang":{
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -160,
+            "posY" : -10,
+			"fontSize" : 1.1,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+	
+        "other":
+    {
+		"background":
+		{
+			"image" : "unknowfield:menu/background.png",
+			"mode" : "fill"
+		}
+    }
+}

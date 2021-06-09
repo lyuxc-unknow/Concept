@@ -1,0 +1,12 @@
+# This is an example item name translation file.
+# Add replacements line per line, separating original and replacement with a =
+# For example, the following replaces Pine log with Spruce log :
+Pine Log=Spruce Log
+# meaning - when the sign says Pine Log, you can search for Spruce Log to find it
+# Lines that start with a # are considered comments and ignored
+# You can use java regular expressions, as in 
+#(.*) horse armor=\1 barding
+# to replace horse armor with barding and keep the gold, iron, or diamond in front of it.
+# or replace abbreviations of shulker with shulker, ignoring case:
+#(?i)sh[a-z]*r=shulker
+# (You must remove the comments for those to work)

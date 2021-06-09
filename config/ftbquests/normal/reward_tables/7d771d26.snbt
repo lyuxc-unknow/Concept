@@ -1,0 +1,451 @@
+{
+	title: "高级奖池",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:passivegenerator",
+			Damage: 6s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "botania_tweaks:compressed_tiny_potato_7"
+		},
+		weight: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "botania_tweaks:dire_crafty_crate"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "immersiveengineering:wooden_device0",
+			Damage: 2s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "immersiveengineering:storage",
+			Damage: 6s
+		},
+		count: 4
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "avaritiaddons:extreme_auto_crafter"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "avaritiatweaks:enhancement_crystal"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "avaritiatweaks:gaia_block"
+		},
+		count: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "denseneutroncollectors:triple_compressed_neutron_collector"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "draconicevolution:chaotic_core"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "draconicevolution:awakened_core"
+		},
+		count: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "draconicevolution:wyvern_core"
+		},
+		count: 32,
+		weight: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "draconicevolution:draconic_core"
+		},
+		count: 64,
+		weight: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "draconicevolution:draconic_block"
+		},
+		count: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "draconicevolution:draconium_block"
+		},
+		count: 64,
+		weight: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "draconicevolution:draconium_chest",
+			tag: {
+				ChestColour: 6553750
+			}
+		},
+		weight: 4
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:controlcircuit",
+			Damage: 3s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:controlcircuit",
+			Damage: 2s
+		},
+		count: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:portableteleporter",
+			tag: {
+				mekData: {
+					energyStored: 1000000.0d
+				}
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:teleportationcore"
+		},
+		weight: 4
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:robit",
+			tag: {
+				mekData: {
+					energyStored: 100000.0d
+				}
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:atomicdisassembler",
+			tag: {
+				mekData: {
+					energyStored: 1000000.0d
+				}
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:enrichedalloy"
+		},
+		count: 32,
+		weight: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:reinforcedalloy"
+		},
+		count: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:compresseddiamond"
+		},
+		weight: 8
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:atomicalloy"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:controlcircuit"
+		},
+		count: 32,
+		weight: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "mekanism:controlcircuit",
+			Damage: 1s
+		},
+		count: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:snowglobe",
+			Damage: 1s
+		},
+		weight: 32
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:itemcreativedestructionwand"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:itemcreativebuilderswand"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:angelring"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:unstableingots",
+			Damage: 2s
+		},
+		count: 2,
+		weight: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:angelblock"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:passivegenerator",
+			Damage: 8s
+		},
+		weight: 32
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:decorativeglass",
+			Damage: 4s
+		},
+		count: 64,
+		weight: 32
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "prodigytech:heat_capacitor_3"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "torchmaster:feral_flare_lantern"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium",
+			Damage: 5s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium",
+			Damage: 4s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium",
+			Damage: 2s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium",
+			Damage: 1s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium",
+			Damage: 3s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium",
+			Damage: 7s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium",
+			Damage: 8s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "extrautils2:opinium",
+			Damage: 6s
+		}
+	}]
+}

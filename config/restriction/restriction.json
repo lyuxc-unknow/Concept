@@ -1,0 +1,17 @@
+{
+  "entries": [
+  	{
+      "block": "tconstruct:tooltables",
+      "meta": 0,
+      "ignoreMeta": true,
+      "restrictions": [
+        {
+          "type": "DIMENSION",
+          "reverse": false,
+          "ignoreMeta": false,
+          "id": 4
+        }
+      ]
+    }
+  ]
+}

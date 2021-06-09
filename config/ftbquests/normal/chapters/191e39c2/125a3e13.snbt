@@ -1,0 +1,22 @@
+{
+	x: 3.0d,
+	y: -0.5d,
+	dependencies: [
+		"d6505d7e"
+	],
+	tasks: [{
+		uid: "040510da",
+		type: "item",
+		title: "任意树苗",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeSapling",
+					id: "ore"
+				},
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

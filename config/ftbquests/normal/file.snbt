@@ -1,0 +1,24 @@
+{
+	version: 9,
+	default_reward_team: true,
+	default_consume_items: false,
+	default_autoclaim_rewards: "enabled",
+	default_quest_shape: "square",
+	default_quest_disable_jei: false,
+	emergency_items: [{
+		ForgeCaps: {
+			"customnpcs:itemscripteddata": {}
+		},
+		id: "minecraft:dye",
+		Damage: 15s
+	}],
+	emergency_items_cooldown: "1t",
+	drop_loot_crates: false,
+	loot_crate_no_drop: {
+		passive: 0,
+		monster: 0,
+		boss: 0
+	},
+	disable_gui: false,
+	grid_scale: 0.5d
+}

@@ -1,0 +1,37 @@
+{
+	title: "裂变",
+	x: 13.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "3bf78ec3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "alchemistry:fission_controller"
+		}]
+	},
+	{
+		uid: "390048d5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "alchemistry:fission_core"
+		}],
+		count: 3L
+	},
+	{
+		uid: "b9f0d50f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "alchemistry:fission_casing"
+		}],
+		count: 98L
+	}]
+}

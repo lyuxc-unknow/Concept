@@ -1,0 +1,12 @@
+{
+	title: "&c始",
+	icon: {
+		ForgeCaps: {
+			"customnpcs:itemscripteddata": {}
+		},
+		id: "minecraft:dirt"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,15 @@
+#This is comment, lines that begin with a # are ignored by the recipe loader!
+#Examples of recipes are below:
+# [ ] these brackets should not be included when you write your script but they are here to show optional stuff
+# < > these brackets should not be included when you write your script but they are here to show stuff that exists in certain cases
+#addRecipe(basin_type, input1, input2, input3, output, r1, g1, b1, r2, g2, b2, lava texture?)
+#addRecipe(basin_cave, minecraft:water_bucket, minecraft:wheat_seeds, minecraft:glass_bottle, tsoncraft:bottle_cave~0, 255, 255, 255, 0, 255, 0, false)
+#addRecipe(basin_nether, minecraft:lava_bucket, minecraft:glowstone_dust, minecraft:glass_bottle, tsoncraft:bottle_cave~1, 255, 255, 255, 80, 255, 255, true)
+#addRecipe(basin_sky, tsoncraft:end_water, minecraft:blaze_rod, minecraft:glass_bottle, tsoncraft:bottle_cave~2, 5, 255, 220, 255, 220, 255, false)
+#addRecipe(evaporator, input, output)
+#addRecipe(evaporator, tsoncraft:bottle_cave~0, tsoncraft:dust_cave~4~0)
+#addRecipe(evaporator, tsoncraft:bottle_cave~1, tsoncraft:dust_cave~4~1)
+#addRecipe(evaporator, tsoncraft:bottle_cave~2, tsoncraft:dust_cave~4~2)
+#Items and blocks are in this format:
+#Inputs must have count of 1 so the tag you put will be meta, you cannot set a different count for the inputs#Otherwise they will follow the format below, ore dictionary can be used but you cannot set counts or metas#name~count~meta, if you want to put meta you need to put a count, but both can be ignored if you wish which will default to a count of 1 and meta of 0
+#Also supports ore dictionary names for inputs
