@@ -5,10 +5,10 @@
 		uid: "963f91c5",
 		type: "item",
 		items: [{
+			id: "alchemistry:atomizer",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:atomizer"
+			}
 		}]
 	}]
 }

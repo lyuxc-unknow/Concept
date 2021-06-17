@@ -3,350 +3,350 @@
 	loot_size: 1,
 	rewards: [{
 		item: {
+			id: "extrautils2:passivegenerator",
+			Damage: 6s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:passivegenerator",
-			Damage: 6s
+			}
 		}
 	},
 	{
 		item: {
+			id: "botania_tweaks:compressed_tiny_potato_7",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "botania_tweaks:compressed_tiny_potato_7"
+			}
 		},
 		weight: 16
 	},
 	{
 		item: {
+			id: "botania_tweaks:dire_crafty_crate",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "botania_tweaks:dire_crafty_crate"
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "immersiveengineering:wooden_device0",
-			Damage: 2s
+			Damage: 2s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		}
 	},
 	{
 		item: {
+			id: "immersiveengineering:storage",
+			Damage: 6s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "immersiveengineering:storage",
-			Damage: 6s
+			}
 		},
 		count: 4
 	},
 	{
 		item: {
+			id: "avaritiaddons:extreme_auto_crafter",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "avaritiaddons:extreme_auto_crafter"
+			}
 		}
 	},
 	{
 		item: {
+			id: "avaritiatweaks:enhancement_crystal",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "avaritiatweaks:enhancement_crystal"
+			}
 		}
 	},
 	{
 		item: {
+			id: "avaritiatweaks:gaia_block",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "avaritiatweaks:gaia_block"
+			}
 		},
 		count: 2
 	},
 	{
 		item: {
+			id: "denseneutroncollectors:triple_compressed_neutron_collector",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "denseneutroncollectors:triple_compressed_neutron_collector"
+			}
 		}
 	},
 	{
 		item: {
+			id: "draconicevolution:chaotic_core",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "draconicevolution:chaotic_core"
+			}
 		}
 	},
 	{
 		item: {
+			id: "draconicevolution:awakened_core",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "draconicevolution:awakened_core"
+			}
 		},
 		count: 16
 	},
 	{
 		item: {
+			id: "draconicevolution:wyvern_core",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "draconicevolution:wyvern_core"
+			}
 		},
 		count: 32,
 		weight: 2
 	},
 	{
 		item: {
+			id: "draconicevolution:draconic_core",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "draconicevolution:draconic_core"
+			}
 		},
 		count: 64,
 		weight: 2
 	},
 	{
 		item: {
+			id: "draconicevolution:draconic_block",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "draconicevolution:draconic_block"
+			}
 		},
 		count: 16
 	},
 	{
 		item: {
+			id: "draconicevolution:draconium_block",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "draconicevolution:draconium_block"
+			}
 		},
 		count: 64,
 		weight: 2
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "draconicevolution:draconium_chest",
 			tag: {
 				ChestColour: 6553750
+			},
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
 			}
 		},
 		weight: 4
 	},
 	{
 		item: {
+			id: "mekanism:controlcircuit",
+			Damage: 3s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:controlcircuit",
-			Damage: 3s
+			}
 		}
 	},
 	{
 		item: {
+			id: "mekanism:controlcircuit",
+			Damage: 2s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:controlcircuit",
-			Damage: 2s
+			}
 		},
 		count: 2
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {},
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "mekanism:portableteleporter",
 			tag: {
 				mekData: {
 					energyStored: 1000000.0d
 				}
+			},
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
+			id: "mekanism:teleportationcore",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:teleportationcore"
+			}
 		},
 		weight: 4
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {},
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "mekanism:robit",
 			tag: {
 				mekData: {
 					energyStored: 100000.0d
 				}
+			},
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {},
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "mekanism:atomicdisassembler",
 			tag: {
 				mekData: {
 					energyStored: 1000000.0d
 				}
+			},
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
+			id: "mekanism:enrichedalloy",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:enrichedalloy"
+			}
 		},
 		count: 32,
 		weight: 16
 	},
 	{
 		item: {
+			id: "mekanism:reinforcedalloy",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:reinforcedalloy"
+			}
 		},
 		count: 16
 	},
 	{
 		item: {
+			id: "mekanism:compresseddiamond",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:compresseddiamond"
+			}
 		},
 		weight: 8
 	},
 	{
 		item: {
+			id: "mekanism:atomicalloy",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:atomicalloy"
+			}
 		}
 	},
 	{
 		item: {
+			id: "mekanism:controlcircuit",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:controlcircuit"
+			}
 		},
 		count: 32,
 		weight: 16
 	},
 	{
 		item: {
+			id: "mekanism:controlcircuit",
+			Damage: 1s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "mekanism:controlcircuit",
-			Damage: 1s
+			}
 		},
 		count: 16
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {},
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "extrautils2:snowglobe",
-			Damage: 1s
+			Damage: 1s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		},
 		weight: 32
 	},
 	{
 		item: {
+			id: "extrautils2:itemcreativedestructionwand",
 			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {},
-				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:itemcreativedestructionwand"
+				"customnpcs:itemscripteddata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}
 	},
 	{
 		item: {
+			id: "extrautils2:itemcreativebuilderswand",
 			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {},
-				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:itemcreativebuilderswand"
+				"customnpcs:itemscripteddata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}
 	},
 	{
 		item: {
+			id: "extrautils2:angelring",
 			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {},
-				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:angelring"
+				"customnpcs:itemscripteddata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "extrautils2:unstableingots",
-			Damage: 2s
+			Damage: 2s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		},
 		count: 2,
 		weight: 16
 	},
 	{
 		item: {
+			id: "extrautils2:angelblock",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:angelblock"
+			}
 		}
 	},
 	{
 		item: {
+			id: "extrautils2:passivegenerator",
+			Damage: 8s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:passivegenerator",
-			Damage: 8s
+			}
 		},
 		weight: 32
 	},
 	{
 		item: {
+			id: "extrautils2:decorativeglass",
+			Damage: 4s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:decorativeglass",
-			Damage: 4s
+			}
 		},
 		count: 64,
 		weight: 32
@@ -357,95 +357,96 @@
 				"astralsorcery:cap_item_amulet_holder": {},
 				"customnpcs:itemscripteddata": {}
 			},
-			id: "prodigytech:heat_capacitor_3"
+			id: "prodigytech:heat_capacitor_3",
+			Count: 1b
 		}
 	},
 	{
 		item: {
+			id: "torchmaster:feral_flare_lantern",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "torchmaster:feral_flare_lantern"
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "extrautils2:opinium",
-			Damage: 5s
+			Damage: 5s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "extrautils2:opinium",
-			Damage: 4s
+			Damage: 4s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "extrautils2:opinium",
-			Damage: 2s
+			Damage: 2s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "extrautils2:opinium",
-			Damage: 1s
+			Damage: 1s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "extrautils2:opinium",
-			Damage: 3s
+			Damage: 3s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:opinium"
-		}
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"customnpcs:itemscripteddata": {}
-			},
 			id: "extrautils2:opinium",
-			Damage: 7s
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		}
 	},
 	{
 		item: {
+			id: "extrautils2:opinium",
+			Damage: 7s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "extrautils2:opinium",
-			Damage: 8s
+			}
 		}
 	},
 	{
 		item: {
+			id: "extrautils2:opinium",
+			Damage: 8s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
+			}
+		}
+	},
+	{
+		item: {
 			id: "extrautils2:opinium",
-			Damage: 6s
+			Damage: 6s,
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			}
 		}
 	}]
 }

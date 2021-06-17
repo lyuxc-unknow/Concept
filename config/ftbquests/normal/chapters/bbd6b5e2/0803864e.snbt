@@ -5,11 +5,11 @@
 		uid: "dfc653db",
 		type: "item",
 		items: [{
+			id: "alchemistry:element",
+			Damage: 108s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:element",
-			Damage: 108s
+			}
 		}]
 	}]
 }

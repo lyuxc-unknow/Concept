@@ -5,11 +5,11 @@
 		uid: "720db1b9",
 		type: "item",
 		items: [{
+			id: "alchemistry:element",
+			Damage: 117s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:element",
-			Damage: 117s
+			}
 		}]
 	}]
 }

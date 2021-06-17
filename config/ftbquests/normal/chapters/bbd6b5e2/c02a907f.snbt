@@ -5,11 +5,11 @@
 		uid: "cf2800d5",
 		type: "item",
 		items: [{
+			id: "alchemistry:element",
+			Damage: 83s,
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:element",
-			Damage: 83s
+			}
 		}]
 	}]
 }

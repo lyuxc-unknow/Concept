@@ -5,10 +5,10 @@
 		uid: "0e4d2945",
 		type: "item",
 		items: [{
+			id: "alchemistry:liquifier",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:liquifier"
+			}
 		}]
 	}]
 }

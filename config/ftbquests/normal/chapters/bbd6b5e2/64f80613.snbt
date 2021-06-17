@@ -5,20 +5,20 @@
 		uid: "74c1b212",
 		type: "item",
 		items: [{
+			id: "alchemistry:electrolyzer",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:electrolyzer"
+			}
 		}]
 	},
 	{
 		uid: "49c47fe2",
 		type: "item",
 		items: [{
+			id: "alchemistry:evaporator",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:evaporator"
+			}
 		}]
 	}]
 }

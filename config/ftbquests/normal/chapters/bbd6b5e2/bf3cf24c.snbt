@@ -5,10 +5,10 @@
 		uid: "0c60b309",
 		type: "item",
 		items: [{
+			id: "alchemistry:compound",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:compound"
+			}
 		}]
 	}]
 }

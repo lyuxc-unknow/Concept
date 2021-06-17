@@ -1,10 +1,10 @@
 {
 	title: "元素收集与合成",
 	icon: {
+		id: "alchemistry:periodic_diagram",
 		ForgeCaps: {
 			"customnpcs:itemscripteddata": {}
-		},
-		id: "alchemistry:periodic_diagram"
+		}
 	},
 	always_invisible: false,
 	group: 0,

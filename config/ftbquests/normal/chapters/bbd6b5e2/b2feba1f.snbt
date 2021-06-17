@@ -6,20 +6,20 @@
 		uid: "54894524",
 		type: "item",
 		items: [{
+			id: "alchemistry:fusion_controller",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:fusion_controller"
+			}
 		}]
 	},
 	{
 		uid: "9809fe66",
 		type: "item",
 		items: [{
+			id: "alchemistry:fusion_core",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:fusion_core"
+			}
 		}],
 		count: 3L
 	},
@@ -27,10 +27,10 @@
 		uid: "fb36cd2c",
 		type: "item",
 		items: [{
+			id: "alchemistry:fusion_casing",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:fusion_casing"
+			}
 		}],
 		count: 98L
 	}]

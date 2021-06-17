@@ -5,20 +5,20 @@
 		uid: "ea789ac7",
 		type: "item",
 		items: [{
+			id: "alchemistry:chemical_dissolver",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:chemical_dissolver"
+			}
 		}]
 	},
 	{
 		uid: "893a91fb",
 		type: "item",
 		items: [{
+			id: "alchemistry:chemical_combiner",
 			ForgeCaps: {
 				"customnpcs:itemscripteddata": {}
-			},
-			id: "alchemistry:chemical_combiner"
+			}
 		}]
 	}]
 }
