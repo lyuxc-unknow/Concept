@@ -1,1 +1,0 @@
-<ore:chainmail>.add(<survivalist:chainmail>);

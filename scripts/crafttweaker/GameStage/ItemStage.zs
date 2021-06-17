@@ -1,3 +1,12 @@
-import mods.ItemStages.addItemStage;
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
 
-//addItemStage("石器时代", <minecraft:stone>);
+val ban as IItemStack[] = [
+    <minecraft:hopper>,
+    <tconstruct:wooden_hopper>
+];
+
+for item in ban {
+   mods.ItemStages.addItemStage("已禁用", item);
+}
+

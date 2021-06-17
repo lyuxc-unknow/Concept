@@ -1,0 +1,1 @@
+mods.armorplus.Workbench.remove(<armorplus:the_gift_of_the_gods>);
