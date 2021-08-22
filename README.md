@@ -1,2 +1,10 @@
-# Unknow-Field
-A Minecraft Modpack By:lyuxc_unknow
+# 随意之作三
+# 未知领域
+随意之作系列主要是对游戏进行随意但是又不随意的增减,来达到一个良好的游玩体验(~~想偷懒就直说~~)
+增减模组均在CurseForgeAPP上进行,后续的开发均在HMCL上完成(~~没钱买正版~~)
+整合包格式为CurseForge格式,部分未发布至CurseForge的模组采用mod director模组解决部分代码修改由bansoukou暴力修改
+**目前还处于高度未完成状态,完成时间:未知**
+
+----------
+
+*你,无法预言未来,也语法更改过去*
