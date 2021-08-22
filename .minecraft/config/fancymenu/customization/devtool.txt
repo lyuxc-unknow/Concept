@@ -1,0 +1,23 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiIngameMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = bottom-right
+  buttonaction = sendmessage
+  x = -100
+  width = 100
+  actionid = 471217fe-934d-43a8-b884-b8fa13f53e4f1629188311738
+  action = addbutton
+  y = -20
+  label = Dev Botton
+  value = /ct syntax
+  height = 20
+}
+

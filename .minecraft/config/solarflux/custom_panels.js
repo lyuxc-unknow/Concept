@@ -58,15 +58,4 @@ func init()
 			.bind('h', item("skull", 5))
 		.build(2);
 	*/
-	panel()
-		.name("universe_solar_panels")
-		.height(8 / 16.0)
-		.generation("210000000")
-		.capacity("420000000")
-		.transfer("21000000")
-	.buildAndRegister()
-		.langBuilder()
-			.put("en_us", "universe_solar_panels")
-			.put("zh_cn", "宇宙光伏板")
-			.build()
 }

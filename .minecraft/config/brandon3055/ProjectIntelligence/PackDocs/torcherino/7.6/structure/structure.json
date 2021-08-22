@@ -1,0 +1,8 @@
+{
+  "mod_id": "torcherino",
+  "mod_version": "7.6",
+  "__verified_comment": "Do not change this to true. If you do so your PR will be automatically rejected.",
+  "verified": false,
+  "file": "",
+  "cycle_icons": false
+}

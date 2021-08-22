@@ -1,0 +1,26 @@
+type = customizablemenus
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+
+net.minecraft.client.gui.GuiWorldSelection {
+}
+
+net.minecraft.client.gui.GuiShareToLan {
+}
+
+com.feed_the_beast.ftblib.lib.gui.GuiWrapper {
+}
+
+net.minecraft.client.gui.inventory.GuiContainerCreative {
+}
+
+us.getfluxed.controlsearch.client.gui.GuiNewControls {
+}
+
+net.minecraftforge.fml.client.GuiModList {
+}
+
+net.minecraft.client.gui.GuiIngameMenu {
+}
+

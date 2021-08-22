@@ -1,0 +1,26 @@
+requious.unit.none=%1$s/%2$s
+requious.unit.none.cost=%1$s
+requious.unit.fe=%1$s/%2$s FE
+requious.unit.fe.cost=%1$s FE
+requious.unit.rf=%1$s/%2$s RF
+requious.unit.rf.cost=%1$s RF
+
+requious.duration.ticks=%s ticks
+requious.duration.seconds=%s 秒
+requious.duration.minutes=%s 分钟
+requious.duration.hours=%s 小时
+requious.duration.instant=瞬间
+
+requious.fluid=%1$s %2$s/%3$s mB
+requious.fluid.empty=空
+
+requious.text.test=已激活 %sTick
+requious.text.owner=被 %s 拥有
+
+//Custom 
+tile.drying.name=晾干台
+tile.advanced_efab_terminal.name=高级EFab合成终端
+
+//JEI
+requious.jei.recipe.drying=晾干台
+requious.jei.recipe.advanced_efab_terminal=高级EFab合成

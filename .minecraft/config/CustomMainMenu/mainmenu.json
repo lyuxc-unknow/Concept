@@ -17,8 +17,8 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -270,
-            "posY" : 20,
+            "posX" : 100,
+            "posY" : 40,
             "width" : 100,
             "height" : 20,
             "action" : 
@@ -31,8 +31,8 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : -270,
-            "posY" : 42,
+            "posX" : 100,
+            "posY" : 62,
             "width" : 100,
             "height" : 20,
             "action" : 
@@ -45,8 +45,8 @@
         "mods":
         {
             "text" : "fml.menu.mods",
-            "posX" : -270,
-            "posY" : 64,
+            "posX" : 100,
+            "posY" : 84,
             "width" : 100,
             "height" : 20,
             "action" : 
@@ -59,8 +59,8 @@
         "options":
         {
             "text" : "menu.options",
-            "posX" : -270,
-            "posY" : 86,
+            "posX" : 100,
+            "posY" : 106,
             "width" : 100,
             "height" : 20,
             "action" : 
@@ -72,8 +72,8 @@
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : -270,
-            "posY" : 130,
+            "posX" : 100,
+            "posY" : 128,
             "width" : 100,
             "height" : 20,
             "action" : 
@@ -82,16 +82,30 @@
             }
         },
 		"gezi_bilibili": {
-			"text": "\u5730\u56fe\u5efa\u9020\u0040\u9e3d\u5b50",
-			"posX": -270,
-			"posY": 108,
-			"width": 100,
+			"text": "",
+			"posX": 110,
+			"posY": 10,
+			"width": 20,
 			"height": 20,
+			"alignment" : "bottom_left",
 			"action": {
 				"type": "openLink",
 				"link": "https://space.bilibili.com/3748156#/"
 			}
-		}
+		},
+		"refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
 
     },
 	

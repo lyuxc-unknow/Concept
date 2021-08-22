@@ -1,0 +1,119 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/unknowfield/menu/background.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=400298%
+  width = 99
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = -27
+}
+
+customization {
+  identifier = %id=400322%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 多人游戏
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = 49
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 退出游戏
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = -2
+}
+
+customization {
+  showname = false
+  orientation = mid-right
+  crouching = false
+  x = -126
+  slim = false
+  actionid = 2ccdb274-60a2-458d-861f-b9e080211b531629106749005
+  action = addentity
+  y = 46
+  scale = 30
+  playername = %playername%
+  parrot = true
+}
+
+customization {
+  orientation = mid-right
+  buttonaction = openlink
+  x = -98
+  width = 98
+  actionid = 15323643-791d-4785-aa45-4de684a6efc81629184209027
+  action = addbutton
+  y = 75
+  description = Open Link
+  label = Map Maker
+  value = https://space.bilibili.com/3748156/
+  height = 20
+}
+

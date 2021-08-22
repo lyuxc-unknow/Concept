@@ -1,0 +1,3 @@
+identifier = Web
+title = Map Maker Bilibili
+allowesc = true
