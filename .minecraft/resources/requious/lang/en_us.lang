@@ -16,3 +16,15 @@ requious.fluid.empty=Empty
 
 requious.text.test=I've been alive for %s ticks
 requious.text.owner=Owned by %s
+
+//Custom 
+tile.drying.name=Drying
+tile.advanced_efab_terminal.name=Advanced Efab Terminal
+tile.living_factory.name=Living Factory
+tile.material_factory.name=Material Factory
+
+//JEI
+requious.jei.recipe.drying=Drying
+requious.jei.recipe.advanced_efab_terminal=Advanced Efab Crafting
+tile.living_factory.name=Living
+tile.material_factory.name=Material Crafting
