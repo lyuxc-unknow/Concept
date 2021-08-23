@@ -1,0 +1,29 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "model": "requious:advanced_efab_terminal",
+      "textures": {
+        "0": "requious:blocks/material_factory/top",
+		"1": "requious:blocks/material_factory/other",
+		"2": "requious:blocks/material_factory/down",
+		"particle": "requious:blocks/material_factory/top"
+      },
+      "transform": "forge:default-block"
+    },
+    "variants":{
+      "normal":[{}],
+      "inventory":[{}],
+      "facing": {
+          "down":  { "z": 180 },
+          "up":    { },
+          "north": { "z": 90 },
+          "south": { "z": 90, "y": 180 },
+          "west":  { "z": 90, "y": 270 },
+          "east":  { "z": 90, "y": 90 }
+      },
+      "active": {
+        "true": {},
+        "false": {}
+      }
+    }
+  }
