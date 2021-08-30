@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 514.0d,
+	description: "{id:\"mekanism:slickplasticblock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "affb2616",
+		type: "item",
+		items: [{
+			item: "mekanism:slickplasticblock"
+		}],
+		consume_items: true
+	}]
+}

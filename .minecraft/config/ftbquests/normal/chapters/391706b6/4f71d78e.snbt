@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 683.0d,
+	description: "{id:\"aroma1997sdimension:miningore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "816cdc20",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:miningore"
+		}],
+		consume_items: true
+	}]
+}

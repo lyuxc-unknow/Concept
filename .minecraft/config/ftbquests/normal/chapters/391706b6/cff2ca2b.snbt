@@ -1,0 +1,72 @@
+{
+	x: 30.0d,
+	y: 321.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shovel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:66.6f,FreeModifiers:3,Durability:1998,HarvestLevel:93,Attack:9001.0f},Unbreakable:1b,Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:66.6f,FreeModifiers:3,Durability:1998,HarvestLevel:93,Attack:9001.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"infinity_metal\",\"infinity_metal\",\"infinity_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.infinitum\",color:-11757164,level:1},{identifier:\"tconevo.omnipotence\",color:-11757164,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.infinitum\",\"tconevo.omnipotence\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "34e0667c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shovel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 66.6f,
+					FreeModifiers: 3,
+					Durability: 1998,
+					HarvestLevel: 93,
+					Attack: 9001.0f
+				},
+				Unbreakable: 1b,
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 66.6f,
+					FreeModifiers: 3,
+					Durability: 1998,
+					HarvestLevel: 93,
+					Attack: 9001.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"infinity_metal",
+						"infinity_metal",
+						"infinity_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.infinitum",
+					color: -11757164,
+					level: 1
+				},
+				{
+					identifier: "tconevo.omnipotence",
+					color: -11757164,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.infinitum",
+					"tconevo.omnipotence",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

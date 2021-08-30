@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 623.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"ancite\"},Damage:0s}",
+	tasks: [{
+		uid: "3ab20cdc",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "ancite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 497.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:sigil_transposition\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a553d265",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_transposition"
+		}],
+		consume_items: true
+	}]
+}

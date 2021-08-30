@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 557.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"Swamp Crab\",level:10,mobId:\"mist:swamp_crab\"},Damage:0s}",
+	tasks: [{
+		uid: "2904d28a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "Swamp Crab",
+				level: 10,
+				mobId: "mist:swamp_crab"
+			}
+		}],
+		consume_items: true
+	}]
+}

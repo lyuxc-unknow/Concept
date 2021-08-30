@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 256.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"stone\"},Damage:0s}",
+	tasks: [{
+		uid: "4c1e2029",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

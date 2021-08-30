@@ -1,0 +1,18 @@
+{
+	x: 25.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"enderutilities:endermanfighter\"}},Damage:0s}",
+	tasks: [{
+		uid: "f9002d51",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "enderutilities:endermanfighter"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

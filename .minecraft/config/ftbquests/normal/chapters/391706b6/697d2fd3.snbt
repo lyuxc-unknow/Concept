@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:analysingchamber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "536cc364",
+		type: "item",
+		items: [{
+			item: "calculator:analysingchamber"
+		}],
+		consume_items: true
+	}]
+}

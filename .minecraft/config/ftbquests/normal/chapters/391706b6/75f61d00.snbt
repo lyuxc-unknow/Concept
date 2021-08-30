@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_nuggetender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "85d72bad",
+		type: "item",
+		items: [{
+			item: "jaopca:item_nuggetender"
+		}],
+		consume_items: true
+	}]
+}

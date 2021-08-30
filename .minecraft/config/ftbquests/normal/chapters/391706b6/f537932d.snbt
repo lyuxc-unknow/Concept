@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 740.0d,
+	description: "{id:\"embers:nugget_dawnstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b16ac8d9",
+		type: "item",
+		items: [{
+			item: "embers:nugget_dawnstone"
+		}],
+		consume_items: true
+	}]
+}

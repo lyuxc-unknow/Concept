@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:spider_eye\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "58213c61",
+		type: "item",
+		items: [{
+			item: "minecraft:spider_eye"
+		}],
+		consume_items: true
+	}]
+}

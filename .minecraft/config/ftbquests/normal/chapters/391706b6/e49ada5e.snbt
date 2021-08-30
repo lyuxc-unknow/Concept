@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"redgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "3dd07c1b",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "redgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

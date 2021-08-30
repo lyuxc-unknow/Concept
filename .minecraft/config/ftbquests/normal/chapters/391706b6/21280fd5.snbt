@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 443.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"carbon_fiber\"},Damage:0s}",
+	tasks: [{
+		uid: "462731ac",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "carbon_fiber"
+			}
+		}],
+		consume_items: true
+	}]
+}

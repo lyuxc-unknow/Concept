@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 494.0d,
+	description: "{id:\"bloodmagic:demon_pillar_cap_3\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9c7077b",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_pillar_cap_3"
+		}],
+		consume_items: true
+	}]
+}

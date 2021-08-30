@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 753.0d,
+	description: "{id:\"environmentaltech:aethium_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d227b67f",
+		type: "item",
+		items: [{
+			item: "environmentaltech:aethium_stairs"
+		}],
+		consume_items: true
+	}]
+}

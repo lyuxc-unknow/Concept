@@ -1,0 +1,20 @@
+{
+	x: 22.0d,
+	y: 524.0d,
+	description: "{id:\"doubleslabs:vertical_slab\",Count:1b,tag:{item:{id:\"botania:biomestoneb2slab\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "4b2b9159",
+		type: "item",
+		items: [{
+			id: "doubleslabs:vertical_slab",
+			tag: {
+				item: {
+					id: "botania:biomestoneb2slab",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 553.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:prudentium_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "48462478",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:prudentium_chestplate"
+		}],
+		consume_items: true
+	}]
+}

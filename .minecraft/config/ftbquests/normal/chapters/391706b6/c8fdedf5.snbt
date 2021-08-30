@@ -1,0 +1,71 @@
+{
+	x: 20.0d,
+	y: 379.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.04f,DrawSpeed:1.45f,FreeModifiers:3,ProjectileBonusDamage:5.0f,Durability:742,HarvestLevel:3,Attack:8.01f,Range:1.26f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.04f,DrawSpeed:1.45f,FreeModifiers:3,ProjectileBonusDamage:5.0f,Durability:742,HarvestLevel:3,Attack:8.01f,Range:1.26f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"psi\",\"psi\",\"psi\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psirepair\",color:-13858615,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psirepair\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ef1b94cf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.04f,
+					DrawSpeed: 1.45f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 5.0f,
+					Durability: 742,
+					HarvestLevel: 3,
+					Attack: 8.01f,
+					Range: 1.26f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.04f,
+					DrawSpeed: 1.45f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 5.0f,
+					Durability: 742,
+					HarvestLevel: 3,
+					Attack: 8.01f,
+					Range: 1.26f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"psi",
+						"psi",
+						"psi",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psirepair",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psirepair",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 29.0d,
+	y: 569.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:shader\",Count:1b,tag:{shader_name:\"Chloris\"},Damage:0s}",
+	tasks: [{
+		uid: "5604e7e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:shader",
+			tag: {
+				shader_name: "Chloris"
+			}
+		}],
+		consume_items: true
+	}]
+}

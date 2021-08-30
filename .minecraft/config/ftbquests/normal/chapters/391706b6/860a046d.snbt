@@ -1,0 +1,67 @@
+{
+	x: 34.0d,
+	y: 326.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.09f,FreeModifiers:3,Durability:991,HarvestLevel:4,Attack:6.73f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.09f,FreeModifiers:3,Durability:991,HarvestLevel:4,Attack:6.73f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"blutonium\",\"blutonium\",\"blutonium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"radioactive\",color:-14083900,level:3,radioactive3:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"radioactive3\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "179784df",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.09f,
+					FreeModifiers: 3,
+					Durability: 991,
+					HarvestLevel: 4,
+					Attack: 6.73f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.09f,
+					FreeModifiers: 3,
+					Durability: 991,
+					HarvestLevel: 4,
+					Attack: 6.73f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blutonium",
+						"blutonium",
+						"blutonium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "radioactive",
+					color: -14083900,
+					level: 3,
+					radioactive3: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"radioactive3",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

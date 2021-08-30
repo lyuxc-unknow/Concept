@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 649.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "a3761323",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

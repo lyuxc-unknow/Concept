@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 783.0d,
+	description: "{id:\"requious:positron_unit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "be62a6e3",
+		type: "item",
+		items: [{
+			item: "requious:positron_unit"
+		}],
+		consume_items: true
+	}]
+}

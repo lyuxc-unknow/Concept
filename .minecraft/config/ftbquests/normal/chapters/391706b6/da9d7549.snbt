@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"minecraft:shulker\"},Damage:0s}",
+	tasks: [{
+		uid: "50db56b5",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "minecraft:shulker"
+			}
+		}],
+		consume_items: true
+	}]
+}

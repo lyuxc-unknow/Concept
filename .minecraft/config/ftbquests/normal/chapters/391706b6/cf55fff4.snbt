@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 649.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"refined_obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "60adada7",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "refined_obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

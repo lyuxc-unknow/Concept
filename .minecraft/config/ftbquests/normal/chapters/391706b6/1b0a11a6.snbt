@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 311.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"aluminium\"},Damage:0s}",
+	tasks: [{
+		uid: "92480926",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "aluminium"
+			}
+		}],
+		consume_items: true
+	}]
+}

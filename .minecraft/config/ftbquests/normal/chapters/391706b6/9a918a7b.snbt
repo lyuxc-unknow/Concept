@@ -1,0 +1,20 @@
+{
+	x: 36.0d,
+	y: 530.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderutilities:endercapacitor\",Count:1b,tag:{EnderChargeAmount:100000},Damage:1s}",
+	tasks: [{
+		uid: "63e6b6b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:endercapacitor",
+			tag: {
+				EnderChargeAmount: 100000
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

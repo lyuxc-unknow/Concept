@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 759.0d,
+	description: "{id:\"industrialforegoing:conveyor_upgrade\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "5d485592",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:conveyor_upgrade 1 4"
+		}],
+		consume_items: true
+	}]
+}

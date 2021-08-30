@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"vibrant_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "b47470ee",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "vibrant_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

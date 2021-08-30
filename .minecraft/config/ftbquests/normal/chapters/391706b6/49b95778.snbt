@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 186.0d,
+	description: "{id:\"enderio:block_infinity_fog\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af308a17",
+		type: "item",
+		items: [{
+			item: "enderio:block_infinity_fog"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 34.0d,
+	y: 594.0d,
+	description: "{id:\"rftoolsdim:known_dimlet\",Count:1b,tag:{dkey:\"minecraft:stone@0\"},Damage:2s}",
+	tasks: [{
+		uid: "8c177ef7",
+		type: "item",
+		items: [{
+			id: "rftoolsdim:known_dimlet",
+			tag: {
+				dkey: "minecraft:stone@0"
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 36.0d,
+	y: 82.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extracells:pattern.fluid\",Count:1b,tag:{Fluid:{FluidName:\"manasteel\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "d2b80f79",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:pattern.fluid",
+			tag: {
+				Fluid: {
+					FluidName: "manasteel",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

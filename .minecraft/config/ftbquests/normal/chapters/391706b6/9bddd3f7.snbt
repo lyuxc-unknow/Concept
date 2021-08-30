@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"advancedalloy\"},Damage:0s}",
+	tasks: [{
+		uid: "013241b8",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "advancedalloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

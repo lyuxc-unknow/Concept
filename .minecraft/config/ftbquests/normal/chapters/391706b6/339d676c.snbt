@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 34.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"minecraft:record_blocks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f389cd8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:record_blocks"
+		}],
+		consume_items: true
+	}]
+}

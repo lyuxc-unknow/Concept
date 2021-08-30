@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 531.0d,
+	description: "{id:\"enderutilities:linkcrystal\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "f5173479",
+		type: "item",
+		items: [{
+			item: "enderutilities:linkcrystal 1 1"
+		}],
+		consume_items: true
+	}]
+}

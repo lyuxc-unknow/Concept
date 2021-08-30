@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 758.0d,
+	description: "{id:\"industrialforegoing:froster\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "58ba2cde",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:froster"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 740.0d,
+	description: "{id:\"embers:brick_caminite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e409e94b",
+		type: "item",
+		items: [{
+			item: "embers:brick_caminite"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 96.0d,
+	description: "{id:\"mist:dirt_r\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2728f381",
+		type: "item",
+		items: [{
+			item: "mist:dirt_r"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"meat_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "3426789e",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "meat_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 591.0d,
+	description: "{id:\"random_add:magic_light_rune\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2a087327",
+		type: "item",
+		items: [{
+			item: "random_add:magic_light_rune"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:spatial_io_port\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "efc99daf",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:spatial_io_port"
+		}],
+		consume_items: true
+	}]
+}

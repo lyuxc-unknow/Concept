@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 496.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:activation_crystal\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "88b303ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:activation_crystal",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

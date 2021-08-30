@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 775.0d,
+	description: "{id:\"omegacraft:electric_combiner_ultb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "613e6211",
+		type: "item",
+		items: [{
+			item: "omegacraft:electric_combiner_ultb"
+		}],
+		consume_items: true
+	}]
+}

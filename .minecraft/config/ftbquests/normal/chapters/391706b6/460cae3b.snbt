@@ -1,0 +1,79 @@
+{
+	x: 4.0d,
+	y: 384.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:210,HarvestLevel:1,Attack:5.4f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:210,HarvestLevel:1,Attack:5.4f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"cactus\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"prickly\",color:-16735985,level:1},{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"prickly\",\"spiky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "57f30f51",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 210,
+					HarvestLevel: 1,
+					Attack: 5.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 210,
+					HarvestLevel: 1,
+					Attack: 5.4f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"cactus",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "prickly",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "spiky",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"prickly",
+					"spiky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

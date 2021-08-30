@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 606.0d,
+	description: "{id:\"thermalintegrate:resource_fab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8dfc436c",
+		type: "item",
+		items: [{
+			item: "thermalintegrate:resource_fab"
+		}],
+		consume_items: true
+	}]
+}

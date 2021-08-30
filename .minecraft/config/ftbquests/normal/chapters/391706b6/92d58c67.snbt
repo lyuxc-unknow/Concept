@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 194.0d,
+	description: "{id:\"enderio:block_unholy_enlightened_fused_quartz\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "1135161a",
+		type: "item",
+		items: [{
+			item: "enderio:block_unholy_enlightened_fused_quartz 1 8"
+		}],
+		consume_items: true
+	}]
+}

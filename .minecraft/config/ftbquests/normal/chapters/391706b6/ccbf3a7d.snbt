@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 226.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"xu_enchanted_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "70f3da77",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "xu_enchanted_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

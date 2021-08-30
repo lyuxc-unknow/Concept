@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 629.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"xu_demonic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "76e833dd",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "xu_demonic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

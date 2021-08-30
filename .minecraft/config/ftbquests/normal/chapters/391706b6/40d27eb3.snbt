@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 232.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"invar\"},Damage:0s}",
+	tasks: [{
+		uid: "ff0cb641",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "invar"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,66 @@
+{
+	x: 20.0d,
+	y: 635.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.45f,FreeModifiers:3,Durability:412,HarvestLevel:1,Attack:11.45f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.45f,FreeModifiers:3,Durability:412,HarvestLevel:1,Attack:11.45f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"certus\",\"certus\",\"certus\",\"certus\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shocking\",color:-3349264,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shocking\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "3fcc682f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.45f,
+					FreeModifiers: 3,
+					Durability: 412,
+					HarvestLevel: 1,
+					Attack: 11.45f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.45f,
+					FreeModifiers: 3,
+					Durability: 412,
+					HarvestLevel: 1,
+					Attack: 11.45f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"certus",
+						"certus",
+						"certus",
+						"certus"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shocking",
+					color: -3349264,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shocking",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

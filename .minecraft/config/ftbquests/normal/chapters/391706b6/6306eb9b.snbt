@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:empowered_enori_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "71c5fe26",
+		type: "item",
+		items: [{
+			item: "moreplates:empowered_enori_plate"
+		}],
+		consume_items: true
+	}]
+}

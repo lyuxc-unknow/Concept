@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 72.0d,
+	description: "{id:\"calculator:amethystleaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5567ce05",
+		type: "item",
+		items: [{
+			item: "calculator:amethystleaves"
+		}],
+		consume_items: true
+	}]
+}

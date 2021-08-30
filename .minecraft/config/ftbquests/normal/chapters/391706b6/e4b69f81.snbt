@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 87.0d,
+	description: "{id:\"extracells:hardmedrive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "773575fe",
+		type: "item",
+		items: [{
+			item: "extracells:hardmedrive"
+		}],
+		consume_items: true
+	}]
+}

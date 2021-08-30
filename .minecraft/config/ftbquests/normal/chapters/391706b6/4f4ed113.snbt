@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 269.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"iridium\"},Damage:0s}",
+	tasks: [{
+		uid: "e785d5ae",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "iridium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_crystalcobalt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6ab9ce17",
+		type: "item",
+		items: [{
+			item: "jaopca:item_crystalcobalt"
+		}],
+		consume_items: true
+	}]
+}

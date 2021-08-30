@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 88.0d,
+	description: "{id:\"randomthings:platform\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "55803a64",
+		type: "item",
+		items: [{
+			item: "randomthings:platform 1 3"
+		}],
+		consume_items: true
+	}]
+}

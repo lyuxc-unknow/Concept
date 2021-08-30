@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"extrabotany:ingotorichalcos\"},Damage:0s}",
+	tasks: [{
+		uid: "454e4c1d",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "extrabotany:ingotorichalcos"
+			}
+		}],
+		consume_items: true
+	}]
+}

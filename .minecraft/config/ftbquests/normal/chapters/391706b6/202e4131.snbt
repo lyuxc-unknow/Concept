@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 306.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"draconium\"},Damage:0s}",
+	tasks: [{
+		uid: "73681d14",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "draconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 800.0d,
+	description: "{id:\"jaopca:item_sticklapis\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d4247158",
+		type: "item",
+		items: [{
+			item: "jaopca:item_sticklapis"
+		}],
+		consume_items: true
+	}]
+}

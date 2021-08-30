@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 534.0d,
+	description: "{id:\"extendedcrafting:material\",Count:1b,Damage:10s}",
+	tasks: [{
+		uid: "ca02c816",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 10"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	x: 37.0d,
+	y: 372.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:35,HarvestLevel:0,Attack:2.0f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:35,HarvestLevel:0,Attack:2.0f,Range:1.0f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "462a4bc7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 35,
+					HarvestLevel: 0,
+					Attack: 2.0f,
+					Range: 1.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 35,
+					HarvestLevel: 0,
+					Attack: 2.0f,
+					Range: 1.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"wood",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

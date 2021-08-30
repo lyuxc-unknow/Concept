@@ -1,0 +1,19 @@
+{
+	x: 20.0d,
+	y: 570.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:shader\",Count:1b,tag:{shader_name:\"Terra\"},Damage:0s}",
+	tasks: [{
+		uid: "054a13e7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:shader",
+			tag: {
+				shader_name: "Terra"
+			}
+		}],
+		consume_items: true
+	}]
+}

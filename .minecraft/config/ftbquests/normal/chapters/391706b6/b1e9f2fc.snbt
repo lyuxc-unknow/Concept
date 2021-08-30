@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:long_weakness\"},Damage:0s}",
+	tasks: [{
+		uid: "c03aa272",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:long_weakness"
+			}
+		}],
+		consume_items: true
+	}]
+}

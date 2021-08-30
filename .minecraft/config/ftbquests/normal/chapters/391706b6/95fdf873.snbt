@@ -1,0 +1,71 @@
+{
+	x: 29.0d,
+	y: 369.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:1262,HarvestLevel:2,Attack:7.5499997f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:1262,HarvestLevel:2,Attack:7.5499997f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\",\"bronze\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"dense\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f9a3d775",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.8f,
+					FreeModifiers: 3,
+					Durability: 1262,
+					HarvestLevel: 2,
+					Attack: 7.5499997f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.8f,
+					FreeModifiers: 3,
+					Durability: 1262,
+					HarvestLevel: 2,
+					Attack: 7.5499997f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bronze",
+						"bronze",
+						"bronze",
+						"bronze"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "dense",
+					color: -1852056,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dense",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

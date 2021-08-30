@@ -1,0 +1,72 @@
+{
+	x: 13.0d,
+	y: 327.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,FreeModifiers:3,Durability:854,HarvestLevel:3,Attack:7.92f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,FreeModifiers:3,Durability:854,HarvestLevel:3,Attack:7.92f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"yellowgarnet\",\"yellowgarnet\",\"yellowgarnet\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"autosmelt\",color:-658149,level:1},{identifier:\"superheat\",color:-658149,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"autosmelt\",\"superheat\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "24905e10",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					FreeModifiers: 3,
+					Durability: 854,
+					HarvestLevel: 3,
+					Attack: 7.92f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					FreeModifiers: 3,
+					Durability: 854,
+					HarvestLevel: 3,
+					Attack: 7.92f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"yellowgarnet",
+						"yellowgarnet",
+						"yellowgarnet"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "autosmelt",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "superheat",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"autosmelt",
+					"superheat",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

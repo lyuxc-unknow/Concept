@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 281.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"ruby\"},Damage:0s}",
+	tasks: [{
+		uid: "efc81ee8",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "ruby"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 423.0d,
+	description: "{id:\"botania:turntable\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5a1ae2bf",
+		type: "item",
+		items: [{
+			item: "botania:turntable"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 132.0d,
+	description: "{id:\"thermaldynamics:duct_0\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "ff0a2820",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 1"
+		}],
+		consume_items: true
+	}]
+}

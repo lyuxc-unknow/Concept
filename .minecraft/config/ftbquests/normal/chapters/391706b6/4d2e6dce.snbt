@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 242.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"ma.prudentium\"},Damage:0s}",
+	tasks: [{
+		uid: "46367d1d",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "ma.prudentium"
+			}
+		}],
+		consume_items: true
+	}]
+}

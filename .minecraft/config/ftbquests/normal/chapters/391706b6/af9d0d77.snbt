@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 631.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"ruby\"},Damage:0s}",
+	tasks: [{
+		uid: "d9e6c619",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "ruby"
+			}
+		}],
+		consume_items: true
+	}]
+}

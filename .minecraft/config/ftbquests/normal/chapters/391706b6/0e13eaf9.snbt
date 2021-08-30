@@ -1,0 +1,66 @@
+{
+	x: 32.0d,
+	y: 661.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.63f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:16.0f,Durability:2940,HarvestLevel:4,Attack:13.23f,Range:0.98f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.63f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:16.0f,Durability:2940,HarvestLevel:4,Attack:13.23f,Range:0.98f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"advancedalloy\",\"advancedalloy\",\"advancedalloy\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fdfb848f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.63f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 16.0f,
+					Durability: 2940,
+					HarvestLevel: 4,
+					Attack: 13.23f,
+					Range: 0.98f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.63f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 16.0f,
+					Durability: 2940,
+					HarvestLevel: 4,
+					Attack: 13.23f,
+					Range: 0.98f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

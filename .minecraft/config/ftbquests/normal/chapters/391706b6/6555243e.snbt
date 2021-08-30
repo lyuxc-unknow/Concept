@@ -1,0 +1,72 @@
+{
+	x: 3.0d,
+	y: 327.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.76f,FreeModifiers:3,Durability:3370,HarvestLevel:4,Attack:14.56f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.76f,FreeModifiers:3,Durability:3370,HarvestLevel:4,Attack:14.56f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ebonypsi\",\"ebonypsi\",\"ebonypsi\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psieater\",color:-16119286,level:1},{identifier:\"darkness\",color:-16119286,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psieater\",\"darkness\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "1536f0c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.76f,
+					FreeModifiers: 3,
+					Durability: 3370,
+					HarvestLevel: 4,
+					Attack: 14.56f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.76f,
+					FreeModifiers: 3,
+					Durability: 3370,
+					HarvestLevel: 4,
+					Attack: 14.56f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ebonypsi",
+						"ebonypsi",
+						"ebonypsi"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psieater",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "darkness",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psieater",
+					"darkness",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

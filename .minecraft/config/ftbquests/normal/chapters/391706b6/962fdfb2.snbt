@@ -1,0 +1,20 @@
+{
+	x: 20.0d,
+	y: 526.0d,
+	description: "{id:\"doubleslabs:vertical_slab\",Count:1b,tag:{item:{id:\"environmentalmaterials:alabaster_tile_slab_yellow\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "7a56d73c",
+		type: "item",
+		items: [{
+			id: "doubleslabs:vertical_slab",
+			tag: {
+				item: {
+					id: "environmentalmaterials:alabaster_tile_slab_yellow",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

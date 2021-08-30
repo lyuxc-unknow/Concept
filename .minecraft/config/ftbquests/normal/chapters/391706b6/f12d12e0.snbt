@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 530.0d,
+	description: "{id:\"emergingtechnology:syntheticcowcooked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "34ef785f",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:syntheticcowcooked"
+		}],
+		consume_items: true
+	}]
+}

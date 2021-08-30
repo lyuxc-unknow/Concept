@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 482.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"psi:cad_assembly\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "282d1776",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "psi:cad_assembly"
+		}],
+		consume_items: true
+	}]
+}

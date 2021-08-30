@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 625.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"xu_evil_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "72e14334",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "xu_evil_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

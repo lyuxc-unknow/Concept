@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 292.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"ludicrite\"},Damage:0s}",
+	tasks: [{
+		uid: "9ae033cf",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "ludicrite"
+			}
+		}],
+		consume_items: true
+	}]
+}

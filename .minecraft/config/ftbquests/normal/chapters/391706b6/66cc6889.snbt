@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 7.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"minecraft:cyan_shulker_box\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c43cf0a6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:cyan_shulker_box"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_platedenselapis\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d72fe910",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platedenselapis"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 447.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"osmium\"},Damage:0s}",
+	tasks: [{
+		uid: "e4ea58da",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "osmium"
+			}
+		}],
+		consume_items: true
+	}]
+}

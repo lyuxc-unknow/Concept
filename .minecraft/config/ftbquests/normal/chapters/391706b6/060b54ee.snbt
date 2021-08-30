@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 427.0d,
+	description: "{id:\"botania:corporeaindex\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b9d9f1cf",
+		type: "item",
+		items: [{
+			item: "botania:corporeaindex"
+		}],
+		consume_items: true
+	}]
+}

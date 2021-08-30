@@ -1,0 +1,77 @@
+{
+	x: 39.0d,
+	y: 787.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:346,HarvestLevel:0,Duration:105,Attack:5.0f,Weight:7.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:346,HarvestLevel:0,Duration:105,Attack:5.0f,Weight:7.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"iron\",\"iron\",\"iron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic2\",\"magnetic1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2b6ac421",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 346,
+					HarvestLevel: 0,
+					Duration: 105,
+					Attack: 5.0f,
+					Weight: 7.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 346,
+					HarvestLevel: 0,
+					Duration: 105,
+					Attack: 5.0f,
+					Weight: 7.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"iron",
+						"iron",
+						"iron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -3487030,
+					level: 3,
+					magnetic1: 1b,
+					magnetic2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic2",
+					"magnetic1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

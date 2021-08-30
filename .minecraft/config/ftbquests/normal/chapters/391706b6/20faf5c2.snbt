@@ -1,0 +1,26 @@
+{
+	x: 37.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:chaotic_chest\",Count:1b,tag:{DEUpgrades:{attackDmg:4b,shieldRec:4b,shieldCap:4b,rfCap:4b},Energy:512000000,isStable:1b},Damage:0s}",
+	tasks: [{
+		uid: "ccf24e58",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:chaotic_chest",
+			tag: {
+				DEUpgrades: {
+					attackDmg: 4b,
+					shieldRec: 4b,
+					shieldCap: 4b,
+					rfCap: 4b
+				},
+				Energy: 512000000,
+				isStable: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

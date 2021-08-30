@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 594.0d,
+	description: "{id:\"rftoolsdim:dimlet_type_controller\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "707b46d5",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:dimlet_type_controller 1 6"
+		}],
+		consume_items: true
+	}]
+}

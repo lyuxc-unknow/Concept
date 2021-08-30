@@ -1,0 +1,17 @@
+{
+	x: 29.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"pyrotheum\"},Damage:1s}",
+	tasks: [{
+		uid: "33f1d64a",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "pyrotheum"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

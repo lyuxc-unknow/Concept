@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 746.0d,
+	description: "{id:\"embers:seed_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f2d45e8e",
+		type: "item",
+		items: [{
+			item: "embers:seed_gold"
+		}],
+		consume_items: true
+	}]
+}

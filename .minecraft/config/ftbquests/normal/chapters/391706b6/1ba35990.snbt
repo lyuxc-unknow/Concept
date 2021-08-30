@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 549.0d,
+	description: "{id:\"mysticalagriculture:steel_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4dbe259a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:steel_seeds"
+		}],
+		consume_items: true
+	}]
+}

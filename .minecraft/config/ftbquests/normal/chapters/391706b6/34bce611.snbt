@@ -1,0 +1,20 @@
+{
+	x: 18.0d,
+	y: 680.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_potion_ring_advanced\",Count:1b,tag:{Blaze:800},Damage:2s}",
+	tasks: [{
+		uid: "8866d15a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_potion_ring_advanced",
+			tag: {
+				Blaze: 800
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

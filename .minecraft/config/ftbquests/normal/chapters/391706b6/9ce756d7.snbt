@@ -1,0 +1,21 @@
+{
+	x: 21.0d,
+	y: 505.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:soul_gem\",Count:1b,tag:{souls:16384.0d,demonWillType:\"corrosive\"},Damage:4s}",
+	tasks: [{
+		uid: "ae180467",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {
+				souls: 16384.0d,
+				demonWillType: "corrosive"
+			},
+			Damage: 4s
+		}],
+		consume_items: true
+	}]
+}

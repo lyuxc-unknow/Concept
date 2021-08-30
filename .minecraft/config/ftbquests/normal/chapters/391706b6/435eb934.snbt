@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 283.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"livingrock\"},Damage:0s}",
+	tasks: [{
+		uid: "c35132c5",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "livingrock"
+			}
+		}],
+		consume_items: true
+	}]
+}

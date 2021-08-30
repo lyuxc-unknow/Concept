@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 506.0d,
+	description: "{id:\"bloodmagic:base_item_filter\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "7e9ef43a",
+		type: "item",
+		items: [{
+			item: "bloodmagic:base_item_filter 1 2"
+		}],
+		consume_items: true
+	}]
+}

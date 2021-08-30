@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 784.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "58acf9b4",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

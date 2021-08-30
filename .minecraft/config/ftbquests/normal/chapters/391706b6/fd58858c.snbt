@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 74.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:redstonehoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9320bab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:redstonehoe"
+		}],
+		consume_items: true
+	}]
+}

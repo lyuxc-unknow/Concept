@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 671.0d,
+	description: "{id:\"actuallyadditions:block_item_viewer_hopping\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6e0c1b10",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_item_viewer_hopping"
+		}],
+		consume_items: true
+	}]
+}

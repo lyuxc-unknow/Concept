@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: 55.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"ludicrite\"},Damage:1s}",
+	tasks: [{
+		uid: "d4231c8d",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "ludicrite"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

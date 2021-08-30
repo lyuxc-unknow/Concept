@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 259.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"refinediron\"},Damage:0s}",
+	tasks: [{
+		uid: "75ef0a84",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "refinediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

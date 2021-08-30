@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 443.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"draconium\"},Damage:0s}",
+	tasks: [{
+		uid: "a212ef7d",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "draconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

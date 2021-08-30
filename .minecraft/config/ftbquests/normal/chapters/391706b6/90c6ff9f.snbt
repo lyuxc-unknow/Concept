@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:shulker\"},Damage:0s}",
+	tasks: [{
+		uid: "1155f199",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:shulker"
+			}
+		}],
+		consume_items: true
+	}]
+}

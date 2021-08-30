@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 100.0d,
+	description: "{id:\"mist:cobblestone_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6586d93c",
+		type: "item",
+		items: [{
+			item: "mist:cobblestone_stairs"
+		}],
+		consume_items: true
+	}]
+}

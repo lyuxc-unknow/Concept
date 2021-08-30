@@ -1,0 +1,19 @@
+{
+	x: 29.0d,
+	y: 123.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"ec.internal.copper\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "ea00e5f0",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "ec.internal.copper",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

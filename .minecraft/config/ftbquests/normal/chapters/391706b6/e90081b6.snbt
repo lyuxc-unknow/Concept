@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:quartz_fixture\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7407d70b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:quartz_fixture"
+		}],
+		consume_items: true
+	}]
+}

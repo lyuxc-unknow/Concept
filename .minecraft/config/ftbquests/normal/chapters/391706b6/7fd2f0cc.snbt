@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 299.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"iridium\"},Damage:0s}",
+	tasks: [{
+		uid: "81c9986d",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "iridium"
+			}
+		}],
+		consume_items: true
+	}]
+}

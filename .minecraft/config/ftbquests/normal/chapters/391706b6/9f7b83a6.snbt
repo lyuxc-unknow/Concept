@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:large_plate\"},Damage:0s}",
+	tasks: [{
+		uid: "189c8bf8",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:large_plate"
+			}
+		}],
+		consume_items: true
+	}]
+}

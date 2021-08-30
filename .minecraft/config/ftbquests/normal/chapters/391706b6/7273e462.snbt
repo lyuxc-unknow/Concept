@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 68.0d,
+	description: "{id:\"avaritia:extreme_crafting_table\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "14759b05",
+		type: "item",
+		items: [{
+			item: "avaritia:extreme_crafting_table"
+		}],
+		consume_items: true
+	}]
+}

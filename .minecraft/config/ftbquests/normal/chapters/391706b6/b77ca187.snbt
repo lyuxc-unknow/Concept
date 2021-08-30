@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 673.0d,
+	description: "{id:\"actuallyadditions:block_phantom_placer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc4412e1",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_phantom_placer"
+		}],
+		consume_items: true
+	}]
+}

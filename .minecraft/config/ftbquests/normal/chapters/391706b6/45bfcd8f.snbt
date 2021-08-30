@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 446.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"fluix\"},Damage:0s}",
+	tasks: [{
+		uid: "4b1ce691",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "fluix"
+			}
+		}],
+		consume_items: true
+	}]
+}

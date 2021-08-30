@@ -1,0 +1,20 @@
+{
+	x: 32.0d,
+	y: 167.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"enderium\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "ab6eee35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "enderium",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

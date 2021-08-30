@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 626.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "f2c313bf",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

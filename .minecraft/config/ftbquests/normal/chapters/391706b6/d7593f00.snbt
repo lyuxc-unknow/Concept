@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 131.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"redstonearsenal:tool.shovel_flux\",Count:1b,tag:{Energy:320000},Damage:0s}",
+	tasks: [{
+		uid: "7bdd6e17",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonearsenal:tool.shovel_flux",
+			tag: {
+				Energy: 320000
+			}
+		}],
+		consume_items: true
+	}]
+}

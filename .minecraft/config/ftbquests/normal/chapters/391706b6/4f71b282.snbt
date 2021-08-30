@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 791.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:wooden_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cae508cc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:wooden_boots"
+		}],
+		consume_items: true
+	}]
+}

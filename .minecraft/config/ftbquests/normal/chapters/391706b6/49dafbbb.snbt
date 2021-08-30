@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 421.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"narslimmus\"},Damage:0s}",
+	tasks: [{
+		uid: "89513a51",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "narslimmus"
+			}
+		}],
+		consume_items: true
+	}]
+}

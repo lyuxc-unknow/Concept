@@ -1,0 +1,70 @@
+{
+	x: 19.0d,
+	y: 656.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:scimitar\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:567,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:7.0f,FreeModifiers:3,Durability:567,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"erodium\",\"erodium\",\"erodium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-8558701,level:1},{identifier:\"depthdigger\",color:-8558701,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"depthdigger\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "83684af5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:scimitar",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 567,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 567,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"erodium",
+						"erodium",
+						"erodium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -8558701,
+					level: 1
+				},
+				{
+					identifier: "depthdigger",
+					color: -8558701,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"depthdigger",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

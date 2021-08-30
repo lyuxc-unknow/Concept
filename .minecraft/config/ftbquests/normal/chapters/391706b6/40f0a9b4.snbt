@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"void_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "6e0d9b7a",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "void_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

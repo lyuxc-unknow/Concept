@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 123.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"ec.internal.ethene\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "10b38d8d",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "ec.internal.ethene",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 33.0d,
+	y: 513.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:gastank\",Count:1b,tag:{tier:4,mekData:{stored:{amount:2147483647,gasName:\"ethene\"}}},Damage:0s}",
+	tasks: [{
+		uid: "7efe6625",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:gastank",
+			tag: {
+				tier: 4,
+				mekData: {
+					stored: {
+						amount: 2147483647,
+						gasName: "ethene"
+					}
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

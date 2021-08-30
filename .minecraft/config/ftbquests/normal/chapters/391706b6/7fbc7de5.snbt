@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:wheat\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "62d34161",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}],
+		consume_items: true
+	}]
+}

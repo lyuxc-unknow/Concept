@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "eaf2d889",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

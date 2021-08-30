@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 538.0d,
+	description: "{id:\"modularmachinery:blockinputbus\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "3566d7c2",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockinputbus 1 6"
+		}],
+		consume_items: true
+	}]
+}

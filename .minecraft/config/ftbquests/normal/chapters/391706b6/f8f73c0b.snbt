@@ -1,0 +1,17 @@
+{
+	x: 33.0d,
+	y: 146.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"calculator:diamondplanks\"},Damage:0s}",
+	tasks: [{
+		uid: "1fe7aafc",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "calculator:diamondplanks"
+			}
+		}],
+		consume_items: true
+	}]
+}

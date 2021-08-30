@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 91.0d,
+	description: "{id:\"randomthings:rainbowlamp\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0f3fc548",
+		type: "item",
+		items: [{
+			item: "randomthings:rainbowlamp"
+		}],
+		consume_items: true
+	}]
+}

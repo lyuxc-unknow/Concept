@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 436.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"blutonium\"},Damage:0s}",
+	tasks: [{
+		uid: "29d3877c",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "blutonium"
+			}
+		}],
+		consume_items: true
+	}]
+}

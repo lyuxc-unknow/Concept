@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 577.0d,
+	description: "{id:\"pneumaticcraft:fluid.etchacid\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "113e945b",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:fluid.etchacid"
+		}],
+		consume_items: true
+	}]
+}

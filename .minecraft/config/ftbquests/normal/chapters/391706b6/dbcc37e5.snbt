@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 791.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:wub_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "39bb62fd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:wub_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

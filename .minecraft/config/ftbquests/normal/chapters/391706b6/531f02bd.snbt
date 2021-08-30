@@ -1,0 +1,19 @@
+{
+	x: 33.0d,
+	y: 479.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:cocktail\",Count:1b,tag:{brewKey:\"clear\"},Damage:0s}",
+	tasks: [{
+		uid: "ceb34ca3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:cocktail",
+			tag: {
+				brewKey: "clear"
+			}
+		}],
+		consume_items: true
+	}]
+}

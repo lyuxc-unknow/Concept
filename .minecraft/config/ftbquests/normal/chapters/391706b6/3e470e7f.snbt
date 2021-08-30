@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"steaite\"},Damage:0s}",
+	tasks: [{
+		uid: "f02a681e",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "steaite"
+			}
+		}],
+		consume_items: true
+	}]
+}

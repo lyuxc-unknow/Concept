@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"essen\"},Damage:0s}",
+	tasks: [{
+		uid: "d7d4a1be",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "essen"
+			}
+		}],
+		consume_items: true
+	}]
+}

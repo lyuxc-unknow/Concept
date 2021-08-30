@@ -1,0 +1,17 @@
+{
+	x: 32.0d,
+	y: 568.0d,
+	description: "{id:\"immersiveengineering:bullet\",Count:1b,tag:{bullet:\"terrasteel\"},Damage:2s}",
+	tasks: [{
+		uid: "0152cb63",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "terrasteel"
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 59.0d,
+	description: "{id:\"extrautils2:compresseddirt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5bfdd9f8",
+		type: "item",
+		items: [{
+			item: "extrautils2:compresseddirt"
+		}],
+		consume_items: true
+	}]
+}

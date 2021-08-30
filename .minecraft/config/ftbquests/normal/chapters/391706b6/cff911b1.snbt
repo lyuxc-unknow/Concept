@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 534.0d,
+	description: "{id:\"extendedcrafting:ender_crafter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "282f6085",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:ender_crafter"
+		}],
+		consume_items: true
+	}]
+}

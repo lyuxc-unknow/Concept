@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 565.0d,
+	description: "{id:\"immersiveengineering:conveyor\",Count:1b,tag:{conveyorType:\"immersiveengineering:uncontrolled\"},Damage:0s}",
+	tasks: [{
+		uid: "9b7aa2bd",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:uncontrolled"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:thaumic_processing_unit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c6628a7",
+		type: "item",
+		items: [{
+			item: "custom_additions:thaumic_processing_unit"
+		}],
+		consume_items: true
+	}]
+}

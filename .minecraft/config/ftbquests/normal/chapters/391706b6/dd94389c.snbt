@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 70.0d,
+	description: "{id:\"calculator:flawlessglass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5f2e65ec",
+		type: "item",
+		items: [{
+			item: "calculator:flawlessglass"
+		}],
+		consume_items: true
+	}]
+}

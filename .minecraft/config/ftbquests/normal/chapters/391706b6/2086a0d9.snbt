@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 447.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"refined_obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "fe22ef1e",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "refined_obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

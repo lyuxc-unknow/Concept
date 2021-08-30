@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:bow_string\",Count:1b,tag:{Material:\"slimevine_blue\"},Damage:0s}",
+	tasks: [{
+		uid: "06f4aa52",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_string",
+			tag: {
+				Material: "slimevine_blue"
+			}
+		}],
+		consume_items: true
+	}]
+}

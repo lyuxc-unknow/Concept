@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_shardancite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6c1090b4",
+		type: "item",
+		items: [{
+			item: "jaopca:item_shardancite"
+		}],
+		consume_items: true
+	}]
+}

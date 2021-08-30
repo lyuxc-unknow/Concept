@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 551.0d,
+	description: "{id:\"mysticalagriculture:quartz_enriched_iron_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a32dea10",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:quartz_enriched_iron_seeds"
+		}],
+		consume_items: true
+	}]
+}

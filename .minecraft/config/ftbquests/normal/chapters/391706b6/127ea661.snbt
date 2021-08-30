@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"elvenelementium\"},Damage:0s}",
+	tasks: [{
+		uid: "f914470e",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "elvenelementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

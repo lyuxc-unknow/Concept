@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"dreadthorn\"},Damage:0s}",
+	tasks: [{
+		uid: "9a1c7a8e",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "dreadthorn"
+			}
+		}],
+		consume_items: true
+	}]
+}

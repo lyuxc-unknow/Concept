@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 773.0d,
+	description: "{id:\"omegacraft:upgrade_sieve\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c6e47556",
+		type: "item",
+		items: [{
+			item: "omegacraft:upgrade_sieve"
+		}],
+		consume_items: true
+	}]
+}

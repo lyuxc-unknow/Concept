@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"dreamwood\"},Damage:0s}",
+	tasks: [{
+		uid: "673ba321",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "dreamwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

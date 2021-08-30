@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:refinery\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3444e0b",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:refinery"
+		}],
+		consume_items: true
+	}]
+}

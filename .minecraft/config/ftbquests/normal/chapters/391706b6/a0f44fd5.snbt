@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"diamond\"},Damage:0s}",
+	tasks: [{
+		uid: "a31ccf93",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "diamond"
+			}
+		}],
+		consume_items: true
+	}]
+}

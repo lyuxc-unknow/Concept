@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 50.0d,
+	description: "{id:\"draconicevolution:mob_soul\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b421d85b",
+		type: "item",
+		items: [{
+			item: "draconicevolution:mob_soul"
+		}],
+		consume_items: true
+	}]
+}

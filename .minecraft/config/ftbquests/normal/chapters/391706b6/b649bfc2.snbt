@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 591.0d,
+	description: "{id:\"random_add:dark_night_rune\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ce33348",
+		type: "item",
+		items: [{
+			item: "random_add:dark_night_rune"
+		}],
+		consume_items: true
+	}]
+}

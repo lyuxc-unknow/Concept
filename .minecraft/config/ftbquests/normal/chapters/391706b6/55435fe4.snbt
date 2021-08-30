@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 685.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemshiftingstar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ae4bf2c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar"
+		}],
+		consume_items: true
+	}]
+}

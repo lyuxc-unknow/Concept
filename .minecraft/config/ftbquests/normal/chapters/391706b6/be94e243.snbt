@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 443.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"refined_glowstone\"},Damage:0s}",
+	tasks: [{
+		uid: "d18fc43c",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "refined_glowstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

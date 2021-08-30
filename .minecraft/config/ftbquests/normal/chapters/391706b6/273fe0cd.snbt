@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 310.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"livingrock\"},Damage:0s}",
+	tasks: [{
+		uid: "bd14b3a9",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "livingrock"
+			}
+		}],
+		consume_items: true
+	}]
+}

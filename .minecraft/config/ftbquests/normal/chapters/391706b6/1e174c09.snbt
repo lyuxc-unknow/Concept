@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 521.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"deepmoblearningbm:altar_linker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5e258016",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearningbm:altar_linker"
+		}],
+		consume_items: true
+	}]
+}

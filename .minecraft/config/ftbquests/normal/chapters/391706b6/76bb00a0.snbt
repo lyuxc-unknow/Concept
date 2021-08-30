@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 61.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b27d35b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:book"
+		}],
+		consume_items: true
+	}]
+}

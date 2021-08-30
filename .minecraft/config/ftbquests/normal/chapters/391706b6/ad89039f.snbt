@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 766.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:mage_legs_light\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ff17570c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:mage_legs_light"
+		}],
+		consume_items: true
+	}]
+}

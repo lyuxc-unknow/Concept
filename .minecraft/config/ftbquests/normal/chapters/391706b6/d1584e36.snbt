@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 284.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"aethium\"},Damage:0s}",
+	tasks: [{
+		uid: "ba022ec9",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "aethium"
+			}
+		}],
+		consume_items: true
+	}]
+}

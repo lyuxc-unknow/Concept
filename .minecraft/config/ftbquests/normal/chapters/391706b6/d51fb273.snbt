@@ -1,0 +1,71 @@
+{
+	x: 14.0d,
+	y: 372.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:1206,HarvestLevel:3,Attack:11.892f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:1206,HarvestLevel:3,Attack:11.892f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ruby\",\"ruby\",\"ruby\",\"ruby\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"reflect\",color:-3211264,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"reflect\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "1e845dee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 1206,
+					HarvestLevel: 3,
+					Attack: 11.892f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 1206,
+					HarvestLevel: 3,
+					Attack: 11.892f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ruby",
+						"ruby",
+						"ruby",
+						"ruby"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "reflect",
+					color: -3211264,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"reflect",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

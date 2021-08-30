@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 484.0d,
+	description: "{id:\"bhc:blue_heart\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "adc67c1c",
+		type: "item",
+		items: [{
+			item: "bhc:blue_heart"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 262.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"refinediron\"},Damage:0s}",
+	tasks: [{
+		uid: "b49db099",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "refinediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

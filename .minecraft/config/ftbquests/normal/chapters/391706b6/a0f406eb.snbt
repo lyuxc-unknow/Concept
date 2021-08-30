@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"redstone_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "4c767b41",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "redstone_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

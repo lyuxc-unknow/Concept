@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: 527.0d,
+	description: "{id:\"doubleslabs:vertical_slab\",Count:1b,tag:{item:{id:\"environmentaltech:litherite_paver_slab\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "f11d0864",
+		type: "item",
+		items: [{
+			id: "doubleslabs:vertical_slab",
+			tag: {
+				item: {
+					id: "environmentaltech:litherite_paver_slab",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

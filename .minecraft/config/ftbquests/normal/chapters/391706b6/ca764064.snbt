@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 260.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"ma.soulium\"},Damage:0s}",
+	tasks: [{
+		uid: "feb14151",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "ma.soulium"
+			}
+		}],
+		consume_items: true
+	}]
+}

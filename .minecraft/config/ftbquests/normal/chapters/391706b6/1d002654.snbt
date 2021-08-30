@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"aethium\"},Damage:0s}",
+	tasks: [{
+		uid: "41bc0234",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "aethium"
+			}
+		}],
+		consume_items: true
+	}]
+}

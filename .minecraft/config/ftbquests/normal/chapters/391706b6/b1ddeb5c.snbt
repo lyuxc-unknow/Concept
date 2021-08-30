@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 396.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"conarm:leggings_core\"},Damage:0s}",
+	tasks: [{
+		uid: "efafaa86",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "conarm:leggings_core"
+			}
+		}],
+		consume_items: true
+	}]
+}

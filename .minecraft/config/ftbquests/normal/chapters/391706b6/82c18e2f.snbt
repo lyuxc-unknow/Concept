@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 591.0d,
+	description: "{id:\"random_add:world_rune_zero\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5b249292",
+		type: "item",
+		items: [{
+			item: "random_add:world_rune_zero"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"crystal_matrix\"},Damage:0s}",
+	tasks: [{
+		uid: "b5c5152e",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}],
+		consume_items: true
+	}]
+}

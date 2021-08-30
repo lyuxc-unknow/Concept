@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 425.0d,
+	description: "{id:\"botania:custombrick\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "77d8227e",
+		type: "item",
+		items: [{
+			item: "botania:custombrick 1 7"
+		}],
+		consume_items: true
+	}]
+}

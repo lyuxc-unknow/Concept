@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 413.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:manasteelsword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9663042",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:manasteelsword"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,55 @@
+{
+	x: 16.0d,
+	y: 457.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:helmet\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:787,Defense:9.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:787,Defense:9.0f},ConArmEquipmentSlot:5,TinkerData:{Materials:[\"treatedwood\",\"treatedwood\",\"treatedwood\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"ecological\",color:-10144478,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"ecological\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "f9a5198e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:helmet",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 787,
+					Defense: 9.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 787,
+					Defense: 9.0f
+				},
+				ConArmEquipmentSlot: 5,
+				TinkerData: {
+					Materials: [
+						"treatedwood",
+						"treatedwood",
+						"treatedwood"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -10144478,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

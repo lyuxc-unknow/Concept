@@ -1,0 +1,64 @@
+{
+	x: 22.0d,
+	y: 655.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:scimitar\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.35f,FreeModifiers:3,Durability:477,HarvestLevel:1,Attack:5.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.35f,FreeModifiers:3,Durability:477,HarvestLevel:1,Attack:5.6f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ma.soulium\",\"ma.soulium\",\"ma.soulium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"chunky\",color:-11124169,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"chunky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d547118f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:scimitar",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.35f,
+					FreeModifiers: 3,
+					Durability: 477,
+					HarvestLevel: 1,
+					Attack: 5.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.35f,
+					FreeModifiers: 3,
+					Durability: 477,
+					HarvestLevel: 1,
+					Attack: 5.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.soulium",
+						"ma.soulium",
+						"ma.soulium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "chunky",
+					color: -11124169,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"chunky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

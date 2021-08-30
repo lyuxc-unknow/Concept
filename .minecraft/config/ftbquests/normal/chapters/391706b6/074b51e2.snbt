@@ -1,0 +1,17 @@
+{
+	x: 26.0d,
+	y: 510.0d,
+	description: "{id:\"mekanism:basicblock2\",Count:1b,tag:{tier:1},Damage:3s}",
+	tasks: [{
+		uid: "79aa4b4d",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 1
+			},
+			Damage: 3s
+		}],
+		consume_items: true
+	}]
+}

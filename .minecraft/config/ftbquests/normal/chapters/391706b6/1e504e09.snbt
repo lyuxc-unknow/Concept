@@ -1,0 +1,64 @@
+{
+	x: 15.0d,
+	y: 357.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:633,HarvestLevel:3,Attack:7.34f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:633,HarvestLevel:3,Attack:7.34f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"peridot\",\"peridot\",\"peridot\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shock\",color:-15341515,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shock\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ea9d41ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 633,
+					HarvestLevel: 3,
+					Attack: 7.34f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 633,
+					HarvestLevel: 3,
+					Attack: 7.34f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"peridot",
+						"peridot",
+						"peridot"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shock",
+					color: -15341515,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shock",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 540.0d,
+	description: "{id:\"integrateddynamics:proxy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "056e1cab",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:proxy"
+		}],
+		consume_items: true
+	}]
+}

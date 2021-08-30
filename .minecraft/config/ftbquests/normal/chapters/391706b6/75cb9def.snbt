@@ -1,0 +1,79 @@
+{
+	x: 1.0d,
+	y: 387.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:11.76f,FreeModifiers:3,Durability:1210,HarvestLevel:4,Attack:16.060001f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:11.76f,FreeModifiers:3,Durability:1210,HarvestLevel:4,Attack:16.060001f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"ebonypsi\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"psieater\",color:-16119286,level:1},{identifier:\"darkness\",color:-16119286,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"psieater\",\"darkness\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b48c00d5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 11.76f,
+					FreeModifiers: 3,
+					Durability: 1210,
+					HarvestLevel: 4,
+					Attack: 16.060001f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 11.76f,
+					FreeModifiers: 3,
+					Durability: 1210,
+					HarvestLevel: 4,
+					Attack: 16.060001f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"ebonypsi",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "psieater",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "darkness",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"psieater",
+					"darkness",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

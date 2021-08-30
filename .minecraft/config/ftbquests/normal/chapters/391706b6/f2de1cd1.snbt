@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 298.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"ma.prosperity\"},Damage:0s}",
+	tasks: [{
+		uid: "f970e015",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "ma.prosperity"
+			}
+		}],
+		consume_items: true
+	}]
+}

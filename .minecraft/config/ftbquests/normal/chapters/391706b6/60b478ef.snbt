@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 102.0d,
+	description: "{id:\"mist:aspen_branch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fde3043e",
+		type: "item",
+		items: [{
+			item: "mist:aspen_branch"
+		}],
+		consume_items: true
+	}]
+}

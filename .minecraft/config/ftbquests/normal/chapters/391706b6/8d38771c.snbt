@@ -1,0 +1,66 @@
+{
+	x: 9.0d,
+	y: 644.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:dagger\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:772,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:772,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"extrabotany:ingotshadowium\",\"extrabotany:ingotshadowium\",\"extrabotany:ingotshadowium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shadow\",color:-8388480,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shadow\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fb73a1e0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:dagger",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 772,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 772,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"extrabotany:ingotshadowium",
+						"extrabotany:ingotshadowium",
+						"extrabotany:ingotshadowium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shadow",
+					color: -8388480,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shadow",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

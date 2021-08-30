@@ -1,0 +1,22 @@
+{
+	x: 12.0d,
+	y: 126.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:imaginary\",Count:1b,tag:{Uses:10.0f,Color:4408131,Mode:0},Damage:1s}",
+	tasks: [{
+		uid: "0d257b12",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:imaginary",
+			tag: {
+				Uses: 10.0f,
+				Color: 4408131,
+				Mode: 0
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

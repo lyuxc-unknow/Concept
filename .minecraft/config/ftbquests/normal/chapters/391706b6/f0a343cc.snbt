@@ -1,0 +1,76 @@
+{
+	x: 27.0d,
+	y: 327.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:6.75f,FreeModifiers:3,HarvestLevelShovel:2,Durability:233,HarvestLevel:2,Attack:4.25f},Stats:{AttackSpeedMultiplier:1.1f,HarvestLevelAxe:2,MiningSpeed:6.75f,FreeModifiers:3,HarvestLevelShovel:2,Durability:233,HarvestLevel:2,Attack:4.25f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"conductive_iron\",\"conductive_iron\",\"conductive_iron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-5546657,level:1},{identifier:\"crude\",color:-5546657,level:2,crude2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"crude2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "894c2bca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 2,
+					MiningSpeed: 6.75f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 2,
+					Durability: 233,
+					HarvestLevel: 2,
+					Attack: 4.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					HarvestLevelAxe: 2,
+					MiningSpeed: 6.75f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 2,
+					Durability: 233,
+					HarvestLevel: 2,
+					Attack: 4.25f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"conductive_iron",
+						"conductive_iron",
+						"conductive_iron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -5546657,
+					level: 1
+				},
+				{
+					identifier: "crude",
+					color: -5546657,
+					level: 2,
+					crude2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"crude2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

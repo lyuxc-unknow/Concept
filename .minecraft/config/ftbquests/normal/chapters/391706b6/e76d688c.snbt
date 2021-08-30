@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:hyper_fluid_sender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "176272b5",
+		type: "item",
+		items: [{
+			item: "overloaded:hyper_fluid_sender"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 509.0d,
+	description: "{id:\"mekanism:sawdust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6b402adc",
+		type: "item",
+		items: [{
+			item: "mekanism:sawdust"
+		}],
+		consume_items: true
+	}]
+}

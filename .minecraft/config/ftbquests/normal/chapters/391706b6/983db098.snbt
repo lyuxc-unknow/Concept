@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 791.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:nether_gold_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2a2ff4cd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:nether_gold_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

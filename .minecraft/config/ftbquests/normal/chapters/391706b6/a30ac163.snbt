@@ -1,0 +1,21 @@
+{
+	x: 35.0d,
+	y: 507.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:portableteleporter\",Count:1b,tag:{mekData:{energyStored:1000000.0d}},Damage:0s}",
+	tasks: [{
+		uid: "e5217e95",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:portableteleporter",
+			tag: {
+				mekData: {
+					energyStored: 1000000.0d
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

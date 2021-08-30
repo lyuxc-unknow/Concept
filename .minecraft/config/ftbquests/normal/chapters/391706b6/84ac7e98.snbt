@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 454.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"red_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "16511987",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "red_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 13.0d,
+	y: 122.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"preservationliquid\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "1a1a1098",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "preservationliquid",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

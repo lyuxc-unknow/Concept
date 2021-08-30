@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "ac073910",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

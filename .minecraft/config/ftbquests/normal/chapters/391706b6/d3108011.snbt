@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 516.0d,
+	description: "{id:\"chambers:compost_chamber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c2e8a833",
+		type: "item",
+		items: [{
+			item: "chambers:compost_chamber"
+		}],
+		consume_items: true
+	}]
+}

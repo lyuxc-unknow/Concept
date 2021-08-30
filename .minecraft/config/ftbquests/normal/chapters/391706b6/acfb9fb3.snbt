@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extrautils2:xu2.greek.fire\"},Damage:0s}",
+	tasks: [{
+		uid: "4789a5f9",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extrautils2:xu2.greek.fire"
+			}
+		}],
+		consume_items: true
+	}]
+}

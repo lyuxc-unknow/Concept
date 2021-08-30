@@ -1,0 +1,77 @@
+{
+	x: 16.0d,
+	y: 382.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.5f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:690,HarvestLevel:2,Attack:5.5f,Range:1.75f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.5f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:690,HarvestLevel:2,Attack:5.5f,Range:1.75f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"osmium\",\"osmium\",\"osmium\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"dense\",color:-5653044,level:1},{identifier:\"stiff\",color:-5653044,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"dense\",\"stiff\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2d2a5db4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.5f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 9.0f,
+					Durability: 690,
+					HarvestLevel: 2,
+					Attack: 5.5f,
+					Range: 1.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.5f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 9.0f,
+					Durability: 690,
+					HarvestLevel: 2,
+					Attack: 5.5f,
+					Range: 1.75f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"osmium",
+						"osmium",
+						"osmium",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "dense",
+					color: -5653044,
+					level: 1
+				},
+				{
+					identifier: "stiff",
+					color: -5653044,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dense",
+					"stiff",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

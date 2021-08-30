@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 663.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"minecraft:squid\"},Damage:0s}",
+	tasks: [{
+		uid: "208fa2df",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "minecraft:squid"
+			}
+		}],
+		consume_items: true
+	}]
+}

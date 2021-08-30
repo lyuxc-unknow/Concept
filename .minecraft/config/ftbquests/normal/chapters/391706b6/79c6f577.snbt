@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:enchantment_aplicator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "316034da",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:enchantment_aplicator"
+		}],
+		consume_items: true
+	}]
+}

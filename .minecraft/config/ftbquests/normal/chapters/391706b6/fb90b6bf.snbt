@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 571.0d,
+	description: "{id:\"ironchest:iron_chest\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "171a4222",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 3"
+		}],
+		consume_items: true
+	}]
+}

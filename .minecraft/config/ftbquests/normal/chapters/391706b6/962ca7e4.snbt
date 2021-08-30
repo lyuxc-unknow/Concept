@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 626.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"osmium\"},Damage:0s}",
+	tasks: [{
+		uid: "dd5c7f90",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "osmium"
+			}
+		}],
+		consume_items: true
+	}]
+}

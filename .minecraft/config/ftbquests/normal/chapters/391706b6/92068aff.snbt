@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 755.0d,
+	description: "{id:\"environmentaltech:solar_cell_ionite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5999a744",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cell_ionite"
+		}],
+		consume_items: true
+	}]
+}

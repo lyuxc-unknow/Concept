@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 290.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"silver\"},Damage:0s}",
+	tasks: [{
+		uid: "7fe768f0",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "silver"
+			}
+		}],
+		consume_items: true
+	}]
+}

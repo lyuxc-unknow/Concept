@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"ma.inferium\"},Damage:0s}",
+	tasks: [{
+		uid: "1343f483",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "ma.inferium"
+			}
+		}],
+		consume_items: true
+	}]
+}

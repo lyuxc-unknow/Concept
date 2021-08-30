@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 547.0d,
+	description: "{id:\"mysticalagriculture:wither_skeleton_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5af10f6f",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:wither_skeleton_essence"
+		}],
+		consume_items: true
+	}]
+}

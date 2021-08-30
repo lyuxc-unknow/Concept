@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 649.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"lumium\"},Damage:0s}",
+	tasks: [{
+		uid: "dab5a0d3",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "lumium"
+			}
+		}],
+		consume_items: true
+	}]
+}

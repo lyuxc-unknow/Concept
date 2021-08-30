@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 35.0d,
+	description: "{id:\"thermalfoundation:rockwool\",Count:1b,Damage:15s}",
+	tasks: [{
+		uid: "e08fb638",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:rockwool 1 15"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 447.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"essence_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "a87eea64",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "essence_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

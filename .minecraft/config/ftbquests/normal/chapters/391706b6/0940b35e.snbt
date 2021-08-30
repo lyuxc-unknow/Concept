@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 29.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"cofhcore:leaping4\"},Damage:0s}",
+	tasks: [{
+		uid: "11373763",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "cofhcore:leaping4"
+			}
+		}],
+		consume_items: true
+	}]
+}

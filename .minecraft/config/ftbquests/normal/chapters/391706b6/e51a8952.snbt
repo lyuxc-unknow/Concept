@@ -1,0 +1,17 @@
+{
+	x: 26.0d,
+	y: 143.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"extrautils2:spike_wood\"},Damage:0s}",
+	tasks: [{
+		uid: "30c9e027",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "extrautils2:spike_wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

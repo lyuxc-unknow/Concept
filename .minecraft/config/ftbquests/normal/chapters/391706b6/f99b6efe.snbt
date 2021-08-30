@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"advancedalloy\"},Damage:0s}",
+	tasks: [{
+		uid: "d81c54fb",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "advancedalloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

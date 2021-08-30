@@ -1,0 +1,19 @@
+{
+	x: 20.0d,
+	y: 417.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:bloodpendant\",Count:1b,tag:{brewKey:\"allure\"},Damage:0s}",
+	tasks: [{
+		uid: "41bd0940",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:bloodpendant",
+			tag: {
+				brewKey: "allure"
+			}
+		}],
+		consume_items: true
+	}]
+}

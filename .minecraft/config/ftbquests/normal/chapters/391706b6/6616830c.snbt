@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 107.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mist:centrometer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2164b10d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mist:centrometer"
+		}],
+		consume_items: true
+	}]
+}

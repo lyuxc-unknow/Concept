@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 477.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"steamworld:block_ancite\",Count:1b,Damage:3s}},Damage:0s}",
+	tasks: [{
+		uid: "c08e65a0",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "steamworld:block_ancite",
+					Count: 1b,
+					Damage: 3s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

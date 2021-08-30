@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 182.0d,
+	description: "{id:\"chickens:henhouse_spruce\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f1c51996",
+		type: "item",
+		items: [{
+			item: "chickens:henhouse_spruce"
+		}],
+		consume_items: true
+	}]
+}

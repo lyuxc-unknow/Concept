@@ -1,0 +1,20 @@
+{
+	x: 10.0d,
+	y: 79.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extracells:storage.physical\",Count:1b,tag:{power:32000.0d},Damage:4s}",
+	tasks: [{
+		uid: "d723b7e2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:storage.physical",
+			tag: {
+				power: 32000.0d
+			},
+			Damage: 4s
+		}],
+		consume_items: true
+	}]
+}

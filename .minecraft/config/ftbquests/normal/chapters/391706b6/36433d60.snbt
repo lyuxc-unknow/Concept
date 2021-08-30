@@ -1,0 +1,78 @@
+{
+	x: 17.0d,
+	y: 319.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:25.43f,FreeModifiers:3,Durability:8912,HarvestLevel:6,Attack:29.52f},Stats:{AttackSpeedMultiplier:0.3f,MiningSpeed:25.43f,FreeModifiers:0,Durability:8912,HarvestLevel:6,Attack:29.52f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"awakeneddraconium\",\"awakeneddraconium\",\"awakeneddraconium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"energyrepair\",color:-14039,level:1},{identifier:\"op\",op1:1b,color:-14039,level:1},{identifier:\"energyeater\",color:-14039,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"energyrepair\",\"op1\",\"energyeater\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ad8e6daf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 25.43f,
+					FreeModifiers: 3,
+					Durability: 8912,
+					HarvestLevel: 6,
+					Attack: 29.52f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 0.3f,
+					MiningSpeed: 25.43f,
+					FreeModifiers: 0,
+					Durability: 8912,
+					HarvestLevel: 6,
+					Attack: 29.52f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"awakeneddraconium",
+						"awakeneddraconium",
+						"awakeneddraconium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "energyrepair",
+					color: -14039,
+					level: 1
+				},
+				{
+					identifier: "op",
+					op1: 1b,
+					color: -14039,
+					level: 1
+				},
+				{
+					identifier: "energyeater",
+					color: -14039,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"energyrepair",
+					"op1",
+					"energyeater",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

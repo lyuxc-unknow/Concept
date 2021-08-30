@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 266.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"titanium\"},Damage:0s}",
+	tasks: [{
+		uid: "5e70b5ce",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "titanium"
+			}
+		}],
+		consume_items: true
+	}]
+}

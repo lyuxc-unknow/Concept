@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 445.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"magmaslime\"},Damage:0s}",
+	tasks: [{
+		uid: "586c6b5c",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "magmaslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

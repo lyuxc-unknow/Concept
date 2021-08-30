@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	description: "{id:\"minecraft:log2\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88cc960a",
+		type: "item",
+		items: [{
+			item: "minecraft:log2"
+		}],
+		consume_items: true
+	}]
+}

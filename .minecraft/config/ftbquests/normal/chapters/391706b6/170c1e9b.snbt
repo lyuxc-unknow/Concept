@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 529.0d,
+	description: "{id:\"emergingtechnology:tidalgenerator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76ec276f",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:tidalgenerator"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 512.0d,
+	description: "{id:\"mekanism:oreblock\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "ce576987",
+		type: "item",
+		items: [{
+			item: "mekanism:oreblock 1 2"
+		}],
+		consume_items: true
+	}]
+}

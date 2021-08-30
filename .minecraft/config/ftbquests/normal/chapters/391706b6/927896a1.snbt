@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_clumpastralstarmetal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bd58e707",
+		type: "item",
+		items: [{
+			item: "jaopca:item_clumpastralstarmetal"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 89.0d,
+	description: "{id:\"randomthings:peacecandle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00c1593e",
+		type: "item",
+		items: [{
+			item: "randomthings:peacecandle"
+		}],
+		consume_items: true
+	}]
+}

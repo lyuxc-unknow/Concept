@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 93.0d,
+	description: "{id:\"randomthings:ingredient\",Count:1b,Damage:10s}",
+	tasks: [{
+		uid: "93c419d1",
+		type: "item",
+		items: [{
+			item: "randomthings:ingredient 1 10"
+		}],
+		consume_items: true
+	}]
+}

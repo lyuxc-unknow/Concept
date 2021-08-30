@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 302.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"wyvern_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "e18c0b88",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "wyvern_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

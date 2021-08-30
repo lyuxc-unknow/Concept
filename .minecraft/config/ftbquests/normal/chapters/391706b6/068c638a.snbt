@@ -1,0 +1,66 @@
+{
+	x: 30.0d,
+	y: 646.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:dagger\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.45f,FreeModifiers:3,Durability:314,HarvestLevel:1,Attack:10.45f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.45f,FreeModifiers:3,Durability:314,HarvestLevel:1,Attack:10.45f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"certus\",\"certus\",\"certus\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shocking\",color:-3349264,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shocking\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0881a066",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:dagger",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.45f,
+					FreeModifiers: 3,
+					Durability: 314,
+					HarvestLevel: 1,
+					Attack: 10.45f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.45f,
+					FreeModifiers: 3,
+					Durability: 314,
+					HarvestLevel: 1,
+					Attack: 10.45f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"certus",
+						"certus",
+						"certus"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shocking",
+					color: -3349264,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shocking",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

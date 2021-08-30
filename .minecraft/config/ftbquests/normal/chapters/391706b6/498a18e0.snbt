@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 188.0d,
+	description: "{id:\"enderio:item_enchantment_filter_big\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "22851458",
+		type: "item",
+		items: [{
+			item: "enderio:item_enchantment_filter_big"
+		}],
+		consume_items: true
+	}]
+}

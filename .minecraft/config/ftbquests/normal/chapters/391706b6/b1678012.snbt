@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 648.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"fluix\"},Damage:0s}",
+	tasks: [{
+		uid: "b5b705ea",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "fluix"
+			}
+		}],
+		consume_items: true
+	}]
+}

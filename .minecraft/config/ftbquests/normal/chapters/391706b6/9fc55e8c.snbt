@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"mica\"},Damage:0s}",
+	tasks: [{
+		uid: "8ae77711",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "mica"
+			}
+		}],
+		consume_items: true
+	}]
+}

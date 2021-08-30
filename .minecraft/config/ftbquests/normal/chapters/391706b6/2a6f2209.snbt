@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"bone\"},Damage:0s}",
+	tasks: [{
+		uid: "1ff0bd50",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "bone"
+			}
+		}],
+		consume_items: true
+	}]
+}

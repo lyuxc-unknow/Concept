@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 111.0d,
+	description: "{id:\"naturesaura:infused_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4facc4ad",
+		type: "item",
+		items: [{
+			item: "naturesaura:infused_iron"
+		}],
+		consume_items: true
+	}]
+}

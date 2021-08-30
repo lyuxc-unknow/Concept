@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 562.0d,
+	description: "{id:\"immersiveengineering:stone_decoration_stairs_hempcrete\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d41c02ce",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration_stairs_hempcrete"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 591.0d,
+	description: "{id:\"prodigytech:energion_crystal_seed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "14dd8a49",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_crystal_seed"
+		}],
+		consume_items: true
+	}]
+}

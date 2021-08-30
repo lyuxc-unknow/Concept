@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 599.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"roughtweaks:bandage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d45e7154",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "roughtweaks:bandage"
+		}],
+		consume_items: true
+	}]
+}

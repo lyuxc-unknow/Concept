@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"aluminium\"},Damage:0s}",
+	tasks: [{
+		uid: "e331b1b0",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "aluminium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 283.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"ma.soulium\"},Damage:0s}",
+	tasks: [{
+		uid: "6e3ed9f9",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "ma.soulium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 262.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"red_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "5a64a838",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "red_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

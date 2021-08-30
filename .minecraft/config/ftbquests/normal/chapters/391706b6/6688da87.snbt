@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 303.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"blutonium\"},Damage:0s}",
+	tasks: [{
+		uid: "b96081fa",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "blutonium"
+			}
+		}],
+		consume_items: true
+	}]
+}

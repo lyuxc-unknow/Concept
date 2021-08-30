@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 680.0d,
+	description: "{id:\"actuallyadditions:item_flax_seed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eec7491d",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_flax_seed"
+		}],
+		consume_items: true
+	}]
+}

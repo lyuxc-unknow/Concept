@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 796.0d,
+	description: "{id:\"tp:ender_dust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4608c647",
+		type: "item",
+		items: [{
+			item: "tp:ender_dust"
+		}],
+		consume_items: true
+	}]
+}

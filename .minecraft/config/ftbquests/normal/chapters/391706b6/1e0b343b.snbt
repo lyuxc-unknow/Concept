@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 236.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"tin\"},Damage:0s}",
+	tasks: [{
+		uid: "80341d98",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "tin"
+			}
+		}],
+		consume_items: true
+	}]
+}

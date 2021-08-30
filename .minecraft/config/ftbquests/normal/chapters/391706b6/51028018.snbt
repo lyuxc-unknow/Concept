@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 257.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"crystal_matrix\"},Damage:0s}",
+	tasks: [{
+		uid: "47325d0d",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}],
+		consume_items: true
+	}]
+}

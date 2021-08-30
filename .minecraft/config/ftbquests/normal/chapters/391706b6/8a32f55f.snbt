@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 95.0d,
+	description: "{id:\"mist:clay\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "cc4189db",
+		type: "item",
+		items: [{
+			item: "mist:clay 1 5"
+		}],
+		consume_items: true
+	}]
+}

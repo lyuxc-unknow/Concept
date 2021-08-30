@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 740.0d,
+	description: "{id:\"maia_draconic_edition:vibrant_core\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ba1bdcd",
+		type: "item",
+		items: [{
+			item: "maia_draconic_edition:vibrant_core"
+		}],
+		consume_items: true
+	}]
+}

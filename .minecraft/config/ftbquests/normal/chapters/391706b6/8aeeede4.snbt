@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"crystal_matrix\"},Damage:0s}",
+	tasks: [{
+		uid: "f0588501",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}],
+		consume_items: true
+	}]
+}

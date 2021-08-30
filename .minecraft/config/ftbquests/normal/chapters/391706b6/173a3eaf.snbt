@@ -1,0 +1,73 @@
+{
+	x: 19.0d,
+	y: 389.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:bolt\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:14.06f,FreeModifiers:3,Durability:784,HarvestLevel:4,Attack:11.07f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:14.06f,FreeModifiers:3,Durability:784,HarvestLevel:4,Attack:11.07f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"ivorypsi\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"holy\",color:-13858615,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "5250c7d6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:bolt",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					Durability: 784,
+					HarvestLevel: 4,
+					Attack: 11.07f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					Durability: 784,
+					HarvestLevel: 4,
+					Attack: 11.07f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"ivorypsi",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "holy",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 595.0d,
+	description: "{id:\"rftoolsdim:dimensional_pattern1_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4448b5fd",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:dimensional_pattern1_block"
+		}],
+		consume_items: true
+	}]
+}

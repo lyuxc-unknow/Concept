@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 297.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "abc970d1",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

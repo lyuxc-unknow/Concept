@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 786.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "dba692f1",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

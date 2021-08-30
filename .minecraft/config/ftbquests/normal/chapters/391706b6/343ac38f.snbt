@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 751.0d,
+	description: "{id:\"environmentalmaterials:basalt_bricks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7f42a319",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:basalt_bricks"
+		}],
+		consume_items: true
+	}]
+}

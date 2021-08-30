@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"yoyos:yoyo_body\"},Damage:0s}",
+	tasks: [{
+		uid: "dff25ef9",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "yoyos:yoyo_body"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 106.0d,
+	description: "{id:\"mist:swim_bladder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "18d9229f",
+		type: "item",
+		items: [{
+			item: "mist:swim_bladder"
+		}],
+		consume_items: true
+	}]
+}

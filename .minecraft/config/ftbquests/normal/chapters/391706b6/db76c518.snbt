@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 99.0d,
+	description: "{id:\"mist:willow_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac701bb3",
+		type: "item",
+		items: [{
+			item: "mist:willow_block"
+		}],
+		consume_items: true
+	}]
+}

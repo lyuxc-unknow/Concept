@@ -1,0 +1,73 @@
+{
+	x: 4.0d,
+	y: 349.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:2904,HarvestLevel:4,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:2904,HarvestLevel:4,Attack:6.5f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"platinum\",\"platinum\",\"platinum\",\"platinum\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.deadly_precision\",color:-10366477,level:1},{identifier:\"coldblooded\",color:-10366477,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.deadly_precision\",\"coldblooded\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "db94f8ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 2904,
+					HarvestLevel: 4,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 2904,
+					HarvestLevel: 4,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"platinum",
+						"platinum",
+						"platinum",
+						"platinum"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.deadly_precision",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "coldblooded",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.deadly_precision",
+					"coldblooded",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

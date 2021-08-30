@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 67.0d,
+	description: "{id:\"extrautils2:ironwood_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7db4948e",
+		type: "item",
+		items: [{
+			item: "extrautils2:ironwood_sapling"
+		}],
+		consume_items: true
+	}]
+}

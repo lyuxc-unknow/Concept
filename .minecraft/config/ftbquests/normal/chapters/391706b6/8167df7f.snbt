@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 520.0d,
+	description: "{id:\"deepmoblearning:data_model_blank\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8dca03c9",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_blank"
+		}],
+		consume_items: true
+	}]
+}

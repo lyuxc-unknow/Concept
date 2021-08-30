@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 775.0d,
+	description: "{id:\"omegacraft:electric_plate_ultb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c27203c7",
+		type: "item",
+		items: [{
+			item: "omegacraft:electric_plate_ultb"
+		}],
+		consume_items: true
+	}]
+}

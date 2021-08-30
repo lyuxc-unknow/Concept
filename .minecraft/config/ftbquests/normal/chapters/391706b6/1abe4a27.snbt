@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"mithril\"},Damage:0s}",
+	tasks: [{
+		uid: "f7527587",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "mithril"
+			}
+		}],
+		consume_items: true
+	}]
+}

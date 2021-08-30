@@ -1,0 +1,55 @@
+{
+	x: 22.0d,
+	y: 467.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:31139,Defense:4.5f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:31139,Defense:4.5f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"soularium\",\"soularium\",\"soularium\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"duritos\",color:-9872563,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"duritos\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "ab328bfa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 31139,
+					Defense: 4.5f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 31139,
+					Defense: 4.5f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"soularium",
+						"soularium",
+						"soularium"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -9872563,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

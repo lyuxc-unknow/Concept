@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 591.0d,
+	description: "{id:\"prodigytech:tartaric_stoker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8c7b10d2",
+		type: "item",
+		items: [{
+			item: "prodigytech:tartaric_stoker"
+		}],
+		consume_items: true
+	}]
+}

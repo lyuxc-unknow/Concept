@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 242.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"diamantine_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "78dbbbf4",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "diamantine_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

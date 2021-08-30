@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 258.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"constantan\"},Damage:0s}",
+	tasks: [{
+		uid: "bb8c83b1",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "constantan"
+			}
+		}],
+		consume_items: true
+	}]
+}

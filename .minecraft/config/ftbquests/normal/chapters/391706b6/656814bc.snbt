@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	description: "{id:\"minecraft:netherrack\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02ddd335",
+		type: "item",
+		items: [{
+			item: "minecraft:netherrack"
+		}],
+		consume_items: true
+	}]
+}

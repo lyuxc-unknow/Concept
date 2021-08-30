@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"xu_magical_wood\"},Damage:0s}",
+	tasks: [{
+		uid: "49174fe2",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "xu_magical_wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

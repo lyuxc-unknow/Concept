@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 768.0d,
+	description: "{id:\"lordcraft:crystal_brick_squared_stairsb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ff3db30f",
+		type: "item",
+		items: [{
+			item: "lordcraft:crystal_brick_squared_stairsb"
+		}],
+		consume_items: true
+	}]
+}

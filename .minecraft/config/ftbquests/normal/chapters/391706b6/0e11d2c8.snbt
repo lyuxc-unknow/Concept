@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 276.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"fluix_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "43e4e968",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "fluix_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

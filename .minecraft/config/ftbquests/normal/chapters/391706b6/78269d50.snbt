@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 203.0d,
+	description: "{id:\"enderio:block_not_unholy_dark_fused_glass\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "e451459f",
+		type: "item",
+		items: [{
+			item: "enderio:block_not_unholy_dark_fused_glass 1 5"
+		}],
+		consume_items: true
+	}]
+}

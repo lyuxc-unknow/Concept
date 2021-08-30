@@ -1,0 +1,19 @@
+{
+	x: 38.0d,
+	y: 778.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"carbondioxide\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "5ee7e6e7",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "carbondioxide",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

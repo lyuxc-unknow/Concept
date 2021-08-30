@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 394.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tinkersarsenal:boomstick_handle\"},Damage:0s}",
+	tasks: [{
+		uid: "5bf1f202",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tinkersarsenal:boomstick_handle"
+			}
+		}],
+		consume_items: true
+	}]
+}

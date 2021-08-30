@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 93.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"randomthings:timeinabottle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9147aad2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:timeinabottle"
+		}],
+		consume_items: true
+	}]
+}

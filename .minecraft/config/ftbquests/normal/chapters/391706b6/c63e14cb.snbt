@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 622.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"pink_slime\"},Damage:0s}",
+	tasks: [{
+		uid: "06dea0a9",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "pink_slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

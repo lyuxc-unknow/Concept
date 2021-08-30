@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 439.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"lonsdaleite\"},Damage:0s}",
+	tasks: [{
+		uid: "453ca9c8",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "lonsdaleite"
+			}
+		}],
+		consume_items: true
+	}]
+}

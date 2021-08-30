@@ -1,0 +1,26 @@
+{
+	x: 31.0d,
+	y: 685.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemskyresonator\",Count:1b,tag:{astralsorcery:{enhanced:1b,upgrades:[0,1,2]}},Damage:0s}",
+	tasks: [{
+		uid: "5a6555aa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemskyresonator",
+			tag: {
+				astralsorcery: {
+					enhanced: 1b,
+					upgrades: [
+						0,
+						1,
+						2
+					]
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

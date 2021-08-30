@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 450.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"pladium\"},Damage:0s}",
+	tasks: [{
+		uid: "736fe6f6",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "pladium"
+			}
+		}],
+		consume_items: true
+	}]
+}

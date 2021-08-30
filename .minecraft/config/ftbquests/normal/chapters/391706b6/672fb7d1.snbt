@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 64.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"minecraft:cold_beach\"},Damage:0s}",
+	tasks: [{
+		uid: "71c55e1d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "minecraft:cold_beach"
+			}
+		}],
+		consume_items: true
+	}]
+}

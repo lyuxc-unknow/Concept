@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"peridot\"},Damage:0s}",
+	tasks: [{
+		uid: "fe2673ee",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "peridot"
+			}
+		}],
+		consume_items: true
+	}]
+}

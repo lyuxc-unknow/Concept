@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 192.0d,
+	description: "{id:\"enderio:block_holy_fused_glass\",Count:1b,Damage:10s}",
+	tasks: [{
+		uid: "2a8d0888",
+		type: "item",
+		items: [{
+			item: "enderio:block_holy_fused_glass 1 10"
+		}],
+		consume_items: true
+	}]
+}

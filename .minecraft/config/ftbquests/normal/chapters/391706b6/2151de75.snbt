@@ -1,0 +1,78 @@
+{
+	x: 39.0d,
+	y: 659.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:280,HarvestLevel:1,Attack:4.0f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:280,HarvestLevel:1,Attack:4.0f,Range:1.0f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"aquamarine\",\"aquamarine\",\"aquamarine\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.astral\",color:-14372354,level:1},{identifier:\"tconevo.crystalline\",color:-14372354,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.astral\",\"tconevo.crystalline\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9b318bee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 280,
+					HarvestLevel: 1,
+					Attack: 4.0f,
+					Range: 1.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 280,
+					HarvestLevel: 1,
+					Attack: 4.0f,
+					Range: 1.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"aquamarine",
+						"aquamarine",
+						"aquamarine",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.astral",
+					color: -14372354,
+					level: 1
+				},
+				{
+					identifier: "tconevo.crystalline",
+					color: -14372354,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.astral",
+					"tconevo.crystalline",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

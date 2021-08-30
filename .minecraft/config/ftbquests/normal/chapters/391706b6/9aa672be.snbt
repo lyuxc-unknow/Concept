@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: 477.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"minecraft:redstone_block\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "b5c1bf0e",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:redstone_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

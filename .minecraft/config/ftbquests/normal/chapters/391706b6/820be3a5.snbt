@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:dark_steel_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "679f79d3",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:dark_steel_essence"
+		}],
+		consume_items: true
+	}]
+}

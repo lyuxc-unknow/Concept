@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 131.0d,
+	description: "{id:\"redstonerepository:material\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "011be371",
+		type: "item",
+		items: [{
+			item: "redstonerepository:material 1 4"
+		}],
+		consume_items: true
+	}]
+}

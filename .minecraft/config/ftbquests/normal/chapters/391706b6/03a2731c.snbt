@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 210.0d,
+	description: "{id:\"enderio:item_rs_crafting_speed_downgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5dd673c6",
+		type: "item",
+		items: [{
+			item: "enderio:item_rs_crafting_speed_downgrade"
+		}],
+		consume_items: true
+	}]
+}

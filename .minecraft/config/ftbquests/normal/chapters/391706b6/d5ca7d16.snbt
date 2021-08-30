@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 137.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:dragon_egg\"},Damage:0s}",
+	tasks: [{
+		uid: "523c1b24",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:dragon_egg"
+			}
+		}],
+		consume_items: true
+	}]
+}

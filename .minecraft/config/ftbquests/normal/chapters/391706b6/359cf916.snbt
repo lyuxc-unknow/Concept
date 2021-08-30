@@ -1,0 +1,73 @@
+{
+	x: 39.0d,
+	y: 347.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:374,HarvestLevel:1,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:374,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"aquamarine\",\"aquamarine\",\"aquamarine\",\"aquamarine\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.crystalline\",color:-14372354,level:1},{identifier:\"tconevo.astral\",color:-14372354,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.crystalline\",\"tconevo.astral\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ed6625bf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 374,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 374,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"aquamarine",
+						"aquamarine",
+						"aquamarine",
+						"aquamarine"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.crystalline",
+					color: -14372354,
+					level: 1
+				},
+				{
+					identifier: "tconevo.astral",
+					color: -14372354,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.crystalline",
+					"tconevo.astral",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

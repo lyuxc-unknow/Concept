@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 62.0d,
+	description: "{id:\"extrautils2:grocket\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "cf968b50",
+		type: "item",
+		items: [{
+			item: "extrautils2:grocket 1 3"
+		}],
+		consume_items: true
+	}]
+}

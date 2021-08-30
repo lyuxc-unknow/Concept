@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 628.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"end_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "fdd51e41",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "end_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

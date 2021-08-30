@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:combined_dimensiona_fibers\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "21bad9ab",
+		type: "item",
+		items: [{
+			item: "custom_additions:combined_dimensiona_fibers"
+		}],
+		consume_items: true
+	}]
+}

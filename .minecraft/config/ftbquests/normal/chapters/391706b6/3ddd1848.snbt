@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 622.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"ionite\"},Damage:0s}",
+	tasks: [{
+		uid: "2a6ec829",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "ionite"
+			}
+		}],
+		consume_items: true
+	}]
+}

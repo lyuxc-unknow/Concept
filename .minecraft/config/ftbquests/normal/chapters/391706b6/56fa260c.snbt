@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 590.0d,
+	description: "{id:\"prodigytech:circuit_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fbebeb92",
+		type: "item",
+		items: [{
+			item: "prodigytech:circuit_plate"
+		}],
+		consume_items: true
+	}]
+}

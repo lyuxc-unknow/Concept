@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 243.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"gaia\"},Damage:0s}",
+	tasks: [{
+		uid: "b07321f3",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "gaia"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 235.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"sentient_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "2f468783",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "sentient_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

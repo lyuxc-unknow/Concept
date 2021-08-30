@@ -1,0 +1,72 @@
+{
+	x: 14.0d,
+	y: 342.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:excavator\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,FreeModifiers:3,Durability:1494,HarvestLevel:3,Attack:7.42f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,FreeModifiers:3,Durability:1494,HarvestLevel:3,Attack:7.42f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"yellowgarnet\",\"yellowgarnet\",\"yellowgarnet\",\"yellowgarnet\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"autosmelt\",color:-658149,level:1},{identifier:\"superheat\",color:-658149,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"autosmelt\",\"superheat\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "684023f9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:excavator",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					FreeModifiers: 3,
+					Durability: 1494,
+					HarvestLevel: 3,
+					Attack: 7.42f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					FreeModifiers: 3,
+					Durability: 1494,
+					HarvestLevel: 3,
+					Attack: 7.42f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"yellowgarnet",
+						"yellowgarnet",
+						"yellowgarnet",
+						"yellowgarnet"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "autosmelt",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "superheat",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"autosmelt",
+					"superheat",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,66 @@
+{
+	x: 37.0d,
+	y: 650.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:greatblade\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.25f,FreeModifiers:3,Durability:56,HarvestLevel:1,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.25f,FreeModifiers:3,Durability:44,HarvestLevel:1,Attack:2.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"construction_alloy\",\"construction_alloy\",\"construction_alloy\",\"construction_alloy\",\"construction_alloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"cheapskate\",color:-14084054,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"cheapskate\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c5d9b267",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:greatblade",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.25f,
+					FreeModifiers: 3,
+					Durability: 56,
+					HarvestLevel: 1,
+					Attack: 2.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.25f,
+					FreeModifiers: 3,
+					Durability: 44,
+					HarvestLevel: 1,
+					Attack: 2.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"construction_alloy",
+						"construction_alloy",
+						"construction_alloy",
+						"construction_alloy",
+						"construction_alloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheapskate",
+					color: -14084054,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheapskate",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

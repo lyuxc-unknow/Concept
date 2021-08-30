@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 234.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"ma.base_essence\"},Damage:0s}",
+	tasks: [{
+		uid: "76e2e728",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "ma.base_essence"
+			}
+		}],
+		consume_items: true
+	}]
+}

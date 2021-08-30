@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 616.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"end_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "a9b908de",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "end_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

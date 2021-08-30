@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 6.0d,
+	description: "{id:\"minecraft:sea_lantern\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "60a9690b",
+		type: "item",
+		items: [{
+			item: "minecraft:sea_lantern"
+		}],
+		consume_items: true
+	}]
+}

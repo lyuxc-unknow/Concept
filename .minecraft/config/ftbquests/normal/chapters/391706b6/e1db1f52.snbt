@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 544.0d,
+	description: "{id:\"mysticalagriculture:crafting\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "971e2a12",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:crafting 1 8"
+		}],
+		consume_items: true
+	}]
+}

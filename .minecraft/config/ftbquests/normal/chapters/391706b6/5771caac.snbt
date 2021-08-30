@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 290.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"xu_enchanted_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "1280768a",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "xu_enchanted_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

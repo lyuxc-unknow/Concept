@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 245.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"copper\"},Damage:0s}",
+	tasks: [{
+		uid: "71e03777",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "copper"
+			}
+		}],
+		consume_items: true
+	}]
+}

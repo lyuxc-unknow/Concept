@@ -1,0 +1,17 @@
+{
+	x: 16.0d,
+	y: 496.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:sacrificial_dagger\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "816f4c39",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sacrificial_dagger",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

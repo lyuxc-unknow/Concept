@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "9e64a6e2",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

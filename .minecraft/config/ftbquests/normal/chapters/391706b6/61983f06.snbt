@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 473.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"void_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "690a0770",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "void_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

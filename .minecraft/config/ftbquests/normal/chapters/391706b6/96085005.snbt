@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 688.0d,
+	description: "{id:\"astralsorcery:blockritualpedestal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4359725d",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockritualpedestal"
+		}],
+		consume_items: true
+	}]
+}

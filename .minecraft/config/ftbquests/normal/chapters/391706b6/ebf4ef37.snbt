@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 763.0d,
+	description: "{id:\"tconevo:part_arcane_focus\",Count:1b,tag:{Material:\"enori_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "a48924a3",
+		type: "item",
+		items: [{
+			id: "tconevo:part_arcane_focus",
+			tag: {
+				Material: "enori_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

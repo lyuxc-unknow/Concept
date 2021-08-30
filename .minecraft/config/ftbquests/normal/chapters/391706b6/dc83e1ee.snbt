@@ -1,0 +1,80 @@
+{
+	x: 35.0d,
+	y: 329.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:165,HarvestLevel:1,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:165,HarvestLevel:1,Attack:4.5f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"rubber\",\"rubber\",\"rubber\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crude\",color:-11053225,level:1,crude1:1b},{identifier:\"squeaky\",color:-11053225,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crude1\",\"squeaky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e12120d9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 33s
+				}],
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 1,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 1,
+					Durability: 165,
+					HarvestLevel: 1,
+					Attack: 4.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 1,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 1,
+					Durability: 165,
+					HarvestLevel: 1,
+					Attack: 4.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"rubber",
+						"rubber",
+						"rubber"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crude",
+					color: -11053225,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "squeaky",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crude1",
+					"squeaky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

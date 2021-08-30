@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 610.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"manasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "c9bd834e",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "manasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

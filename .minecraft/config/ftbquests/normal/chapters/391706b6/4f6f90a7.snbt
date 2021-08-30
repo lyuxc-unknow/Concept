@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"xu_magical_wood\"},Damage:0s}",
+	tasks: [{
+		uid: "197bec62",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "xu_magical_wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

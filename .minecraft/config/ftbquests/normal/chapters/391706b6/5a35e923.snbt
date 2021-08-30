@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 0.0d,
+	description: "{id:\"minecraft:grass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "650e447c",
+		type: "item",
+		items: [{
+			item: "minecraft:grass"
+		}],
+		consume_items: true
+	}]
+}

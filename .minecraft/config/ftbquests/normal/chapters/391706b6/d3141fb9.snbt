@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 280.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "bae47cf7",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

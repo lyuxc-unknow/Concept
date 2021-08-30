@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 261.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"terrasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "a9f0d149",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "terrasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"bellethornChibi\"},Damage:0s}",
+	tasks: [{
+		uid: "65932c46",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "bellethornChibi"
+			}
+		}],
+		consume_items: true
+	}]
+}

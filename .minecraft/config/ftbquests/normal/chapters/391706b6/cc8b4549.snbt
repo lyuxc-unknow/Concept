@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 744.0d,
+	description: "{id:\"embers:block_furnace\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "25575df4",
+		type: "item",
+		items: [{
+			item: "embers:block_furnace"
+		}],
+		consume_items: true
+	}]
+}

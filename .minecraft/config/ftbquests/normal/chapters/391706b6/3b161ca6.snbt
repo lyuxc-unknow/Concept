@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 596.0d,
+	description: "{id:\"roost:roost\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7bfe60a7",
+		type: "item",
+		items: [{
+			item: "roost:roost"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:crushing_catalyst\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aeddca32",
+		type: "item",
+		items: [{
+			item: "naturesaura:crushing_catalyst"
+		}],
+		consume_items: true
+	}]
+}

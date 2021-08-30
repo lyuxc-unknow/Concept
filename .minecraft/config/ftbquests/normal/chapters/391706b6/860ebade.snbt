@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 448.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"electrumflux\"},Damage:0s}",
+	tasks: [{
+		uid: "474c32d9",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "electrumflux"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 781.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"diesel\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "b3a088f4",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "diesel",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

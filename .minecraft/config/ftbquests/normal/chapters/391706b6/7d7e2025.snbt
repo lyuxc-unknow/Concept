@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	description: "{id:\"minecraft:stone\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "e276aecb",
+		type: "item",
+		items: [{
+			item: "minecraft:stone 1 3"
+		}],
+		consume_items: true
+	}]
+}

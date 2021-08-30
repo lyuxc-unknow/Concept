@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 69.0d,
+	description: "{id:\"sonarcore:reinforceddirtbrickgate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ef966cdc",
+		type: "item",
+		items: [{
+			item: "sonarcore:reinforceddirtbrickgate"
+		}],
+		consume_items: true
+	}]
+}

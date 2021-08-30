@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 42.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.axe_lead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a66118ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.axe_lead"
+		}],
+		consume_items: true
+	}]
+}

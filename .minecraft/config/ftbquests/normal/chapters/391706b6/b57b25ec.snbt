@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 630.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"essence_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "7baa741f",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "essence_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

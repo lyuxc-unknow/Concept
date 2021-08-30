@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 292.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "ca5f1b51",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

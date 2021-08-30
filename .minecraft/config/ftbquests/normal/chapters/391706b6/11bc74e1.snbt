@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "5ef35301",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

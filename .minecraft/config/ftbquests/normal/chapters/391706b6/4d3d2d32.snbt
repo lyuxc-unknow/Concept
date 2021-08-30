@@ -1,0 +1,17 @@
+{
+	x: 11.0d,
+	y: 134.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:5b,Block:\"minecraft:stone\"},Damage:0s}",
+	tasks: [{
+		uid: "f71d0b8a",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 5b,
+				Block: "minecraft:stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

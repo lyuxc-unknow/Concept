@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 112.0d,
+	description: "{id:\"naturesaura:token_euphoria\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "275b9a21",
+		type: "item",
+		items: [{
+			item: "naturesaura:token_euphoria"
+		}],
+		consume_items: true
+	}]
+}

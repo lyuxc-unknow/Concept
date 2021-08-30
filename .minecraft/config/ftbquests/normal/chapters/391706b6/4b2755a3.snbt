@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"infinity_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "0c4265f0",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "infinity_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

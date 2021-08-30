@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 312.0d,
+	description: "{id:\"tconstruct:arrow_shaft\",Count:1b,tag:{Material:\"treatedwood\"},Damage:0s}",
+	tasks: [{
+		uid: "0eac6855",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_shaft",
+			tag: {
+				Material: "treatedwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

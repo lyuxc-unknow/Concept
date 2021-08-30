@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"pulsating_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "a0c10965",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "pulsating_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

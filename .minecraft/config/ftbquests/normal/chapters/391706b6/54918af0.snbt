@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 70.0d,
+	description: "{id:\"sonarcore:stablestonerimmed_yellow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9ac74cd0",
+		type: "item",
+		items: [{
+			item: "sonarcore:stablestonerimmed_yellow"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"jiyuulia\"},Damage:0s}",
+	tasks: [{
+		uid: "fcaedf06",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "jiyuulia"
+			}
+		}],
+		consume_items: true
+	}]
+}

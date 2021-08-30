@@ -1,0 +1,62 @@
+{
+	x: 6.0d,
+	y: 466.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:477,Defense:22.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:477,Defense:22.0f},ConArmEquipmentSlot:3,TinkerData:{Materials:[\"fluxed_electrum\",\"fluxed_electrum\",\"fluxed_electrum\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"tconevo.energized_armor\",color:-797853,level:1},{identifier:\"magnetic_armor\",color:-797853,magnetic2_armor:1b,level:2},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"tconevo.energized1_armor\",\"magnetic2_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "f486d0d0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 477,
+					Defense: 22.0f
+				},
+				Stats: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 477,
+					Defense: 22.0f
+				},
+				ConArmEquipmentSlot: 3,
+				TinkerData: {
+					Materials: [
+						"fluxed_electrum",
+						"fluxed_electrum",
+						"fluxed_electrum"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.energized_armor",
+					color: -797853,
+					level: 1
+				},
+				{
+					identifier: "magnetic_armor",
+					color: -797853,
+					magnetic2_armor: 1b,
+					level: 2
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.energized1_armor",
+					"magnetic2_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

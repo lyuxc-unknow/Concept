@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"paper\"},Damage:0s}",
+	tasks: [{
+		uid: "a151dad2",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "paper"
+			}
+		}],
+		consume_items: true
+	}]
+}

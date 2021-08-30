@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:dimensional_shard_ore\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "dd19f877",
+		type: "item",
+		items: [{
+			item: "rftools:dimensional_shard_ore 1 1"
+		}],
+		consume_items: true
+	}]
+}

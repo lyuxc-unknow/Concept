@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_crystalender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ce07f2e",
+		type: "item",
+		items: [{
+			item: "jaopca:item_crystalender"
+		}],
+		consume_items: true
+	}]
+}

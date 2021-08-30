@@ -1,0 +1,83 @@
+{
+	x: 38.0d,
+	y: 368.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,FreeModifiers:3,Durability:2760,HarvestLevel:3,Attack:10.28f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,FreeModifiers:3,Durability:2760,HarvestLevel:3,Attack:10.28f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"energetic_alloy\",\"energetic_alloy\",\"energetic_alloy\",\"energetic_alloy\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"holy\",color:-2518196,level:1},{identifier:\"unnatural\",color:-2518196,level:1},{identifier:\"petramor\",color:-2518196,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"holy\",\"unnatural\",\"petramor\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "5f30532c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					Durability: 2760,
+					HarvestLevel: 3,
+					Attack: 10.28f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					Durability: 2760,
+					HarvestLevel: 3,
+					Attack: 10.28f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"energetic_alloy",
+						"energetic_alloy",
+						"energetic_alloy",
+						"energetic_alloy"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "holy",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "unnatural",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "petramor",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"holy",
+					"unnatural",
+					"petramor",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

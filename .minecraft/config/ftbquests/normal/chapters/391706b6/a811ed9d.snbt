@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 753.0d,
+	description: "{id:\"environmentaltech:lonsdaleite_tile_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45e50e58",
+		type: "item",
+		items: [{
+			item: "environmentaltech:lonsdaleite_tile_slab"
+		}],
+		consume_items: true
+	}]
+}

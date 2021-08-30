@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 285.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"quartzenrichediron\"},Damage:0s}",
+	tasks: [{
+		uid: "c3941ff2",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "quartzenrichediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

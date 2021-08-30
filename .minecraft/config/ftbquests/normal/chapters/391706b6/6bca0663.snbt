@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 280.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"terrasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "df43d487",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "terrasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 436.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"invar\"},Damage:0s}",
+	tasks: [{
+		uid: "2c4b9240",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "invar"
+			}
+		}],
+		consume_items: true
+	}]
+}

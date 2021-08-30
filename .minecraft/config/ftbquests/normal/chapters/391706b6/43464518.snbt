@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 290.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"ma.soulium\"},Damage:0s}",
+	tasks: [{
+		uid: "69b474c2",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "ma.soulium"
+			}
+		}],
+		consume_items: true
+	}]
+}

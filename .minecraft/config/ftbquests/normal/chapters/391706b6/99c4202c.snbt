@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"ludicrite\"},Damage:0s}",
+	tasks: [{
+		uid: "f85db38b",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "ludicrite"
+			}
+		}],
+		consume_items: true
+	}]
+}

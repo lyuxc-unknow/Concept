@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 432.0d,
+	description: "{id:\"botania:pavement2slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5004ab89",
+		type: "item",
+		items: [{
+			item: "botania:pavement2slab"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 797.0d,
+	description: "{id:\"jaopca:item_mysticalseedsdimensionalshard\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4210adb6",
+		type: "item",
+		items: [{
+			item: "jaopca:item_mysticalseedsdimensionalshard"
+		}],
+		consume_items: true
+	}]
+}

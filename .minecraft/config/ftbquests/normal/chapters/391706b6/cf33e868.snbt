@@ -1,0 +1,21 @@
+{
+	x: 28.0d,
+	y: 506.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:electricbow\",Count:1b,tag:{mekData:{energyStored:120000.0d}},Damage:0s}",
+	tasks: [{
+		uid: "05b6b00d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:electricbow",
+			tag: {
+				mekData: {
+					energyStored: 120000.0d
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

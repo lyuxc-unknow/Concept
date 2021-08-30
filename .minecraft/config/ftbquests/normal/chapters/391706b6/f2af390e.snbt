@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 602.0d,
+	description: "{id:\"steamworld:nether_accelerator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9b8dba53",
+		type: "item",
+		items: [{
+			item: "steamworld:nether_accelerator"
+		}],
+		consume_items: true
+	}]
+}

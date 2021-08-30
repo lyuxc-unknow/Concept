@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 672.0d,
+	description: "{id:\"actuallyadditions:block_testifi_bucks_white_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8562a977",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_testifi_bucks_white_fence"
+		}],
+		consume_items: true
+	}]
+}

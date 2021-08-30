@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 552.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:prudentium_scythe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "94e6d3d2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:prudentium_scythe"
+		}],
+		consume_items: true
+	}]
+}

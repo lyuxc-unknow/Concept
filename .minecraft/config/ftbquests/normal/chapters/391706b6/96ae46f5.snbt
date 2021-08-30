@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 257.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"ma.prosperity\"},Damage:0s}",
+	tasks: [{
+		uid: "128ea469",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "ma.prosperity"
+			}
+		}],
+		consume_items: true
+	}]
+}

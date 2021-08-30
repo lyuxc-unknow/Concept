@@ -1,0 +1,72 @@
+{
+	x: 1.0d,
+	y: 328.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:0.51f,FreeModifiers:3,HarvestLevelShovel:0,Durability:6,HarvestLevel:0,Attack:3.05f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:0.51f,FreeModifiers:5,HarvestLevelShovel:0,Durability:6,HarvestLevel:0,Attack:3.05f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"writable1\",\"writable2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "86bcc316",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 0.51f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 0,
+					Durability: 6,
+					HarvestLevel: 0,
+					Attack: 3.05f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 0.51f,
+					FreeModifiers: 5,
+					HarvestLevelShovel: 0,
+					Durability: 6,
+					HarvestLevel: 0,
+					Attack: 3.05f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"paper",
+						"paper",
+						"paper"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "writable",
+					color: -1,
+					level: 2,
+					writable2: 1b,
+					writable1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"writable1",
+					"writable2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

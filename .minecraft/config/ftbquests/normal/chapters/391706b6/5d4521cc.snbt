@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"cofhcore:haste2\"},Damage:0s}",
+	tasks: [{
+		uid: "856ec9f4",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "cofhcore:haste2"
+			}
+		}],
+		consume_items: true
+	}]
+}

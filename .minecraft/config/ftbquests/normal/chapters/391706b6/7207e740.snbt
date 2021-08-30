@@ -1,0 +1,20 @@
+{
+	x: 24.0d,
+	y: 475.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"draconicevolution:draconic_block\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "6eafa7e7",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "draconicevolution:draconic_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

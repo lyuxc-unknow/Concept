@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"wyvern_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "50def4b2",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "wyvern_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

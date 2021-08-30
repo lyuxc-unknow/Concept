@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"void_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "47f921d8",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "void_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

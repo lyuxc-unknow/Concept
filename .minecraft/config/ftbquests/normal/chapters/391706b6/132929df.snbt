@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 574.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanismtools:goldpaxel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "621079aa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismtools:goldpaxel"
+		}],
+		consume_items: true
+	}]
+}

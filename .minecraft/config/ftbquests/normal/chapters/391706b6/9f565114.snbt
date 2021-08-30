@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 116.0d,
+	description: "{id:\"moreplates:cobalt_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b000dfde",
+		type: "item",
+		items: [{
+			item: "moreplates:cobalt_gear"
+		}],
+		consume_items: true
+	}]
+}

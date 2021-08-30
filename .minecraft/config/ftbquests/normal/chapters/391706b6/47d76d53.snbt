@@ -1,0 +1,58 @@
+{
+	x: 38.0d,
+	y: 356.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.21f,FreeModifiers:3,Durability:4596,HarvestLevel:4,Attack:12.92f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.21f,FreeModifiers:3,Durability:4596,HarvestLevel:4,Attack:12.92f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ludicrite\",\"ludicrite\",\"ludicrite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "edc848d1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.21f,
+					FreeModifiers: 3,
+					Durability: 4596,
+					HarvestLevel: 4,
+					Attack: 12.92f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.21f,
+					FreeModifiers: 3,
+					Durability: 4596,
+					HarvestLevel: 4,
+					Attack: 12.92f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ludicrite",
+						"ludicrite",
+						"ludicrite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

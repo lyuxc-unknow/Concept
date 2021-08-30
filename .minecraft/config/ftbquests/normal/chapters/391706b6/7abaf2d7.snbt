@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 52.0d,
+	description: "{id:\"thermalexpansion:augment\",Count:1b,Damage:130s}",
+	tasks: [{
+		uid: "2dda12e5",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 130"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 647.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "1d56f7b1",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

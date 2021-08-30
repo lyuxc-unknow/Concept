@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 442.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"extrabotany:ingotorichalcos\"},Damage:0s}",
+	tasks: [{
+		uid: "00ab8285",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "extrabotany:ingotorichalcos"
+			}
+		}],
+		consume_items: true
+	}]
+}

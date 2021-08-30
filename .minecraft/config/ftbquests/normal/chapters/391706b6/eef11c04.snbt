@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 755.0d,
+	description: "{id:\"environmentaltech:modifier_regeneration\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6528a00",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_regeneration"
+		}],
+		consume_items: true
+	}]
+}

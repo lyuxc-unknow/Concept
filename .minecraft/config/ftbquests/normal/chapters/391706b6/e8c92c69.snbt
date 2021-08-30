@@ -1,0 +1,19 @@
+{
+	x: 37.0d,
+	y: 130.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"redstonearsenal:armor.boots_flux\",Count:1b,tag:{Energy:0},Damage:0s}",
+	tasks: [{
+		uid: "733234ff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonearsenal:armor.boots_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		consume_items: true
+	}]
+}

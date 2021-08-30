@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 421.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"kekimurus\"},Damage:0s}",
+	tasks: [{
+		uid: "d7aaa55b",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "kekimurus"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 27.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:long_swiftness\"},Damage:0s}",
+	tasks: [{
+		uid: "9c3dbc42",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:long_swiftness"
+			}
+		}],
+		consume_items: true
+	}]
+}

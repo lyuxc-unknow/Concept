@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 283.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"palis_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "8899fdb9",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "palis_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

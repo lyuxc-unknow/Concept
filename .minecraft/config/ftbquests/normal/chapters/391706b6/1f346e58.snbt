@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 282.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "6a6b2c2f",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

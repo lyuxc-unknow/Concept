@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 532.0d,
+	description: "{id:\"enderutilities:inserter\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "10456d28",
+		type: "item",
+		items: [{
+			item: "enderutilities:inserter 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,77 @@
+{
+	x: 6.0d,
+	y: 375.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.8f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:800,HarvestLevel:4,Attack:7.0f,Range:1.25f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.8f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:800,HarvestLevel:4,Attack:7.0f,Range:1.25f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"fluxed_electrum\",\"fluxed_electrum\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-797853,level:2,magnetic2:1b},{identifier:\"tconevo.energized\",color:-797853,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic2\",\"tconevo.energized1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "00da08f4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.8f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 2.0f,
+					Durability: 800,
+					HarvestLevel: 4,
+					Attack: 7.0f,
+					Range: 1.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.8f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 2.0f,
+					Durability: 800,
+					HarvestLevel: 4,
+					Attack: 7.0f,
+					Range: 1.25f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"fluxed_electrum",
+						"fluxed_electrum",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -797853,
+					level: 2,
+					magnetic2: 1b
+				},
+				{
+					identifier: "tconevo.energized",
+					color: -797853,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic2",
+					"tconevo.energized1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

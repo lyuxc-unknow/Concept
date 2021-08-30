@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 293.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"pulsating_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "77cf423a",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "pulsating_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 283.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"diamantine_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "cf9335b7",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "diamantine_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

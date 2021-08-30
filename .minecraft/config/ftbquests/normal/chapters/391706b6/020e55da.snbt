@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 631.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"ancite\"},Damage:0s}",
+	tasks: [{
+		uid: "a1746214",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "ancite"
+			}
+		}],
+		consume_items: true
+	}]
+}

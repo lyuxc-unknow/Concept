@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 550.0d,
+	description: "{id:\"mysticalagriculture:uranium_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2b9da071",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:uranium_seeds"
+		}],
+		consume_items: true
+	}]
+}

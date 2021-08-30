@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 687.0d,
+	description: "{id:\"astralsorcery:blocktreebeacon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2b040e7f",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blocktreebeacon"
+		}],
+		consume_items: true
+	}]
+}

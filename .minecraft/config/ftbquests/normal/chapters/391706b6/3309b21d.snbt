@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 259.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"ancite\"},Damage:0s}",
+	tasks: [{
+		uid: "8193c8de",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "ancite"
+			}
+		}],
+		consume_items: true
+	}]
+}

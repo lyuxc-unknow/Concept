@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 611.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"lonsdaleite\"},Damage:0s}",
+	tasks: [{
+		uid: "e2549754",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "lonsdaleite"
+			}
+		}],
+		consume_items: true
+	}]
+}

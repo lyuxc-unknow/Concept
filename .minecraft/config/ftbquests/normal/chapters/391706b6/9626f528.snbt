@@ -1,0 +1,63 @@
+{
+	x: 26.0d,
+	y: 330.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:7.65f,FreeModifiers:3,HarvestLevelShovel:3,Durability:750,HarvestLevel:3,Attack:9.83f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:7.65f,FreeModifiers:3,HarvestLevelShovel:3,Durability:750,HarvestLevel:3,Attack:9.83f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"quartzenrichediron\",\"quartzenrichediron\",\"quartzenrichediron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "51be6c66",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 750,
+					HarvestLevel: 3,
+					Attack: 9.83f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 750,
+					HarvestLevel: 3,
+					Attack: 9.83f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"quartzenrichediron",
+						"quartzenrichediron",
+						"quartzenrichediron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

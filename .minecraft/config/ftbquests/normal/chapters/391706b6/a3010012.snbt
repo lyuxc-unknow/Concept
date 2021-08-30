@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 264.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"treatedwood\"},Damage:0s}",
+	tasks: [{
+		uid: "b5c39d34",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "treatedwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

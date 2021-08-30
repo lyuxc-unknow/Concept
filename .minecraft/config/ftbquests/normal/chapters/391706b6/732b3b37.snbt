@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:external_storage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f6cd7da",
+		type: "item",
+		items: [{
+			item: "refinedstorage:external_storage"
+		}],
+		consume_items: true
+	}]
+}

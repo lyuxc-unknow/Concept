@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 538.0d,
+	description: "{id:\"ftbquests:loot_crate_storage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "31e249fa",
+		type: "item",
+		items: [{
+			item: "ftbquests:loot_crate_storage"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"minecraft:cave_spider\"},Damage:0s}",
+	tasks: [{
+		uid: "7a176b6c",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "minecraft:cave_spider"
+			}
+		}],
+		consume_items: true
+	}]
+}

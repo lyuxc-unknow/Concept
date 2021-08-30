@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 449.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "c6a42407",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

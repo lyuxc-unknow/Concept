@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 574.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanismtools:glowstoneaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "40fb1937",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismtools:glowstoneaxe"
+		}],
+		consume_items: true
+	}]
+}

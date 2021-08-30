@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 72.0d,
+	description: "{id:\"calculator:stoneassimilator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a5d0454d",
+		type: "item",
+		items: [{
+			item: "calculator:stoneassimilator"
+		}],
+		consume_items: true
+	}]
+}

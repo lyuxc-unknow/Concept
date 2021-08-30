@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 472.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"ma.superium\"},Damage:0s}",
+	tasks: [{
+		uid: "a0a1a2f3",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "ma.superium"
+			}
+		}],
+		consume_items: true
+	}]
+}

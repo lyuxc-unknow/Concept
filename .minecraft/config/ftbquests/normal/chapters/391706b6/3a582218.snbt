@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 552.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:prudentium_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f67209c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:prudentium_shovel"
+		}],
+		consume_items: true
+	}]
+}

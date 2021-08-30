@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 242.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"palis_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "6afcf84e",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "palis_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

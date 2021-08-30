@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 294.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"xu_evil_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "d84774f5",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "xu_evil_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

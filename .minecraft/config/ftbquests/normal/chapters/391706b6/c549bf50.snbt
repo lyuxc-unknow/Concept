@@ -1,0 +1,72 @@
+{
+	x: 3.0d,
+	y: 659.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1372,HarvestLevel:0,Attack:1.8f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1372,HarvestLevel:0,Attack:1.8f,Range:1.0f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_blue\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7c472b87",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					DrawSpeed: 1.05f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 1372,
+					HarvestLevel: 0,
+					Attack: 1.8f,
+					Range: 1.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					DrawSpeed: 1.05f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 1372,
+					HarvestLevel: 0,
+					Attack: 1.8f,
+					Range: 1.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blueslime",
+						"blueslime",
+						"blueslime",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_blue",
+					color: -9123641,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_blue",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 739.0d,
+	description: "{id:\"maia_draconic_edition:draconic_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01d1b5c5",
+		type: "item",
+		items: [{
+			item: "maia_draconic_edition:draconic_plate"
+		}],
+		consume_items: true
+	}]
+}

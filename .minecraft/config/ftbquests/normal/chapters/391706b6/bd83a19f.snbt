@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 590.0d,
+	description: "{id:\"prodigytech:ferramic_dust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7d90dc6d",
+		type: "item",
+		items: [{
+			item: "prodigytech:ferramic_dust"
+		}],
+		consume_items: true
+	}]
+}

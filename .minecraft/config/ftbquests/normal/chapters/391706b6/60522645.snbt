@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 291.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"fluix\"},Damage:0s}",
+	tasks: [{
+		uid: "79e4e7d1",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "fluix"
+			}
+		}],
+		consume_items: true
+	}]
+}

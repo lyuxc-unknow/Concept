@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 282.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"gold\"},Damage:0s}",
+	tasks: [{
+		uid: "f827e064",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "gold"
+			}
+		}],
+		consume_items: true
+	}]
+}

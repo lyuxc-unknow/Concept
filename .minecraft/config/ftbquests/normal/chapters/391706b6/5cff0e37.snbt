@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 433.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"aiotbotania:livingrockaiot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a437f422",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aiotbotania:livingrockaiot"
+		}],
+		consume_items: true
+	}]
+}

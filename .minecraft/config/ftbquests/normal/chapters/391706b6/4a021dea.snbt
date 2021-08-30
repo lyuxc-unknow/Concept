@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 300.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"advancedalloy\"},Damage:0s}",
+	tasks: [{
+		uid: "50ab3e3f",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "advancedalloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

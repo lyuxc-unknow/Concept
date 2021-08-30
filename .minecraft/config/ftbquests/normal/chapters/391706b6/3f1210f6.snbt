@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 141.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:4b,Block:\"thermalfoundation:storage_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "8f02f783",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 4b,
+				Block: "thermalfoundation:storage_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

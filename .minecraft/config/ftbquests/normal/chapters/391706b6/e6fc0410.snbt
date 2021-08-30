@@ -1,0 +1,73 @@
+{
+	x: 35.0d,
+	y: 323.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:90,HarvestLevel:4,Attack:9.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:90,HarvestLevel:4,Attack:9.5f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"vibrant_alloy\",\"vibrant_alloy\",\"vibrant_alloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderpickup\",color:-4798352,level:1},{identifier:\"enderport\",enderport-4:1b,color:-4798352,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderpickup\",\"enderport-4\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fdb21317",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 90,
+					HarvestLevel: 4,
+					Attack: 9.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 90,
+					HarvestLevel: 4,
+					Attack: 9.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"vibrant_alloy",
+						"vibrant_alloy",
+						"vibrant_alloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderpickup",
+					color: -4798352,
+					level: 1
+				},
+				{
+					identifier: "enderport",
+					enderport-4: 1b,
+					color: -4798352,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderpickup",
+					"enderport-4",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

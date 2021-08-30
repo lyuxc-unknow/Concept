@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 773.0d,
+	description: "{id:\"omegacraft:force_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bdffcd75",
+		type: "item",
+		items: [{
+			item: "omegacraft:force_module"
+		}],
+		consume_items: true
+	}]
+}

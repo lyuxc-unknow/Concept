@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 752.0d,
+	description: "{id:\"environmentaltech:erodium_brick_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d2142cb1",
+		type: "item",
+		items: [{
+			item: "environmentaltech:erodium_brick_slab"
+		}],
+		consume_items: true
+	}]
+}

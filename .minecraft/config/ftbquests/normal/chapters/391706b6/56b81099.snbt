@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 492.0d,
+	description: "{id:\"bloodmagic:soul_forge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "59ef98a2",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_forge"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 792.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:wooden_shears\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5e03840a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:wooden_shears"
+		}],
+		consume_items: true
+	}]
+}

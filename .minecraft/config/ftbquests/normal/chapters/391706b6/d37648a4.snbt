@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 628.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"slime\"},Damage:0s}",
+	tasks: [{
+		uid: "db7775d3",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

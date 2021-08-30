@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 67.0d,
+	description: "{id:\"avaritia:resource\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "1991fb85",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 1"
+		}],
+		consume_items: true
+	}]
+}

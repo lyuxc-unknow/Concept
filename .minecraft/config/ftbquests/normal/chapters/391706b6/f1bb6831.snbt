@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_singularityniter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cc7f522d",
+		type: "item",
+		items: [{
+			item: "jaopca:item_singularityniter"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,79 @@
+{
+	x: 15.0d,
+	y: 385.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:390,HarvestLevel:3,Attack:7.5f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:390,HarvestLevel:3,Attack:7.5f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"starmetal\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"unnatural\",color:-14529617,level:1},{identifier:\"tconevo.astral\",color:-14529617,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"unnatural\",\"tconevo.astral\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "01c22221",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 390,
+					HarvestLevel: 3,
+					Attack: 7.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 390,
+					HarvestLevel: 3,
+					Attack: 7.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"starmetal",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "unnatural",
+					color: -14529617,
+					level: 1
+				},
+				{
+					identifier: "tconevo.astral",
+					color: -14529617,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"unnatural",
+					"tconevo.astral",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

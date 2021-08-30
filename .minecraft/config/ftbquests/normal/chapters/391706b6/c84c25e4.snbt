@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"aethium\"},Damage:0s}",
+	tasks: [{
+		uid: "23e15350",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "aethium"
+			}
+		}],
+		consume_items: true
+	}]
+}

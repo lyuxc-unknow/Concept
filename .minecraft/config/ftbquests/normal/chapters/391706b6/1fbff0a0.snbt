@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 266.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"yellorium\"},Damage:0s}",
+	tasks: [{
+		uid: "ba1c3d14",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "yellorium"
+			}
+		}],
+		consume_items: true
+	}]
+}

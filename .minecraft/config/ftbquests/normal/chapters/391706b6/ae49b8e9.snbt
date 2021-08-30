@@ -1,0 +1,19 @@
+{
+	x: 24.0d,
+	y: 65.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"aroma1997sdimension:miningbiome\"},Damage:0s}",
+	tasks: [{
+		uid: "c2709c64",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "aroma1997sdimension:miningbiome"
+			}
+		}],
+		consume_items: true
+	}]
+}

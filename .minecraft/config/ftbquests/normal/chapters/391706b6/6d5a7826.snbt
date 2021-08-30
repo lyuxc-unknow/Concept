@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 493.0d,
+	description: "{id:\"bloodmagic:output_routing_node\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0207b2b8",
+		type: "item",
+		items: [{
+			item: "bloodmagic:output_routing_node"
+		}],
+		consume_items: true
+	}]
+}

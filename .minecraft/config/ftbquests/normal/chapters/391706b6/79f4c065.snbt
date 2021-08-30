@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 307.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"yellorium\"},Damage:0s}",
+	tasks: [{
+		uid: "b79256ce",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "yellorium"
+			}
+		}],
+		consume_items: true
+	}]
+}

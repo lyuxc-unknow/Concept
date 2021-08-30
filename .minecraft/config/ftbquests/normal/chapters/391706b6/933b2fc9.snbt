@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 647.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"pulsating_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "69d27892",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "pulsating_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

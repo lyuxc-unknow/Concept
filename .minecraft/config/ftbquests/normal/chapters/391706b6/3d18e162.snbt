@@ -1,0 +1,19 @@
+{
+	x: 27.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:potato_legs\",Count:1b,tag:{Energy:100000},Damage:0s}",
+	tasks: [{
+		uid: "3967507a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:potato_legs",
+			tag: {
+				Energy: 100000
+			}
+		}],
+		consume_items: true
+	}]
+}

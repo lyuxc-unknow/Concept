@@ -1,0 +1,73 @@
+{
+	x: 15.0d,
+	y: 336.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hammer\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:610,HarvestLevel:2,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:610,HarvestLevel:2,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"black_quartz\",\"black_quartz\",\"black_quartz\",\"black_quartz\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"jagged\",color:-11053225,level:1},{identifier:\"depthdigger\",color:-11053225,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"jagged\",\"depthdigger\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "15df1d0f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 610,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 610,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"black_quartz",
+						"black_quartz",
+						"black_quartz",
+						"black_quartz"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "jagged",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "depthdigger",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"jagged",
+					"depthdigger",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

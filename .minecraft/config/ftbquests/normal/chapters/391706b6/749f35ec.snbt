@@ -1,0 +1,78 @@
+{
+	x: 1.0d,
+	y: 324.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.25f,FreeModifiers:3,Durability:545,HarvestLevel:5,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.25f,FreeModifiers:3,Durability:545,HarvestLevel:5,Attack:5.5f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"end_steel\",\"end_steel\",\"end_steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-262989,level:1},{identifier:\"enderference\",color:-262989,level:1},{identifier:\"alien\",color:-262989,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"enderference\",\"alien\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0b2f7dc2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.25f,
+					FreeModifiers: 3,
+					Durability: 545,
+					HarvestLevel: 5,
+					Attack: 5.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.25f,
+					FreeModifiers: 3,
+					Durability: 545,
+					HarvestLevel: 5,
+					Attack: 5.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"end_steel",
+						"end_steel",
+						"end_steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "enderference",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"enderference",
+					"alien",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

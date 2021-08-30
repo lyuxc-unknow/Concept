@@ -1,0 +1,17 @@
+{
+	x: 33.0d,
+	y: 138.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:hardened_clay\"},Damage:0s}",
+	tasks: [{
+		uid: "f0e1c899",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:hardened_clay"
+			}
+		}],
+		consume_items: true
+	}]
+}

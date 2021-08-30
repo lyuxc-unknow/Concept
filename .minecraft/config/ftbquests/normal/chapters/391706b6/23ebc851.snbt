@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 93.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"randomthings:redstoneactivator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ca3a32e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:redstoneactivator"
+		}],
+		consume_items: true
+	}]
+}

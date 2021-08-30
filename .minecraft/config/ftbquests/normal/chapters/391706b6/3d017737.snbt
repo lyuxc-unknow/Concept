@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 419.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:recordgaia2\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c98a91ee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:recordgaia2"
+		}],
+		consume_items: true
+	}]
+}

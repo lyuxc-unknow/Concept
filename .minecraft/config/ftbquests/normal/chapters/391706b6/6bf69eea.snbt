@@ -1,0 +1,20 @@
+{
+	x: 27.0d,
+	y: 314.0d,
+	description: "{id:\"tconstruct:toolforge\",Count:1b,tag:{textureBlock:{id:\"draconicevolution:draconium_block\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "91d87a5f",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "draconicevolution:draconium_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

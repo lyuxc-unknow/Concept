@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"conductive_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "ef8941ea",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "conductive_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

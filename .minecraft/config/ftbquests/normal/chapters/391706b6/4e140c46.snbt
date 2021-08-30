@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 754.0d,
+	description: "{id:\"environmentaltech:structure_frame_1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b3c95db",
+		type: "item",
+		items: [{
+			item: "environmentaltech:structure_frame_1"
+		}],
+		consume_items: true
+	}]
+}

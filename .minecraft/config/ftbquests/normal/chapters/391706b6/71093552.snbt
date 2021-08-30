@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 287.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"livingrock\"},Damage:0s}",
+	tasks: [{
+		uid: "e150e7ff",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "livingrock"
+			}
+		}],
+		consume_items: true
+	}]
+}

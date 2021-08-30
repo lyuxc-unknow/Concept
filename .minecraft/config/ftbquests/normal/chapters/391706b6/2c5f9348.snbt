@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"meat_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "bb0394bb",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "meat_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

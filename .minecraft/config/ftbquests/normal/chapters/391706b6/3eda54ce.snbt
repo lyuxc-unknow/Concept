@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"aluminium\"},Damage:0s}",
+	tasks: [{
+		uid: "e570bbe2",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "aluminium"
+			}
+		}],
+		consume_items: true
+	}]
+}

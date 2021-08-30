@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 112.0d,
+	description: "{id:\"moreplates:empowered_emeradic_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2a32383f",
+		type: "item",
+		items: [{
+			item: "moreplates:empowered_emeradic_plate"
+		}],
+		consume_items: true
+	}]
+}

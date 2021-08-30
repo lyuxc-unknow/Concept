@@ -1,0 +1,17 @@
+{
+	x: 16.0d,
+	y: 414.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:flighttiara\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "5ae39f1a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:flighttiara",
+			Damage: 3s
+		}],
+		consume_items: true
+	}]
+}

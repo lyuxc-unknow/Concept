@@ -1,0 +1,70 @@
+{
+	x: 18.0d,
+	y: 637.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:234,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:234,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"livingrock\",\"livingrock\",\"livingrock\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stonebound\",color:-2630969,level:1},{identifier:\"tconevo.sundering\",color:-2630969,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stonebound\",\"tconevo.sundering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d2f40448",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 234,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 234,
+					HarvestLevel: 1,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"livingrock",
+						"livingrock",
+						"livingrock"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stonebound",
+					color: -2630969,
+					level: 1
+				},
+				{
+					identifier: "tconevo.sundering",
+					color: -2630969,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stonebound",
+					"tconevo.sundering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

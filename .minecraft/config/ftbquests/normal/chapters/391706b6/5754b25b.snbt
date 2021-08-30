@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 46.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.hammer_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "220a5218",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.hammer_gold"
+		}],
+		consume_items: true
+	}]
+}

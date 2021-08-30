@@ -1,0 +1,72 @@
+{
+	x: 19.0d,
+	y: 660.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.5f,Durability:644,HarvestLevel:4,Attack:7.0f,Range:1.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.5f,Durability:644,HarvestLevel:4,Attack:7.0f,Range:1.1f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"pladium\",\"pladium\",\"pladium\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.relentless\",color:-14470306,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.relentless\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c620604c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 1.05f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.5f,
+					Durability: 644,
+					HarvestLevel: 4,
+					Attack: 7.0f,
+					Range: 1.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 1.05f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.5f,
+					Durability: 644,
+					HarvestLevel: 4,
+					Attack: 7.0f,
+					Range: 1.1f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"pladium",
+						"pladium",
+						"pladium",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.relentless",
+					color: -14470306,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.relentless",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

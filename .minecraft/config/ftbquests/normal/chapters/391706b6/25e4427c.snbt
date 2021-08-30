@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 624.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"conductive_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "a20ab7ac",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "conductive_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

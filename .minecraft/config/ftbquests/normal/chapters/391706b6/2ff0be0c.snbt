@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 51.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalexpansion:capacitor\",Count:1b,tag:{Energy:1000000},Damage:0s}",
+	tasks: [{
+		uid: "77f82a1b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:capacitor",
+			tag: {
+				Energy: 1000000
+			}
+		}],
+		consume_items: true
+	}]
+}

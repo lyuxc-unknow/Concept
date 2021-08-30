@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 509.0d,
+	description: "{id:\"mekanism:craftingformula\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "edc914f0",
+		type: "item",
+		items: [{
+			item: "mekanism:craftingformula"
+		}],
+		consume_items: true
+	}]
+}

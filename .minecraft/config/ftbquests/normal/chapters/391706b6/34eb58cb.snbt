@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 790.0d,
+	description: "{id:\"tp:wub_ingot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8532d689",
+		type: "item",
+		items: [{
+			item: "tp:wub_ingot"
+		}],
+		consume_items: true
+	}]
+}

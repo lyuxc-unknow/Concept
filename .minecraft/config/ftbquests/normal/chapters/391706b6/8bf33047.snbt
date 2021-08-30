@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 30.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"cofhcore:unluck3+\"},Damage:0s}",
+	tasks: [{
+		uid: "8f58dc5f",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "cofhcore:unluck3+"
+			}
+		}],
+		consume_items: true
+	}]
+}

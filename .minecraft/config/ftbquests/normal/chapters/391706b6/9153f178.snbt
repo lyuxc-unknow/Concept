@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 520.0d,
+	description: "{id:\"deepmoblearning:simulation_chamber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4321a4da",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:simulation_chamber"
+		}],
+		consume_items: true
+	}]
+}

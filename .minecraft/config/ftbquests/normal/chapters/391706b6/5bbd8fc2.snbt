@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 546.0d,
+	description: "{id:\"mysticalagriculture:skeleton_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "44a96009",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:skeleton_essence"
+		}],
+		consume_items: true
+	}]
+}

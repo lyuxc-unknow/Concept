@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 74.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:enrichedgoldshovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fac000ee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:enrichedgoldshovel"
+		}],
+		consume_items: true
+	}]
+}

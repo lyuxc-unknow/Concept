@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: 669.0d,
+	description: "{id:\"xnet:advanced_connector\",Count:1b,tag:{display:{LocName:\"tile.xnet.advanced_connector_blue.name\"}},Damage:0s}",
+	tasks: [{
+		uid: "b2da29d6",
+		type: "item",
+		items: [{
+			id: "xnet:advanced_connector",
+			tag: {
+				display: {
+					LocName: "tile.xnet.advanced_connector_blue.name"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

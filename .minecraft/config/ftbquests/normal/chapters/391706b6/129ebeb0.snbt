@@ -1,0 +1,17 @@
+{
+	x: 39.0d,
+	y: 66.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:luxsaber\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "7493cc75",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:luxsaber",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

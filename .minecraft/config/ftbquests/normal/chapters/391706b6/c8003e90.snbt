@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 216.0d,
+	description: "{id:\"tconstruct:slime_grass\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "33193598",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_grass 1 3"
+		}],
+		consume_items: true
+	}]
+}

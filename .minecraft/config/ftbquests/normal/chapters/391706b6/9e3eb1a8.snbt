@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 444.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"titanium\"},Damage:0s}",
+	tasks: [{
+		uid: "4734777f",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "titanium"
+			}
+		}],
+		consume_items: true
+	}]
+}

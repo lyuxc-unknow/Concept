@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 602.0d,
+	description: "{id:\"steamworld:block_decorative\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "047f1cc0",
+		type: "item",
+		items: [{
+			item: "steamworld:block_decorative 1 3"
+		}],
+		consume_items: true
+	}]
+}

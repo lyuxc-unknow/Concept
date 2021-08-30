@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:assembler_ancite\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "0b4c5e79",
+		type: "item",
+		items: [{
+			item: "steamworld:assembler_ancite 1 4"
+		}],
+		consume_items: true
+	}]
+}

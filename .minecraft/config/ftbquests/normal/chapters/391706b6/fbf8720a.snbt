@@ -1,0 +1,69 @@
+{
+	x: 8.0d,
+	y: 328.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.03f,FreeModifiers:3,HarvestLevelShovel:0,Durability:964,HarvestLevel:0,Attack:4.8f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.03f,FreeModifiers:3,HarvestLevelShovel:0,Durability:964,HarvestLevel:0,Attack:4.8f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_blue\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "47116f12",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 0,
+					Durability: 964,
+					HarvestLevel: 0,
+					Attack: 4.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 0,
+					Durability: 964,
+					HarvestLevel: 0,
+					Attack: 4.8f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blueslime",
+						"blueslime",
+						"blueslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_blue",
+					color: -9123641,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_blue",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"ludicrite\"},Damage:0s}",
+	tasks: [{
+		uid: "738cc7c0",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "ludicrite"
+			}
+		}],
+		consume_items: true
+	}]
+}

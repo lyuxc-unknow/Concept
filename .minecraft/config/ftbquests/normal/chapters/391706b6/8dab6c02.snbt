@@ -1,0 +1,26 @@
+{
+	x: 1.0d,
+	y: 582.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"pneumaticcraft:gun_ammo\",Count:1b,tag:{potion:{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"cofhcore:poison4\"},Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "3085cb8d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:gun_ammo",
+			tag: {
+				potion: {
+					id: "minecraft:potion",
+					Count: 1b,
+					tag: {
+						Potion: "cofhcore:poison4"
+					},
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

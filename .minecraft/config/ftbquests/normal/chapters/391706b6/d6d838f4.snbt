@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 591.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"prodigytech:wormhole_linker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c2e1a7ea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:wormhole_linker"
+		}],
+		consume_items: true
+	}]
+}

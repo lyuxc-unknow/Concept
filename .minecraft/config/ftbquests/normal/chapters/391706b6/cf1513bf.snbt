@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 259.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"redgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "76f02f90",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "redgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

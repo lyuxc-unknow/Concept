@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:atomic_reshaper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8869b364",
+		type: "item",
+		items: [{
+			item: "prodigytech:atomic_reshaper"
+		}],
+		consume_items: true
+	}]
+}

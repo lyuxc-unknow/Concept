@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 616.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"wood\"},Damage:0s}",
+	tasks: [{
+		uid: "0cf68552",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

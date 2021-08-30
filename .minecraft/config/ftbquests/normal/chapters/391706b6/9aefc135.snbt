@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "36656754",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

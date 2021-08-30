@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 212.0d,
+	description: "{id:\"enderio:block_cap_bank\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "305eefa9",
+		type: "item",
+		items: [{
+			item: "enderio:block_cap_bank 1 1"
+		}],
+		consume_items: true
+	}]
+}

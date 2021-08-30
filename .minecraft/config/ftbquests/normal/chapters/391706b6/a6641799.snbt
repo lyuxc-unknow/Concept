@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 619.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"quartzenrichediron\"},Damage:0s}",
+	tasks: [{
+		uid: "ecabfd27",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "quartzenrichediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

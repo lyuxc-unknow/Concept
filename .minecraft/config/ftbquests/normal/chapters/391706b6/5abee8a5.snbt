@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 395.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconstruct:tool_rod\"},Damage:0s}",
+	tasks: [{
+		uid: "be4baf49",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:tool_rod"
+			}
+		}],
+		consume_items: true
+	}]
+}

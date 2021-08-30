@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 91.0d,
+	description: "{id:\"randomthings:advancedredstoneinterface\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "72b1535f",
+		type: "item",
+		items: [{
+			item: "randomthings:advancedredstoneinterface"
+		}],
+		consume_items: true
+	}]
+}

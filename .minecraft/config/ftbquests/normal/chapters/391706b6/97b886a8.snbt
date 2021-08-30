@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 787.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"peridot\"},Damage:0s}",
+	tasks: [{
+		uid: "02d50c42",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "peridot"
+			}
+		}],
+		consume_items: true
+	}]
+}

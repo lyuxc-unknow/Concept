@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 628.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "b4b031dc",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: 169.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"plantoil\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "2b3c702a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "plantoil",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

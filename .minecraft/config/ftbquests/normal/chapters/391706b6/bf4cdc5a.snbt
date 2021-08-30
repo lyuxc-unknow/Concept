@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 620.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"sapphire\"},Damage:0s}",
+	tasks: [{
+		uid: "5cccb071",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "sapphire"
+			}
+		}],
+		consume_items: true
+	}]
+}

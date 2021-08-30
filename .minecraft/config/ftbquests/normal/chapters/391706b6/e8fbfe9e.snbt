@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 606.0d,
+	description: "{id:\"thermalintegrate:netheriridium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3075f81",
+		type: "item",
+		items: [{
+			item: "thermalintegrate:netheriridium"
+		}],
+		consume_items: true
+	}]
+}

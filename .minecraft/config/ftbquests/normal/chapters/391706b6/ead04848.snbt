@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 259.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"steaite\"},Damage:0s}",
+	tasks: [{
+		uid: "e6a14afa",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "steaite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 34.0d,
+	y: 130.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"redstonearsenal:armor.plate_flux\",Count:1b,tag:{Energy:800000},Damage:0s}",
+	tasks: [{
+		uid: "9a3a724a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonearsenal:armor.plate_flux",
+			tag: {
+				Energy: 800000
+			}
+		}],
+		consume_items: true
+	}]
+}

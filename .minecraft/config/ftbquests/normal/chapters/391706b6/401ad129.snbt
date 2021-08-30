@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 211.0d,
+	description: "{id:\"enderio:block_attractor_obelisk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "654f0985",
+		type: "item",
+		items: [{
+			item: "enderio:block_attractor_obelisk"
+		}],
+		consume_items: true
+	}]
+}

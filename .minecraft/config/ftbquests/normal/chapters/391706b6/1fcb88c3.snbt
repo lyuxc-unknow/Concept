@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 212.0d,
+	description: "{id:\"enderio:block_powered_spawner\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30bece2f",
+		type: "item",
+		items: [{
+			item: "enderio:block_powered_spawner"
+		}],
+		consume_items: true
+	}]
+}

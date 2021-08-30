@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 292.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"awakeneddraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "bb925633",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "awakeneddraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

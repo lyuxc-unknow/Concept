@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 188.0d,
+	description: "{id:\"enderio:item_redstone_xnor_filter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd77d72c",
+		type: "item",
+		items: [{
+			item: "enderio:item_redstone_xnor_filter"
+		}],
+		consume_items: true
+	}]
+}

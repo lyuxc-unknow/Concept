@@ -1,0 +1,17 @@
+{
+	x: 39.0d,
+	y: 146.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:1b,Block:\"calculator:material\"},Damage:0s}",
+	tasks: [{
+		uid: "0b0143a4",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 1b,
+				Block: "calculator:material"
+			}
+		}],
+		consume_items: true
+	}]
+}

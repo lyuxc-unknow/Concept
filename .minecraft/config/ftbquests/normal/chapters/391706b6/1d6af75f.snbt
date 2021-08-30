@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 47.0d,
+	description: "{id:\"draconicevolution:dragon_heart\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7124391b",
+		type: "item",
+		items: [{
+			item: "draconicevolution:dragon_heart"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"fluxed_electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "1446411a",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "fluxed_electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

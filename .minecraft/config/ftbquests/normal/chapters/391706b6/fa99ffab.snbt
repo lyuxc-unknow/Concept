@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 610.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"fluix_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "9e75ffea",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "fluix_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

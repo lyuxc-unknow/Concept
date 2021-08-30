@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 276.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"livingrock\"},Damage:0s}",
+	tasks: [{
+		uid: "b47e9fd7",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "livingrock"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 54.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"pulsating_iron\"},Damage:1s}",
+	tasks: [{
+		uid: "8597beec",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "pulsating_iron"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

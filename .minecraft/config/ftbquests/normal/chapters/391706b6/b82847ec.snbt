@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 397.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"tconstruct:hand_guard\"},Damage:0s}",
+	tasks: [{
+		uid: "26a99c6b",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "tconstruct:hand_guard"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:dark_oak_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "47b0fd19",
+		type: "item",
+		items: [{
+			item: "minecraft:dark_oak_door"
+		}],
+		consume_items: true
+	}]
+}

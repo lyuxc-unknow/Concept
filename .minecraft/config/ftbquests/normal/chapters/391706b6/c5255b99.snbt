@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 744.0d,
+	description: "{id:\"embers:heat_coil\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9b911dc8",
+		type: "item",
+		items: [{
+			item: "embers:heat_coil"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 257.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"fluix_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "4f3309f3",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "fluix_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 507.0d,
+	description: "{id:\"mekanism:compresseddiamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b715d161",
+		type: "item",
+		items: [{
+			item: "mekanism:compresseddiamond"
+		}],
+		consume_items: true
+	}]
+}

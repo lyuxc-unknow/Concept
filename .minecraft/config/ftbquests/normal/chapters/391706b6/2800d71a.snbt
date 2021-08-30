@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 771.0d,
+	description: "{id:\"custom_additions:ashwood_stick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad7be459",
+		type: "item",
+		items: [{
+			item: "custom_additions:ashwood_stick"
+		}],
+		consume_items: true
+	}]
+}

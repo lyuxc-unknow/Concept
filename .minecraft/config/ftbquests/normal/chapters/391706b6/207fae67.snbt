@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 534.0d,
+	description: "{id:\"extendedcrafting:compressor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "720ff61f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:compressor"
+		}],
+		consume_items: true
+	}]
+}

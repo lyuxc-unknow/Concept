@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"pink_slime\"},Damage:0s}",
+	tasks: [{
+		uid: "ca4f569b",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "pink_slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

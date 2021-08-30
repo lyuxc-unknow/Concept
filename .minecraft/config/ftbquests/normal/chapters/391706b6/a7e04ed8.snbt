@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"livingrock\"},Damage:0s}",
+	tasks: [{
+		uid: "24ed0a0a",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "livingrock"
+			}
+		}],
+		consume_items: true
+	}]
+}

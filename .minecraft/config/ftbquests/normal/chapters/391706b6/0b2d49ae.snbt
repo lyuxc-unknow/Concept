@@ -1,0 +1,77 @@
+{
+	x: 2.0d,
+	y: 357.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:32.73f,FreeModifiers:3,Durability:23561,HarvestLevel:7,Attack:1401.26f},Stats:{AttackSpeedMultiplier:0.3f,MiningSpeed:32.73f,FreeModifiers:0,Durability:23561,HarvestLevel:7,Attack:1401.26f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chaoticdraconium\",\"chaoticdraconium\",\"chaoticdraconium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"energyrepair\",color:-15263977,level:1},{identifier:\"op\",op1:1b,color:-15263977,level:1},{identifier:\"energyeater\",color:-15263977,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"energyrepair\",\"op1\",\"energyeater\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "db80e390",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 32.73f,
+					FreeModifiers: 3,
+					Durability: 23561,
+					HarvestLevel: 7,
+					Attack: 1401.26f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 0.3f,
+					MiningSpeed: 32.73f,
+					FreeModifiers: 0,
+					Durability: 23561,
+					HarvestLevel: 7,
+					Attack: 1401.26f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"chaoticdraconium",
+						"chaoticdraconium",
+						"chaoticdraconium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "energyrepair",
+					color: -15263977,
+					level: 1
+				},
+				{
+					identifier: "op",
+					op1: 1b,
+					color: -15263977,
+					level: 1
+				},
+				{
+					identifier: "energyeater",
+					color: -15263977,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"energyrepair",
+					"op1",
+					"energyeater",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

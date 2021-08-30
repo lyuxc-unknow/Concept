@@ -1,0 +1,17 @@
+{
+	x: 31.0d,
+	y: 157.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"mist:birch_branch\"},Damage:0s}",
+	tasks: [{
+		uid: "045b1bc1",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "mist:birch_branch"
+			}
+		}],
+		consume_items: true
+	}]
+}

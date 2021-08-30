@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 785.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"ruby\"},Damage:0s}",
+	tasks: [{
+		uid: "940dfc9e",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "ruby"
+			}
+		}],
+		consume_items: true
+	}]
+}

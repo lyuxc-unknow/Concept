@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"daffomill\"},Damage:0s}",
+	tasks: [{
+		uid: "a3fad297",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "daffomill"
+			}
+		}],
+		consume_items: true
+	}]
+}

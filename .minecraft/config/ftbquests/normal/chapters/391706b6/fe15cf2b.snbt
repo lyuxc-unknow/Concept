@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 541.0d,
+	description: "{id:\"integrateddynamics:delay\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "897c949e",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:delay"
+		}],
+		consume_items: true
+	}]
+}

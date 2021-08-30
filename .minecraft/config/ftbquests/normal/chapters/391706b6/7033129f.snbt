@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 577.0d,
+	description: "{id:\"pneumaticcraft:flow_detector_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8c6fa764",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:flow_detector_module"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"meat_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "adc9f14c",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "meat_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

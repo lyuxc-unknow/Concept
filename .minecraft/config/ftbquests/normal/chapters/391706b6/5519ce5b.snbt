@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 7.0d,
+	description: "{id:\"minecraft:observer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8246e1ae",
+		type: "item",
+		items: [{
+			item: "minecraft:observer"
+		}],
+		consume_items: true
+	}]
+}

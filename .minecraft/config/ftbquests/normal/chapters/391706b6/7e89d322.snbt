@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 75.0d,
+	description: "{id:\"calculator:prunaeseeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7642fd11",
+		type: "item",
+		items: [{
+			item: "calculator:prunaeseeds"
+		}],
+		consume_items: true
+	}]
+}

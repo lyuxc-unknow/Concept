@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 590.0d,
+	description: "{id:\"prodigytech:meat_patty\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ec6e9f8f",
+		type: "item",
+		items: [{
+			item: "prodigytech:meat_patty"
+		}],
+		consume_items: true
+	}]
+}

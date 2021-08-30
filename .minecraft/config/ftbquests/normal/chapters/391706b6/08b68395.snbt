@@ -1,0 +1,80 @@
+{
+	x: 31.0d,
+	y: 787.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:252,HarvestLevel:0,Duration:39,Attack:3.4f,Weight:1.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:252,HarvestLevel:0,Duration:39,Attack:3.4f,Weight:1.6f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"cactus\",\"cactus\",\"cactus\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prickly\",color:-16735985,level:1},{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prickly\",\"spiky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "6717912d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 252,
+					HarvestLevel: 0,
+					Duration: 39,
+					Attack: 3.4f,
+					Weight: 1.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 252,
+					HarvestLevel: 0,
+					Duration: 39,
+					Attack: 3.4f,
+					Weight: 1.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"cactus",
+						"cactus",
+						"cactus"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prickly",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "spiky",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prickly",
+					"spiky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

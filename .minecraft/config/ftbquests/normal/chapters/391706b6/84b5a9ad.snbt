@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 525.0d,
+	description: "{id:\"doubleslabs:vertical_slab\",Count:1b,tag:{item:{id:\"embers:ashen_brick_slab\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "8ec081cb",
+		type: "item",
+		items: [{
+			id: "doubleslabs:vertical_slab",
+			tag: {
+				item: {
+					id: "embers:ashen_brick_slab",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

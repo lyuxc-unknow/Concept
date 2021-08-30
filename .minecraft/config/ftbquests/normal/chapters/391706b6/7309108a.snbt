@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 451.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"invar\"},Damage:0s}",
+	tasks: [{
+		uid: "096093f8",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "invar"
+			}
+		}],
+		consume_items: true
+	}]
+}

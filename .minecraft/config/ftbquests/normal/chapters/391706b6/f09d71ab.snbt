@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 264.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"xu_demonic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "0824ab15",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "xu_demonic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

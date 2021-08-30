@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 648.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"black_quartz\"},Damage:0s}",
+	tasks: [{
+		uid: "127d91a8",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "black_quartz"
+			}
+		}],
+		consume_items: true
+	}]
+}

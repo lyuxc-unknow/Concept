@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"pladium\"},Damage:0s}",
+	tasks: [{
+		uid: "7c654e33",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "pladium"
+			}
+		}],
+		consume_items: true
+	}]
+}

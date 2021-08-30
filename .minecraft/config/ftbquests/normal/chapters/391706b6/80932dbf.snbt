@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 790.0d,
+	description: "{id:\"tp:growth_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7d0dfd76",
+		type: "item",
+		items: [{
+			item: "tp:growth_upgrade"
+		}],
+		consume_items: true
+	}]
+}

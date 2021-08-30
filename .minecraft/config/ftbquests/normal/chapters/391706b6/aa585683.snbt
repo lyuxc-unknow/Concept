@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 293.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "e10b1e97",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

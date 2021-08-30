@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 294.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"copper\"},Damage:0s}",
+	tasks: [{
+		uid: "ab685acd",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "copper"
+			}
+		}],
+		consume_items: true
+	}]
+}

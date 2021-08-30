@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 751.0d,
+	description: "{id:\"environmentalmaterials:hardened_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02d80857",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:hardened_stone"
+		}],
+		consume_items: true
+	}]
+}

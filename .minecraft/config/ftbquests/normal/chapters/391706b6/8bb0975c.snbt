@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 73.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:obsidiankey\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "17da4cce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:obsidiankey"
+		}],
+		consume_items: true
+	}]
+}

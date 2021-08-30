@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_nuggetlunar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b4aab7a6",
+		type: "item",
+		items: [{
+			item: "jaopca:item_nuggetlunar"
+		}],
+		consume_items: true
+	}]
+}

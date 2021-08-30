@@ -1,0 +1,17 @@
+{
+	x: 25.0d,
+	y: 683.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"flyringbaublemod:birdcage\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "a1025372",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "flyringbaublemod:birdcage",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 564.0d,
+	description: "{id:\"immersiveengineering:metal_decoration1_slab\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "bd939dff",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1_slab 1 2"
+		}],
+		consume_items: true
+	}]
+}

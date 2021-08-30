@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 46.0d,
+	description: "{id:\"draconicevolution:draconium_ore\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "583fc35c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_ore 1 2"
+		}],
+		consume_items: true
+	}]
+}

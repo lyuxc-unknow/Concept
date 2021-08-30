@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"clayconia\"},Damage:0s}",
+	tasks: [{
+		uid: "65c7df1d",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "clayconia"
+			}
+		}],
+		consume_items: true
+	}]
+}

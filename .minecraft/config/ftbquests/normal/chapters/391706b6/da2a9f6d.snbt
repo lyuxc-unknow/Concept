@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 785.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"zinc\"},Damage:0s}",
+	tasks: [{
+		uid: "7fb90df1",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "zinc"
+			}
+		}],
+		consume_items: true
+	}]
+}

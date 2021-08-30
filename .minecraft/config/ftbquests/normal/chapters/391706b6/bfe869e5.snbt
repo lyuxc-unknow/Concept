@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "24cb9e24",
+		type: "item",
+		items: [{
+			item: "wirelessutils:crystallized_void_pearl"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,80 @@
+{
+	x: 32.0d,
+	y: 788.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:856,HarvestLevel:0,Duration:86,Attack:10.19f,Weight:6.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:856,HarvestLevel:0,Duration:86,Attack:10.19f,Weight:6.6f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"enderium\",\"enderium\",\"enderium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.mortal_wounds\",color:-15835295,level:1},{identifier:\"enderference\",color:-15835295,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.mortal_wounds\",\"enderference\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "5f7e52da",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 856,
+					HarvestLevel: 0,
+					Duration: 86,
+					Attack: 10.19f,
+					Weight: 6.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 856,
+					HarvestLevel: 0,
+					Duration: 86,
+					Attack: 10.19f,
+					Weight: 6.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"enderium",
+						"enderium",
+						"enderium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.mortal_wounds",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "enderference",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.mortal_wounds",
+					"enderference",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

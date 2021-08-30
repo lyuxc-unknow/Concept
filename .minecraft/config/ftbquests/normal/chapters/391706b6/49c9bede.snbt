@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 742.0d,
+	description: "{id:\"embers:focal_lens\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "94596d12",
+		type: "item",
+		items: [{
+			item: "embers:focal_lens"
+		}],
+		consume_items: true
+	}]
+}

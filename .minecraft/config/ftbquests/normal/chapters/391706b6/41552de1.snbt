@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 585.0d,
+	description: "{id:\"pneumaticcraft:logistic_frame_default_storage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d0cd65e",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:logistic_frame_default_storage"
+		}],
+		consume_items: true
+	}]
+}

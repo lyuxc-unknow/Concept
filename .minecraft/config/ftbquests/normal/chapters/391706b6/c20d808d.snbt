@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 771.0d,
+	description: "{id:\"custom_additions:ashwood_sheet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "929b9285",
+		type: "item",
+		items: [{
+			item: "custom_additions:ashwood_sheet"
+		}],
+		consume_items: true
+	}]
+}

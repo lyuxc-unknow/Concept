@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 477.0d,
+	description: "{id:\"extrabotany:blockshadowium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "645a478b",
+		type: "item",
+		items: [{
+			item: "extrabotany:blockshadowium"
+		}],
+		consume_items: true
+	}]
+}

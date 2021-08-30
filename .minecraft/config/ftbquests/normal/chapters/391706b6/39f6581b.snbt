@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 225.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"mithril\"},Damage:0s}",
+	tasks: [{
+		uid: "404aaaf3",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "mithril"
+			}
+		}],
+		consume_items: true
+	}]
+}

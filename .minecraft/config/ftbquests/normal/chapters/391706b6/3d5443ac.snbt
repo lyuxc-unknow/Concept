@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 438.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"xu_magical_wood\"},Damage:0s}",
+	tasks: [{
+		uid: "869e5a7f",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "xu_magical_wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

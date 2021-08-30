@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 315.0d,
+	description: "{id:\"tconstruct:toolforge\",Count:1b,tag:{textureBlock:{id:\"thermalfoundation:storage_alloy\",Count:1b,Damage:6s}},Damage:0s}",
+	tasks: [{
+		uid: "960a1211",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "thermalfoundation:storage_alloy",
+					Count: 1b,
+					Damage: 6s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

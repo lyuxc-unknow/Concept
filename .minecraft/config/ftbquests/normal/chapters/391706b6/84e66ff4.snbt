@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 516.0d,
+	description: "{id:\"mekanism:plasticfence\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "9dbda76e",
+		type: "item",
+		items: [{
+			item: "mekanism:plasticfence 1 4"
+		}],
+		consume_items: true
+	}]
+}

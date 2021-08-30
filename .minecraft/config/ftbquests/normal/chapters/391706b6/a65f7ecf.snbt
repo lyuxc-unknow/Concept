@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 7.0d,
+	description: "{id:\"minecraft:purpur_pillar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ed6b7a1",
+		type: "item",
+		items: [{
+			item: "minecraft:purpur_pillar"
+		}],
+		consume_items: true
+	}]
+}

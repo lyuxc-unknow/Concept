@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 579.0d,
+	description: "{id:\"pneumaticcraft:drone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "acaa977b",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:drone"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 496.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:sigil_magnetism\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "60eb80f5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_magnetism"
+		}],
+		consume_items: true
+	}]
+}

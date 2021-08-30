@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 777.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"heavywater\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "0b7d0a14",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "heavywater",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

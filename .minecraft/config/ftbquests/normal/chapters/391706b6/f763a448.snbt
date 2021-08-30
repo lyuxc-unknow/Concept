@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 600.0d,
+	description: "{id:\"simplybedrock:bedrock_miner\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2366baef",
+		type: "item",
+		items: [{
+			item: "simplybedrock:bedrock_miner"
+		}],
+		consume_items: true
+	}]
+}

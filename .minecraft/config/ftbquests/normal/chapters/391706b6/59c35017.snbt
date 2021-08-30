@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 663.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"minecraft:enderman\"},Damage:0s}",
+	tasks: [{
+		uid: "c42bd468",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "minecraft:enderman"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 650.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"psi\"},Damage:0s}",
+	tasks: [{
+		uid: "cef7297f",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "psi"
+			}
+		}],
+		consume_items: true
+	}]
+}

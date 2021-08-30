@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 234.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "daba30e5",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

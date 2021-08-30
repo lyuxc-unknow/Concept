@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 263.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"preservation\"},Damage:0s}",
+	tasks: [{
+		uid: "31ae50de",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "preservation"
+			}
+		}],
+		consume_items: true
+	}]
+}

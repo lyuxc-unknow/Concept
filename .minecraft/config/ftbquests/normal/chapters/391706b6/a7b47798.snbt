@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 799.0d,
+	description: "{id:\"jaopca:item_coinuranium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8bacf199",
+		type: "item",
+		items: [{
+			item: "jaopca:item_coinuranium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 279.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"fluix\"},Damage:0s}",
+	tasks: [{
+		uid: "ab4eb13b",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "fluix"
+			}
+		}],
+		consume_items: true
+	}]
+}

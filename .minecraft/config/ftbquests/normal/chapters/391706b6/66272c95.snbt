@@ -1,0 +1,19 @@
+{
+	x: 26.0d,
+	y: 206.0d,
+	description: "{id:\"enderio:item_inventory_charger_simple\",Count:1b,tag:{enderio.darksteel.upgrade.energyUpgrade:{level:3,energy:500000}},Damage:0s}",
+	tasks: [{
+		uid: "71ee4738",
+		type: "item",
+		items: [{
+			id: "enderio:item_inventory_charger_simple",
+			tag: {
+				enderio.darksteel.upgrade.energyUpgrade: {
+					level: 3,
+					energy: 500000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

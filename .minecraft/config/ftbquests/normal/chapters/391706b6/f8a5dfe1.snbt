@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 558.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:teleport_probe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eb073f27",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:teleport_probe"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,94 @@
+{
+	x: 11.0d,
+	y: 318.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{EvolvedTier:3,StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:22.0f,FreeModifiers:3,Durability:15525,HarvestLevel:10,Attack:64.0f},Unbreakable:1b,Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:22.0f,FreeModifiers:3,Durability:15525,HarvestLevel:10,Attack:64.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"chaotic_metal\",\"chaotic_metal\",\"chaotic_metal\"],Modifiers:[\"tconevo.draconic_energy\",\"tconevo.draconic_dig_speed\",\"tconevo.draconic_dig_aoe\",\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.soul_rend\",color:-10066330,level:3},{identifier:\"tconevo.evolved\",color:-10066330,level:1},{identifier:\"tconevo.draconic_energy\",color:43690,level:1},{identifier:\"tconevo.draconic_dig_speed\",color:43690,level:1},{identifier:\"tconevo.draconic_dig_aoe\",color:43690,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.soul_rend3\",\"tconevo.evolved\",\"tconevo.draconic_energy\",\"tconevo.draconic_dig_speed\",\"tconevo.draconic_dig_aoe\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "41e6ea0c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				EvolvedTier: 3,
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 22.0f,
+					FreeModifiers: 3,
+					Durability: 15525,
+					HarvestLevel: 10,
+					Attack: 64.0f
+				},
+				Unbreakable: 1b,
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 22.0f,
+					FreeModifiers: 3,
+					Durability: 15525,
+					HarvestLevel: 10,
+					Attack: 64.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"chaotic_metal",
+						"chaotic_metal",
+						"chaotic_metal"
+					],
+					Modifiers: [
+						"tconevo.draconic_energy",
+						"tconevo.draconic_dig_speed",
+						"tconevo.draconic_dig_aoe",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.soul_rend",
+					color: -10066330,
+					level: 3
+				},
+				{
+					identifier: "tconevo.evolved",
+					color: -10066330,
+					level: 1
+				},
+				{
+					identifier: "tconevo.draconic_energy",
+					color: 43690,
+					level: 1
+				},
+				{
+					identifier: "tconevo.draconic_dig_speed",
+					color: 43690,
+					level: 1
+				},
+				{
+					identifier: "tconevo.draconic_dig_aoe",
+					color: 43690,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.soul_rend3",
+					"tconevo.evolved",
+					"tconevo.draconic_energy",
+					"tconevo.draconic_dig_speed",
+					"tconevo.draconic_dig_aoe",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

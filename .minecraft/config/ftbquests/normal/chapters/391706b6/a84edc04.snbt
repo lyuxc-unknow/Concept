@@ -1,0 +1,69 @@
+{
+	x: 33.0d,
+	y: 329.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.0f,FreeModifiers:3,HarvestLevelShovel:0,Durability:1475,HarvestLevel:0,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.0f,FreeModifiers:3,HarvestLevelShovel:0,Durability:1475,HarvestLevel:0,Attack:5.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"pink_slime\",\"pink_slime\",\"pink_slime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.slimey_pink\",color:-3508789,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.slimey_pink\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7a31b8f1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 0,
+					Durability: 1475,
+					HarvestLevel: 0,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 0,
+					Durability: 1475,
+					HarvestLevel: 0,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"pink_slime",
+						"pink_slime",
+						"pink_slime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.slimey_pink",
+					color: -3508789,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.slimey_pink",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

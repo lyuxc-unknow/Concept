@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 282.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "57cc4be8",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

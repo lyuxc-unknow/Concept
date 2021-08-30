@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:positional_card\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c86f54ec",
+		type: "item",
+		items: [{
+			item: "wirelessutils:positional_card"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 235.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"starmetal\"},Damage:0s}",
+	tasks: [{
+		uid: "aafd123d",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "starmetal"
+			}
+		}],
+		consume_items: true
+	}]
+}

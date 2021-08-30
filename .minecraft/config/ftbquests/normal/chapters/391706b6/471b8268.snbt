@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"invar\"},Damage:0s}",
+	tasks: [{
+		uid: "4a80479d",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "invar"
+			}
+		}],
+		consume_items: true
+	}]
+}

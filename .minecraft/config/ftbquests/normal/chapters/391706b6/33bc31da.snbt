@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 767.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:sword_infused_metal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e55d67ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:sword_infused_metal"
+		}],
+		consume_items: true
+	}]
+}

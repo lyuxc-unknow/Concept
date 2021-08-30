@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 281.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "ddbe44e6",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

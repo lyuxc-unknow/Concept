@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 63.0d,
+	description: "{id:\"extrautils2:spike_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "66d245e9",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_diamond"
+		}],
+		consume_items: true
+	}]
+}

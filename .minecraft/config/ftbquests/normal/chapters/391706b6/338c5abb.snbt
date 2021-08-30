@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 243.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"constantan\"},Damage:0s}",
+	tasks: [{
+		uid: "18e6d3d4",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "constantan"
+			}
+		}],
+		consume_items: true
+	}]
+}

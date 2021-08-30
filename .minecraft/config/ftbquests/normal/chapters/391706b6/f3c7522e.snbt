@@ -1,0 +1,17 @@
+{
+	x: 21.0d,
+	y: 147.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"randomthings:quartzlamp\"},Damage:0s}",
+	tasks: [{
+		uid: "d091589c",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "randomthings:quartzlamp"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 20.0d,
+	y: 683.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"flyringbaublemod:angelring\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "d480bfc3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "flyringbaublemod:angelring",
+			Damage: 4s
+		}],
+		consume_items: true
+	}]
+}

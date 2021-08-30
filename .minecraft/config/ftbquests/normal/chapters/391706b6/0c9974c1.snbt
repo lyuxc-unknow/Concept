@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 670.0d,
+	description: "{id:\"survivalist:tanned_leather\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4ba79a70",
+		type: "item",
+		items: [{
+			item: "survivalist:tanned_leather"
+		}],
+		consume_items: true
+	}]
+}

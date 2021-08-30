@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 532.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderutilities:endertool\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "0ff3d8da",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:endertool",
+			Damage: 3s
+		}],
+		consume_items: true
+	}]
+}

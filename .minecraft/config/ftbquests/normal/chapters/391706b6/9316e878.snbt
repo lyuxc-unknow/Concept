@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 301.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"iron\"},Damage:0s}",
+	tasks: [{
+		uid: "334b824e",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 32.0d,
+	y: 146.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"calculator:diamondlog\"},Damage:0s}",
+	tasks: [{
+		uid: "58413948",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "calculator:diamondlog"
+			}
+		}],
+		consume_items: true
+	}]
+}

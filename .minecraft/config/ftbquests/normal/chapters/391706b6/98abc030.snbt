@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 239.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"elementium\"},Damage:0s}",
+	tasks: [{
+		uid: "adaad917",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "elementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

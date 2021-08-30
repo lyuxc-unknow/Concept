@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 33.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"minecraft:totem_of_undying\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d8bfedb3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:totem_of_undying"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 754.0d,
+	description: "{id:\"environmentaltech:aethium_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "023213bb",
+		type: "item",
+		items: [{
+			item: "environmentaltech:aethium_crystal"
+		}],
+		consume_items: true
+	}]
+}

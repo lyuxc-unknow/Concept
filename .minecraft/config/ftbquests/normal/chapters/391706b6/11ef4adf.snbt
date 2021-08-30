@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 256.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"pulsating_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "4497a35b",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "pulsating_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

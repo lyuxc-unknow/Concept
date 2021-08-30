@@ -1,0 +1,21 @@
+{
+	x: 30.0d,
+	y: 556.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"Barvog\",level:10,mobId:\"mist:barvog\"},Damage:0s}",
+	tasks: [{
+		uid: "dd7b3ba7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "Barvog",
+				level: 10,
+				mobId: "mist:barvog"
+			}
+		}],
+		consume_items: true
+	}]
+}

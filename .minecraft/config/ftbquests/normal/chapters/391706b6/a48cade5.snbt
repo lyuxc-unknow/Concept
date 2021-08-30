@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 299.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"carbon_fiber\"},Damage:0s}",
+	tasks: [{
+		uid: "ab226b13",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "carbon_fiber"
+			}
+		}],
+		consume_items: true
+	}]
+}

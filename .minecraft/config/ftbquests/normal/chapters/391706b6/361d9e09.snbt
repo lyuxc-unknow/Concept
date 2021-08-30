@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 75.0d,
+	description: "{id:\"calculator:broccoliseeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "531377fd",
+		type: "item",
+		items: [{
+			item: "calculator:broccoliseeds"
+		}],
+		consume_items: true
+	}]
+}

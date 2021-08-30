@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 473.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"starmetal\"},Damage:0s}",
+	tasks: [{
+		uid: "417ab157",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "starmetal"
+			}
+		}],
+		consume_items: true
+	}]
+}

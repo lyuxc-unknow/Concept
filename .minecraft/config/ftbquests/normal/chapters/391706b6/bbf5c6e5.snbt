@@ -1,0 +1,19 @@
+{
+	x: 18.0d,
+	y: 120.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"liquidchorus\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "b28a0751",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "liquidchorus",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

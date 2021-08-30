@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 647.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"copper\"},Damage:0s}",
+	tasks: [{
+		uid: "702f3102",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "copper"
+			}
+		}],
+		consume_items: true
+	}]
+}

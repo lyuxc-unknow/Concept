@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 625.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"certus_quartz\"},Damage:0s}",
+	tasks: [{
+		uid: "d4f18da1",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "certus_quartz"
+			}
+		}],
+		consume_items: true
+	}]
+}

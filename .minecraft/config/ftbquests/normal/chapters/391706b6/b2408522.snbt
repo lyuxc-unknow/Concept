@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 442.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"bound_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "788748ce",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "bound_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

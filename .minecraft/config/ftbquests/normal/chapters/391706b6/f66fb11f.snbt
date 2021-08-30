@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 443.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"kyronite\"},Damage:0s}",
+	tasks: [{
+		uid: "64dbb1d7",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "kyronite"
+			}
+		}],
+		consume_items: true
+	}]
+}

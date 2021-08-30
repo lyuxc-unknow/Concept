@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 758.0d,
+	description: "{id:\"industrialforegoing:fluid_crafter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "37691892",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluid_crafter"
+		}],
+		consume_items: true
+	}]
+}

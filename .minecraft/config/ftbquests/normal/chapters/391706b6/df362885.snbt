@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 623.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"advancedalloy\"},Damage:0s}",
+	tasks: [{
+		uid: "65975d1f",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "advancedalloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

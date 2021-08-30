@@ -1,0 +1,77 @@
+{
+	x: 31.0d,
+	y: 374.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.9f,FreeModifiers:3,ProjectileBonusDamage:1.5f,Durability:840,HarvestLevel:3,Attack:6.0f,Range:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.9f,FreeModifiers:5,ProjectileBonusDamage:1.5f,Durability:840,HarvestLevel:3,Attack:6.0f,Range:1.2f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"lonsdaleite\",\"lonsdaleite\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crude\",color:-11053225,level:1,crude1:1b},{identifier:\"tconevo.modifiable\",color:-11053225,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crude1\",\"tconevo.modifiable1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "eda16aaf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.9f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.5f,
+					Durability: 840,
+					HarvestLevel: 3,
+					Attack: 6.0f,
+					Range: 1.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.9f,
+					FreeModifiers: 5,
+					ProjectileBonusDamage: 1.5f,
+					Durability: 840,
+					HarvestLevel: 3,
+					Attack: 6.0f,
+					Range: 1.2f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"lonsdaleite",
+						"lonsdaleite",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crude",
+					color: -11053225,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "tconevo.modifiable",
+					color: -11053225,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crude1",
+					"tconevo.modifiable1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 615.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"zinc\"},Damage:0s}",
+	tasks: [{
+		uid: "0296a2a5",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "zinc"
+			}
+		}],
+		consume_items: true
+	}]
+}

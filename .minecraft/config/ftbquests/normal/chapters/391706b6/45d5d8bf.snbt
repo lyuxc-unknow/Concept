@@ -1,0 +1,64 @@
+{
+	x: 16.0d,
+	y: 352.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:broadsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:2035,HarvestLevel:0,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:2035,HarvestLevel:0,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"pink_slime\",\"pink_slime\",\"pink_slime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.slimey_pink\",color:-3508789,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.slimey_pink\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "dc375822",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:broadsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 2035,
+					HarvestLevel: 0,
+					Attack: 3.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 2035,
+					HarvestLevel: 0,
+					Attack: 3.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"pink_slime",
+						"pink_slime",
+						"pink_slime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.slimey_pink",
+					color: -3508789,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.slimey_pink",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

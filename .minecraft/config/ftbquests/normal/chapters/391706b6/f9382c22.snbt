@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 744.0d,
+	description: "{id:\"embers:block_lead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f957254",
+		type: "item",
+		items: [{
+			item: "embers:block_lead"
+		}],
+		consume_items: true
+	}]
+}

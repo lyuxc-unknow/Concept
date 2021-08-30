@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 787.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"redgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "1b47d70f",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "redgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

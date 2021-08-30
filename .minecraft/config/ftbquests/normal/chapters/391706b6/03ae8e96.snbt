@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 449.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"ma.inferium\"},Damage:0s}",
+	tasks: [{
+		uid: "6677e17c",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "ma.inferium"
+			}
+		}],
+		consume_items: true
+	}]
+}

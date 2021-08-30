@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 436.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"chaoticdraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "50f109f4",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "chaoticdraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

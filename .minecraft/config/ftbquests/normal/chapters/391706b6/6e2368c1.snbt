@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 447.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"gelid_gem\"},Damage:0s}",
+	tasks: [{
+		uid: "f71303a9",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "gelid_gem"
+			}
+		}],
+		consume_items: true
+	}]
+}

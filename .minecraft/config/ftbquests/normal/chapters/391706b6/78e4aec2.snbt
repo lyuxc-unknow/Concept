@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 577.0d,
+	description: "{id:\"pneumaticcraft:fluid.plastic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b7a7fcb",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:fluid.plastic"
+		}],
+		consume_items: true
+	}]
+}

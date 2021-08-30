@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_shardtitanium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "edc63a37",
+		type: "item",
+		items: [{
+			item: "jaopca:item_shardtitanium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 685.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemskyresonator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cdab20c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemskyresonator"
+		}],
+		consume_items: true
+	}]
+}

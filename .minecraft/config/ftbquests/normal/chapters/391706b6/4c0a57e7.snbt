@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 287.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "c0cbfdfd",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 269.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"mica\"},Damage:0s}",
+	tasks: [{
+		uid: "d6ccb6cb",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "mica"
+			}
+		}],
+		consume_items: true
+	}]
+}

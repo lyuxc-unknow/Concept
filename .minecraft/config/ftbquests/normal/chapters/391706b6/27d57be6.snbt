@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"essen\"},Damage:0s}",
+	tasks: [{
+		uid: "e64e6e42",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "essen"
+			}
+		}],
+		consume_items: true
+	}]
+}

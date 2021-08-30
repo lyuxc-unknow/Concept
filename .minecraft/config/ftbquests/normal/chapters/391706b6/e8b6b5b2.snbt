@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 515.0d,
+	description: "{id:\"mekanism:reinforcedplasticblock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "11ecaeea",
+		type: "item",
+		items: [{
+			item: "mekanism:reinforcedplasticblock"
+		}],
+		consume_items: true
+	}]
+}

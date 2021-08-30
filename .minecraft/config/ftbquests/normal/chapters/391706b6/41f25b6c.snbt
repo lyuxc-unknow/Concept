@@ -1,0 +1,21 @@
+{
+	x: 7.0d,
+	y: 555.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"岩石人\",level:10,mobId:\"thermalfoundation:basalz\"},Damage:0s}",
+	tasks: [{
+		uid: "c4c771b9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "岩石人",
+				level: 10,
+				mobId: "thermalfoundation:basalz"
+			}
+		}],
+		consume_items: true
+	}]
+}

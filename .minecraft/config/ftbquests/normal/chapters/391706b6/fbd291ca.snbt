@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"ma.intermedium\"},Damage:0s}",
+	tasks: [{
+		uid: "dc8b810e",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "ma.intermedium"
+			}
+		}],
+		consume_items: true
+	}]
+}

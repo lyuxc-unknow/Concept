@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 595.0d,
+	description: "{id:\"rftoolsdim:dimlet_workbench\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c2762f23",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:dimlet_workbench"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,55 @@
+{
+	x: 31.0d,
+	y: 468.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:58,Defense:7.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:46,Defense:7.0f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"void_crystal\",\"void_crystal\",\"void_crystal\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"cheapskate_armor\",color:-13355980,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"cheapskate_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "b2e66603",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 58,
+					Defense: 7.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 46,
+					Defense: 7.0f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"void_crystal",
+						"void_crystal",
+						"void_crystal"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheapskate_armor",
+					color: -13355980,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheapskate_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

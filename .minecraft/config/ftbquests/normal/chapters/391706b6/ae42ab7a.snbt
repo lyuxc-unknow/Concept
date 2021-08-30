@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 595.0d,
+	description: "{id:\"rftoolsdim:material_absorber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cf730a89",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:material_absorber"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	x: 30.0d,
+	y: 688.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:blockcelestialcollectorcrystal\",Count:1b,tag:{astralsorcery:{constellationName:\"astralsorcery.constellation.horologium\",crystalProperties:{collectiveCapability:100,size:900,fract:0,purity:100,sizeOverride:-1},collectorType:1}},Damage:0s}",
+	tasks: [{
+		uid: "bdcc64da",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockcelestialcollectorcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.horologium",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					},
+					collectorType: 1
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

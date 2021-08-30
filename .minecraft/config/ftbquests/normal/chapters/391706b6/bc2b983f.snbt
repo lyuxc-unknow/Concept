@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 532.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderutilities:icemelter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca394e52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:icemelter"
+		}],
+		consume_items: true
+	}]
+}

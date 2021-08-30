@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 105.0d,
+	description: "{id:\"mist:niobium_trapdoor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "757cf3f2",
+		type: "item",
+		items: [{
+			item: "mist:niobium_trapdoor"
+		}],
+		consume_items: true
+	}]
+}

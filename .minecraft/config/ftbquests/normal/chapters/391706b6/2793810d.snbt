@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 600.0d,
+	description: "{id:\"steamworld:dust\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "6810c7d1",
+		type: "item",
+		items: [{
+			item: "steamworld:dust 1 3"
+		}],
+		consume_items: true
+	}]
+}

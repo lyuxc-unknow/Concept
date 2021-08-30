@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"refinediron\"},Damage:0s}",
+	tasks: [{
+		uid: "0b09525e",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "refinediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

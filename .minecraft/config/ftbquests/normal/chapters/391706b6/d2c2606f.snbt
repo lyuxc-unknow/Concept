@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 283.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"crystal_matrix\"},Damage:0s}",
+	tasks: [{
+		uid: "96614b25",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}],
+		consume_items: true
+	}]
+}

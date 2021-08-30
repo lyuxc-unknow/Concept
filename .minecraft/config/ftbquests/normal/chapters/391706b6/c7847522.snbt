@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 47.0d,
+	description: "{id:\"draconicevolution:reactor_component\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "e82dfbd0",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_component 1 1"
+		}],
+		consume_items: true
+	}]
+}

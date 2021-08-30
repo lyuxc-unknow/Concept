@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 793.0d,
+	description: "{id:\"tp:small_med_kit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0b2aea7e",
+		type: "item",
+		items: [{
+			item: "tp:small_med_kit"
+		}],
+		consume_items: true
+	}]
+}

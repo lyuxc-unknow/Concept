@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 620.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"redgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "35ea668e",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "redgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

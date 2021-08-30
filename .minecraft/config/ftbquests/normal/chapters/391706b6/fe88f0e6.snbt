@@ -1,0 +1,17 @@
+{
+	x: 11.0d,
+	y: 147.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"randomthings:dyeingmachine\"},Damage:0s}",
+	tasks: [{
+		uid: "a91a7c5c",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "randomthings:dyeingmachine"
+			}
+		}],
+		consume_items: true
+	}]
+}

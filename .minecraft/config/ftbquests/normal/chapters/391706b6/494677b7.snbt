@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 94.0d,
+	description: "{id:\"mist:stone_basic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "09c0590f",
+		type: "item",
+		items: [{
+			item: "mist:stone_basic"
+		}],
+		consume_items: true
+	}]
+}

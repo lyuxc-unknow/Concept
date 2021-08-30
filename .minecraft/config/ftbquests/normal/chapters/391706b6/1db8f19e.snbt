@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 612.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"wyverndraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "a1ee94af",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "wyverndraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

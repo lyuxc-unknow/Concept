@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 55.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"refinedglowstone\"},Damage:1s}",
+	tasks: [{
+		uid: "0b82ab93",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "refinedglowstone"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

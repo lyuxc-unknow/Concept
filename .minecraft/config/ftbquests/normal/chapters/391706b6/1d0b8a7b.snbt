@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 287.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"starmetal\"},Damage:0s}",
+	tasks: [{
+		uid: "e6da7776",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "starmetal"
+			}
+		}],
+		consume_items: true
+	}]
+}

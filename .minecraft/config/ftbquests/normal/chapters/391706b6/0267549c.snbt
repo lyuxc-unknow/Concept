@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:flawlessgreenhouse\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c4f24f4",
+		type: "item",
+		items: [{
+			item: "calculator:flawlessgreenhouse"
+		}],
+		consume_items: true
+	}]
+}

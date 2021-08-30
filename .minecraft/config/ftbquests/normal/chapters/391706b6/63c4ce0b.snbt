@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 247.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"polyethylene\"},Damage:0s}",
+	tasks: [{
+		uid: "118d888f",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "polyethylene"
+			}
+		}],
+		consume_items: true
+	}]
+}

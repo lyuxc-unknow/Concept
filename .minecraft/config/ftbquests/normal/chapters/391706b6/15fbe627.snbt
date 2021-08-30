@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 448.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"conductive_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "dbc2c331",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "conductive_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

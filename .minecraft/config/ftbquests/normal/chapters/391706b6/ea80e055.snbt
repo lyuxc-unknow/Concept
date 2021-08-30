@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:infinite_barrel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30400ea8",
+		type: "item",
+		items: [{
+			item: "overloaded:infinite_barrel"
+		}],
+		consume_items: true
+	}]
+}

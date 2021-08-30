@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 45.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.shield_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "006325ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.shield_iron"
+		}],
+		consume_items: true
+	}]
+}

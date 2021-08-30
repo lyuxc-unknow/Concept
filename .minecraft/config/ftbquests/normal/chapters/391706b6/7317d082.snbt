@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 72.0d,
+	description: "{id:\"calculator:material\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "e0374144",
+		type: "item",
+		items: [{
+			item: "calculator:material 1 3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,65 @@
+{
+	x: 13.0d,
+	y: 317.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1051,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1051,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"extrabotany:ingotshadowium\",\"extrabotany:ingotshadowium\",\"extrabotany:ingotshadowium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shadow\",color:-8388480,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shadow\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "31a1e3cb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1051,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 1051,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"extrabotany:ingotshadowium",
+						"extrabotany:ingotshadowium",
+						"extrabotany:ingotshadowium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shadow",
+					color: -8388480,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shadow",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

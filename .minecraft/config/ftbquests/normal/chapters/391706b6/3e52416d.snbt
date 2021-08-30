@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 615.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"ludicrite\"},Damage:0s}",
+	tasks: [{
+		uid: "a70a3bea",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "ludicrite"
+			}
+		}],
+		consume_items: true
+	}]
+}

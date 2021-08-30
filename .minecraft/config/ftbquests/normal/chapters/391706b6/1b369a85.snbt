@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 409.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"projecte:item.pe_time_watch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af15a48b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_time_watch"
+		}],
+		consume_items: true
+	}]
+}

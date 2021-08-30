@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 396.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"tinkersarsenal:boomstick_handle\"},Damage:0s}",
+	tasks: [{
+		uid: "c878b437",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "tinkersarsenal:boomstick_handle"
+			}
+		}],
+		consume_items: true
+	}]
+}

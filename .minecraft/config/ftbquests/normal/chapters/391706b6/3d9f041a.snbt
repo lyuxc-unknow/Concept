@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 106.0d,
+	description: "{id:\"mist:saltpeter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5e6af67b",
+		type: "item",
+		items: [{
+			item: "mist:saltpeter"
+		}],
+		consume_items: true
+	}]
+}

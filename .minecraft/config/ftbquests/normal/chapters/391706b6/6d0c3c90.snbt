@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 265.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "b3e95ab3",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

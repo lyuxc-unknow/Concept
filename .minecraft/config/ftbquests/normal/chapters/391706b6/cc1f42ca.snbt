@@ -1,0 +1,55 @@
+{
+	x: 13.0d,
+	y: 457.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:helmet\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:18446,Defense:41.534996f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:18446,Defense:41.534996f},ConArmEquipmentSlot:5,TinkerData:{Materials:[\"ma.intermedium\",\"ma.intermedium\",\"ma.intermedium\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"prosperous\",color:-4765440,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"prosperous\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "ecb43a18",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:helmet",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 18446,
+					Defense: 41.534996f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 18446,
+					Defense: 41.534996f
+				},
+				ConArmEquipmentSlot: 5,
+				TinkerData: {
+					Materials: [
+						"ma.intermedium",
+						"ma.intermedium",
+						"ma.intermedium"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -4765440,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

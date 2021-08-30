@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 666.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"deepmoblearning:glitch\"},Damage:0s}",
+	tasks: [{
+		uid: "2f3777fb",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "deepmoblearning:glitch"
+			}
+		}],
+		consume_items: true
+	}]
+}

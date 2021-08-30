@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 278.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"end_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "8422f94c",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "end_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

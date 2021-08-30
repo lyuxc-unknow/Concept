@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 765.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:spade_light\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5bffd684",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:spade_light"
+		}],
+		consume_items: true
+	}]
+}

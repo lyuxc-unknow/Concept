@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"quartzenrichediron\"},Damage:0s}",
+	tasks: [{
+		uid: "24ad44c9",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "quartzenrichediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

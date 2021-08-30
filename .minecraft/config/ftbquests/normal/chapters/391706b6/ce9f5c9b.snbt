@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 541.0d,
+	description: "{id:\"integrateddynamics:facade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e2286665",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:facade"
+		}],
+		consume_items: true
+	}]
+}

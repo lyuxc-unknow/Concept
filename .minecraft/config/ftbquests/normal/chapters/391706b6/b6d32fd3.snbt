@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 105.0d,
+	description: "{id:\"mist:niobium_chest_trapped\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a9e470ea",
+		type: "item",
+		items: [{
+			item: "mist:niobium_chest_trapped"
+		}],
+		consume_items: true
+	}]
+}

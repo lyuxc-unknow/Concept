@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 800.0d,
+	description: "{id:\"jaopca:item_stickniobium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "426d20e2",
+		type: "item",
+		items: [{
+			item: "jaopca:item_stickniobium"
+		}],
+		consume_items: true
+	}]
+}

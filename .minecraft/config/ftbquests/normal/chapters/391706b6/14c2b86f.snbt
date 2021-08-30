@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"randomthings:strong_collapse\"},Damage:0s}",
+	tasks: [{
+		uid: "6f652781",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "randomthings:strong_collapse"
+			}
+		}],
+		consume_items: true
+	}]
+}

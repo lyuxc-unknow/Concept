@@ -1,0 +1,80 @@
+{
+	x: 37.0d,
+	y: 385.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:840,HarvestLevel:3,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:4,Durability:840,HarvestLevel:3,Attack:8.0f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"lonsdaleite\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"crude\",color:-11053225,level:1,crude1:1b},{identifier:\"tconevo.modifiable\",color:-11053225,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"crude1\",\"tconevo.modifiable1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d3cee1c6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 840,
+					HarvestLevel: 3,
+					Attack: 8.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 4,
+					Durability: 840,
+					HarvestLevel: 3,
+					Attack: 8.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"lonsdaleite",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "crude",
+					color: -11053225,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "tconevo.modifiable",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"crude1",
+					"tconevo.modifiable1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

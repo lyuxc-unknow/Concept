@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 445.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"extrabotany:ingotorichalcos\"},Damage:0s}",
+	tasks: [{
+		uid: "51c931f7",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "extrabotany:ingotorichalcos"
+			}
+		}],
+		consume_items: true
+	}]
+}

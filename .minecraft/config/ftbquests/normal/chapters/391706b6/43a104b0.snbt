@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"invar\"},Damage:0s}",
+	tasks: [{
+		uid: "a1c8bc8e",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "invar"
+			}
+		}],
+		consume_items: true
+	}]
+}

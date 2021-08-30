@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 434.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"paper\"},Damage:0s}",
+	tasks: [{
+		uid: "6c005b52",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "paper"
+			}
+		}],
+		consume_items: true
+	}]
+}

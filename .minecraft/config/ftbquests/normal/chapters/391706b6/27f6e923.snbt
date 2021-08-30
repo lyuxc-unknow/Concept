@@ -1,0 +1,19 @@
+{
+	x: 20.0d,
+	y: 776.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"lava\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "b1ae3506",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "lava",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

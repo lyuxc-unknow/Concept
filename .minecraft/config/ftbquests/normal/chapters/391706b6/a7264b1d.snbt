@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 280.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"livingwood\"},Damage:0s}",
+	tasks: [{
+		uid: "a1043378",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "livingwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

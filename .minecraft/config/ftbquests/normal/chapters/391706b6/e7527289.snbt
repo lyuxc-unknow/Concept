@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 801.0d,
+	description: "{id:\"jaopca:item_dusttinysalt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "511f604c",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dusttinysalt"
+		}],
+		consume_items: true
+	}]
+}

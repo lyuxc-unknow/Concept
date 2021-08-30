@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 398.0d,
+	description: "{id:\"tconstruct:brownstone_stairs_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3c2eede8",
+		type: "item",
+		items: [{
+			item: "tconstruct:brownstone_stairs_brick"
+		}],
+		consume_items: true
+	}]
+}

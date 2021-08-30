@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 508.0d,
+	description: "{id:\"mekanism:balloon\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "63af3412",
+		type: "item",
+		items: [{
+			item: "mekanism:balloon 1 1"
+		}],
+		consume_items: true
+	}]
+}

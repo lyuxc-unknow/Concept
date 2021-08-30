@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 630.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"dreamwood\"},Damage:0s}",
+	tasks: [{
+		uid: "1a37257b",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "dreamwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 26.0d,
+	y: 779.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"sunnarium\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "e20d730c",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "sunnarium",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 33.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extrautils2:xu2.gravity.long\"},Damage:0s}",
+	tasks: [{
+		uid: "5901f71b",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extrautils2:xu2.gravity.long"
+			}
+		}],
+		consume_items: true
+	}]
+}

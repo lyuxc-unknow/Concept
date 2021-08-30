@@ -1,0 +1,67 @@
+{
+	x: 18.0d,
+	y: 326.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:146,HarvestLevel:1,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:146,HarvestLevel:1,Attack:4.5f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"tin\",\"tin\",\"tin\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crude\",color:-6771527,level:1,crude1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crude1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e98c656c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 146,
+					HarvestLevel: 1,
+					Attack: 4.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 146,
+					HarvestLevel: 1,
+					Attack: 4.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"tin",
+						"tin",
+						"tin"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crude",
+					color: -6771527,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crude1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

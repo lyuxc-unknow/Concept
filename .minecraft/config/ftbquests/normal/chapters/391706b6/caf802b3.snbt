@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:slot_augment\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a797cd73",
+		type: "item",
+		items: [{
+			item: "wirelessutils:slot_augment"
+		}],
+		consume_items: true
+	}]
+}

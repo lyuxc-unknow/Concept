@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 3.0d,
+	description: "{id:\"minecraft:vine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7e6f8a32",
+		type: "item",
+		items: [{
+			item: "minecraft:vine"
+		}],
+		consume_items: true
+	}]
+}

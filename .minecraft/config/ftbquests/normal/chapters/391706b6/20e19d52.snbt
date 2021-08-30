@@ -1,0 +1,65 @@
+{
+	x: 10.0d,
+	y: 321.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shovel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.01f,FreeModifiers:3,Durability:691,HarvestLevel:2,Attack:6.62f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.01f,FreeModifiers:3,Durability:691,HarvestLevel:2,Attack:6.62f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ma.prudentium\",\"ma.prudentium\",\"ma.prudentium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prosperous\",color:-16741341,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prosperous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "735fb8b7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shovel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.01f,
+					FreeModifiers: 3,
+					Durability: 691,
+					HarvestLevel: 2,
+					Attack: 6.62f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.01f,
+					FreeModifiers: 3,
+					Durability: 691,
+					HarvestLevel: 2,
+					Attack: 6.62f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.prudentium",
+						"ma.prudentium",
+						"ma.prudentium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -16741341,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

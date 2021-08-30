@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 407.0d,
+	description: "{id:\"projecte:relay_mk3\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e41b3f1d",
+		type: "item",
+		items: [{
+			item: "projecte:relay_mk3"
+		}],
+		consume_items: true
+	}]
+}

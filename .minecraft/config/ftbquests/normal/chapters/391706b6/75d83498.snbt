@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 478.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:mastermanaring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f00b2f12",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:mastermanaring"
+		}],
+		consume_items: true
+	}]
+}

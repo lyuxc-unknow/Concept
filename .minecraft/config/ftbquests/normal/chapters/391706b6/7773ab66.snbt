@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 681.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_sword_crystal_red\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c8a5ce61",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_sword_crystal_red"
+		}],
+		consume_items: true
+	}]
+}

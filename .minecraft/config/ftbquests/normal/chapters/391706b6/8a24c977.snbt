@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 187.0d,
+	description: "{id:\"enderio:block_painted_pressure_plate\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "86538e50",
+		type: "item",
+		items: [{
+			item: "enderio:block_painted_pressure_plate 1 5"
+		}],
+		consume_items: true
+	}]
+}

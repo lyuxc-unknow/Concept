@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 312.0d,
+	description: "{id:\"tconstruct:arrow_shaft\",Count:1b,tag:{Material:\"endrod\"},Damage:0s}",
+	tasks: [{
+		uid: "0180e354",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_shaft",
+			tag: {
+				Material: "endrod"
+			}
+		}],
+		consume_items: true
+	}]
+}

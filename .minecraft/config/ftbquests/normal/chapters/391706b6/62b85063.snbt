@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 480.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:infinitewine\",Count:1b,tag:{brewKey:\"healing\"},Damage:0s}",
+	tasks: [{
+		uid: "3ed0f45d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:infinitewine",
+			tag: {
+				brewKey: "healing"
+			}
+		}],
+		consume_items: true
+	}]
+}

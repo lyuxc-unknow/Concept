@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 291.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"manasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "065a5df2",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "manasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

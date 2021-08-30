@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 241.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"xu_evil_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "68465289",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "xu_evil_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

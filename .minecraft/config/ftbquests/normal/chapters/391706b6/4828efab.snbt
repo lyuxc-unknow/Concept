@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 303.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"refined_obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "4e2e5e84",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "refined_obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

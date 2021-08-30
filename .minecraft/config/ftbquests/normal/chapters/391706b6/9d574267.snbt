@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 396.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"tinkersarsenal:bullet\"},Damage:0s}",
+	tasks: [{
+		uid: "ff61bbf9",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "tinkersarsenal:bullet"
+			}
+		}],
+		consume_items: true
+	}]
+}

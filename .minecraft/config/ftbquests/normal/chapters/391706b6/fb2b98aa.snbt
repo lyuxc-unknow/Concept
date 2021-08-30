@@ -1,0 +1,17 @@
+{
+	x: 36.0d,
+	y: 578.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"pneumaticcraft:manometer\",Count:1b,Damage:30000s}",
+	tasks: [{
+		uid: "d08c5239",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:manometer",
+			Damage: 30000s
+		}],
+		consume_items: true
+	}]
+}

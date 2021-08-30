@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 474.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"refined_glowstone\"},Damage:0s}",
+	tasks: [{
+		uid: "046c9ebe",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "refined_glowstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

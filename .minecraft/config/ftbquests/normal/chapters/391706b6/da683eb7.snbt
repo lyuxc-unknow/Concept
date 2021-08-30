@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"carbon_fiber\"},Damage:0s}",
+	tasks: [{
+		uid: "81556f38",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "carbon_fiber"
+			}
+		}],
+		consume_items: true
+	}]
+}

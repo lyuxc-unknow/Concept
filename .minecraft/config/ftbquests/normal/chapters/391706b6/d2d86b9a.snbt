@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:interface\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d629cda",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:interface"
+		}],
+		consume_items: true
+	}]
+}

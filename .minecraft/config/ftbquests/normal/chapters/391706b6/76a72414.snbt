@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"manasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "8454d858",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "manasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

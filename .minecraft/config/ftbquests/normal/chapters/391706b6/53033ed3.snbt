@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 520.0d,
+	description: "{id:\"deepmoblearning:infused_ingot_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3ccdf1f",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:infused_ingot_block"
+		}],
+		consume_items: true
+	}]
+}

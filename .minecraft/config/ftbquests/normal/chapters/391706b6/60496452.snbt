@@ -1,0 +1,83 @@
+{
+	x: 3.0d,
+	y: 375.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:1.75f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:220,HarvestLevel:0,Attack:3.0f,Range:0.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:1.75f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:220,HarvestLevel:0,Attack:3.0f,Range:0.6f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"polyethylene\",\"polyethylene\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"cheap\",color:-2039584,level:1},{identifier:\"tconevo.foot_fleet\",color:-2039584,level:1},{identifier:\"crude\",color:-2039584,level:1,crude1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"cheap\",\"tconevo.foot_fleet\",\"crude1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "072aeffd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 1.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 220,
+					HarvestLevel: 0,
+					Attack: 3.0f,
+					Range: 0.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 1.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 220,
+					HarvestLevel: 0,
+					Attack: 3.0f,
+					Range: 0.6f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"polyethylene",
+						"polyethylene",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheap",
+					color: -2039584,
+					level: 1
+				},
+				{
+					identifier: "tconevo.foot_fleet",
+					color: -2039584,
+					level: 1
+				},
+				{
+					identifier: "crude",
+					color: -2039584,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheap",
+					"tconevo.foot_fleet",
+					"crude1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 451.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"osmium\"},Damage:0s}",
+	tasks: [{
+		uid: "1c2c5c76",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "osmium"
+			}
+		}],
+		consume_items: true
+	}]
+}

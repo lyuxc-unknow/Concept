@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 291.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"meat_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "5bf5f05e",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "meat_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 592.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"redstonefluxarsenal:itemrfaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4e0e940",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonefluxarsenal:itemrfaxe"
+		}],
+		consume_items: true
+	}]
+}

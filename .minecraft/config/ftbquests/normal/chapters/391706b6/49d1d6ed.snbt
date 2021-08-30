@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:luck\"},Damage:0s}",
+	tasks: [{
+		uid: "f45b8f44",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:luck"
+			}
+		}],
+		consume_items: true
+	}]
+}

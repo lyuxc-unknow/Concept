@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:mob_relocator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "442df96e",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_relocator"
+		}],
+		consume_items: true
+	}]
+}

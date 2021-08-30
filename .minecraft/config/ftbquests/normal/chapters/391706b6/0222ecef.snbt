@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 621.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"emeraldic_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "34ffdcce",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "emeraldic_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

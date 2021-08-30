@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"iron\"},Damage:0s}",
+	tasks: [{
+		uid: "8c4a1f1b",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

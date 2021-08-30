@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 225.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"electrumflux\"},Damage:0s}",
+	tasks: [{
+		uid: "4422f011",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "electrumflux"
+			}
+		}],
+		consume_items: true
+	}]
+}

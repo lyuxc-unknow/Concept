@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 264.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"slime\"},Damage:0s}",
+	tasks: [{
+		uid: "76d6e965",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

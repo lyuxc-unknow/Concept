@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 560.0d,
+	description: "{id:\"rftools:remote_scanner\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4073c024",
+		type: "item",
+		items: [{
+			item: "rftools:remote_scanner"
+		}],
+		consume_items: true
+	}]
+}

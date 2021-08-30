@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 625.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"treatedwood\"},Damage:0s}",
+	tasks: [{
+		uid: "67a4d738",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "treatedwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

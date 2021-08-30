@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 763.0d,
+	description: "{id:\"tconevo:part_arcane_focus\",Count:1b,tag:{Material:\"lumium\"},Damage:0s}",
+	tasks: [{
+		uid: "cf984f5a",
+		type: "item",
+		items: [{
+			id: "tconevo:part_arcane_focus",
+			tag: {
+				Material: "lumium"
+			}
+		}],
+		consume_items: true
+	}]
+}

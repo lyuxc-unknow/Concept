@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 77.0d,
+	description: "{id:\"draconicadditions:item_drainer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ec3a9a76",
+		type: "item",
+		items: [{
+			item: "draconicadditions:item_drainer"
+		}],
+		consume_items: true
+	}]
+}

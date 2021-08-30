@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"draconic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "b8382579",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "draconic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

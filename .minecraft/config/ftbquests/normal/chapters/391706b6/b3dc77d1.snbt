@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 650.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"essen\"},Damage:0s}",
+	tasks: [{
+		uid: "ece10f8e",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "essen"
+			}
+		}],
+		consume_items: true
+	}]
+}

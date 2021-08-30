@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"osmium\"},Damage:0s}",
+	tasks: [{
+		uid: "522fb8ba",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "osmium"
+			}
+		}],
+		consume_items: true
+	}]
+}

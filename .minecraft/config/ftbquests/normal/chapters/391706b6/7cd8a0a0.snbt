@@ -1,0 +1,17 @@
+{
+	x: 36.0d,
+	y: 418.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:cosmetic\",Count:1b,Damage:19s}",
+	tasks: [{
+		uid: "d2a60dc2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:cosmetic",
+			Damage: 19s
+		}],
+		consume_items: true
+	}]
+}

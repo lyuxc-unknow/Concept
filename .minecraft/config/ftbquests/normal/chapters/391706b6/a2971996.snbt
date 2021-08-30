@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"steamworld:skyfish\"},Damage:0s}",
+	tasks: [{
+		uid: "da12d24d",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "steamworld:skyfish"
+			}
+		}],
+		consume_items: true
+	}]
+}

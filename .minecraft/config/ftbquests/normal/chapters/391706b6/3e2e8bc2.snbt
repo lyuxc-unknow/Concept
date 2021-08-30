@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 129.0d,
+	description: "{id:\"packagedauto:packager_extension\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "65a12310",
+		type: "item",
+		items: [{
+			item: "packagedauto:packager_extension"
+		}],
+		consume_items: true
+	}]
+}

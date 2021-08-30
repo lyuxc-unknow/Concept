@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 106.0d,
+	description: "{id:\"mist:rubber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "04dc1379",
+		type: "item",
+		items: [{
+			item: "mist:rubber"
+		}],
+		consume_items: true
+	}]
+}

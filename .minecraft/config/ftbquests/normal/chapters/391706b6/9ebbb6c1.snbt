@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 758.0d,
+	description: "{id:\"industrialforegoing:pitiful_fuel_generator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2241e00e",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:pitiful_fuel_generator"
+		}],
+		consume_items: true
+	}]
+}

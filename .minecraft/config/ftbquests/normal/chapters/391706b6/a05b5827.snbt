@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 592.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"redstonefluxarsenal:rfenergizedarmour.boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "64de8cde",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonefluxarsenal:rfenergizedarmour.boots"
+		}],
+		consume_items: true
+	}]
+}

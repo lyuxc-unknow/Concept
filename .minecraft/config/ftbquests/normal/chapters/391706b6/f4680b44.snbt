@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_clumpdraconium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "afc42ba2",
+		type: "item",
+		items: [{
+			item: "jaopca:item_clumpdraconium"
+		}],
+		consume_items: true
+	}]
+}

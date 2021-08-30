@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 68.0d,
+	description: "{id:\"avaritia:ultimate_stew\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "088abca8",
+		type: "item",
+		items: [{
+			item: "avaritia:ultimate_stew"
+		}],
+		consume_items: true
+	}]
+}

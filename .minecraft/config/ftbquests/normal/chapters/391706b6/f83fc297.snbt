@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 649.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"zinc\"},Damage:0s}",
+	tasks: [{
+		uid: "e2108b55",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "zinc"
+			}
+		}],
+		consume_items: true
+	}]
+}

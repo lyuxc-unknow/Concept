@@ -1,0 +1,21 @@
+{
+	x: 17.0d,
+	y: 556.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"岩浆蠕虫[WIP]\",level:10,mobId:\"embers:magma_worm\"},Damage:0s}",
+	tasks: [{
+		uid: "dd905fc0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "岩浆蠕虫[WIP]",
+				level: 10,
+				mobId: "embers:magma_worm"
+			}
+		}],
+		consume_items: true
+	}]
+}

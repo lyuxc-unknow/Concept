@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 398.0d,
+	description: "{id:\"tconstruct:brownstone_stairs_rough\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d81f63f5",
+		type: "item",
+		items: [{
+			item: "tconstruct:brownstone_stairs_rough"
+		}],
+		consume_items: true
+	}]
+}

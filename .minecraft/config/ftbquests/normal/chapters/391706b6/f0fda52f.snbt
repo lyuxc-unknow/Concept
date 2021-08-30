@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 99.0d,
+	description: "{id:\"mist:t_tree_block\",Count:1b,Damage:13s}",
+	tasks: [{
+		uid: "3ae2084e",
+		type: "item",
+		items: [{
+			item: "mist:t_tree_block 1 13"
+		}],
+		consume_items: true
+	}]
+}

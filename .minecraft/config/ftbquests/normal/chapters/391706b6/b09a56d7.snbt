@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 37.0d,
+	description: "{id:\"thermalfoundation:dye\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "2d738e0e",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:dye 1 1"
+		}],
+		consume_items: true
+	}]
+}

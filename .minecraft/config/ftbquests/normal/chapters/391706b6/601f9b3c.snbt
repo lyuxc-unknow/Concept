@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"electrical_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "03a422a5",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "electrical_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

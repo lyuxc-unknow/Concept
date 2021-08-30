@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 591.0d,
+	description: "{id:\"random_add:blood_bottle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df5006d6",
+		type: "item",
+		items: [{
+			item: "random_add:blood_bottle"
+		}],
+		consume_items: true
+	}]
+}

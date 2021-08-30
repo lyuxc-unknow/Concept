@@ -1,0 +1,17 @@
+{
+	x: 27.0d,
+	y: 137.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:2b,Block:\"minecraft:quartz_block\"},Damage:0s}",
+	tasks: [{
+		uid: "c480cde2",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 2b,
+				Block: "minecraft:quartz_block"
+			}
+		}],
+		consume_items: true
+	}]
+}

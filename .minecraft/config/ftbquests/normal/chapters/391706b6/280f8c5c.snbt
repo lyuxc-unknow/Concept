@@ -1,0 +1,71 @@
+{
+	x: 27.0d,
+	y: 380.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:945,HarvestLevel:0,Attack:1.8f,Range:1.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:945,HarvestLevel:0,Attack:1.8f,Range:1.3f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_green\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "aa139884",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.24f,
+					DrawSpeed: 0.85f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 945,
+					HarvestLevel: 0,
+					Attack: 1.8f,
+					Range: 1.3f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.24f,
+					DrawSpeed: 0.85f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 945,
+					HarvestLevel: 0,
+					Attack: 1.8f,
+					Range: 1.3f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"slime",
+						"slime",
+						"slime",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_green",
+					color: -8206221,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_green",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

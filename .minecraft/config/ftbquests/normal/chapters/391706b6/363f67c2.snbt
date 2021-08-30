@@ -1,0 +1,70 @@
+{
+	x: 19.0d,
+	y: 638.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:139,HarvestLevel:1,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:139,HarvestLevel:1,Attack:5.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"signalum\",\"signalum\",\"signalum\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.relentless\",color:-2139136,level:1},{identifier:\"tconevo.aftershock\",color:-2139136,level:3},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.relentless\",\"tconevo.aftershock1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "37ac36ca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 139,
+					HarvestLevel: 1,
+					Attack: 5.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 139,
+					HarvestLevel: 1,
+					Attack: 5.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"signalum",
+						"signalum",
+						"signalum"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.relentless",
+					color: -2139136,
+					level: 1
+				},
+				{
+					identifier: "tconevo.aftershock",
+					color: -2139136,
+					level: 3
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.relentless",
+					"tconevo.aftershock1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

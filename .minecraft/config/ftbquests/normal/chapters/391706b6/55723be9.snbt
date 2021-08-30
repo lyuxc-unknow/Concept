@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"energetic_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "f77f30a9",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "energetic_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"draconic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "2eb78e70",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "draconic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

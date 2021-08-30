@@ -1,0 +1,17 @@
+{
+	x: 37.0d,
+	y: 54.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"superium\"},Damage:1s}",
+	tasks: [{
+		uid: "f7a78f91",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "superium"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

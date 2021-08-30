@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 756.0d,
+	description: "{id:\"etlunar:lunar_cont_2\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e4b907a6",
+		type: "item",
+		items: [{
+			item: "etlunar:lunar_cont_2"
+		}],
+		consume_items: true
+	}]
+}

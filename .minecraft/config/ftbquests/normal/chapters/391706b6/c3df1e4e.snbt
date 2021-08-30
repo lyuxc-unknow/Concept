@@ -1,0 +1,17 @@
+{
+	x: 9.0d,
+	y: 688.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:blockaltar\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "44ba6671",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

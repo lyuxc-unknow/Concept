@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 245.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"ma.intermedium\"},Damage:0s}",
+	tasks: [{
+		uid: "5f5d0dde",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "ma.intermedium"
+			}
+		}],
+		consume_items: true
+	}]
+}

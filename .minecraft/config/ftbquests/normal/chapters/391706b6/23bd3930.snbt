@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 305.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"xu_magical_wood\"},Damage:0s}",
+	tasks: [{
+		uid: "287bb085",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "xu_magical_wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

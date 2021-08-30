@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 591.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"prodigytech:crystal_cutter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16d874d4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:crystal_cutter"
+		}],
+		consume_items: true
+	}]
+}

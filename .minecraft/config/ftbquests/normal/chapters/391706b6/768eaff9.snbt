@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 263.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"pulsating_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "435f72fc",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "pulsating_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

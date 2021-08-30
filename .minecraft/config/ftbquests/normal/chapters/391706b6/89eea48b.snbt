@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:aerial_interface\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87943a92",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:aerial_interface"
+		}],
+		consume_items: true
+	}]
+}

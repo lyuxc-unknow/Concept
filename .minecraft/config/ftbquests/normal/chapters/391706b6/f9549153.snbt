@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 741.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:ashen_cloak_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9fa9b2b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ashen_cloak_chest"
+		}],
+		consume_items: true
+	}]
+}

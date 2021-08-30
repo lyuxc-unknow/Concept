@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 439.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"ionite\"},Damage:0s}",
+	tasks: [{
+		uid: "1153aaf0",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "ionite"
+			}
+		}],
+		consume_items: true
+	}]
+}

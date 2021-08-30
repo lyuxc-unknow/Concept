@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 279.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"ma.prosperity\"},Damage:0s}",
+	tasks: [{
+		uid: "2afe092b",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "ma.prosperity"
+			}
+		}],
+		consume_items: true
+	}]
+}

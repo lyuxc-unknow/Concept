@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"enderio:withering\"},Damage:0s}",
+	tasks: [{
+		uid: "8718f886",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "enderio:withering"
+			}
+		}],
+		consume_items: true
+	}]
+}

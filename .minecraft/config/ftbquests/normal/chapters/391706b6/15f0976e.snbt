@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 763.0d,
+	description: "{id:\"tconevo:part_arcane_focus\",Count:1b,tag:{Material:\"red_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "ac86066e",
+		type: "item",
+		items: [{
+			id: "tconevo:part_arcane_focus",
+			tag: {
+				Material: "red_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

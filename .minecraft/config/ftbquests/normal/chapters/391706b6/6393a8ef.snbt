@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 673.0d,
+	description: "{id:\"actuallyadditions:block_canola_press\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "858ad973",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_canola_press"
+		}],
+		consume_items: true
+	}]
+}

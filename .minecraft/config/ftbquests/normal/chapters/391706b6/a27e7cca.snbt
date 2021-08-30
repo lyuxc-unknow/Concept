@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 620.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"certus\"},Damage:0s}",
+	tasks: [{
+		uid: "f8aa9f6d",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "certus"
+			}
+		}],
+		consume_items: true
+	}]
+}

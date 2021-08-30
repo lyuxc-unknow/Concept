@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: 208.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderio:item_dark_steel_upgrade\",Count:1b,tag:{\"enderio:dsu\":\"enderio:energyupgrade4\",\"enderio:enabled\":1b},Damage:1s}",
+	tasks: [{
+		uid: "abb6ba29",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_dark_steel_upgrade",
+			tag: {
+				"enderio:dsu": "enderio:energyupgrade4",
+				"enderio:enabled": 1b
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

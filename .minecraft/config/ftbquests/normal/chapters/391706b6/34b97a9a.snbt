@@ -1,0 +1,57 @@
+{
+	x: 29.0d,
+	y: 364.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.42f,FreeModifiers:3,Durability:1396,HarvestLevel:4,Attack:11.52f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.42f,FreeModifiers:3,Durability:1396,HarvestLevel:4,Attack:11.52f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"tungsten\",\"tungsten\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "bfad5da3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.42f,
+					FreeModifiers: 3,
+					Durability: 1396,
+					HarvestLevel: 4,
+					Attack: 11.52f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.42f,
+					FreeModifiers: 3,
+					Durability: 1396,
+					HarvestLevel: 4,
+					Attack: 11.52f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"tungsten",
+						"tungsten"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

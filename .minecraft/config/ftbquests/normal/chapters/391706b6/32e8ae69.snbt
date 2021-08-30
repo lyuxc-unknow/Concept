@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 555.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"狂风人\",level:10,mobId:\"thermalfoundation:blitz\"},Damage:0s}",
+	tasks: [{
+		uid: "b217020c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "狂风人",
+				level: 10,
+				mobId: "thermalfoundation:blitz"
+			}
+		}],
+		consume_items: true
+	}]
+}

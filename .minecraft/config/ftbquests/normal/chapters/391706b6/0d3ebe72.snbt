@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 182.0d,
+	description: "{id:\"enderio:item_conduit_facade\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "a8bc305b",
+		type: "item",
+		items: [{
+			item: "enderio:item_conduit_facade 1 3"
+		}],
+		consume_items: true
+	}]
+}

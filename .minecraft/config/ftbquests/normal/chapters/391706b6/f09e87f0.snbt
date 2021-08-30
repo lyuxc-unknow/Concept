@@ -1,0 +1,17 @@
+{
+	x: 39.0d,
+	y: 138.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:red_sandstone_stairs\"},Damage:0s}",
+	tasks: [{
+		uid: "cc494c58",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:red_sandstone_stairs"
+			}
+		}],
+		consume_items: true
+	}]
+}

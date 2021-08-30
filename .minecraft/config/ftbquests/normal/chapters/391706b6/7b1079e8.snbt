@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 580.0d,
+	description: "{id:\"pneumaticcraft:logistic_drone\",Count:1b,tag:{currentAir:120000.0f},Damage:0s}",
+	tasks: [{
+		uid: "1ebca675",
+		type: "item",
+		items: [{
+			id: "pneumaticcraft:logistic_drone",
+			tag: {
+				currentAir: 120000.0f
+			}
+		}],
+		consume_items: true
+	}]
+}

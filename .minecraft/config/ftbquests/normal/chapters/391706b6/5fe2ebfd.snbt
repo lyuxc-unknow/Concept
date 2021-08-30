@@ -1,0 +1,63 @@
+{
+	x: 15.0d,
+	y: 368.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:battlesign\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.25f,FreeModifiers:3,Durability:1332,HarvestLevel:3,Attack:7.12f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.25f,FreeModifiers:3,Durability:1332,HarvestLevel:3,Attack:7.12f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"psigem\",\"psigem\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psieater\",color:-15931171,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psieater\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ade31497",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:battlesign",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.25f,
+					FreeModifiers: 3,
+					Durability: 1332,
+					HarvestLevel: 3,
+					Attack: 7.12f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.25f,
+					FreeModifiers: 3,
+					Durability: 1332,
+					HarvestLevel: 3,
+					Attack: 7.12f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"psigem",
+						"psigem"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psieater",
+					color: -15931171,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psieater",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

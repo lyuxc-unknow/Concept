@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 164.0d,
+	description: "{id:\"solarflux:mirror\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "847fab06",
+		type: "item",
+		items: [{
+			item: "solarflux:mirror"
+		}],
+		consume_items: true
+	}]
+}

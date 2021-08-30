@@ -1,0 +1,21 @@
+{
+	x: 23.0d,
+	y: 556.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"entity.lord_earth.name\",level:10,mobId:\"lordcraft:lord_earth\"},Damage:0s}",
+	tasks: [{
+		uid: "f2278541",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "entity.lord_earth.name",
+				level: 10,
+				mobId: "lordcraft:lord_earth"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 481.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:bottledflame\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1800308f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:bottledflame"
+		}],
+		consume_items: true
+	}]
+}

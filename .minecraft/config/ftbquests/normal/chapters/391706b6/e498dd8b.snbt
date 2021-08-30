@@ -1,0 +1,19 @@
+{
+	x: 35.0d,
+	y: 65.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"minecraft:mutated_birch_forest\"},Damage:0s}",
+	tasks: [{
+		uid: "a67c17db",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "minecraft:mutated_birch_forest"
+			}
+		}],
+		consume_items: true
+	}]
+}

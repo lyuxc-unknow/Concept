@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"pink_slime\"},Damage:0s}",
+	tasks: [{
+		uid: "77e13646",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "pink_slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

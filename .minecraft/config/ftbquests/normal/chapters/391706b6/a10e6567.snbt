@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 532.0d,
+	description: "{id:\"enderutilities:ender_elevator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d23f5977",
+		type: "item",
+		items: [{
+			item: "enderutilities:ender_elevator"
+		}],
+		consume_items: true
+	}]
+}

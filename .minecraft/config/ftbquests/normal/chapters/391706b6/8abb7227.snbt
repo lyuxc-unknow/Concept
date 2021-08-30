@@ -1,0 +1,74 @@
+{
+	x: 23.0d,
+	y: 387.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:bolt\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:176,HarvestLevel:4,Attack:9.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:176,HarvestLevel:4,Attack:9.0f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"vibrant_alloy\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"enderport\",enderport-4:1b,color:-4798352,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"enderport-4\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "3632d50f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:bolt",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 176,
+					HarvestLevel: 4,
+					Attack: 9.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 176,
+					HarvestLevel: 4,
+					Attack: 9.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"vibrant_alloy",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "enderport",
+					enderport-4: 1b,
+					color: -4798352,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"enderport-4",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 30.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"minecraft:leaping\"},Damage:0s}",
+	tasks: [{
+		uid: "e8f1d0d4",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:leaping"
+			}
+		}],
+		consume_items: true
+	}]
+}

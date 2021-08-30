@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 543.0d,
+	description: "{id:\"mysticalagriculture:cobbled_soulstone_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df6359e7",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:cobbled_soulstone_wall"
+		}],
+		consume_items: true
+	}]
+}

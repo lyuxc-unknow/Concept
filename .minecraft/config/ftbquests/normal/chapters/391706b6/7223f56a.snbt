@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 743.0d,
+	description: "{id:\"embers:ingot_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "594ba306",
+		type: "item",
+		items: [{
+			item: "embers:ingot_nickel"
+		}],
+		consume_items: true
+	}]
+}

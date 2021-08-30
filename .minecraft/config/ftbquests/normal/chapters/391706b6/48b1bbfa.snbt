@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 646.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"electrical_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "864d329e",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "electrical_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

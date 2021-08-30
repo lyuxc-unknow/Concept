@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 490.0d,
+	description: "{id:\"bibliocraft:typewriter\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "c43503f7",
+		type: "item",
+		items: [{
+			item: "bibliocraft:typewriter 1 1"
+		}],
+		consume_items: true
+	}]
+}

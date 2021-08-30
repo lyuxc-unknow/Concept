@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 266.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"ruby\"},Damage:0s}",
+	tasks: [{
+		uid: "b76dc068",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "ruby"
+			}
+		}],
+		consume_items: true
+	}]
+}

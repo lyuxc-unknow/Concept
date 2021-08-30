@@ -1,0 +1,79 @@
+{
+	x: 0.0d,
+	y: 387.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:14.06f,FreeModifiers:3,Durability:980,HarvestLevel:4,Attack:13.07f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:14.06f,FreeModifiers:3,Durability:980,HarvestLevel:4,Attack:13.07f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"ivorypsi\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"psirepair\",color:-13858615,level:1},{identifier:\"holy\",color:-13858615,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"psirepair\",\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a877a46e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					Durability: 980,
+					HarvestLevel: 4,
+					Attack: 13.07f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					Durability: 980,
+					HarvestLevel: 4,
+					Attack: 13.07f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"ivorypsi",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "psirepair",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "holy",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"psirepair",
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 668.0d,
+	description: "{id:\"wirelessutils:crop_augment\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "070f8a0c",
+		type: "item",
+		items: [{
+			item: "wirelessutils:crop_augment"
+		}],
+		consume_items: true
+	}]
+}

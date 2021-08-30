@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 795.0d,
+	description: "{id:\"tp:nether_lava_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3614c589",
+		type: "item",
+		items: [{
+			item: "tp:nether_lava_block"
+		}],
+		consume_items: true
+	}]
+}

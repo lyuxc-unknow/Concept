@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 675.0d,
+	description: "{id:\"actuallyadditions:block_pillar_quartz_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "34c0b58e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_pillar_quartz_wall"
+		}],
+		consume_items: true
+	}]
+}

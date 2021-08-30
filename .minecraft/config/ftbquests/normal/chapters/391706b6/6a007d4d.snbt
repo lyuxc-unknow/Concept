@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 282.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"iron\"},Damage:0s}",
+	tasks: [{
+		uid: "f61d9d56",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

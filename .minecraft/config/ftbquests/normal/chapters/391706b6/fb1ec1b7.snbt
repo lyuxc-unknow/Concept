@@ -1,0 +1,75 @@
+{
+	x: 24.0d,
+	y: 327.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:2.5f,FreeModifiers:3,HarvestLevelShovel:3,Durability:580,HarvestLevel:3,Attack:8.6f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:2.5f,FreeModifiers:3,HarvestLevelShovel:3,Durability:580,HarvestLevel:3,Attack:8.6f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"energetic_alloy\",\"energetic_alloy\",\"energetic_alloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"holy\",color:-2518196,level:1},{identifier:\"unnatural\",color:-2518196,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"holy\",\"unnatural\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d35eedd5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 580,
+					HarvestLevel: 3,
+					Attack: 8.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 580,
+					HarvestLevel: 3,
+					Attack: 8.6f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"energetic_alloy",
+						"energetic_alloy",
+						"energetic_alloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "holy",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "unnatural",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"holy",
+					"unnatural",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

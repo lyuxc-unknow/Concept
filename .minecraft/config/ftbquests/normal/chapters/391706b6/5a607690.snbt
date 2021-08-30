@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 100.0d,
+	description: "{id:\"mist:cobblestone_slab\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "8d52dbd6",
+		type: "item",
+		items: [{
+			item: "mist:cobblestone_slab 1 1"
+		}],
+		consume_items: true
+	}]
+}

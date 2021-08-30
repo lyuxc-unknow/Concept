@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 753.0d,
+	description: "{id:\"environmentaltech:pladium_paver_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "66cfd4c0",
+		type: "item",
+		items: [{
+			item: "environmentaltech:pladium_paver_slab"
+		}],
+		consume_items: true
+	}]
+}

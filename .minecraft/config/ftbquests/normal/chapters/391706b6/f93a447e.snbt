@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 565.0d,
+	description: "{id:\"immersiveengineering:metal_device0\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "92b7c023",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device0 1 3"
+		}],
+		consume_items: true
+	}]
+}

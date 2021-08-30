@@ -1,0 +1,77 @@
+{
+	x: 20.0d,
+	y: 380.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.5f,Durability:393,HarvestLevel:3,Attack:3.23f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.5f,Durability:393,HarvestLevel:3,Attack:3.23f,Range:0.4f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderference\",\"alien\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2571fe33",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.5f,
+					Durability: 393,
+					HarvestLevel: 3,
+					Attack: 3.23f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.23f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.5f,
+					Durability: 393,
+					HarvestLevel: 3,
+					Attack: 3.23f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"endstone",
+						"endstone",
+						"endstone",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderference",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderference",
+					"alien",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

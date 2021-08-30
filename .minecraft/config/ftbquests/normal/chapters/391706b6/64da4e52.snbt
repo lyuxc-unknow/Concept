@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 648.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"draconic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "29aff6e7",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "draconic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

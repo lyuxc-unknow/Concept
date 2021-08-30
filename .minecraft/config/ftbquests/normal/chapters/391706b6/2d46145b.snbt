@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_clumpardite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e49e00d7",
+		type: "item",
+		items: [{
+			item: "jaopca:item_clumpardite"
+		}],
+		consume_items: true
+	}]
+}

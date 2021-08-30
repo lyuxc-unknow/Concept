@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:waterbreathing_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7e09aaa1",
+		type: "item",
+		items: [{
+			item: "rftools:waterbreathing_module"
+		}],
+		consume_items: true
+	}]
+}

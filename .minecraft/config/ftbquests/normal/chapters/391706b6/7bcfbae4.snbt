@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:yellorium_rod\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d35d6cce",
+		type: "item",
+		items: [{
+			item: "custom_additions:yellorium_rod"
+		}],
+		consume_items: true
+	}]
+}

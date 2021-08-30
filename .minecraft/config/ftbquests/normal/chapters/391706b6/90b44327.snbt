@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 127.0d,
+	description: "{id:\"openblocks:sky\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "cfd6fad3",
+		type: "item",
+		items: [{
+			item: "openblocks:sky 1 1"
+		}],
+		consume_items: true
+	}]
+}

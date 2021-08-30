@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 621.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "b08c1165",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

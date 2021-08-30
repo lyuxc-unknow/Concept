@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 262.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"flux_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "78f7495a",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "flux_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

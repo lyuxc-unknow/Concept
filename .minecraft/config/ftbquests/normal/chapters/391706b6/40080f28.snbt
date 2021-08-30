@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"osmium\"},Damage:0s}",
+	tasks: [{
+		uid: "1e56b344",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "osmium"
+			}
+		}],
+		consume_items: true
+	}]
+}

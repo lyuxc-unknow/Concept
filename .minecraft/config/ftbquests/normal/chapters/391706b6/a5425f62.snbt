@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:destructor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4e104350",
+		type: "item",
+		items: [{
+			item: "refinedstorage:destructor"
+		}],
+		consume_items: true
+	}]
+}

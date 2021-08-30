@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 624.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"construction_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "c3cb2a73",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "construction_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

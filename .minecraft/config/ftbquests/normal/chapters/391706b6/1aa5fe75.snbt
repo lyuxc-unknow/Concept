@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 256.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "a1e21b9c",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 33.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"extrautils2:xu2.fizzy.lifting\"},Damage:0s}",
+	tasks: [{
+		uid: "32bf8168",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "extrautils2:xu2.fizzy.lifting"
+			}
+		}],
+		consume_items: true
+	}]
+}

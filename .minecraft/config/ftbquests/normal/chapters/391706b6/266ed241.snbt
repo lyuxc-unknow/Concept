@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 441.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"diamond\"},Damage:0s}",
+	tasks: [{
+		uid: "6662f1fb",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "diamond"
+			}
+		}],
+		consume_items: true
+	}]
+}

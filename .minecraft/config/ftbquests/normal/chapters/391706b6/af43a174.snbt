@@ -1,0 +1,79 @@
+{
+	x: 17.0d,
+	y: 327.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1160,HarvestLevel:3,Attack:5.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1160,HarvestLevel:3,Attack:5.7f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ancite\",\"ancite\",\"ancite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-8682833,level:1,magnetic1:1b},{identifier:\"unnatural\",color:-8682833,level:1},{identifier:\"heavy\",color:-8682833,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic1\",\"unnatural\",\"heavy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "1978ebdc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 1160,
+					HarvestLevel: 3,
+					Attack: 5.7f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 1160,
+					HarvestLevel: 3,
+					Attack: 5.7f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ancite",
+						"ancite",
+						"ancite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -8682833,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "unnatural",
+					color: -8682833,
+					level: 1
+				},
+				{
+					identifier: "heavy",
+					color: -8682833,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1",
+					"unnatural",
+					"heavy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

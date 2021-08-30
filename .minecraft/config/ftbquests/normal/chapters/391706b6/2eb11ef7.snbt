@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 101.0d,
+	description: "{id:\"mist:aspen_step\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "036483a6",
+		type: "item",
+		items: [{
+			item: "mist:aspen_step"
+		}],
+		consume_items: true
+	}]
+}

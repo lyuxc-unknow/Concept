@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: 170.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"ludicrite\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "61e60d68",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "ludicrite",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

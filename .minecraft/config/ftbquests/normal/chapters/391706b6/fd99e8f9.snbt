@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 560.0d,
+	description: "{id:\"rftools:redstone_receiver_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00b1be84",
+		type: "item",
+		items: [{
+			item: "rftools:redstone_receiver_block"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 164.0d,
+	description: "{id:\"solarflux:solar_panel_infinity\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "574b8526",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_infinity"
+		}],
+		consume_items: true
+	}]
+}

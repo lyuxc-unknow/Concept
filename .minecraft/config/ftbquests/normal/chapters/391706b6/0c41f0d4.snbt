@@ -1,0 +1,61 @@
+{
+	x: 30.0d,
+	y: 349.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.63f,FreeModifiers:3,Durability:2686,HarvestLevel:4,Attack:10.41f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.63f,FreeModifiers:3,Durability:2686,HarvestLevel:4,Attack:10.41f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"titanium\",\"titanium\",\"titanium\",\"titanium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "73c65a69",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.63f,
+					FreeModifiers: 3,
+					Durability: 2686,
+					HarvestLevel: 4,
+					Attack: 10.41f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.63f,
+					FreeModifiers: 3,
+					Durability: 2686,
+					HarvestLevel: 4,
+					Attack: 10.41f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"titanium",
+						"titanium",
+						"titanium",
+						"titanium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

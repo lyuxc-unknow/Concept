@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 286.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "adab67f4",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

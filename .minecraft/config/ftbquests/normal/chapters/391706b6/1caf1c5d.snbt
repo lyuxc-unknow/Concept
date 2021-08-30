@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 545.0d,
+	description: "{id:\"mysticalagriculture:fertilized_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "807f0029",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:fertilized_essence"
+		}],
+		consume_items: true
+	}]
+}

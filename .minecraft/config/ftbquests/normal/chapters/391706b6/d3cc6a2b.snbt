@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:infused_brick_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2cf87b5c",
+		type: "item",
+		items: [{
+			item: "naturesaura:infused_brick_stairs"
+		}],
+		consume_items: true
+	}]
+}

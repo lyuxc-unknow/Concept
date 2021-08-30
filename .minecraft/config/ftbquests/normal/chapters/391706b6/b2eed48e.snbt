@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 114.0d,
+	description: "{id:\"moreplates:demon_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0670c5bb",
+		type: "item",
+		items: [{
+			item: "moreplates:demon_gear"
+		}],
+		consume_items: true
+	}]
+}

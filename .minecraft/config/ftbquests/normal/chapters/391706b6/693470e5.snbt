@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 588.0d,
+	description: "{id:\"overloaded:compressed_dirt\",Count:1b,Damage:12s}",
+	tasks: [{
+		uid: "082ccfe0",
+		type: "item",
+		items: [{
+			item: "overloaded:compressed_dirt 1 12"
+		}],
+		consume_items: true
+	}]
+}

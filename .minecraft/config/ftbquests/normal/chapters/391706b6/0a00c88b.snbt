@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 626.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"essence_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "2edbd2b8",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "essence_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

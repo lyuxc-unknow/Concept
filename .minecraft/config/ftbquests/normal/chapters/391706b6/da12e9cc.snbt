@@ -1,0 +1,71 @@
+{
+	x: 37.0d,
+	y: 380.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:1.2f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:430,HarvestLevel:1,Attack:5.0f,Range:0.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:1.2f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:430,HarvestLevel:1,Attack:5.0f,Range:0.8f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "1017501e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 1.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 430,
+					HarvestLevel: 1,
+					Attack: 5.0f,
+					Range: 0.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 1.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 430,
+					HarvestLevel: 1,
+					Attack: 5.0f,
+					Range: 0.8f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"silver",
+						"silver",
+						"silver",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "holy",
+					color: -3019530,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

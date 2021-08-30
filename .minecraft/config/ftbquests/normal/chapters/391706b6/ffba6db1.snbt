@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 298.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"livingwood\"},Damage:0s}",
+	tasks: [{
+		uid: "8b05572b",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "livingwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

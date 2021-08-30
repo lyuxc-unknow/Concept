@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 234.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"extrabotany:ingotorichalcos\"},Damage:0s}",
+	tasks: [{
+		uid: "54d9bffb",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "extrabotany:ingotorichalcos"
+			}
+		}],
+		consume_items: true
+	}]
+}

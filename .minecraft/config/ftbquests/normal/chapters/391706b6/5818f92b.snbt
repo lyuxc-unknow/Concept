@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 520.0d,
+	description: "{id:\"darkutils:material\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "c658f3f2",
+		type: "item",
+		items: [{
+			item: "darkutils:material 1 1"
+		}],
+		consume_items: true
+	}]
+}

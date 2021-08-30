@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 440.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "2df4e4d8",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

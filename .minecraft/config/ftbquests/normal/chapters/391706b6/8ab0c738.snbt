@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 668.0d,
+	description: "{id:\"wirelessutils:filter_augment\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "e96fd37c",
+		type: "item",
+		items: [{
+			item: "wirelessutils:filter_augment 1 2"
+		}],
+		consume_items: true
+	}]
+}

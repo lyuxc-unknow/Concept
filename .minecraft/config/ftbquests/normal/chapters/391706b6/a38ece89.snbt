@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 760.0d,
+	description: "{id:\"industrialforegoing:artificial_dye\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "a7e4d7e8",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:artificial_dye 1 1"
+		}],
+		consume_items: true
+	}]
+}

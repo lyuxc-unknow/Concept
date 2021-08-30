@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 590.0d,
+	description: "{id:\"prodigytech:inferno_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2b6219ac",
+		type: "item",
+		items: [{
+			item: "prodigytech:inferno_crystal"
+		}],
+		consume_items: true
+	}]
+}

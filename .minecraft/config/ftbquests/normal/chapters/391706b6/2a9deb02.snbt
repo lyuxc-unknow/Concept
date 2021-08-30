@@ -1,0 +1,73 @@
+{
+	x: 30.0d,
+	y: 335.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hammer\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:200,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:200,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"hellish\",\"aridiculous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ed694f38",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 200,
+					HarvestLevel: 1,
+					Attack: 3.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 200,
+					HarvestLevel: 1,
+					Attack: 3.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"netherrack",
+						"netherrack",
+						"netherrack",
+						"netherrack"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "hellish",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "aridiculous",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"hellish",
+					"aridiculous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

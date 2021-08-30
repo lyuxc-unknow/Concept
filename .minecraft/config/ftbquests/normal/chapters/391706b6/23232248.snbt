@@ -1,0 +1,75 @@
+{
+	x: 8.0d,
+	y: 662.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:0.0f,FreeModifiers:3,tt.explosionRadius:1.9f,Durability:152,HarvestLevel:0,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:0.0f,FreeModifiers:3,tt.explosionRadius:1.9f,Durability:152,HarvestLevel:0,Attack:6.5f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"pigiron\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tasty\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "abeb25a7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					tt.explosionRadius: 1.9f,
+					Durability: 152,
+					HarvestLevel: 0,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					tt.explosionRadius: 1.9f,
+					Durability: 152,
+					HarvestLevel: 0,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"pigiron",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "tasty",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tasty",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

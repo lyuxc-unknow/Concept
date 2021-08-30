@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 3.0d,
+	description: "{id:\"minecraft:soul_sand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5018c422",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand"
+		}],
+		consume_items: true
+	}]
+}

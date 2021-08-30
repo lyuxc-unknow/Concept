@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 629.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"livingrock\"},Damage:0s}",
+	tasks: [{
+		uid: "16dd529e",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "livingrock"
+			}
+		}],
+		consume_items: true
+	}]
+}

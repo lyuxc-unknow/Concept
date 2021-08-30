@@ -1,0 +1,71 @@
+{
+	x: 0.0d,
+	y: 354.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.75f,FreeModifiers:3,Durability:572,HarvestLevel:2,Attack:1.75f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:6.75f,FreeModifiers:3,Durability:572,HarvestLevel:2,Attack:1.75f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"conductive_iron\",\"conductive_iron\",\"conductive_iron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-5546657,level:1},{identifier:\"crude\",color:-5546657,level:2,crude2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"crude2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7199098c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.75f,
+					FreeModifiers: 3,
+					Durability: 572,
+					HarvestLevel: 2,
+					Attack: 1.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 6.75f,
+					FreeModifiers: 3,
+					Durability: 572,
+					HarvestLevel: 2,
+					Attack: 1.75f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"conductive_iron",
+						"conductive_iron",
+						"conductive_iron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -5546657,
+					level: 1
+				},
+				{
+					identifier: "crude",
+					color: -5546657,
+					level: 2,
+					crude2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"crude2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

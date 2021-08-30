@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 616.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"advancedalloy\"},Damage:0s}",
+	tasks: [{
+		uid: "16ece22e",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "advancedalloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

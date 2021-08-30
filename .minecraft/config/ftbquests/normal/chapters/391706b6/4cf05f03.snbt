@@ -1,0 +1,76 @@
+{
+	x: 16.0d,
+	y: 374.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,DrawSpeed:1.2f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:80,HarvestLevel:0,Attack:3.5f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,DrawSpeed:1.2f,FreeModifiers:5,ProjectileBonusDamage:0.0f,Durability:80,HarvestLevel:0,Attack:3.5f,Range:1.0f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"livingwood\",\"livingwood\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-8824277,level:1},{identifier:\"tconevo.modifiable\",color:-8824277,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tconevo.modifiable1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "8fad2b4d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					DrawSpeed: 1.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 80,
+					HarvestLevel: 0,
+					Attack: 3.5f,
+					Range: 1.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					DrawSpeed: 1.2f,
+					FreeModifiers: 5,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 80,
+					HarvestLevel: 0,
+					Attack: 3.5f,
+					Range: 1.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"livingwood",
+						"livingwood",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -8824277,
+					level: 1
+				},
+				{
+					identifier: "tconevo.modifiable",
+					color: -8824277,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tconevo.modifiable1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

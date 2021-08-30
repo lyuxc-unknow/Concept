@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 612.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"ancite\"},Damage:0s}",
+	tasks: [{
+		uid: "a50dc250",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "ancite"
+			}
+		}],
+		consume_items: true
+	}]
+}

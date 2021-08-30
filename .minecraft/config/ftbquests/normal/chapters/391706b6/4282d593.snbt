@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"dark_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "7d60ec63",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "dark_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

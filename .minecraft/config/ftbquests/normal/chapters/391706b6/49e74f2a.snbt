@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 802.0d,
+	description: "{id:\"jaopca:item_dustsmallcoal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "edd78beb",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustsmallcoal"
+		}],
+		consume_items: true
+	}]
+}

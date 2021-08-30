@@ -1,0 +1,72 @@
+{
+	x: 39.0d,
+	y: 661.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.2f,DrawSpeed:1.6f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:896,HarvestLevel:3,Attack:3.7f,Range:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.2f,DrawSpeed:1.6f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:896,HarvestLevel:3,Attack:3.7f,Range:1.2f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"steaite\",\"steaite\",\"steaite\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"duritos\",color:-6261415,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2e1f3d0b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.2f,
+					DrawSpeed: 1.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 896,
+					HarvestLevel: 3,
+					Attack: 3.7f,
+					Range: 1.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.2f,
+					DrawSpeed: 1.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 896,
+					HarvestLevel: 3,
+					Attack: 3.7f,
+					Range: 1.2f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"steaite",
+						"steaite",
+						"steaite",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -6261415,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

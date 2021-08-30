@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"sentient_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "e1a2779b",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "sentient_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

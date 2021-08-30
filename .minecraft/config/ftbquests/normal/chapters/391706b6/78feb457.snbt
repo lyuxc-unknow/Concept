@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 280.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"litherite\"},Damage:0s}",
+	tasks: [{
+		uid: "b8b1d666",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "litherite"
+			}
+		}],
+		consume_items: true
+	}]
+}

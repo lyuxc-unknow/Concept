@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 624.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"end_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "795b7fd3",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "end_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

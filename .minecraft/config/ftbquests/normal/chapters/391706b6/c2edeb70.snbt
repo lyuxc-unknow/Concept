@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 287.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"chaotic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "d5e0b30c",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "chaotic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

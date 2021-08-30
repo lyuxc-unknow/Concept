@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 91.0d,
+	description: "{id:\"randomthings:stainedbrick\",Count:1b,Damage:10s}",
+	tasks: [{
+		uid: "891d597b",
+		type: "item",
+		items: [{
+			item: "randomthings:stainedbrick 1 10"
+		}],
+		consume_items: true
+	}]
+}

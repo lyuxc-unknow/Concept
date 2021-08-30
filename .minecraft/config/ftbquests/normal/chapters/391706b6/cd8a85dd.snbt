@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 247.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"mithril\"},Damage:0s}",
+	tasks: [{
+		uid: "d7b31a5b",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "mithril"
+			}
+		}],
+		consume_items: true
+	}]
+}

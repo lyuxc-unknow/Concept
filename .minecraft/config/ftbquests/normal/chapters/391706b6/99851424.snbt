@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 509.0d,
+	description: "{id:\"mekanism:polyethene\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "107f66fa",
+		type: "item",
+		items: [{
+			item: "mekanism:polyethene 1 3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,86 @@
+{
+	x: 4.0d,
+	y: 788.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:270,HarvestLevel:0,Duration:74,Attack:3.3f,Weight:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:270,HarvestLevel:0,Duration:74,Attack:3.3f,Weight:1.2f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"superheat\",color:-27123,level:1},{identifier:\"sticky\",color:-27123,level:1},{identifier:\"flammable\",color:-27123,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"superheat\",\"sticky\",\"flammable\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "daa15782",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 270,
+					HarvestLevel: 0,
+					Duration: 74,
+					Attack: 3.3f,
+					Weight: 1.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 270,
+					HarvestLevel: 0,
+					Duration: 74,
+					Attack: 3.3f,
+					Weight: 1.2f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"magmaslime",
+						"magmaslime",
+						"magmaslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "superheat",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "sticky",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "flammable",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"superheat",
+					"sticky",
+					"flammable",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

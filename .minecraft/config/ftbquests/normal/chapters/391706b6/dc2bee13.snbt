@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 311.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"gelid_enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "59782d4d",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "gelid_enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

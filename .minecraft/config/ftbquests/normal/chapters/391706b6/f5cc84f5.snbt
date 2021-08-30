@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 225.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "b00f389e",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 433.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"end_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "35ad0540",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "end_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

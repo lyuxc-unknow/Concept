@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 507.0d,
+	description: "{id:\"mekanism:nugget\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "5823c1ab",
+		type: "item",
+		items: [{
+			item: "mekanism:nugget 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 31.0d,
+	y: 314.0d,
+	description: "{id:\"tconstruct:toolforge\",Count:1b,tag:{textureBlock:{id:\"mekanism:basicblock\",Count:1b,Damage:4s}},Damage:0s}",
+	tasks: [{
+		uid: "1393c637",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "mekanism:basicblock",
+					Count: 1b,
+					Damage: 4s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

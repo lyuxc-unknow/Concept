@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 775.0d,
+	description: "{id:\"omegacraft:electric_furnace_ultb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f17b2d16",
+		type: "item",
+		items: [{
+			item: "omegacraft:electric_furnace_ultb"
+		}],
+		consume_items: true
+	}]
+}

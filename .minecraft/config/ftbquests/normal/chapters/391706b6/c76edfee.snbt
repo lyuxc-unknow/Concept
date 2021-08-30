@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 87.0d,
+	description: "{id:\"randomthings:lightredirector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "be073310",
+		type: "item",
+		items: [{
+			item: "randomthings:lightredirector"
+		}],
+		consume_items: true
+	}]
+}

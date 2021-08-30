@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 41.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:armor.helmet_invar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "811ed378",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:armor.helmet_invar"
+		}],
+		consume_items: true
+	}]
+}

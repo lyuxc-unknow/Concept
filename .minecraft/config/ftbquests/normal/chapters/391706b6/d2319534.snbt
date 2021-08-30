@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 409.0d,
+	description: "{id:\"projecte:item.pe_ring_iron_band\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e14c6ed2",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_ring_iron_band"
+		}],
+		consume_items: true
+	}]
+}

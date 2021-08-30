@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 629.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"fluix\"},Damage:0s}",
+	tasks: [{
+		uid: "6f4496cb",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "fluix"
+			}
+		}],
+		consume_items: true
+	}]
+}

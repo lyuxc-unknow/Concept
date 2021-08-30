@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 445.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"ma.prosperity\"},Damage:0s}",
+	tasks: [{
+		uid: "a87b5686",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "ma.prosperity"
+			}
+		}],
+		consume_items: true
+	}]
+}

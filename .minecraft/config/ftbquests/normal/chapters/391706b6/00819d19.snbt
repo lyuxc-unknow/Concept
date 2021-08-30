@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 62.0d,
+	description: "{id:\"extrautils2:klein\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "14d4e243",
+		type: "item",
+		items: [{
+			item: "extrautils2:klein"
+		}],
+		consume_items: true
+	}]
+}

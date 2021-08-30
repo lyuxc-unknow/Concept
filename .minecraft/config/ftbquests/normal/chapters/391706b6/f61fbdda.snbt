@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 280.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"bound_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "01bdf050",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "bound_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

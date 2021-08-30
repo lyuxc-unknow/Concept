@@ -1,0 +1,62 @@
+{
+	x: 33.0d,
+	y: 468.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:364,Defense:15.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:364,Defense:15.0f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"enori_crystal\",\"enori_crystal\",\"enori_crystal\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"magnetic_armor\",color:-1842205,level:1,magnetic1_armor:1b},{identifier:\"heavy_armor\",color:-1842205,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"magnetic1_armor\",\"heavy_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "c91a3e68",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 364,
+					Defense: 15.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 364,
+					Defense: 15.0f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"enori_crystal",
+						"enori_crystal",
+						"enori_crystal"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic_armor",
+					color: -1842205,
+					level: 1,
+					magnetic1_armor: 1b
+				},
+				{
+					identifier: "heavy_armor",
+					color: -1842205,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1_armor",
+					"heavy_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

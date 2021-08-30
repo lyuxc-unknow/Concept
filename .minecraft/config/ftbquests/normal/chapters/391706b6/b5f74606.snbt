@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 481.0d,
+	description: "{id:\"extrabotany:rewardbag\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "1423f8de",
+		type: "item",
+		items: [{
+			item: "extrabotany:rewardbag 1 2"
+		}],
+		consume_items: true
+	}]
+}

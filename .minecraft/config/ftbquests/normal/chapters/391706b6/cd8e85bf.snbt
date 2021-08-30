@@ -1,0 +1,19 @@
+{
+	x: 22.0d,
+	y: 124.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"ec.internal.slurryiridium\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "0e8a21e4",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "ec.internal.slurryiridium",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

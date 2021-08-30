@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 445.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "debf8c47",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 761.0d,
+	description: "{id:\"threng:material\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "dbc2adb2",
+		type: "item",
+		items: [{
+			item: "threng:material 1 3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 506.0d,
+	description: "{id:\"bonsaitrees:bonsaipot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8cb23a92",
+		type: "item",
+		items: [{
+			item: "bonsaitrees:bonsaipot"
+		}],
+		consume_items: true
+	}]
+}

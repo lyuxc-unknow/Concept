@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 784.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"bone\"},Damage:0s}",
+	tasks: [{
+		uid: "e366c48d",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "bone"
+			}
+		}],
+		consume_items: true
+	}]
+}

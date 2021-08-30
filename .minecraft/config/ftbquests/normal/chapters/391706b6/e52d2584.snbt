@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 547.0d,
+	description: "{id:\"mysticalagriculture:enderman_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ef3da47",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:enderman_essence"
+		}],
+		consume_items: true
+	}]
+}

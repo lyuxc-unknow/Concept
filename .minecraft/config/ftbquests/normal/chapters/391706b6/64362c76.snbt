@@ -1,0 +1,19 @@
+{
+	x: 21.0d,
+	y: 123.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"ec.internal.liquidosmium\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "bf1c9dec",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "ec.internal.liquidosmium",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

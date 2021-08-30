@@ -1,0 +1,17 @@
+{
+	x: 26.0d,
+	y: 738.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"refinedstorage:wireless_fluid_grid\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "af67d84e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "refinedstorage:wireless_fluid_grid",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

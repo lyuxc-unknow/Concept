@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:security_station\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ea760276",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:security_station"
+		}],
+		consume_items: true
+	}]
+}

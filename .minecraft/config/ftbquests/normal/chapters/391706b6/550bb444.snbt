@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 742.0d,
+	description: "{id:\"embers:archaic_circuit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "558f2214",
+		type: "item",
+		items: [{
+			item: "embers:archaic_circuit"
+		}],
+		consume_items: true
+	}]
+}

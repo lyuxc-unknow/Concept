@@ -1,0 +1,17 @@
+{
+	x: 13.0d,
+	y: 58.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"mist:woodlouse\"},Damage:0s}",
+	tasks: [{
+		uid: "a8de4c4e",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "mist:woodlouse"
+			}
+		}],
+		consume_items: true
+	}]
+}

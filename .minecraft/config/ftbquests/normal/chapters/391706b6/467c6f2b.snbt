@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 264.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"extrabotany:ingotorichalcos\"},Damage:0s}",
+	tasks: [{
+		uid: "9b20a0bf",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "extrabotany:ingotorichalcos"
+			}
+		}],
+		consume_items: true
+	}]
+}

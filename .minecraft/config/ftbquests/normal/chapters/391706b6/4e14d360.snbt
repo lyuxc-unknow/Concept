@@ -1,0 +1,27 @@
+{
+	x: 21.0d,
+	y: 48.0d,
+	description: "{ForgeCaps:{Parent:{Size:9,Items:[]}},id:\"draconicevolution:wyvern_shovel\",Count:1b,tag:{DEUpgrades:{digSpeed:2b,digAOE:2b,rfCap:2b},Energy:32000000},Damage:0s}",
+	tasks: [{
+		uid: "0ac23d7b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 9,
+					Items: []
+				}
+			},
+			id: "draconicevolution:wyvern_shovel",
+			tag: {
+				DEUpgrades: {
+					digSpeed: 2b,
+					digAOE: 2b,
+					rfCap: 2b
+				},
+				Energy: 32000000
+			}
+		}],
+		consume_items: true
+	}]
+}

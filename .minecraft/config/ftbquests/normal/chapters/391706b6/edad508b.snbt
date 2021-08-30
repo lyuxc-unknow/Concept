@@ -1,0 +1,72 @@
+{
+	x: 18.0d,
+	y: 646.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:dagger\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:11.76f,FreeModifiers:3,Durability:2314,HarvestLevel:4,Attack:14.06f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:11.76f,FreeModifiers:3,Durability:2314,HarvestLevel:4,Attack:14.06f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ebonypsi\",\"ebonypsi\",\"ebonypsi\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psieater\",color:-16119286,level:1},{identifier:\"darkness\",color:-16119286,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psieater\",\"darkness\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0c6ffc2d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:dagger",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 11.76f,
+					FreeModifiers: 3,
+					Durability: 2314,
+					HarvestLevel: 4,
+					Attack: 14.06f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 11.76f,
+					FreeModifiers: 3,
+					Durability: 2314,
+					HarvestLevel: 4,
+					Attack: 14.06f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ebonypsi",
+						"ebonypsi",
+						"ebonypsi"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psieater",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "darkness",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psieater",
+					"darkness",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

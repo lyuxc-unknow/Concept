@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 298.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"palis_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "5b7c528d",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "palis_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

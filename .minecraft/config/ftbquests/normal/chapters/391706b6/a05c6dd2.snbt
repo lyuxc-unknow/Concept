@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 474.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"carbon_fiber\"},Damage:0s}",
+	tasks: [{
+		uid: "b57ecfd1",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "carbon_fiber"
+			}
+		}],
+		consume_items: true
+	}]
+}

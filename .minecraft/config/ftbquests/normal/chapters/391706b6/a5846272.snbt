@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 73.0d,
+	description: "{id:\"calculator:atomicassembly\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4af395e",
+		type: "item",
+		items: [{
+			item: "calculator:atomicassembly"
+		}],
+		consume_items: true
+	}]
+}

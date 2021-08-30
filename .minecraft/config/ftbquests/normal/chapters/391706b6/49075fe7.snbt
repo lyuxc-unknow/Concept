@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"wyverndraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "b98a723d",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "wyverndraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

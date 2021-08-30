@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 300.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"electrumflux\"},Damage:0s}",
+	tasks: [{
+		uid: "c48c6a31",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "electrumflux"
+			}
+		}],
+		consume_items: true
+	}]
+}

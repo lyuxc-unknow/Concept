@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 491.0d,
+	description: "{id:\"bibliocraft:tape\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "090c678f",
+		type: "item",
+		items: [{
+			item: "bibliocraft:tape"
+		}],
+		consume_items: true
+	}]
+}

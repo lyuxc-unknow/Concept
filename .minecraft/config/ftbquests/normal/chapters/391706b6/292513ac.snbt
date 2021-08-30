@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 745.0d,
+	description: "{id:\"embers:beam_cannon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b29795af",
+		type: "item",
+		items: [{
+			item: "embers:beam_cannon"
+		}],
+		consume_items: true
+	}]
+}

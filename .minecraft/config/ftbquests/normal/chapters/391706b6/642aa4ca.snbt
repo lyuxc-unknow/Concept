@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 200.0d,
+	description: "{id:\"enderio:block_not_holy_enlightened_fused_glass\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "ddc129ad",
+		type: "item",
+		items: [{
+			item: "enderio:block_not_holy_enlightened_fused_glass 1 8"
+		}],
+		consume_items: true
+	}]
+}

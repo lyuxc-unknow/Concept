@@ -1,0 +1,60 @@
+{
+	x: 14.0d,
+	y: 635.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.63f,FreeModifiers:3,Durability:4285,HarvestLevel:4,Attack:14.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.63f,FreeModifiers:3,Durability:4285,HarvestLevel:4,Attack:14.23f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"advancedalloy\",\"advancedalloy\",\"advancedalloy\",\"advancedalloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "8b9341d0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.63f,
+					FreeModifiers: 3,
+					Durability: 4285,
+					HarvestLevel: 4,
+					Attack: 14.23f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.63f,
+					FreeModifiers: 3,
+					Durability: 4285,
+					HarvestLevel: 4,
+					Attack: 14.23f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

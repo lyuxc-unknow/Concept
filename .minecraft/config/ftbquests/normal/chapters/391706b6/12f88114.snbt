@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:capacitor_aeroheater\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6d964e2e",
+		type: "item",
+		items: [{
+			item: "prodigytech:capacitor_aeroheater"
+		}],
+		consume_items: true
+	}]
+}

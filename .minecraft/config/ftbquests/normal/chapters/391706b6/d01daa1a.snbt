@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 106.0d,
+	description: "{id:\"mist:sapropel_ball\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7580840",
+		type: "item",
+		items: [{
+			item: "mist:sapropel_ball"
+		}],
+		consume_items: true
+	}]
+}

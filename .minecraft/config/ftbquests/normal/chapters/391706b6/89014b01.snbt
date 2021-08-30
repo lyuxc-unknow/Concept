@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 571.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:steel_armor_head\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ffbbbb74",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:steel_armor_head"
+		}],
+		consume_items: true
+	}]
+}

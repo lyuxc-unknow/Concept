@@ -1,0 +1,20 @@
+{
+	x: 13.0d,
+	y: 496.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:inscription_tool\",Count:1b,tag:{uses:10},Damage:5s}",
+	tasks: [{
+		uid: "c838c398",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:inscription_tool",
+			tag: {
+				uses: 10
+			},
+			Damage: 5s
+		}],
+		consume_items: true
+	}]
+}

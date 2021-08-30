@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 24.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"minecraft:beetroot_soup\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "70f2fca7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:beetroot_soup"
+		}],
+		consume_items: true
+	}]
+}

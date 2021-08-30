@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 587.0d,
+	description: "{id:\"overloaded:compressed_obsidian\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "d9f410f2",
+		type: "item",
+		items: [{
+			item: "overloaded:compressed_obsidian 1 2"
+		}],
+		consume_items: true
+	}]
+}

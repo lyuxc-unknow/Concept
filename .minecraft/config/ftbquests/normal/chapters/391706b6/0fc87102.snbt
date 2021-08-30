@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 307.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"polyethylene\"},Damage:0s}",
+	tasks: [{
+		uid: "7f358e1b",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "polyethylene"
+			}
+		}],
+		consume_items: true
+	}]
+}

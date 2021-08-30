@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"ma.soulium\"},Damage:0s}",
+	tasks: [{
+		uid: "9fdd2d74",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "ma.soulium"
+			}
+		}],
+		consume_items: true
+	}]
+}

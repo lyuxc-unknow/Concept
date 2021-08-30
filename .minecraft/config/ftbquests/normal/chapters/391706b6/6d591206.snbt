@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 755.0d,
+	description: "{id:\"environmentaltech:void_botanic_miner_cont_6\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "81d2f724",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_botanic_miner_cont_6"
+		}],
+		consume_items: true
+	}]
+}

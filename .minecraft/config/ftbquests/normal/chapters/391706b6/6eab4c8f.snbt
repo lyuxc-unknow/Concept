@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:energion_aeroheater\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e73f1fe1",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_aeroheater"
+		}],
+		consume_items: true
+	}]
+}

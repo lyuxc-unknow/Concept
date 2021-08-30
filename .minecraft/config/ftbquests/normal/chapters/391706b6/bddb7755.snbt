@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 172.0d,
+	description: "{id:\"alchemistry:fertilizer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e06dd769",
+		type: "item",
+		items: [{
+			item: "alchemistry:fertilizer"
+		}],
+		consume_items: true
+	}]
+}

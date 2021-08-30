@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"manyullyn\"},Damage:1s}",
+	tasks: [{
+		uid: "3dba94bd",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "manyullyn"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

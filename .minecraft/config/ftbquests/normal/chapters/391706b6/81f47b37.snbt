@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 755.0d,
+	description: "{id:\"environmentaltech:modifier_health_boost\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7733c0bc",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_health_boost"
+		}],
+		consume_items: true
+	}]
+}

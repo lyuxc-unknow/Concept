@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 620.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"iron\"},Damage:0s}",
+	tasks: [{
+		uid: "0bad58b0",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 24.0d,
+	y: 741.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:ember_cartridge\",Count:1b,tag:{emberCapacity:6000.0d,ember:0.0d},Damage:0s}",
+	tasks: [{
+		uid: "b349878b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ember_cartridge",
+			tag: {
+				emberCapacity: 6000.0d,
+				ember: 0.0d
+			}
+		}],
+		consume_items: true
+	}]
+}

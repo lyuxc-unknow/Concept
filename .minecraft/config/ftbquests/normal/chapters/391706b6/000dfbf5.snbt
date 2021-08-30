@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 650.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"awakeneddraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "6e6e85d1",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "awakeneddraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 799.0d,
+	description: "{id:\"jaopca:item_gearterrite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02150e2a",
+		type: "item",
+		items: [{
+			item: "jaopca:item_gearterrite"
+		}],
+		consume_items: true
+	}]
+}

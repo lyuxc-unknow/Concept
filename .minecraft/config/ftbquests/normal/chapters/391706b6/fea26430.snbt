@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 88.0d,
+	description: "{id:\"randomthings:fluiddisplay\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "68bc9c34",
+		type: "item",
+		items: [{
+			item: "randomthings:fluiddisplay"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:empowered_void_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ca9613f",
+		type: "item",
+		items: [{
+			item: "moreplates:empowered_void_gear"
+		}],
+		consume_items: true
+	}]
+}

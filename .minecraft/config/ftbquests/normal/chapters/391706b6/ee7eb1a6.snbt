@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 533.0d,
+	description: "{id:\"enderutilities:storage_0\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "0c0358b4",
+		type: "item",
+		items: [{
+			item: "enderutilities:storage_0 1 3"
+		}],
+		consume_items: true
+	}]
+}

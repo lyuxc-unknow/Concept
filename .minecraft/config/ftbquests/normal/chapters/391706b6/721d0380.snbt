@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"mica\"},Damage:0s}",
+	tasks: [{
+		uid: "b722b724",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "mica"
+			}
+		}],
+		consume_items: true
+	}]
+}

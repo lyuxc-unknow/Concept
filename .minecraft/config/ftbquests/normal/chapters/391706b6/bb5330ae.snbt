@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	description: "{id:\"minecraft:dark_oak_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa6cfd5f",
+		type: "item",
+		items: [{
+			item: "minecraft:dark_oak_stairs"
+		}],
+		consume_items: true
+	}]
+}

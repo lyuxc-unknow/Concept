@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 629.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"enori_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "1fe7c6d1",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "enori_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

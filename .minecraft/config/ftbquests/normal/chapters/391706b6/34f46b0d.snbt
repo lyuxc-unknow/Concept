@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 306.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"crystal_matrix\"},Damage:0s}",
+	tasks: [{
+		uid: "fa7ce67e",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}],
+		consume_items: true
+	}]
+}

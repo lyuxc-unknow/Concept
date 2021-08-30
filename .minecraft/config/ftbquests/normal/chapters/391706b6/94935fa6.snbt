@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: 500.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:5,key:\"bloodmagic.upgrade.solarPowered\"},Damage:0s}",
+	tasks: [{
+		uid: "303a1ff2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 5,
+				key: "bloodmagic.upgrade.solarPowered"
+			}
+		}],
+		consume_items: true
+	}]
+}

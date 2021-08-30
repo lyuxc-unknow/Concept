@@ -1,0 +1,64 @@
+{
+	x: 15.0d,
+	y: 364.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.52f,FreeModifiers:3,Durability:462,HarvestLevel:2,Attack:5.08f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.52f,FreeModifiers:3,Durability:462,HarvestLevel:2,Attack:5.08f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"yellorium\",\"yellorium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"radioactive\",color:-329912,level:2,radioactive2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"radioactive2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fd03e6c4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.52f,
+					FreeModifiers: 3,
+					Durability: 462,
+					HarvestLevel: 2,
+					Attack: 5.08f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.52f,
+					FreeModifiers: 3,
+					Durability: 462,
+					HarvestLevel: 2,
+					Attack: 5.08f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"yellorium",
+						"yellorium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "radioactive",
+					color: -329912,
+					level: 2,
+					radioactive2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"radioactive2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

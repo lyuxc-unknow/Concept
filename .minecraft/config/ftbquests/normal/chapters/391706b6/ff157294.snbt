@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 126.0d,
+	description: "{id:\"openblocks:fan\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6697b229",
+		type: "item",
+		items: [{
+			item: "openblocks:fan"
+		}],
+		consume_items: true
+	}]
+}

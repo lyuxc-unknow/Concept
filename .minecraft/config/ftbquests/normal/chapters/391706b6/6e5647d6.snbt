@@ -1,0 +1,17 @@
+{
+	x: 13.0d,
+	y: 498.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:teleposition_focus\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "9b4ef40c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:teleposition_focus",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

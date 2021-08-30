@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:strong_harming\"},Damage:0s}",
+	tasks: [{
+		uid: "f1d38f52",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:strong_harming"
+			}
+		}],
+		consume_items: true
+	}]
+}

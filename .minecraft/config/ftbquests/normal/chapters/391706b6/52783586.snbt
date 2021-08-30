@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:spectreleaf\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "586b151e",
+		type: "item",
+		items: [{
+			item: "randomthings:spectreleaf"
+		}],
+		consume_items: true
+	}]
+}

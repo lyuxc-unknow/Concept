@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 262.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"blutonium\"},Damage:0s}",
+	tasks: [{
+		uid: "c21c30e4",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "blutonium"
+			}
+		}],
+		consume_items: true
+	}]
+}

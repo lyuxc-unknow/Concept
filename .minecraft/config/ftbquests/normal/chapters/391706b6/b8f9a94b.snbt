@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"treatedwood\"},Damage:0s}",
+	tasks: [{
+		uid: "6b628b5c",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "treatedwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

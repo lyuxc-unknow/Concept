@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 60.0d,
+	description: "{id:\"extrautils2:screen\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e52641c4",
+		type: "item",
+		items: [{
+			item: "extrautils2:screen"
+		}],
+		consume_items: true
+	}]
+}

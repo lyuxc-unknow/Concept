@@ -1,0 +1,84 @@
+{
+	x: 33.0d,
+	y: 659.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:1687,HarvestLevel:4,Attack:7.0f,Range:1.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:1687,HarvestLevel:4,Attack:7.0f,Range:1.3f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"emeraldic_crystal\",\"emeraldic_crystal\",\"emeraldic_crystal\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.crystalline\",color:-16757248,level:1},{identifier:\"coldblooded\",color:-16757248,level:1},{identifier:\"momentum\",color:-16757248,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.crystalline\",\"coldblooded\",\"momentum\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "240fad3d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.85f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 1687,
+					HarvestLevel: 4,
+					Attack: 7.0f,
+					Range: 1.3f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.85f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 1687,
+					HarvestLevel: 4,
+					Attack: 7.0f,
+					Range: 1.3f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"emeraldic_crystal",
+						"emeraldic_crystal",
+						"emeraldic_crystal",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.crystalline",
+					color: -16757248,
+					level: 1
+				},
+				{
+					identifier: "coldblooded",
+					color: -16757248,
+					level: 1
+				},
+				{
+					identifier: "momentum",
+					color: -16757248,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.crystalline",
+					"coldblooded",
+					"momentum",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

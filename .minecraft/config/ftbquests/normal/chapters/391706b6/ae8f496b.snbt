@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 420.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:dodgering\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d20cc884",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:dodgering"
+		}],
+		consume_items: true
+	}]
+}

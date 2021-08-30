@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 664.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"mist:wulder\"},Damage:0s}",
+	tasks: [{
+		uid: "d965198f",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "mist:wulder"
+			}
+		}],
+		consume_items: true
+	}]
+}

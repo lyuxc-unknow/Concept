@@ -1,0 +1,70 @@
+{
+	x: 19.0d,
+	y: 361.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,FreeModifiers:3,Durability:115,HarvestLevel:0,Attack:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,FreeModifiers:4,Durability:115,HarvestLevel:0,Attack:1.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"redstone_alloy\",\"redstone_alloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"writable\",color:-5167321,level:1,writable1:1b},{identifier:\"shocking\",color:-5167321,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"writable1\",\"shocking\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "19173a0c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					Durability: 115,
+					HarvestLevel: 0,
+					Attack: 1.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 4,
+					Durability: 115,
+					HarvestLevel: 0,
+					Attack: 1.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"redstone_alloy",
+						"redstone_alloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "writable",
+					color: -5167321,
+					level: 1,
+					writable1: 1b
+				},
+				{
+					identifier: "shocking",
+					color: -5167321,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"writable1",
+					"shocking",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

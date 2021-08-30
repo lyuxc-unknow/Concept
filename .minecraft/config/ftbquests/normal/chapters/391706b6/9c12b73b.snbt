@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 745.0d,
+	description: "{id:\"embers:sealed_planks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df409249",
+		type: "item",
+		items: [{
+			item: "embers:sealed_planks"
+		}],
+		consume_items: true
+	}]
+}

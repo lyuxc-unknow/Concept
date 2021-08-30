@@ -1,0 +1,17 @@
+{
+	x: 19.0d,
+	y: 149.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:5b,Block:\"randomthings:stainedbrick\"},Damage:0s}",
+	tasks: [{
+		uid: "6b0f1fae",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 5b,
+				Block: "randomthings:stainedbrick"
+			}
+		}],
+		consume_items: true
+	}]
+}

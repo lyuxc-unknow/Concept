@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 751.0d,
+	description: "{id:\"environmentalmaterials:alabaster_wall_black\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dbb9f692",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_wall_black"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 280.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"refined_obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "6818024c",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "refined_obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

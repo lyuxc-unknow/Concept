@@ -1,0 +1,77 @@
+{
+	x: 26.0d,
+	y: 370.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:578,HarvestLevel:2,Attack:9.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:578,HarvestLevel:2,Attack:9.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"sentient_metal\",\"sentient_metal\",\"sentient_metal\",\"sentient_metal\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.willful\",color:-8462621,level:1},{identifier:\"tconevo.sentient\",color:-8462621,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.willful\",\"tconevo.sentient\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f681258c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 578,
+					HarvestLevel: 2,
+					Attack: 9.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 578,
+					HarvestLevel: 2,
+					Attack: 9.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sentient_metal",
+						"sentient_metal",
+						"sentient_metal",
+						"sentient_metal"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.willful",
+					color: -8462621,
+					level: 1
+				},
+				{
+					identifier: "tconevo.sentient",
+					color: -8462621,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.willful",
+					"tconevo.sentient",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,85 @@
+{
+	x: 18.0d,
+	y: 388.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:bolt\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:8888,HarvestLevel:10,Attack:16.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:8888,HarvestLevel:10,Attack:16.0f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"neutronium\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"dense\",color:-12895429,level:1},{identifier:\"tconevo.condensing\",color:-12895429,level:1},{identifier:\"heavy\",color:-12895429,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"dense\",\"tconevo.condensing1\",\"heavy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9f8d4d4e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:bolt",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 8888,
+					HarvestLevel: 10,
+					Attack: 16.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 8888,
+					HarvestLevel: 10,
+					Attack: 16.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"neutronium",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "dense",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "tconevo.condensing",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "heavy",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"dense",
+					"tconevo.condensing1",
+					"heavy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

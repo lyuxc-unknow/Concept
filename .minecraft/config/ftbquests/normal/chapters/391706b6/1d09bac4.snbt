@@ -1,0 +1,78 @@
+{
+	x: 4.0d,
+	y: 660.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:770,HarvestLevel:4,Attack:7.0f,Range:1.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:770,HarvestLevel:4,Attack:7.0f,Range:1.4f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bound_metal\",\"bound_metal\",\"bound_metal\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.bloodbound\",color:-9764347,level:1},{identifier:\"tconevo.crystalys\",color:-9764347,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.bloodbound\",\"tconevo.crystalys\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "1fbf7f94",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 770,
+					HarvestLevel: 4,
+					Attack: 7.0f,
+					Range: 1.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 770,
+					HarvestLevel: 4,
+					Attack: 7.0f,
+					Range: 1.4f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bound_metal",
+						"bound_metal",
+						"bound_metal",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.bloodbound",
+					color: -9764347,
+					level: 1
+				},
+				{
+					identifier: "tconevo.crystalys",
+					color: -9764347,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.bloodbound",
+					"tconevo.crystalys",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

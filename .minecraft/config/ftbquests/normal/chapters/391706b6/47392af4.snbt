@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 625.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"ma.superium\"},Damage:0s}",
+	tasks: [{
+		uid: "738afd64",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "ma.superium"
+			}
+		}],
+		consume_items: true
+	}]
+}

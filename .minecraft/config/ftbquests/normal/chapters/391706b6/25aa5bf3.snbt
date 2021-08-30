@@ -1,0 +1,19 @@
+{
+	x: 35.0d,
+	y: 419.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:incensestick\",Count:1b,tag:{brewKey:\"fireResistance\"},Damage:0s}",
+	tasks: [{
+		uid: "86f9d48e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:incensestick",
+			tag: {
+				brewKey: "fireResistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

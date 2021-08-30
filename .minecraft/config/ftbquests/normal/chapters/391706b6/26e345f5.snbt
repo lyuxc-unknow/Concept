@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 546.0d,
+	description: "{id:\"mysticalagriculture:dye_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "28aa007b",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:dye_essence"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 37.0d,
+	y: 676.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_growth_ring\",Count:1b,tag:{Energy:0},Damage:0s}",
+	tasks: [{
+		uid: "2c4f8184",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_growth_ring",
+			tag: {
+				Energy: 0
+			}
+		}],
+		consume_items: true
+	}]
+}

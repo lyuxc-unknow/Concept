@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"ma.supremium\"},Damage:0s}",
+	tasks: [{
+		uid: "cf9cd4d4",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "ma.supremium"
+			}
+		}],
+		consume_items: true
+	}]
+}

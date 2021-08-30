@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 63.0d,
+	description: "{id:\"extrautils2:spike_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc2b4008",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_iron"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	x: 8.0d,
+	y: 655.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:scimitar\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:958,HarvestLevel:4,Attack:9.72f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:958,HarvestLevel:4,Attack:9.72f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"coldblooded\",\"insatiable\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "95008d35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:scimitar",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					Durability: 958,
+					HarvestLevel: 4,
+					Attack: 9.72f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					Durability: 958,
+					HarvestLevel: 4,
+					Attack: 9.72f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"manyullyn",
+						"manyullyn",
+						"manyullyn"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "coldblooded",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "insatiable",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"coldblooded",
+					"insatiable",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

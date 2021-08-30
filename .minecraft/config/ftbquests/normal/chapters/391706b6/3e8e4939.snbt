@@ -1,0 +1,19 @@
+{
+	x: 35.0d,
+	y: 131.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"redstonerepository:armor.helmet_gelid\",Count:1b,tag:{Energy:4000000},Damage:0s}",
+	tasks: [{
+		uid: "32307a5a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonerepository:armor.helmet_gelid",
+			tag: {
+				Energy: 4000000
+			}
+		}],
+		consume_items: true
+	}]
+}

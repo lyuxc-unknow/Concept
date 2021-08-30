@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:level_upgrade\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "8b71c0e3",
+		type: "item",
+		items: [{
+			item: "wirelessutils:level_upgrade 1 1"
+		}],
+		consume_items: true
+	}]
+}

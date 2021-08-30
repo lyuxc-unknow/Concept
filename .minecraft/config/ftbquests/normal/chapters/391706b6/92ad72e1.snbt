@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 279.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"ma.intermedium\"},Damage:0s}",
+	tasks: [{
+		uid: "1b0547a4",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "ma.intermedium"
+			}
+		}],
+		consume_items: true
+	}]
+}

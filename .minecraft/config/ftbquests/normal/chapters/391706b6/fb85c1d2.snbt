@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 614.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"elementium\"},Damage:0s}",
+	tasks: [{
+		uid: "6e15e175",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "elementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

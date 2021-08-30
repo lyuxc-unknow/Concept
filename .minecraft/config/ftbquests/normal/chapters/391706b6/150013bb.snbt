@@ -1,0 +1,77 @@
+{
+	x: 10.0d,
+	y: 382.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.25f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:-6.0f,Durability:265,HarvestLevel:0,Attack:2.5f,Range:0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.25f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:-6.0f,Durability:265,HarvestLevel:0,Attack:2.5f,Range:0.5f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"meat_metal\",\"meat_metal\",\"meat_metal\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tasty\",color:-8498894,level:1},{identifier:\"tconevo.rejuvenating\",color:-8498894,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tasty\",\"tconevo.rejuvenating\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "77e3100b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.25f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -6.0f,
+					Durability: 265,
+					HarvestLevel: 0,
+					Attack: 2.5f,
+					Range: 0.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.25f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -6.0f,
+					Durability: 265,
+					HarvestLevel: 0,
+					Attack: 2.5f,
+					Range: 0.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"meat_metal",
+						"meat_metal",
+						"meat_metal",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tasty",
+					color: -8498894,
+					level: 1
+				},
+				{
+					identifier: "tconevo.rejuvenating",
+					color: -8498894,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tasty",
+					"tconevo.rejuvenating",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

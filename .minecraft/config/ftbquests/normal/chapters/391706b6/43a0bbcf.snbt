@@ -1,0 +1,21 @@
+{
+	x: 12.0d,
+	y: 314.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"prodigytech:zorra_log\",Count:1b,Damage:0s}},Damage:2s}",
+	tasks: [{
+		uid: "ca236d9f",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "prodigytech:zorra_log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

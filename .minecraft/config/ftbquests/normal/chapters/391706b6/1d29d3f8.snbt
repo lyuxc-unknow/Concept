@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 97.0d,
+	description: "{id:\"mist:grass_t\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "3b82f1aa",
+		type: "item",
+		items: [{
+			item: "mist:grass_t 1 4"
+		}],
+		consume_items: true
+	}]
+}

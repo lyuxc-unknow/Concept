@@ -1,0 +1,19 @@
+{
+	x: 30.0d,
+	y: 119.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"vivid_alloy\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "3f6fd04a",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "vivid_alloy",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

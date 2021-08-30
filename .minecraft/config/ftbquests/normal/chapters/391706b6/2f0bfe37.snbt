@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"gaia\"},Damage:0s}",
+	tasks: [{
+		uid: "ecc484f7",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "gaia"
+			}
+		}],
+		consume_items: true
+	}]
+}

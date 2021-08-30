@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 115.0d,
+	description: "{id:\"moreplates:prudentium_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "386ba8fe",
+		type: "item",
+		items: [{
+			item: "moreplates:prudentium_gear"
+		}],
+		consume_items: true
+	}]
+}

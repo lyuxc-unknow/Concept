@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 268.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"aquamarine\"},Damage:0s}",
+	tasks: [{
+		uid: "df654050",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "aquamarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

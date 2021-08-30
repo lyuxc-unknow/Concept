@@ -1,0 +1,74 @@
+{
+	x: 20.0d,
+	y: 392.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:270,HarvestLevel:1,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:270,HarvestLevel:1,Attack:6.5f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"lumium\",\"lumium\",\"lumium\",\"lumium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.opportunist\",color:-2235507,level:1},{identifier:\"tconevo.luminiferous\",color:-2235507,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.opportunist\",\"tconevo.luminiferous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2979fde7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 270,
+					HarvestLevel: 1,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 270,
+					HarvestLevel: 1,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"lumium",
+						"lumium",
+						"lumium",
+						"lumium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.opportunist",
+					color: -2235507,
+					level: 1
+				},
+				{
+					identifier: "tconevo.luminiferous",
+					color: -2235507,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.opportunist",
+					"tconevo.luminiferous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

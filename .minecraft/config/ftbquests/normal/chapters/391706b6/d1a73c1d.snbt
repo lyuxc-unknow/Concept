@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:conductive_iron_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "819fea0e",
+		type: "item",
+		items: [{
+			item: "moreplates:conductive_iron_plate"
+		}],
+		consume_items: true
+	}]
+}

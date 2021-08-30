@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"brass\"},Damage:0s}",
+	tasks: [{
+		uid: "f89a58d2",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "brass"
+			}
+		}],
+		consume_items: true
+	}]
+}

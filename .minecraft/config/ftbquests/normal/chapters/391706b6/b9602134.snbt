@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 784.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "d913417b",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

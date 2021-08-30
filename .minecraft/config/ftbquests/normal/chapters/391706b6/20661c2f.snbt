@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 145.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"sonarcore:stablestoneblackrimmed_blue\"},Damage:0s}",
+	tasks: [{
+		uid: "547a2e01",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "sonarcore:stablestoneblackrimmed_blue"
+			}
+		}],
+		consume_items: true
+	}]
+}

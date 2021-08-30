@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 27.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:swiftness\"},Damage:0s}",
+	tasks: [{
+		uid: "73631771",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:swiftness"
+			}
+		}],
+		consume_items: true
+	}]
+}

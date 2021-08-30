@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 631.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"awakeneddraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "878041f6",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "awakeneddraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

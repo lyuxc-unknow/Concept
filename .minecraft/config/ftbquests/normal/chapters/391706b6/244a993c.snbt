@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 586.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"overloaded:multi_chestplate\",Count:1b,tag:{IntEnergyStorage:2147483647},Damage:0s}",
+	tasks: [{
+		uid: "51c859d7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "overloaded:multi_chestplate",
+			tag: {
+				IntEnergyStorage: 2147483647
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"diamantine_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "f48f3dae",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "diamantine_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

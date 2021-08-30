@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 186.0d,
+	description: "{id:\"enderio:block_holier_fog\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "496720b8",
+		type: "item",
+		items: [{
+			item: "enderio:block_holier_fog"
+		}],
+		consume_items: true
+	}]
+}

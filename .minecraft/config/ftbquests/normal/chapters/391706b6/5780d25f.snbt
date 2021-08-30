@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 576.0d,
+	description: "{id:\"mob_grinding_utils:dragon_muffler\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2816c786",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:dragon_muffler"
+		}],
+		consume_items: true
+	}]
+}

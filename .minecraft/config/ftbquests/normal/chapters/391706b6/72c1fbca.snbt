@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 613.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "bf50e714",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

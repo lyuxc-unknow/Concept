@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 606.0d,
+	description: "{id:\"thermallogistics:requester\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "daccd89b",
+		type: "item",
+		items: [{
+			item: "thermallogistics:requester"
+		}],
+		consume_items: true
+	}]
+}

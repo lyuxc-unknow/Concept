@@ -1,0 +1,20 @@
+{
+	x: 38.0d,
+	y: 503.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:0,key:\"bloodmagic.upgrade.disoriented\"},Damage:0s}",
+	tasks: [{
+		uid: "6de97043",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 0,
+				key: "bloodmagic.upgrade.disoriented"
+			}
+		}],
+		consume_items: true
+	}]
+}

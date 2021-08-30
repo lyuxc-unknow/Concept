@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 543.0d,
+	description: "{id:\"mysticalagriculture:inferium_reprocessor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f8a08eb",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:inferium_reprocessor"
+		}],
+		consume_items: true
+	}]
+}

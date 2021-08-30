@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 617.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"ma.base_essence\"},Damage:0s}",
+	tasks: [{
+		uid: "34a37ae3",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "ma.base_essence"
+			}
+		}],
+		consume_items: true
+	}]
+}

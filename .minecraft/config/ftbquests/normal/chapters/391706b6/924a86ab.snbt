@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 752.0d,
+	description: "{id:\"environmentaltech:erodium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f76e3f5",
+		type: "item",
+		items: [{
+			item: "environmentaltech:erodium"
+		}],
+		consume_items: true
+	}]
+}

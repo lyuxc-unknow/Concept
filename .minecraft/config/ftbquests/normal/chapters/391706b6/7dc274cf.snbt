@@ -1,0 +1,62 @@
+{
+	x: 32.0d,
+	y: 460.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:938,Defense:9.0f},Stats:{Toughness:0.0f,FreeModifiers:6,Durability:938,Defense:9.0f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"xu_magical_wood\",\"xu_magical_wood\",\"xu_magical_wood\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"brittle\",color:-131160,level:1},{identifier:\"magical_modifier\",color:-131160,level:1,magical_modifier:1b},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"brittle\",\"magical_modifier\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "41de3576",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 938,
+					Defense: 9.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 6,
+					Durability: 938,
+					Defense: 9.0f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"xu_magical_wood",
+						"xu_magical_wood",
+						"xu_magical_wood"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "brittle",
+					color: -131160,
+					level: 1
+				},
+				{
+					identifier: "magical_modifier",
+					color: -131160,
+					level: 1,
+					magical_modifier: 1b
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"brittle",
+					"magical_modifier",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

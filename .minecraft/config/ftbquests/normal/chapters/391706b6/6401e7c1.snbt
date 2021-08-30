@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:tanzanite_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0f589b3",
+		type: "item",
+		items: [{
+			item: "moreplates:tanzanite_gear"
+		}],
+		consume_items: true
+	}]
+}

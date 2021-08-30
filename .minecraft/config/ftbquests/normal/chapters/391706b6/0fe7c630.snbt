@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 492.0d,
+	description: "{id:\"bloodmagic:ritual_controller\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "27bc2a7b",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_controller 1 2"
+		}],
+		consume_items: true
+	}]
+}

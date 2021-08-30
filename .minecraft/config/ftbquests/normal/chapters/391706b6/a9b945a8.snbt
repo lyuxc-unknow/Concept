@@ -1,0 +1,79 @@
+{
+	x: 5.0d,
+	y: 384.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:200,HarvestLevel:1,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:200,HarvestLevel:1,Attack:6.0f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"bone\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"splintering\",color:-1186113,level:1},{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"splintering\",\"fractured\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9086d2de",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 5.09f,
+					FreeModifiers: 3,
+					Durability: 200,
+					HarvestLevel: 1,
+					Attack: 4.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 5.09f,
+					FreeModifiers: 3,
+					Durability: 200,
+					HarvestLevel: 1,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"bone",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "splintering",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "fractured",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"splintering",
+					"fractured",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

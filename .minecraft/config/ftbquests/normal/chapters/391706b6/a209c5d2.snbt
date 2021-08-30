@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 487.0d,
+	description: "{id:\"bibliocraft:fancyworkbench\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "58807a4b",
+		type: "item",
+		items: [{
+			item: "bibliocraft:fancyworkbench 1 3"
+		}],
+		consume_items: true
+	}]
+}

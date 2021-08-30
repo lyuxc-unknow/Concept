@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 279.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "aae5d376",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

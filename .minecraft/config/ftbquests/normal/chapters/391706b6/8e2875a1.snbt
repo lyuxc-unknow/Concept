@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 414.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:lavapendant\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5dfae2d7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lavapendant"
+		}],
+		consume_items: true
+	}]
+}

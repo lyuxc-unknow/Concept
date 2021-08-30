@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 451.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"refinediron\"},Damage:0s}",
+	tasks: [{
+		uid: "219ff74a",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "refinediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

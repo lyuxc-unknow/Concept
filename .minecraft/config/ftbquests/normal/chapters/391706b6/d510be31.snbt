@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"psi\"},Damage:0s}",
+	tasks: [{
+		uid: "86e0b5e8",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "psi"
+			}
+		}],
+		consume_items: true
+	}]
+}

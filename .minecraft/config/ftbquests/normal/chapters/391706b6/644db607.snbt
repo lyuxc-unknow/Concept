@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 285.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"wyverndraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "1506d412",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "wyverndraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

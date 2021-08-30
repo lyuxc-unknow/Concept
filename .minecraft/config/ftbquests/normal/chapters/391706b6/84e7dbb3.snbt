@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 87.0d,
+	description: "{id:\"randomthings:imbuingstation\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "475b32d5",
+		type: "item",
+		items: [{
+			item: "randomthings:imbuingstation"
+		}],
+		consume_items: true
+	}]
+}

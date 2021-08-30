@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 768.0d,
+	description: "{id:\"lordcraft:lord_summon_darkb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7d640db1",
+		type: "item",
+		items: [{
+			item: "lordcraft:lord_summon_darkb"
+		}],
+		consume_items: true
+	}]
+}

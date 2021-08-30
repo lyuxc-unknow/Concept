@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 669.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:sticky_yoyo\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c5f8e0ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:sticky_yoyo"
+		}],
+		consume_items: true
+	}]
+}

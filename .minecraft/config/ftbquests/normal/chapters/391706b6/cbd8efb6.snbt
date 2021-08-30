@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 126.0d,
+	description: "{id:\"openblocks:block_breaker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac3a1a0e",
+		type: "item",
+		items: [{
+			item: "openblocks:block_breaker"
+		}],
+		consume_items: true
+	}]
+}

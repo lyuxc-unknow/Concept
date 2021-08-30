@@ -1,0 +1,20 @@
+{
+	x: 16.0d,
+	y: 169.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"bound_metal\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "e151e114",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "bound_metal",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

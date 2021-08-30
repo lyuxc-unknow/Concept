@@ -1,0 +1,17 @@
+{
+	x: 26.0d,
+	y: 758.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"industrialforegoing:laser_lens\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "2f2f7abf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:laser_lens",
+			Damage: 5s
+		}],
+		consume_items: true
+	}]
+}

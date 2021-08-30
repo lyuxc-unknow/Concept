@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 802.0d,
+	description: "{id:\"jaopca:item_dustsmallaquamarine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4e207a2f",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustsmallaquamarine"
+		}],
+		consume_items: true
+	}]
+}

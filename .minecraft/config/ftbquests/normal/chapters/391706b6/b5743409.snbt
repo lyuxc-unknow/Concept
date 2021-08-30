@@ -1,0 +1,77 @@
+{
+	x: 38.0d,
+	y: 370.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:810,HarvestLevel:3,Attack:9.5f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:7.0f,FreeModifiers:3,Durability:810,HarvestLevel:3,Attack:9.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"erodium\",\"erodium\",\"erodium\",\"erodium\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-8558701,level:1},{identifier:\"depthdigger\",color:-8558701,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"depthdigger\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2e58b84a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 810,
+					HarvestLevel: 3,
+					Attack: 9.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 810,
+					HarvestLevel: 3,
+					Attack: 9.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"erodium",
+						"erodium",
+						"erodium",
+						"erodium"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -8558701,
+					level: 1
+				},
+				{
+					identifier: "depthdigger",
+					color: -8558701,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"depthdigger",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

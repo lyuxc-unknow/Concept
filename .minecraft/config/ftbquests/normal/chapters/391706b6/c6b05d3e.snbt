@@ -1,0 +1,20 @@
+{
+	x: 26.0d,
+	y: 503.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:8,key:\"bloodmagic.upgrade.graveDigger\"},Damage:0s}",
+	tasks: [{
+		uid: "f2d9e318",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 8,
+				key: "bloodmagic.upgrade.graveDigger"
+			}
+		}],
+		consume_items: true
+	}]
+}

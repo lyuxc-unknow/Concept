@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 489.0d,
+	description: "{id:\"bibliocraft:paintingframemiddle\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "f7b24dc1",
+		type: "item",
+		items: [{
+			item: "bibliocraft:paintingframemiddle 1 3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 741.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:ignition_cannon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3aa7ac1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ignition_cannon"
+		}],
+		consume_items: true
+	}]
+}

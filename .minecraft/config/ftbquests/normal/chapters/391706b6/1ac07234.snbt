@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 676.0d,
+	description: "{id:\"actuallyadditions:item_misc\",Count:1b,Damage:21s}",
+	tasks: [{
+		uid: "018e5021",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 21"
+		}],
+		consume_items: true
+	}]
+}

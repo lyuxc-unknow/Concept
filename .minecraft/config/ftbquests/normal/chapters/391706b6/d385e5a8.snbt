@@ -1,0 +1,19 @@
+{
+	x: 26.0d,
+	y: 671.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:battery_quadruple_bauble\",Count:1b,tag:{Energy:0},Damage:0s}",
+	tasks: [{
+		uid: "99d88f44",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:battery_quadruple_bauble",
+			tag: {
+				Energy: 0
+			}
+		}],
+		consume_items: true
+	}]
+}

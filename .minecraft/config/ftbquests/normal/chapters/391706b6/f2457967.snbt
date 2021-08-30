@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 268.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "0520fb23",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

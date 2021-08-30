@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 672.0d,
+	description: "{id:\"actuallyadditions:block_shock_suppressor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6d50198",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_shock_suppressor"
+		}],
+		consume_items: true
+	}]
+}

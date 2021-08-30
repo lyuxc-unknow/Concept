@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:coloredgrass\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "5b2c7a81",
+		type: "item",
+		items: [{
+			item: "randomthings:coloredgrass 1 8"
+		}],
+		consume_items: true
+	}]
+}

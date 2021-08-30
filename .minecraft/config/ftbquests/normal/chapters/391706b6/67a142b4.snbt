@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 574.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"matc:superiumcrystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9321bbc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "matc:superiumcrystal"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 507.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:anchorupgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8330726c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:anchorupgrade"
+		}],
+		consume_items: true
+	}]
+}

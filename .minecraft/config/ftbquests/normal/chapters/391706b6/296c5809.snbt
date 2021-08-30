@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 126.0d,
+	description: "{id:\"openblocks:block_placer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "576aec9f",
+		type: "item",
+		items: [{
+			item: "openblocks:block_placer"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 751.0d,
+	description: "{id:\"environmentalmaterials:hardened_stone_paver_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e01b47f0",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:hardened_stone_paver_slab"
+		}],
+		consume_items: true
+	}]
+}

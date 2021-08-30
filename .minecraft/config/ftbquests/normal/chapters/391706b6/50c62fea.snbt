@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 274.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"conductive_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "8c10c411",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "conductive_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

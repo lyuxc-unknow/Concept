@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 188.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderio:item_magnet\",Count:1b,tag:{\"enderio:energy\":100000},Damage:0s}",
+	tasks: [{
+		uid: "1e672b11",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_magnet",
+			tag: {
+				"enderio:energy": 100000
+			}
+		}],
+		consume_items: true
+	}]
+}

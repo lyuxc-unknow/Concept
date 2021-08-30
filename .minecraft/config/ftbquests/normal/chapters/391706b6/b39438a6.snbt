@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 774.0d,
+	description: "{id:\"omegacraft:rain_advb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "22d12621",
+		type: "item",
+		items: [{
+			item: "omegacraft:rain_advb"
+		}],
+		consume_items: true
+	}]
+}

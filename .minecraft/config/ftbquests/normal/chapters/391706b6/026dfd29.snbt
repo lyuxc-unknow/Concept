@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"kyronite\"},Damage:0s}",
+	tasks: [{
+		uid: "10b4ff14",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "kyronite"
+			}
+		}],
+		consume_items: true
+	}]
+}

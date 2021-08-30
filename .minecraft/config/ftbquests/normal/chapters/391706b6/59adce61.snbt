@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 27.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"cofhcore:wither2+\"},Damage:0s}",
+	tasks: [{
+		uid: "00c919e6",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "cofhcore:wither2+"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 547.0d,
+	description: "{id:\"mysticalagriculture:ardite_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6d271ea",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ardite_essence"
+		}],
+		consume_items: true
+	}]
+}

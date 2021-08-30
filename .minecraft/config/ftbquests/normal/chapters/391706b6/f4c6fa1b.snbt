@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 43.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.shield_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f56bdb98",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.shield_nickel"
+		}],
+		consume_items: true
+	}]
+}

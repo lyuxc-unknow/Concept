@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"manasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "2711ab96",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "manasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

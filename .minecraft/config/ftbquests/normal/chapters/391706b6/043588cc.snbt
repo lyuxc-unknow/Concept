@@ -1,0 +1,75 @@
+{
+	x: 1.0d,
+	y: 662.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.2f,DrawSpeed:3.5f,FreeModifiers:3,ProjectileBonusDamage:-2.0f,Durability:56,HarvestLevel:2,Attack:1.5f,Range:0.45f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.2f,DrawSpeed:3.5f,FreeModifiers:3,ProjectileBonusDamage:-2.0f,Durability:56,HarvestLevel:2,Attack:1.5f,Range:0.45f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"preservation\",\"preservation\",\"preservation\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{selective1:1b,identifier:\"selective\",selective2:1b,color:-5649516,level:3},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"selective1\",\"selective2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2b927d3d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.2f,
+					DrawSpeed: 3.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -2.0f,
+					Durability: 56,
+					HarvestLevel: 2,
+					Attack: 1.5f,
+					Range: 0.45f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.2f,
+					DrawSpeed: 3.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -2.0f,
+					Durability: 56,
+					HarvestLevel: 2,
+					Attack: 1.5f,
+					Range: 0.45f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"preservation",
+						"preservation",
+						"preservation",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					selective1: 1b,
+					identifier: "selective",
+					selective2: 1b,
+					color: -5649516,
+					level: 3
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"selective1",
+					"selective2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 3.0d,
+	description: "{id:\"minecraft:stained_glass\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "d68a08e6",
+		type: "item",
+		items: [{
+			item: "minecraft:stained_glass 1 7"
+		}],
+		consume_items: true
+	}]
+}

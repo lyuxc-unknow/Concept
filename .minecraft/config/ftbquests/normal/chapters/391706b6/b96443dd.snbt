@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"brass\"},Damage:0s}",
+	tasks: [{
+		uid: "011b7be4",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "brass"
+			}
+		}],
+		consume_items: true
+	}]
+}

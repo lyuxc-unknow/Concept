@@ -1,0 +1,59 @@
+{
+	x: 12.0d,
+	y: 458.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:helmet\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:90,Defense:15.0f},Stats:{AttackSpeedMultiplier:0.0f,Toughness:0.0f,MiningSpeed:0.0f,FreeModifiers:9,Durability:90,HarvestLevel:0,Attack:0.0f,Defense:15.0f},ConArmEquipmentSlot:5,TinkerData:{Materials:[\"mica\",\"mica\",\"mica\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"tconevo.modifiable\",color:-5263441,level:6},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"tconevo.modifiable2\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "06fa34a8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:helmet",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 90,
+					Defense: 15.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 0.0f,
+					Toughness: 0.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 9,
+					Durability: 90,
+					HarvestLevel: 0,
+					Attack: 0.0f,
+					Defense: 15.0f
+				},
+				ConArmEquipmentSlot: 5,
+				TinkerData: {
+					Materials: [
+						"mica",
+						"mica",
+						"mica"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.modifiable",
+					color: -5263441,
+					level: 6
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.modifiable2",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

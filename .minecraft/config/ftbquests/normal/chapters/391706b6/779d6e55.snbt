@@ -1,0 +1,19 @@
+{
+	x: 33.0d,
+	y: 779.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"bound_metal\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "5b65863c",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "bound_metal",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

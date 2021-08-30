@@ -1,0 +1,78 @@
+{
+	x: 19.0d,
+	y: 325.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:12777,HarvestLevel:10,Attack:16.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:12777,HarvestLevel:10,Attack:16.5f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"neutronium\",\"neutronium\",\"neutronium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"dense\",color:-12895429,level:1},{identifier:\"heavy\",color:-12895429,level:1},{identifier:\"tconevo.condensing\",color:-12895429,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"dense\",\"heavy\",\"tconevo.condensing1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "91cb2aef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 12777,
+					HarvestLevel: 10,
+					Attack: 16.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 12777,
+					HarvestLevel: 10,
+					Attack: 16.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"neutronium",
+						"neutronium",
+						"neutronium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "dense",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "heavy",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "tconevo.condensing",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dense",
+					"heavy",
+					"tconevo.condensing1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

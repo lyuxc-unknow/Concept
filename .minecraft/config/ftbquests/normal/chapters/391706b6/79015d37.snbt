@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 12.0d,
+	description: "{id:\"minecraft:cooked_chicken\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "94e44d71",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_chicken"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: 120.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"if.ore_fluid_fermented\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "e1b9f52f",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "if.ore_fluid_fermented",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

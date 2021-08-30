@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 423.0d,
+	description: "{id:\"botania:shinyflower\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "5e779fa1",
+		type: "item",
+		items: [{
+			item: "botania:shinyflower 1 4"
+		}],
+		consume_items: true
+	}]
+}

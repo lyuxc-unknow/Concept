@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 180.0d,
+	description: "{id:\"chickens:spawn_egg\",Count:1b,tag:{ChickenType:{id:\"morechickens:blitzrodchicken\"}},Damage:0s}",
+	tasks: [{
+		uid: "de42d0cd",
+		type: "item",
+		items: [{
+			id: "chickens:spawn_egg",
+			tag: {
+				ChickenType: {
+					id: "morechickens:blitzrodchicken"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

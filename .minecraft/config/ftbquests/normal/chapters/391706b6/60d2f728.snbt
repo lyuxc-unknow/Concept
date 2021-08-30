@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"energetic_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "2366b664",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "energetic_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

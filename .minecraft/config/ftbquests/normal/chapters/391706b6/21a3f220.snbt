@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 410.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:lexicon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2db11ea2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon"
+		}],
+		consume_items: true
+	}]
+}

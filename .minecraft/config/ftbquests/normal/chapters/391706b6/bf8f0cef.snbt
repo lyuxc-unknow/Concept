@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 305.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"ma.inferium\"},Damage:0s}",
+	tasks: [{
+		uid: "d72c90e4",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "ma.inferium"
+			}
+		}],
+		consume_items: true
+	}]
+}

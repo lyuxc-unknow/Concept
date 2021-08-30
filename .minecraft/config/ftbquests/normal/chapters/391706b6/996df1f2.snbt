@@ -1,0 +1,17 @@
+{
+	x: 16.0d,
+	y: 481.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:judahoath\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "a48c10ce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:judahoath",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

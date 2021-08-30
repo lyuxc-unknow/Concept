@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 107.0d,
+	description: "{id:\"mist:meat_food\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "c2405883",
+		type: "item",
+		items: [{
+			item: "mist:meat_food 1 4"
+		}],
+		consume_items: true
+	}]
+}

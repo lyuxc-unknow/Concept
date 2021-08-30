@@ -1,0 +1,28 @@
+{
+	x: 31.0d,
+	y: 684.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemtunedrockcrystal\",Count:1b,tag:{astralsorcery:{constellationName:\"astralsorcery.constellation.lucerna\",crystalProperties:{collectiveCapability:100,size:400,fract:0,purity:100,sizeOverride:-1}}},Damage:0s}",
+	tasks: [{
+		uid: "bafd4915",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemtunedrockcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.lucerna",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

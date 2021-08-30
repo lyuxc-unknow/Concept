@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:fuel_processor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5e718ac1",
+		type: "item",
+		items: [{
+			item: "prodigytech:fuel_processor"
+		}],
+		consume_items: true
+	}]
+}

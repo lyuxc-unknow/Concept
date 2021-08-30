@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 558.0d,
+	description: "{id:\"rftools:text_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0ef14585",
+		type: "item",
+		items: [{
+			item: "rftools:text_module"
+		}],
+		consume_items: true
+	}]
+}

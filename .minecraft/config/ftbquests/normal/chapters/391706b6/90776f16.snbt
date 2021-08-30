@@ -1,0 +1,82 @@
+{
+	x: 19.0d,
+	y: 374.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:1650,HarvestLevel:4,Attack:7.5f,Range:1.75f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:1650,HarvestLevel:4,Attack:7.5f,Range:1.75f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"terrasteel\",\"terrasteel\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.mortal_wounds\",color:-13048576,level:1},{identifier:\"tconevo.mana_infused\",color:-13048576,level:1},{identifier:\"tconevo.staggering\",color:-13048576,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.mortal_wounds\",\"tconevo.mana_infused\",\"tconevo.staggering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ce1e4b18",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 9.0f,
+					Durability: 1650,
+					HarvestLevel: 4,
+					Attack: 7.5f,
+					Range: 1.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 9.0f,
+					Durability: 1650,
+					HarvestLevel: 4,
+					Attack: 7.5f,
+					Range: 1.75f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"terrasteel",
+						"terrasteel",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.mortal_wounds",
+					color: -13048576,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mana_infused",
+					color: -13048576,
+					level: 1
+				},
+				{
+					identifier: "tconevo.staggering",
+					color: -13048576,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.mortal_wounds",
+					"tconevo.mana_infused",
+					"tconevo.staggering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 763.0d,
+	description: "{id:\"tconevo:part_arcane_focus\",Count:1b,tag:{Material:\"crystal_matrix\"},Damage:0s}",
+	tasks: [{
+		uid: "1f178695",
+		type: "item",
+		items: [{
+			id: "tconevo:part_arcane_focus",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}],
+		consume_items: true
+	}]
+}

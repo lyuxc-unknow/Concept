@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 47.0d,
+	description: "{id:\"draconicevolution:energy_crystal\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "f03d30b7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_crystal 1 3"
+		}],
+		consume_items: true
+	}]
+}

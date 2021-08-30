@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 282.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"slime\"},Damage:0s}",
+	tasks: [{
+		uid: "ef8f6b0d",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

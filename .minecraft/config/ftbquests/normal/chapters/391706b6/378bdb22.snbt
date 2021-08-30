@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 395.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconstruct:knife_blade\"},Damage:0s}",
+	tasks: [{
+		uid: "0a7ab5fb",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:knife_blade"
+			}
+		}],
+		consume_items: true
+	}]
+}

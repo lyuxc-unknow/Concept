@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"gaia\"},Damage:0s}",
+	tasks: [{
+		uid: "5810654c",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "gaia"
+			}
+		}],
+		consume_items: true
+	}]
+}

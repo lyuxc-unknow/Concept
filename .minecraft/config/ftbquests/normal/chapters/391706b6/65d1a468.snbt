@@ -1,0 +1,65 @@
+{
+	x: 19.0d,
+	y: 319.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.04f,FreeModifiers:3,Durability:734,HarvestLevel:3,Attack:8.01f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.04f,FreeModifiers:3,Durability:734,HarvestLevel:3,Attack:8.01f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"psi\",\"psi\",\"psi\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psirepair\",color:-13858615,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psirepair\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "864d7fc7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.04f,
+					FreeModifiers: 3,
+					Durability: 734,
+					HarvestLevel: 3,
+					Attack: 8.01f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.04f,
+					FreeModifiers: 3,
+					Durability: 734,
+					HarvestLevel: 3,
+					Attack: 8.01f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"psi",
+						"psi",
+						"psi"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psirepair",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psirepair",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

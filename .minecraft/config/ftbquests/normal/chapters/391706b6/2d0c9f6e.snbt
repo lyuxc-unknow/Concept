@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:matter_receiver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01a7de4c",
+		type: "item",
+		items: [{
+			item: "rftools:matter_receiver"
+		}],
+		consume_items: true
+	}]
+}

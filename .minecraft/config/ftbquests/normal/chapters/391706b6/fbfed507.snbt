@@ -1,0 +1,67 @@
+{
+	x: 14.0d,
+	y: 347.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:1610,HarvestLevel:4,Attack:13.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:1610,HarvestLevel:4,Attack:13.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"xu_evil_metal\",\"xu_evil_metal\",\"xu_evil_metal\",\"xu_evil_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"xu_withering\",color:-131160,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"xu_withering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "8df13ef2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 1610,
+					HarvestLevel: 4,
+					Attack: 13.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 1610,
+					HarvestLevel: 4,
+					Attack: 13.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"xu_evil_metal",
+						"xu_evil_metal",
+						"xu_evil_metal",
+						"xu_evil_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "xu_withering",
+					color: -131160,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"xu_withering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

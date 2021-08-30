@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 226.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "6d3262b7",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 444.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"conductive_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "375fc97c",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "conductive_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

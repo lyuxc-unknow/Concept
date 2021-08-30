@@ -1,0 +1,17 @@
+{
+	x: 29.0d,
+	y: 568.0d,
+	description: "{id:\"immersiveengineering:bullet\",Count:1b,tag:{bullet:\"dragonsbreath\"},Damage:2s}",
+	tasks: [{
+		uid: "81338220",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "dragonsbreath"
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 507.0d,
+	description: "{id:\"mekanism:atomicalloy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "557e9502",
+		type: "item",
+		items: [{
+			item: "mekanism:atomicalloy"
+		}],
+		consume_items: true
+	}]
+}

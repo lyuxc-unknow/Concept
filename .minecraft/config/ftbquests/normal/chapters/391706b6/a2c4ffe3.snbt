@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 539.0d,
+	description: "{id:\"integrateddynamics:part_audio_reader_item\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "47caa703",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:part_audio_reader_item"
+		}],
+		consume_items: true
+	}]
+}

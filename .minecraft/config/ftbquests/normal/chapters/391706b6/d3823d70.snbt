@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 289.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"chrome\"},Damage:0s}",
+	tasks: [{
+		uid: "6fed2c78",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "chrome"
+			}
+		}],
+		consume_items: true
+	}]
+}

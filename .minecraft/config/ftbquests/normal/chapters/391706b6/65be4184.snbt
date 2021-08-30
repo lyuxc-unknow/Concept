@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 93.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"randomthings:chunkanalyzer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9bcaf0c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:chunkanalyzer"
+		}],
+		consume_items: true
+	}]
+}

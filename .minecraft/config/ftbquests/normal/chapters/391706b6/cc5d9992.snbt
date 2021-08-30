@@ -1,0 +1,17 @@
+{
+	x: 23.0d,
+	y: 150.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:1b,Block:\"mist:stone_brick\"},Damage:0s}",
+	tasks: [{
+		uid: "5503a2d5",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 1b,
+				Block: "mist:stone_brick"
+			}
+		}],
+		consume_items: true
+	}]
+}

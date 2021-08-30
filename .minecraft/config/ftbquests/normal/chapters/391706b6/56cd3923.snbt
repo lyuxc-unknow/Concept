@@ -1,0 +1,17 @@
+{
+	x: 18.0d,
+	y: 161.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"naturesaura:dimension_rail_nether\"},Damage:0s}",
+	tasks: [{
+		uid: "87037c6c",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "naturesaura:dimension_rail_nether"
+			}
+		}],
+		consume_items: true
+	}]
+}

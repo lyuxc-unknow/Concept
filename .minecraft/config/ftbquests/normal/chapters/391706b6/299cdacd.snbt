@@ -1,0 +1,21 @@
+{
+	x: 16.0d,
+	y: 556.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"太古魔像\",level:10,mobId:\"embers:ancient_golem\"},Damage:0s}",
+	tasks: [{
+		uid: "824dda58",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "太古魔像",
+				level: 10,
+				mobId: "embers:ancient_golem"
+			}
+		}],
+		consume_items: true
+	}]
+}

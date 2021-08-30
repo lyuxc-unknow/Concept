@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:spawn_lamp\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e7982a7a",
+		type: "item",
+		items: [{
+			item: "naturesaura:spawn_lamp"
+		}],
+		consume_items: true
+	}]
+}

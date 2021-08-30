@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 408.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"projecte:item.pe_dm_shears\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76ed0e8c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_dm_shears"
+		}],
+		consume_items: true
+	}]
+}

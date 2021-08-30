@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:network_receiver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3c298b1b",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_receiver"
+		}],
+		consume_items: true
+	}]
+}

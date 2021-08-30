@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 48.0d,
+	description: "{id:\"draconicevolution:draconic_hoe\",Count:1b,tag:{Energy:16000000},Damage:0s}",
+	tasks: [{
+		uid: "b0c690bd",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_hoe",
+			tag: {
+				Energy: 16000000
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 186.0d,
+	description: "{id:\"enderio:block_dark_steel_anvil\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc435ad0",
+		type: "item",
+		items: [{
+			item: "enderio:block_dark_steel_anvil"
+		}],
+		consume_items: true
+	}]
+}

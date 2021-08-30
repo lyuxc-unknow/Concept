@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 624.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"essen\"},Damage:0s}",
+	tasks: [{
+		uid: "8e9a4022",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "essen"
+			}
+		}],
+		consume_items: true
+	}]
+}

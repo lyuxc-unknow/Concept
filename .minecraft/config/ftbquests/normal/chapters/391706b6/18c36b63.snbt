@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 277.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"psi\"},Damage:0s}",
+	tasks: [{
+		uid: "85217946",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "psi"
+			}
+		}],
+		consume_items: true
+	}]
+}

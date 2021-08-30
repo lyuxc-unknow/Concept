@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:amethystpiping\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ee24afd",
+		type: "item",
+		items: [{
+			item: "calculator:amethystpiping"
+		}],
+		consume_items: true
+	}]
+}

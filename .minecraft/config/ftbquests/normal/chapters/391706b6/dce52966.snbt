@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 472.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"xu_demonic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "cb7a2d27",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "xu_demonic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

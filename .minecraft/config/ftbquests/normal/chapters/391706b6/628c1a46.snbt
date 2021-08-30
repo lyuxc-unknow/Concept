@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 128.0d,
+	description: "{id:\"openblocks:stencil\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "76dd3b1c",
+		type: "item",
+		items: [{
+			item: "openblocks:stencil 1 8"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:squid\"},Damage:0s}",
+	tasks: [{
+		uid: "fb79b2b6",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:squid"
+			}
+		}],
+		consume_items: true
+	}]
+}

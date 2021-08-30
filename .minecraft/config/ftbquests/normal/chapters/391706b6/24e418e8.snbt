@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 400.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"appliedenergistics2:certus_quartz_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9f789e5f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:certus_quartz_hoe"
+		}],
+		consume_items: true
+	}]
+}

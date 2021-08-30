@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 756.0d,
+	description: "{id:\"hardcorequesting:rottenheart\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "642372e8",
+		type: "item",
+		items: [{
+			item: "hardcorequesting:rottenheart"
+		}],
+		consume_items: true
+	}]
+}

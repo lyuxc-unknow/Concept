@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:block_placer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5d069929",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:block_placer"
+		}],
+		consume_items: true
+	}]
+}

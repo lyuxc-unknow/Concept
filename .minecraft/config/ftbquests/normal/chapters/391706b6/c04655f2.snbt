@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 105.0d,
+	description: "{id:\"mist:r_tree_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fb12d3ce",
+		type: "item",
+		items: [{
+			item: "mist:r_tree_door"
+		}],
+		consume_items: true
+	}]
+}

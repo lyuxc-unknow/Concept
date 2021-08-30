@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"cofhcore:poison3+\"},Damage:0s}",
+	tasks: [{
+		uid: "2037a2fd",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "cofhcore:poison3+"
+			}
+		}],
+		consume_items: true
+	}]
+}

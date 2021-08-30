@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 271.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"extrabotany:ingotorichalcos\"},Damage:0s}",
+	tasks: [{
+		uid: "97c7b037",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "extrabotany:ingotorichalcos"
+			}
+		}],
+		consume_items: true
+	}]
+}

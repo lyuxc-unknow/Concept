@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 610.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"void_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "ba3a803f",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "void_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 764.0d,
+	description: "{id:\"lordcraft:mem_wipe_lord\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6275916b",
+		type: "item",
+		items: [{
+			item: "lordcraft:mem_wipe_lord"
+		}],
+		consume_items: true
+	}]
+}

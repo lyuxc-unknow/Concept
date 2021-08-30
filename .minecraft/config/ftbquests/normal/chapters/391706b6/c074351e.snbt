@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 11.0d,
+	description: "{id:\"minecraft:glowstone_dust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "69dc0e21",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}],
+		consume_items: true
+	}]
+}

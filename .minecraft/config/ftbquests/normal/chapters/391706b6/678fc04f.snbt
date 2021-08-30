@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 496.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:sigil_suppression\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b462a6d5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_suppression"
+		}],
+		consume_items: true
+	}]
+}

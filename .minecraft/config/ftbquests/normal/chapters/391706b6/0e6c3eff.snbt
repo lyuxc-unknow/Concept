@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 607.0d,
+	description: "{id:\"thermalsolars:itemsolarcircuit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3d117090",
+		type: "item",
+		items: [{
+			item: "thermalsolars:itemsolarcircuit"
+		}],
+		consume_items: true
+	}]
+}

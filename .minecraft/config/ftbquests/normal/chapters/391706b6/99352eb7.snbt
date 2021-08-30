@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 267.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "6a66e517",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:creativepowercube\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "780ae11c",
+		type: "item",
+		items: [{
+			item: "calculator:creativepowercube"
+		}],
+		consume_items: true
+	}]
+}

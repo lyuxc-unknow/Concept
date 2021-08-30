@@ -1,0 +1,61 @@
+{
+	x: 30.0d,
+	y: 642.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:javelin\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.86f,FreeModifiers:3,Durability:588,HarvestLevel:3,Attack:9.53f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.86f,FreeModifiers:3,Durability:588,HarvestLevel:3,Attack:9.53f},Special:{Categories:[\"weapon\",\"tool\",\"projectile\"]},TinkerData:{Materials:[\"refinediron\",\"refinediron\",\"refinediron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f0c5e2f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:javelin",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.86f,
+					FreeModifiers: 3,
+					Durability: 588,
+					HarvestLevel: 3,
+					Attack: 9.53f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.86f,
+					FreeModifiers: 3,
+					Durability: 588,
+					HarvestLevel: 3,
+					Attack: 9.53f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"refinediron",
+						"refinediron",
+						"refinediron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

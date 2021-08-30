@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 570.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:faraday_suit_feet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "706daa82",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:faraday_suit_feet"
+		}],
+		consume_items: true
+	}]
+}

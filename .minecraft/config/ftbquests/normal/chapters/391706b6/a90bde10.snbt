@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "2d8350dd",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

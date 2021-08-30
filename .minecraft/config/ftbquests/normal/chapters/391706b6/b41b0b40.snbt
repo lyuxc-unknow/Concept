@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 801.0d,
+	description: "{id:\"jaopca:item_dustsmallmithril\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30d945dc",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustsmallmithril"
+		}],
+		consume_items: true
+	}]
+}

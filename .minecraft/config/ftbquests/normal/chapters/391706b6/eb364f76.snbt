@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 802.0d,
+	description: "{id:\"jaopca:item_platedenseastralstarmetal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "92207b29",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platedenseastralstarmetal"
+		}],
+		consume_items: true
+	}]
+}

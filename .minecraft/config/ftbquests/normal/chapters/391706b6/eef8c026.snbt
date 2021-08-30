@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 234.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"emeraldic_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "24ca5914",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "emeraldic_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

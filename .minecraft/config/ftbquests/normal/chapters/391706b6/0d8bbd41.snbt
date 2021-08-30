@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 73.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:warpmodule\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c3f3f2ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:warpmodule"
+		}],
+		consume_items: true
+	}]
+}

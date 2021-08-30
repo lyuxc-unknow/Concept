@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 55.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"ender_distillation\"},Damage:0s}",
+	tasks: [{
+		uid: "05cd9cf3",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "ender_distillation"
+			}
+		}],
+		consume_items: true
+	}]
+}

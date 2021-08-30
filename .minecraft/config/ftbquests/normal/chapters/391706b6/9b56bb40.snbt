@@ -1,0 +1,21 @@
+{
+	x: 31.0d,
+	y: 313.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"integrateddynamics:menril_planks\",Count:1b,Damage:0s}},Damage:1s}",
+	tasks: [{
+		uid: "96729ea1",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "integrateddynamics:menril_planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

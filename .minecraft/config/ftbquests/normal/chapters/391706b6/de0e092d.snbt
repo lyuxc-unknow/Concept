@@ -1,0 +1,70 @@
+{
+	x: 22.0d,
+	y: 330.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:7.52f,FreeModifiers:3,HarvestLevelShovel:2,Durability:462,HarvestLevel:2,Attack:8.08f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:7.52f,FreeModifiers:3,HarvestLevelShovel:2,Durability:462,HarvestLevel:2,Attack:8.08f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"yellorium\",\"yellorium\",\"yellorium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"radioactive\",color:-329912,level:2,radioactive2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"radioactive2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4911c1b6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 2,
+					MiningSpeed: 7.52f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 2,
+					Durability: 462,
+					HarvestLevel: 2,
+					Attack: 8.08f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 2,
+					MiningSpeed: 7.52f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 2,
+					Durability: 462,
+					HarvestLevel: 2,
+					Attack: 8.08f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"yellorium",
+						"yellorium",
+						"yellorium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "radioactive",
+					color: -329912,
+					level: 2,
+					radioactive2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"radioactive2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 575.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanismtools:obsidianpaxel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b4a2c77a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismtools:obsidianpaxel"
+		}],
+		consume_items: true
+	}]
+}

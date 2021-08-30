@@ -1,0 +1,19 @@
+{
+	x: 37.0d,
+	y: 413.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:manaringgreater\",Count:1b,tag:{mana:2000000},Damage:0s}",
+	tasks: [{
+		uid: "319e43ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:manaringgreater",
+			tag: {
+				mana: 2000000
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"draconic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "80901fb1",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "draconic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

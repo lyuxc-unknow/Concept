@@ -1,0 +1,63 @@
+{
+	x: 22.0d,
+	y: 362.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:267,HarvestLevel:2,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:267,HarvestLevel:2,Attack:4.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ma.inferium\",\"ma.inferium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prosperous\",color:-9138688,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prosperous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "6f763cb1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					Durability: 267,
+					HarvestLevel: 2,
+					Attack: 4.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					Durability: 267,
+					HarvestLevel: 2,
+					Attack: 4.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.inferium",
+						"ma.inferium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -9138688,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

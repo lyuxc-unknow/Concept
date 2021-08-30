@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:blaze_powder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "018380bc",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_powder"
+		}],
+		consume_items: true
+	}]
+}

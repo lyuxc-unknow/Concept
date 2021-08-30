@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 438.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "6cffc90c",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

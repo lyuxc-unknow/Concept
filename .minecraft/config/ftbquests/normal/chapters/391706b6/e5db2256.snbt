@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 484.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"psi:psimetal_exosuit_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f312300",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "psi:psimetal_exosuit_chestplate"
+		}],
+		consume_items: true
+	}]
+}

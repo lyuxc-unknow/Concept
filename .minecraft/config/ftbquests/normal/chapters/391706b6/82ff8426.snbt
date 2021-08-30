@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 495.0d,
+	description: "{id:\"bloodmagic:inversion_pillar_end\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "c4a6b158",
+		type: "item",
+		items: [{
+			item: "bloodmagic:inversion_pillar_end 1 5"
+		}],
+		consume_items: true
+	}]
+}

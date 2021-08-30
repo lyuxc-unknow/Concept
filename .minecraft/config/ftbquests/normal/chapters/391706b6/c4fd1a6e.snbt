@@ -1,0 +1,20 @@
+{
+	x: 8.0d,
+	y: 316.0d,
+	description: "{id:\"tconstruct:toolforge\",Count:1b,tag:{textureBlock:{id:\"steamworld:block_ancite\",Count:1b,Damage:7s}},Damage:0s}",
+	tasks: [{
+		uid: "f161ee2c",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "steamworld:block_ancite",
+					Count: 1b,
+					Damage: 7s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,78 @@
+{
+	x: 35.0d,
+	y: 659.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:546,HarvestLevel:2,Attack:4.0f,Range:1.25f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:546,HarvestLevel:2,Attack:4.0f,Range:1.25f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"sky_stone\",\"sky_stone\",\"sky_stone\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crumbling\",color:-11907764,level:1},{identifier:\"stonebound\",color:-11907764,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crumbling\",\"stonebound\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9fc795bc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 2.0f,
+					Durability: 546,
+					HarvestLevel: 2,
+					Attack: 4.0f,
+					Range: 1.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 2.0f,
+					Durability: 546,
+					HarvestLevel: 2,
+					Attack: 4.0f,
+					Range: 1.25f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sky_stone",
+						"sky_stone",
+						"sky_stone",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crumbling",
+					color: -11907764,
+					level: 1
+				},
+				{
+					identifier: "stonebound",
+					color: -11907764,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crumbling",
+					"stonebound",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

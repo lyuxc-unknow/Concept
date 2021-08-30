@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 297.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"ancite\"},Damage:0s}",
+	tasks: [{
+		uid: "f34df9e4",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "ancite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 784.0d,
+	description: "{id:\"simplesmelteryaccelerator:smeltery_accelerator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "83203942",
+		type: "item",
+		items: [{
+			item: "simplesmelteryaccelerator:smeltery_accelerator"
+		}],
+		consume_items: true
+	}]
+}

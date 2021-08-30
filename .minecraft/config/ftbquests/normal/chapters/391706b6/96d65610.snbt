@@ -1,0 +1,18 @@
+{
+	x: 26.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"industrialforegoing:pink_slime\"}},Damage:0s}",
+	tasks: [{
+		uid: "52bdaa5e",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "industrialforegoing:pink_slime"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

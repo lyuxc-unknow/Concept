@@ -1,0 +1,68 @@
+{
+	x: 25.0d,
+	y: 392.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:8.01f,FreeModifiers:3,Durability:180,HarvestLevel:3,Attack:8.04f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:8.01f,FreeModifiers:3,Durability:180,HarvestLevel:3,Attack:8.04f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"elvenelementium\",\"elvenelementium\",\"elvenelementium\",\"elvenelementium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"manarepair\",color:-1229864,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"manarepair\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ff12993b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 8.01f,
+					FreeModifiers: 3,
+					Durability: 180,
+					HarvestLevel: 3,
+					Attack: 8.04f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 8.01f,
+					FreeModifiers: 3,
+					Durability: 180,
+					HarvestLevel: 3,
+					Attack: 8.04f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"elvenelementium",
+						"elvenelementium",
+						"elvenelementium",
+						"elvenelementium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "manarepair",
+					color: -1229864,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"manarepair",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

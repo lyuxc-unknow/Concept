@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "d43259f1",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

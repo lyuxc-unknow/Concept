@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 521.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"deepmoblearning:data_model_guardian\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5857a776",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:data_model_guardian"
+		}],
+		consume_items: true
+	}]
+}

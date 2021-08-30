@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 775.0d,
+	description: "{id:\"omegacraft:electric_alloy_advb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0eaa978",
+		type: "item",
+		items: [{
+			item: "omegacraft:electric_alloy_advb"
+		}],
+		consume_items: true
+	}]
+}

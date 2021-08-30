@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 165.0d,
+	description: "{id:\"stonechest:chest_diorite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b046348a",
+		type: "item",
+		items: [{
+			item: "stonechest:chest_diorite"
+		}],
+		consume_items: true
+	}]
+}

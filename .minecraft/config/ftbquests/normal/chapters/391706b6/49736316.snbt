@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 278.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "b338b0d0",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

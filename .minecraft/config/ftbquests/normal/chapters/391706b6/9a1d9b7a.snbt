@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"kyronite\"},Damage:0s}",
+	tasks: [{
+		uid: "b1a5562e",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "kyronite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 583.0d,
+	description: "{id:\"pneumaticcraft:block_tracker_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0b665f8",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:block_tracker_upgrade"
+		}],
+		consume_items: true
+	}]
+}

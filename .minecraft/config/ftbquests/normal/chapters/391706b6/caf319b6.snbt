@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 796.0d,
+	description: "{id:\"tp:hardened_stone_smallbricks_slab_double\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7f3a281",
+		type: "item",
+		items: [{
+			item: "tp:hardened_stone_smallbricks_slab_double"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:powercell_card\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b71c75d8",
+		type: "item",
+		items: [{
+			item: "rftools:powercell_card"
+		}],
+		consume_items: true
+	}]
+}

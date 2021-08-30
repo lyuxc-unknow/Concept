@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 59.0d,
+	description: "{id:\"extrautils2:compressedcobblestone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bd719d34",
+		type: "item",
+		items: [{
+			item: "extrautils2:compressedcobblestone"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 531.0d,
+	description: "{id:\"enderutilities:enderpearlreusable\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "d50d6a35",
+		type: "item",
+		items: [{
+			item: "enderutilities:enderpearlreusable 1 1"
+		}],
+		consume_items: true
+	}]
+}

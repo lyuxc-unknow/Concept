@@ -1,0 +1,70 @@
+{
+	x: 32.0d,
+	y: 467.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:201,Defense:9.0f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:201,Defense:9.0f},Special:{alienStatPool:{identifier:\"\",color:16777215,defense:5.039996f,durability:293,toughness:2.549998f}},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"alien_armor\",color:-2041712,level:1},{identifier:\"enderport_armor\",color:-2041712,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"alien_armor\",\"enderport_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "8837cf12",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 201,
+					Defense: 9.0f
+				},
+				Stats: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 201,
+					Defense: 9.0f
+				},
+				Special: {
+					alienStatPool: {
+						identifier: "",
+						color: 16777215,
+						defense: 5.039996f,
+						durability: 293,
+						toughness: 2.549998f
+					}
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"endstone",
+						"endstone",
+						"endstone"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "alien_armor",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "enderport_armor",
+					color: -2041712,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"alien_armor",
+					"enderport_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

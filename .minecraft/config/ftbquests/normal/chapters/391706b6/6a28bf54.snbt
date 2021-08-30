@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 78.0d,
+	description: "{id:\"enderfuge:enderfuge_active\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "688503f9",
+		type: "item",
+		items: [{
+			item: "enderfuge:enderfuge_active"
+		}],
+		consume_items: true
+	}]
+}

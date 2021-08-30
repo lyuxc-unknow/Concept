@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 64.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"minecraft:jungle_edge\"},Damage:0s}",
+	tasks: [{
+		uid: "3642be57",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "minecraft:jungle_edge"
+			}
+		}],
+		consume_items: true
+	}]
+}

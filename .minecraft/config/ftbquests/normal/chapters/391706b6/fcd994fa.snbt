@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 446.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"sky_stone\"},Damage:0s}",
+	tasks: [{
+		uid: "2dc632c9",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "sky_stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

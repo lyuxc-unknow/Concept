@@ -1,0 +1,76 @@
+{
+	x: 15.0d,
+	y: 356.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:15.0f,FreeModifiers:3,Durability:4263,HarvestLevel:5,Attack:14.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:15.0f,FreeModifiers:3,Durability:4263,HarvestLevel:5,Attack:14.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dark_matter\",\"dark_matter\",\"dark_matter\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.culling\",color:-13684945,level:1},{identifier:\"tconevo.staggering\",color:-13684945,level:1},{identifier:\"tconevo.eternal_density\",color:-13684945,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.culling\",\"tconevo.staggering\",\"tconevo.eternal_density1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f9918869",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 15.0f,
+					FreeModifiers: 3,
+					Durability: 4263,
+					HarvestLevel: 5,
+					Attack: 14.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 15.0f,
+					FreeModifiers: 3,
+					Durability: 4263,
+					HarvestLevel: 5,
+					Attack: 14.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dark_matter",
+						"dark_matter",
+						"dark_matter"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.culling",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "tconevo.staggering",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "tconevo.eternal_density",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.culling",
+					"tconevo.staggering",
+					"tconevo.eternal_density1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

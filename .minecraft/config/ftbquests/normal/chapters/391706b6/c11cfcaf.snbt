@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 268.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"ma.prosperity\"},Damage:0s}",
+	tasks: [{
+		uid: "140251ed",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "ma.prosperity"
+			}
+		}],
+		consume_items: true
+	}]
+}

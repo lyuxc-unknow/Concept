@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 295.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"litherite\"},Damage:0s}",
+	tasks: [{
+		uid: "7d79655b",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "litherite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 272.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"diamantine_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "1212d07a",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "diamantine_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

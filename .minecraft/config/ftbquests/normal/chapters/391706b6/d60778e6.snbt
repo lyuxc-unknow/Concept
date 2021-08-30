@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 431.0d,
+	description: "{id:\"botania:biomestonea8stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5b4ffcc7",
+		type: "item",
+		items: [{
+			item: "botania:biomestonea8stairs"
+		}],
+		consume_items: true
+	}]
+}

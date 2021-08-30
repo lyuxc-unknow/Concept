@@ -1,0 +1,17 @@
+{
+	x: 30.0d,
+	y: 594.0d,
+	description: "{id:\"rftoolsdim:known_dimlet\",Count:1b,tag:{dkey:\"normal.night\"},Damage:4s}",
+	tasks: [{
+		uid: "8b1b0da5",
+		type: "item",
+		items: [{
+			id: "rftoolsdim:known_dimlet",
+			tag: {
+				dkey: "normal.night"
+			},
+			Damage: 4s
+		}],
+		consume_items: true
+	}]
+}

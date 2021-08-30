@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 292.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"dark_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "fa52b081",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "dark_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:terrasteel_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b6507476",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:terrasteel_essence"
+		}],
+		consume_items: true
+	}]
+}

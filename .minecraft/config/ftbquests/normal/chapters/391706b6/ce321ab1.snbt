@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 206.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderio:item_dark_steel_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0ad5ae4c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_dark_steel_boots"
+		}],
+		consume_items: true
+	}]
+}

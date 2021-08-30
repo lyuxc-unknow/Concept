@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 123.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"astral_starmetal\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "5e81d1be",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "astral_starmetal",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

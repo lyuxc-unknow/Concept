@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 602.0d,
+	description: "{id:\"steamworld:experience_machine_endritch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "83dd8c87",
+		type: "item",
+		items: [{
+			item: "steamworld:experience_machine_endritch"
+		}],
+		consume_items: true
+	}]
+}

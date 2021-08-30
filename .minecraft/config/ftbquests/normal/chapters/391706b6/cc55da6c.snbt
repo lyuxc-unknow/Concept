@@ -1,0 +1,20 @@
+{
+	x: 33.0d,
+	y: 499.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:4,key:\"bloodmagic.upgrade.physicalProtect\"},Damage:0s}",
+	tasks: [{
+		uid: "c73a3de1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 4,
+				key: "bloodmagic.upgrade.physicalProtect"
+			}
+		}],
+		consume_items: true
+	}]
+}

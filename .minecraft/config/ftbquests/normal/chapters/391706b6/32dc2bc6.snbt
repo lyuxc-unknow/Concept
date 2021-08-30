@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 506.0d,
+	description: "{id:\"bloodmagic:icarus_scroll\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d1f17e7d",
+		type: "item",
+		items: [{
+			item: "bloodmagic:icarus_scroll"
+		}],
+		consume_items: true
+	}]
+}

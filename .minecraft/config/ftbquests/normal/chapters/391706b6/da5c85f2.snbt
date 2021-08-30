@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 536.0d,
+	description: "{id:\"bigreactors:blockyellorium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "23aed729",
+		type: "item",
+		items: [{
+			item: "bigreactors:blockyellorium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 625.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"manasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "c298bcf7",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "manasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

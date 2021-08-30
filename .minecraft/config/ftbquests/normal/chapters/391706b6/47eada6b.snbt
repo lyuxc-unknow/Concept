@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 395.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"conarm:helmet_core\"},Damage:0s}",
+	tasks: [{
+		uid: "90e90a0a",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "conarm:helmet_core"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 539.0d,
+	description: "{id:\"modularmachinery:blockfluidoutputhatch\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "67d87fa3",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockfluidoutputhatch 1 1"
+		}],
+		consume_items: true
+	}]
+}

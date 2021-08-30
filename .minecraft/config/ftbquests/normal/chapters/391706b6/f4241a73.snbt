@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 448.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"ancite\"},Damage:0s}",
+	tasks: [{
+		uid: "5631185b",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "ancite"
+			}
+		}],
+		consume_items: true
+	}]
+}

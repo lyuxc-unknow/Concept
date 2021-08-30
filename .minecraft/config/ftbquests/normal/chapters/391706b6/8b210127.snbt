@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 590.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"prodigytech:pattern_circuit_perfected\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0283d5dc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:pattern_circuit_perfected"
+		}],
+		consume_items: true
+	}]
+}

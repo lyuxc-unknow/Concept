@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 601.0d,
+	description: "{id:\"steamworld:nugget\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "bdcaa952",
+		type: "item",
+		items: [{
+			item: "steamworld:nugget 1 3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,60 @@
+{
+	x: 28.0d,
+	y: 326.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.98f,FreeModifiers:3,Durability:303,HarvestLevel:1,Attack:2.26f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.98f,FreeModifiers:3,Durability:303,HarvestLevel:1,Attack:2.26f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"brass\",\"brass\",\"brass\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d7f60bb4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.98f,
+					FreeModifiers: 3,
+					Durability: 303,
+					HarvestLevel: 1,
+					Attack: 2.26f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.98f,
+					FreeModifiers: 3,
+					Durability: 303,
+					HarvestLevel: 1,
+					Attack: 2.26f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"brass",
+						"brass",
+						"brass"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

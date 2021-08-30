@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 784.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"mica\"},Damage:0s}",
+	tasks: [{
+		uid: "bce2a220",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "mica"
+			}
+		}],
+		consume_items: true
+	}]
+}

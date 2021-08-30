@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:zorra_leaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1eea5eba",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorra_leaves"
+		}],
+		consume_items: true
+	}]
+}

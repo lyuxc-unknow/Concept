@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"refined_glowstone\"},Damage:0s}",
+	tasks: [{
+		uid: "d2c1b7bd",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "refined_glowstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

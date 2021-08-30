@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 664.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"mist:monk\"},Damage:0s}",
+	tasks: [{
+		uid: "532401bc",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "mist:monk"
+			}
+		}],
+		consume_items: true
+	}]
+}

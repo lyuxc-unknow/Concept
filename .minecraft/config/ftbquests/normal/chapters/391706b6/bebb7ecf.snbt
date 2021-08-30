@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 394.0d,
+	description: "{id:\"tconstruct:seared_stairs_road\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f0c299be",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_stairs_road"
+		}],
+		consume_items: true
+	}]
+}

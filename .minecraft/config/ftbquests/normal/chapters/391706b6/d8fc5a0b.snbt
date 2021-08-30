@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 264.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"silver\"},Damage:0s}",
+	tasks: [{
+		uid: "ffeca7c2",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "silver"
+			}
+		}],
+		consume_items: true
+	}]
+}

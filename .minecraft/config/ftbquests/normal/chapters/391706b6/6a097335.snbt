@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"ba_wither_flower\"},Damage:0s}",
+	tasks: [{
+		uid: "a767128a",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "ba_wither_flower"
+			}
+		}],
+		consume_items: true
+	}]
+}

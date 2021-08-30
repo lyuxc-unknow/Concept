@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 164.0d,
+	description: "{id:\"solarflux:photovoltaic_cell_1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "78400b6a",
+		type: "item",
+		items: [{
+			item: "solarflux:photovoltaic_cell_1"
+		}],
+		consume_items: true
+	}]
+}

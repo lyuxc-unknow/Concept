@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 617.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"ma.superium\"},Damage:0s}",
+	tasks: [{
+		uid: "7f22d6f7",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "ma.superium"
+			}
+		}],
+		consume_items: true
+	}]
+}

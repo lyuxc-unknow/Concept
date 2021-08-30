@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 105.0d,
+	description: "{id:\"mist:s_tree_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e4dc7c14",
+		type: "item",
+		items: [{
+			item: "mist:s_tree_door"
+		}],
+		consume_items: true
+	}]
+}

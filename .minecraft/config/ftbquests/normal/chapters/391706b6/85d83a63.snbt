@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 752.0d,
+	description: "{id:\"environmentaltech:erodium_tile_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8aa92e50",
+		type: "item",
+		items: [{
+			item: "environmentaltech:erodium_tile_stairs"
+		}],
+		consume_items: true
+	}]
+}

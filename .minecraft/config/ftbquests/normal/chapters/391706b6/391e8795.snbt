@@ -1,0 +1,68 @@
+{
+	x: 19.0d,
+	y: 642.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:javelin\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:8.09f,FreeModifiers:3,Durability:693,HarvestLevel:4,Attack:6.23f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:8.09f,FreeModifiers:3,Durability:693,HarvestLevel:4,Attack:6.23f},Special:{Categories:[\"weapon\",\"tool\",\"projectile\"]},TinkerData:{Materials:[\"blutonium\",\"blutonium\",\"blutonium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"radioactive\",color:-14083900,level:3,radioactive3:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"radioactive3\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "bf341fa5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:javelin",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 8.09f,
+					FreeModifiers: 3,
+					Durability: 693,
+					HarvestLevel: 4,
+					Attack: 6.23f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 8.09f,
+					FreeModifiers: 3,
+					Durability: 693,
+					HarvestLevel: 4,
+					Attack: 6.23f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blutonium",
+						"blutonium",
+						"blutonium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "radioactive",
+					color: -14083900,
+					level: 3,
+					radioactive3: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"radioactive3",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

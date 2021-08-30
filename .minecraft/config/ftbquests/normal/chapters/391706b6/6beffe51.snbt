@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 225.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"tungsten\"},Damage:0s}",
+	tasks: [{
+		uid: "83454de6",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "tungsten"
+			}
+		}],
+		consume_items: true
+	}]
+}

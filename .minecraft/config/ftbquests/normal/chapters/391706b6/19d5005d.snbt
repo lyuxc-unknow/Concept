@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 249.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"ma.soulium\"},Damage:0s}",
+	tasks: [{
+		uid: "8330c80f",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "ma.soulium"
+			}
+		}],
+		consume_items: true
+	}]
+}

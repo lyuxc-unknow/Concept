@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 774.0d,
+	description: "{id:\"omegacraft:block_magmiteb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ef8cbc3c",
+		type: "item",
+		items: [{
+			item: "omegacraft:block_magmiteb"
+		}],
+		consume_items: true
+	}]
+}

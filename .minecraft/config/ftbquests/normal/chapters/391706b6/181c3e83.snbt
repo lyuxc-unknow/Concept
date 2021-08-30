@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 547.0d,
+	description: "{id:\"mysticalagriculture:saltpeter_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9bd5a12",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:saltpeter_essence"
+		}],
+		consume_items: true
+	}]
+}

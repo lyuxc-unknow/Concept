@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 94.0d,
+	description: "{id:\"mist:stone_mined\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c3c2441",
+		type: "item",
+		items: [{
+			item: "mist:stone_mined"
+		}],
+		consume_items: true
+	}]
+}

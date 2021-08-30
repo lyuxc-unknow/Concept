@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 592.0d,
+	description: "{id:\"random_add:core_processing_chip\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "72a67d27",
+		type: "item",
+		items: [{
+			item: "random_add:core_processing_chip"
+		}],
+		consume_items: true
+	}]
+}

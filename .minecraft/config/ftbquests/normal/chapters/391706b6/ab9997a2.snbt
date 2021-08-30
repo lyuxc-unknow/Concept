@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 552.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:inferium_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa6829c6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:inferium_hoe"
+		}],
+		consume_items: true
+	}]
+}

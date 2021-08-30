@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 175.0d,
+	description: "{id:\"alchemistry:compound\",Count:1b,Damage:37s}",
+	tasks: [{
+		uid: "b7780993",
+		type: "item",
+		items: [{
+			item: "alchemistry:compound 1 37"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 790.0d,
+	description: "{id:\"tp:fmf_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "757f0fa9",
+		type: "item",
+		items: [{
+			item: "tp:fmf_block"
+		}],
+		consume_items: true
+	}]
+}

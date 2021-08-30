@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 799.0d,
+	description: "{id:\"jaopca:item_coinender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "20b66d23",
+		type: "item",
+		items: [{
+			item: "jaopca:item_coinender"
+		}],
+		consume_items: true
+	}]
+}

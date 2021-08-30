@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:ice_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9ce25568",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ice_seeds"
+		}],
+		consume_items: true
+	}]
+}

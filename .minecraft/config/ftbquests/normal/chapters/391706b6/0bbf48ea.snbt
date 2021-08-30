@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 26.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"cofhcore:unluck4\"},Damage:0s}",
+	tasks: [{
+		uid: "6c2a1c37",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "cofhcore:unluck4"
+			}
+		}],
+		consume_items: true
+	}]
+}

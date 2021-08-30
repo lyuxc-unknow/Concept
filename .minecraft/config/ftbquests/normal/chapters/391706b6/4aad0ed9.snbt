@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 746.0d,
+	description: "{id:\"embers:clockwork_attenuator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3031277d",
+		type: "item",
+		items: [{
+			item: "embers:clockwork_attenuator"
+		}],
+		consume_items: true
+	}]
+}

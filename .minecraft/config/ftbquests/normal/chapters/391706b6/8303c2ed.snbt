@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 590.0d,
+	description: "{id:\"prodigytech:meat_ground\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8081c9a1",
+		type: "item",
+		items: [{
+			item: "prodigytech:meat_ground"
+		}],
+		consume_items: true
+	}]
+}

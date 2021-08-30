@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 553.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:intermedium_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "04cd67c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:intermedium_helmet"
+		}],
+		consume_items: true
+	}]
+}

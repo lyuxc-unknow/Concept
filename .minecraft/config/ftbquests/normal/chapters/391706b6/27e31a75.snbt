@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 33.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"minecraft:shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6cc5ca0c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:shield"
+		}],
+		consume_items: true
+	}]
+}

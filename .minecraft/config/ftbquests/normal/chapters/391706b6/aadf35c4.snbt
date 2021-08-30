@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 69.0d,
+	description: "{id:\"botanicadds:gaiasteel_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f302f8ef",
+		type: "item",
+		items: [{
+			item: "botanicadds:gaiasteel_block"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 785.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"blutonium\"},Damage:0s}",
+	tasks: [{
+		uid: "c6739d06",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "blutonium"
+			}
+		}],
+		consume_items: true
+	}]
+}

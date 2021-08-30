@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 415.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:enderhand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "04541db2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:enderhand"
+		}],
+		consume_items: true
+	}]
+}

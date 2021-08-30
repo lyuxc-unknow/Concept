@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 579.0d,
+	description: "{id:\"pneumaticcraft:nuke_virus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "213e173c",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:nuke_virus"
+		}],
+		consume_items: true
+	}]
+}

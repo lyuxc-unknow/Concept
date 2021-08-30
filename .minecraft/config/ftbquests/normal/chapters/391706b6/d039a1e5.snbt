@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 473.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"aquamarine\"},Damage:0s}",
+	tasks: [{
+		uid: "8a089aa6",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "aquamarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

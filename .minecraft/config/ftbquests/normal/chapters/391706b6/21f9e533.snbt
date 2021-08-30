@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 75.0d,
+	description: "{id:\"calculator:largeamethyst\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7eaf7a3a",
+		type: "item",
+		items: [{
+			item: "calculator:largeamethyst"
+		}],
+		consume_items: true
+	}]
+}

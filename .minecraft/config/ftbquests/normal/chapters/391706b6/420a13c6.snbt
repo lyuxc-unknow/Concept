@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 670.0d,
+	description: "{id:\"survivalist:nugget\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "dcc807a7",
+		type: "item",
+		items: [{
+			item: "survivalist:nugget 1 5"
+		}],
+		consume_items: true
+	}]
+}

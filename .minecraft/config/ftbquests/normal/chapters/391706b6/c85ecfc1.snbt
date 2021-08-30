@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: 411.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:twigwand\",Count:1b,tag:{color1:9,color2:9},Damage:0s}",
+	tasks: [{
+		uid: "f61f7f08",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:twigwand",
+			tag: {
+				color1: 9,
+				color2: 9
+			}
+		}],
+		consume_items: true
+	}]
+}

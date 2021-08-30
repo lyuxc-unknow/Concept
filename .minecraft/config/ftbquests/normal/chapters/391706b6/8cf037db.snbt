@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 443.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"flux_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "479ca2e4",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "flux_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

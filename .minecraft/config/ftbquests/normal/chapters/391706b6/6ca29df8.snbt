@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 631.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"tungsten\"},Damage:0s}",
+	tasks: [{
+		uid: "6a67d574",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "tungsten"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 792.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:stone_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c08de06a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:stone_helmet"
+		}],
+		consume_items: true
+	}]
+}

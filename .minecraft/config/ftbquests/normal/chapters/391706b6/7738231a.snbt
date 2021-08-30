@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 612.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"redstone_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "7885d803",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "redstone_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

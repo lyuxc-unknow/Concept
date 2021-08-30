@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 266.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"ludicrite\"},Damage:0s}",
+	tasks: [{
+		uid: "5a09ea05",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "ludicrite"
+			}
+		}],
+		consume_items: true
+	}]
+}

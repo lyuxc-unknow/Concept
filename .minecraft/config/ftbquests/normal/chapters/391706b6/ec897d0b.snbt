@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"lonsdaleite\"},Damage:0s}",
+	tasks: [{
+		uid: "4ae55087",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "lonsdaleite"
+			}
+		}],
+		consume_items: true
+	}]
+}

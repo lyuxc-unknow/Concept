@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:strong_regeneration\"},Damage:0s}",
+	tasks: [{
+		uid: "55440c32",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:strong_regeneration"
+			}
+		}],
+		consume_items: true
+	}]
+}

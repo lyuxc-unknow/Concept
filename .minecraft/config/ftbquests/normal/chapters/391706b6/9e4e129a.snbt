@@ -1,0 +1,61 @@
+{
+	x: 23.0d,
+	y: 469.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:325,Defense:13.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:325,Defense:13.0f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"essence_metal\",\"essence_metal\",\"essence_metal\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"ambitious_armor\",color:-11702248,level:1},{identifier:\"tconevo.stifling_armor\",color:-11702248,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"ambitious_armor\",\"tconevo.stifling_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "ed9b8f8c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 325,
+					Defense: 13.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 325,
+					Defense: 13.0f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"essence_metal",
+						"essence_metal",
+						"essence_metal"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "ambitious_armor",
+					color: -11702248,
+					level: 1
+				},
+				{
+					identifier: "tconevo.stifling_armor",
+					color: -11702248,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ambitious_armor",
+					"tconevo.stifling_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

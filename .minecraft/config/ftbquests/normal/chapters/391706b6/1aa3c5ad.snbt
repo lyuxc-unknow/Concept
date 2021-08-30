@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 305.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "4a0230da",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

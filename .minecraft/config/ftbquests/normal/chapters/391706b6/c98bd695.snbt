@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 394.0d,
+	description: "{id:\"tconstruct:seared_furnace_controller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6b7f055",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_furnace_controller"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 778.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"signalum\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "9888b28a",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "signalum",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

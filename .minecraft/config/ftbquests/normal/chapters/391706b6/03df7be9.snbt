@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 791.0d,
+	description: "{id:\"tp:iron_cobblegen_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c44ab188",
+		type: "item",
+		items: [{
+			item: "tp:iron_cobblegen_block"
+		}],
+		consume_items: true
+	}]
+}

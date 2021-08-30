@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 796.0d,
+	description: "{id:\"jaopca:block_blockender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "68384f30",
+		type: "item",
+		items: [{
+			item: "jaopca:block_blockender"
+		}],
+		consume_items: true
+	}]
+}

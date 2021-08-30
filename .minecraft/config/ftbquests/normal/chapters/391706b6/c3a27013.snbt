@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"palis_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "1a0712c7",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "palis_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 509.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:gaugedropper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e02db598",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:gaugedropper"
+		}],
+		consume_items: true
+	}]
+}

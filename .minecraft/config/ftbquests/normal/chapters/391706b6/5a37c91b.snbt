@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 186.0d,
+	description: "{id:\"enderio:block_self_resetting_lever5\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ec5d3a9c",
+		type: "item",
+		items: [{
+			item: "enderio:block_self_resetting_lever5"
+		}],
+		consume_items: true
+	}]
+}

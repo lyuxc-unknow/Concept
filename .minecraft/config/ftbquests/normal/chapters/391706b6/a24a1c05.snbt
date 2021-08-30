@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 257.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"ma.superium\"},Damage:0s}",
+	tasks: [{
+		uid: "b8ee0b1c",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "ma.superium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 784.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"requious:tuning_fork\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3e0c1c9e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "requious:tuning_fork"
+		}],
+		consume_items: true
+	}]
+}

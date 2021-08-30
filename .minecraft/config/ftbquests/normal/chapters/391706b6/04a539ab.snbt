@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 298.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"bound_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "36fcced8",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "bound_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

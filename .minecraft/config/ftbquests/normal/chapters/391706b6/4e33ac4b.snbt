@@ -1,0 +1,19 @@
+{
+	x: 28.0d,
+	y: 662.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"wit:wit\",Count:1b,tag:{InfinityEnergy:0},Damage:0s}",
+	tasks: [{
+		uid: "7d0dfe13",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "wit:wit",
+			tag: {
+				InfinityEnergy: 0
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "12e6699b",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

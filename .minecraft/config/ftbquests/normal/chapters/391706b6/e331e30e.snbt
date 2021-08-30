@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 246.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"sentient_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "f31c1864",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "sentient_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

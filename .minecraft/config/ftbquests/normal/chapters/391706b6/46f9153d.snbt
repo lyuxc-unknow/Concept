@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 171.0d,
+	description: "{id:\"alchemistry:atomizer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9a7c9749",
+		type: "item",
+		items: [{
+			item: "alchemistry:atomizer"
+		}],
+		consume_items: true
+	}]
+}

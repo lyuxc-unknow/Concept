@@ -1,0 +1,57 @@
+{
+	x: 22.0d,
+	y: 368.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:battlesign\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.16f,FreeModifiers:3,Durability:842,HarvestLevel:4,Attack:7.83f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.16f,FreeModifiers:3,Durability:842,HarvestLevel:4,Attack:7.83f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chrome\",\"chrome\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9723de5e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:battlesign",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.16f,
+					FreeModifiers: 3,
+					Durability: 842,
+					HarvestLevel: 4,
+					Attack: 7.83f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.16f,
+					FreeModifiers: 3,
+					Durability: 842,
+					HarvestLevel: 4,
+					Attack: 7.83f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"chrome",
+						"chrome"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 210.0d,
+	description: "{id:\"enderio:item_alloy_endergy_ball\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "7e7fba07",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_endergy_ball 1 4"
+		}],
+		consume_items: true
+	}]
+}

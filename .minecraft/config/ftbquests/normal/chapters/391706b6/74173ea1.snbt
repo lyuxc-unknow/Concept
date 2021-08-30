@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 102.0d,
+	description: "{id:\"mist:poplar_branch\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "bcf45c11",
+		type: "item",
+		items: [{
+			item: "mist:poplar_branch 1 3"
+		}],
+		consume_items: true
+	}]
+}

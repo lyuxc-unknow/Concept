@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 530.0d,
+	description: "{id:\"emergingtechnology:drinkpowder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f83bf13a",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:drinkpowder"
+		}],
+		consume_items: true
+	}]
+}

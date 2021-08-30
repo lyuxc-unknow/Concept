@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 528.0d,
+	description: "{id:\"efab:boiler\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "26d0bb9b",
+		type: "item",
+		items: [{
+			item: "efab:boiler"
+		}],
+		consume_items: true
+	}]
+}

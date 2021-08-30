@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 575.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanismtools:bronzeboots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "19d9f636",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismtools:bronzeboots"
+		}],
+		consume_items: true
+	}]
+}

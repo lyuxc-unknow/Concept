@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"gaia\"},Damage:0s}",
+	tasks: [{
+		uid: "9f80e01a",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "gaia"
+			}
+		}],
+		consume_items: true
+	}]
+}

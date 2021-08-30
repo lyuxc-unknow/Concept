@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 62.0d,
+	description: "{id:\"extrautils2:teleporter\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "4a9a818a",
+		type: "item",
+		items: [{
+			item: "extrautils2:teleporter 1 1"
+		}],
+		consume_items: true
+	}]
+}

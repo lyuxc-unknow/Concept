@@ -1,0 +1,71 @@
+{
+	x: 12.0d,
+	y: 380.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.25f,DrawSpeed:3.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:40,HarvestLevel:1,Attack:1.0f,Range:0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.25f,DrawSpeed:3.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:32,HarvestLevel:1,Attack:1.0f,Range:0.5f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"construction_alloy\",\"construction_alloy\",\"construction_alloy\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"cheapskate\",color:-14084054,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"cheapskate\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "dea65b53",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.25f,
+					DrawSpeed: 3.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 40,
+					HarvestLevel: 1,
+					Attack: 1.0f,
+					Range: 0.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.25f,
+					DrawSpeed: 3.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 32,
+					HarvestLevel: 1,
+					Attack: 1.0f,
+					Range: 0.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"construction_alloy",
+						"construction_alloy",
+						"construction_alloy",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheapskate",
+					color: -14084054,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheapskate",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

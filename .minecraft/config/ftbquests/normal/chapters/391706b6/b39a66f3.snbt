@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: 538.0d,
+	description: "{id:\"ftbquests:progress_screen\",Count:1b,tag:{BlockEntityTag:{Height:8b,id:\"ftbquests:progress_screen_core\",Width:4b},display:{Lore:[\"(+NBT)\"]}},Damage:0s}",
+	tasks: [{
+		uid: "ac9b6275",
+		type: "item",
+		items: [{
+			id: "ftbquests:progress_screen",
+			tag: {
+				BlockEntityTag: {
+					Height: 8b,
+					id: "ftbquests:progress_screen_core",
+					Width: 4b
+				},
+				display: {
+					Lore: [
+						"(+NBT)"
+					]
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

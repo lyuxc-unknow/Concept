@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 165.0d,
+	description: "{id:\"stonechest:part_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aad2d89f",
+		type: "item",
+		items: [{
+			item: "stonechest:part_stone"
+		}],
+		consume_items: true
+	}]
+}

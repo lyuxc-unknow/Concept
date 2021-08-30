@@ -1,0 +1,77 @@
+{
+	x: 35.0d,
+	y: 371.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:14.52f,FreeModifiers:3,Durability:6322,HarvestLevel:4,Attack:28.506f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:14.52f,FreeModifiers:3,Durability:6322,HarvestLevel:4,Attack:28.506f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"gaia\",\"gaia\",\"gaia\",\"gaia\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"alien\",color:-7252043,level:1},{identifier:\"payback\",color:-7252043,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"alien\",\"payback\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7a530211",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 14.52f,
+					FreeModifiers: 3,
+					Durability: 6322,
+					HarvestLevel: 4,
+					Attack: 28.506f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 14.52f,
+					FreeModifiers: 3,
+					Durability: 6322,
+					HarvestLevel: 4,
+					Attack: 28.506f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"gaia",
+						"gaia",
+						"gaia",
+						"gaia"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "alien",
+					color: -7252043,
+					level: 1
+				},
+				{
+					identifier: "payback",
+					color: -7252043,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"alien",
+					"payback",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

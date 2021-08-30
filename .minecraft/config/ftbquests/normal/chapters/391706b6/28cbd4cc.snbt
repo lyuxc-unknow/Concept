@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 12.0d,
+	description: "{id:\"minecraft:pumpkin_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1b0f0042",
+		type: "item",
+		items: [{
+			item: "minecraft:pumpkin_seeds"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 484.0d,
+	description: "{id:\"psi:cad_assembler\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ae3363a8",
+		type: "item",
+		items: [{
+			item: "psi:cad_assembler"
+		}],
+		consume_items: true
+	}]
+}

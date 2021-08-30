@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"draconic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "2e1117ba",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "draconic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

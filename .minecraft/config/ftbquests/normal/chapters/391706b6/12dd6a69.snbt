@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 620.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"end_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "278b2b7b",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "end_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

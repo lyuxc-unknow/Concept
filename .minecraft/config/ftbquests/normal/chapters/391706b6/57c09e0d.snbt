@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 283.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"xu_magical_wood\"},Damage:0s}",
+	tasks: [{
+		uid: "3c904859",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "xu_magical_wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

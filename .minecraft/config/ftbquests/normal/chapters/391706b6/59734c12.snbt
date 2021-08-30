@@ -1,0 +1,17 @@
+{
+	x: 38.0d,
+	y: 129.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rebornstorage:storagecell\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "efb650c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rebornstorage:storagecell",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 578.0d,
+	description: "{id:\"pneumaticcraft:turbine_blade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dacb260d",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:turbine_blade"
+		}],
+		consume_items: true
+	}]
+}

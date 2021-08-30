@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 115.0d,
+	description: "{id:\"moreplates:nether_quartz_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "10285f0c",
+		type: "item",
+		items: [{
+			item: "moreplates:nether_quartz_gear"
+		}],
+		consume_items: true
+	}]
+}

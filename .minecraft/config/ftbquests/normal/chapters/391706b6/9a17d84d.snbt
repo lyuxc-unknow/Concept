@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:long_night_vision\"},Damage:0s}",
+	tasks: [{
+		uid: "99572724",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:long_night_vision"
+			}
+		}],
+		consume_items: true
+	}]
+}

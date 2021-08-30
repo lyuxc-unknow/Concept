@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 537.0d,
+	description: "{id:\"ftbquests:progress_detector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02480515",
+		type: "item",
+		items: [{
+			item: "ftbquests:progress_detector"
+		}],
+		consume_items: true
+	}]
+}

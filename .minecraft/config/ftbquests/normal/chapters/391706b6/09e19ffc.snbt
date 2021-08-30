@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:infinity_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f56b870f",
+		type: "item",
+		items: [{
+			item: "moreplates:infinity_plate"
+		}],
+		consume_items: true
+	}]
+}

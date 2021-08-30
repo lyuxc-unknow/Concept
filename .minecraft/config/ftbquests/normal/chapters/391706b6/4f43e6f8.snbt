@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 424.0d,
+	description: "{id:\"botania:miniisland\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "e3adac70",
+		type: "item",
+		items: [{
+			item: "botania:miniisland 1 8"
+		}],
+		consume_items: true
+	}]
+}

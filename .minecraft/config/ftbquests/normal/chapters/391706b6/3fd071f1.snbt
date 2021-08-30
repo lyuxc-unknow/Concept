@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 771.0d,
+	description: "{id:\"omegacraft:ingot_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "703eecb6",
+		type: "item",
+		items: [{
+			item: "omegacraft:ingot_tin"
+		}],
+		consume_items: true
+	}]
+}

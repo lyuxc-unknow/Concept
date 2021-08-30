@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 450.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"litherite\"},Damage:0s}",
+	tasks: [{
+		uid: "09ec1421",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "litherite"
+			}
+		}],
+		consume_items: true
+	}]
+}

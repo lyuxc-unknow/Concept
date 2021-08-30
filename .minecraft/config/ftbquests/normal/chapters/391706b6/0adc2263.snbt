@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 792.0d,
+	description: "{id:\"tp:pumpkin_juice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "44f467b0",
+		type: "item",
+		items: [{
+			item: "tp:pumpkin_juice"
+		}],
+		consume_items: true
+	}]
+}

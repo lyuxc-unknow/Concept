@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 266.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"yellowgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "8b902f50",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "yellowgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

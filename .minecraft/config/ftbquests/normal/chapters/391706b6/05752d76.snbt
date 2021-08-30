@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 540.0d,
+	description: "{id:\"integrateddynamics:cable\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f0d6e24a",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:cable"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 234.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"ma.soulium\"},Damage:0s}",
+	tasks: [{
+		uid: "c7f5d71e",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "ma.soulium"
+			}
+		}],
+		consume_items: true
+	}]
+}

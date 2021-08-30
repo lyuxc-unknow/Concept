@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:reassemblychamber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a7568796",
+		type: "item",
+		items: [{
+			item: "calculator:reassemblychamber"
+		}],
+		consume_items: true
+	}]
+}

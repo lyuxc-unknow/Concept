@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 286.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"prismarine\"},Damage:0s}",
+	tasks: [{
+		uid: "b52b9b4f",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "prismarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

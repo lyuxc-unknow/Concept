@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 428.0d,
+	description: "{id:\"botania:bifrostperm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5a7c8c9a",
+		type: "item",
+		items: [{
+			item: "botania:bifrostperm"
+		}],
+		consume_items: true
+	}]
+}

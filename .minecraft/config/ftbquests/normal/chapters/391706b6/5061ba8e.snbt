@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"preservation\"},Damage:0s}",
+	tasks: [{
+		uid: "81478373",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "preservation"
+			}
+		}],
+		consume_items: true
+	}]
+}

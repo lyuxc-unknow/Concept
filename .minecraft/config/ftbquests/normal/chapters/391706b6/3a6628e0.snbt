@@ -1,0 +1,20 @@
+{
+	x: 8.0d,
+	y: 502.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:6,key:\"bloodmagic.upgrade.digSlowdown\"},Damage:0s}",
+	tasks: [{
+		uid: "c23184fc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 6,
+				key: "bloodmagic.upgrade.digSlowdown"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 491.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bibliocraft:stockroomcatalog\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5b1fd63",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bibliocraft:stockroomcatalog"
+		}],
+		consume_items: true
+	}]
+}

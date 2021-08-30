@@ -1,0 +1,64 @@
+{
+	x: 35.0d,
+	y: 636.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.01f,FreeModifiers:3,Durability:829,HarvestLevel:2,Attack:7.62f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.01f,FreeModifiers:3,Durability:829,HarvestLevel:2,Attack:7.62f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ma.prudentium\",\"ma.prudentium\",\"ma.prudentium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prosperous\",color:-16741341,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prosperous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "31020f4b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.01f,
+					FreeModifiers: 3,
+					Durability: 829,
+					HarvestLevel: 2,
+					Attack: 7.62f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.01f,
+					FreeModifiers: 3,
+					Durability: 829,
+					HarvestLevel: 2,
+					Attack: 7.62f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.prudentium",
+						"ma.prudentium",
+						"ma.prudentium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -16741341,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

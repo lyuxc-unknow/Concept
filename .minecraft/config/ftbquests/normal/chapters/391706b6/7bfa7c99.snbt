@@ -1,0 +1,77 @@
+{
+	x: 31.0d,
+	y: 382.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:4.5f,Durability:357,HarvestLevel:2,Attack:4.5f,Range:1.25f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:4.5f,Durability:357,HarvestLevel:2,Attack:4.5f,Range:1.25f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"constantan\",\"constantan\",\"constantan\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"freezing\",color:-4219041,level:1},{identifier:\"aridiculous\",color:-4219041,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"freezing\",\"aridiculous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e4cd7a73",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.5f,
+					Durability: 357,
+					HarvestLevel: 2,
+					Attack: 4.5f,
+					Range: 1.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.5f,
+					Durability: 357,
+					HarvestLevel: 2,
+					Attack: 4.5f,
+					Range: 1.25f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"constantan",
+						"constantan",
+						"constantan",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "freezing",
+					color: -4219041,
+					level: 1
+				},
+				{
+					identifier: "aridiculous",
+					color: -4219041,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"freezing",
+					"aridiculous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

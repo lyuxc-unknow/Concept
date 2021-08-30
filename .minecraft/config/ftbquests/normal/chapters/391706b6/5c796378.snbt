@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"cofhcore:resistance2\"},Damage:0s}",
+	tasks: [{
+		uid: "64d05a22",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "cofhcore:resistance2"
+			}
+		}],
+		consume_items: true
+	}]
+}

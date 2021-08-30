@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"xu_enchanted_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "ed2204d7",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "xu_enchanted_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

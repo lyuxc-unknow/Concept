@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 794.0d,
+	description: "{id:\"tp:blackberry_berry\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9662e377",
+		type: "item",
+		items: [{
+			item: "tp:blackberry_berry"
+		}],
+		consume_items: true
+	}]
+}

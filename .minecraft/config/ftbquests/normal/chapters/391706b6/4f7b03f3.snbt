@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 425.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"shulk_me_not\"},Damage:0s}",
+	tasks: [{
+		uid: "abeb289d",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "shulk_me_not"
+			}
+		}],
+		consume_items: true
+	}]
+}

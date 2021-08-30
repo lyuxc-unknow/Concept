@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 442.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"xu_enchanted_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "d7c6e888",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "xu_enchanted_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

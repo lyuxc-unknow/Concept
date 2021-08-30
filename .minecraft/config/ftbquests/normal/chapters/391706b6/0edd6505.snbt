@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 489.0d,
+	description: "{id:\"bibliocraft:mapframe\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "7aeb8aea",
+		type: "item",
+		items: [{
+			item: "bibliocraft:mapframe 1 6"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 517.0d,
+	description: "{id:\"compactmachines3:wallbreakable\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7f5009da",
+		type: "item",
+		items: [{
+			item: "compactmachines3:wallbreakable"
+		}],
+		consume_items: true
+	}]
+}

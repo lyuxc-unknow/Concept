@@ -1,0 +1,76 @@
+{
+	x: 28.0d,
+	y: 372.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:690,HarvestLevel:3,Attack:5.6f,Range:0.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:690,HarvestLevel:3,Attack:5.6f,Range:0.8f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"energetic_alloy\",\"energetic_alloy\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"petramor\",color:-2518196,level:1},{identifier:\"unnatural\",color:-2518196,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"petramor\",\"unnatural\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "830fd763",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.0f,
+					Durability: 690,
+					HarvestLevel: 3,
+					Attack: 5.6f,
+					Range: 0.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.0f,
+					Durability: 690,
+					HarvestLevel: 3,
+					Attack: 5.6f,
+					Range: 0.8f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"energetic_alloy",
+						"energetic_alloy",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "petramor",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "unnatural",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"petramor",
+					"unnatural",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

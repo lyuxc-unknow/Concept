@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 619.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"ivorypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "c9423466",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "ivorypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

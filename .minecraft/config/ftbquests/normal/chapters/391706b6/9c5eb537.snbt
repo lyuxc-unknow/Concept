@@ -1,0 +1,77 @@
+{
+	x: 25.0d,
+	y: 371.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:2640,HarvestLevel:4,Attack:11.45f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:2640,HarvestLevel:4,Attack:11.45f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"platinum\",\"platinum\",\"platinum\",\"platinum\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.deadly_precision\",color:-10366477,level:1},{identifier:\"coldblooded\",color:-10366477,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.deadly_precision\",\"coldblooded\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b8106ad6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 2640,
+					HarvestLevel: 4,
+					Attack: 11.45f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 2640,
+					HarvestLevel: 4,
+					Attack: 11.45f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"platinum",
+						"platinum",
+						"platinum",
+						"platinum"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.deadly_precision",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "coldblooded",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.deadly_precision",
+					"coldblooded",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

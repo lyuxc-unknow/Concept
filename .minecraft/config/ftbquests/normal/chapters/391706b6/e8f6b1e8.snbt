@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:sidedredstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f767af41",
+		type: "item",
+		items: [{
+			item: "randomthings:sidedredstone"
+		}],
+		consume_items: true
+	}]
+}

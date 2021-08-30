@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 796.0d,
+	description: "{id:\"tp:old_reed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "788db13a",
+		type: "item",
+		items: [{
+			item: "tp:old_reed"
+		}],
+		consume_items: true
+	}]
+}

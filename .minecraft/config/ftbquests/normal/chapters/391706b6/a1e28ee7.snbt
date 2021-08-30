@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconevo:part_arcane_focus\"},Damage:0s}",
+	tasks: [{
+		uid: "81b1442f",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconevo:part_arcane_focus"
+			}
+		}],
+		consume_items: true
+	}]
+}

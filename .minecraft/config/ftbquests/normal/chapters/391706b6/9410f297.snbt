@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 433.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"dark_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "ad313d69",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "dark_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

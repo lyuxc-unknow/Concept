@@ -1,0 +1,76 @@
+{
+	x: 14.0d,
+	y: 374.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:1.5f,Durability:300,HarvestLevel:2,Attack:5.0f,Range:1.25f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:1.5f,Durability:300,HarvestLevel:2,Attack:5.0f,Range:1.25f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"sentient_metal\",\"sentient_metal\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.sentient\",color:-8462621,level:1},{identifier:\"tconevo.willful\",color:-8462621,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.sentient\",\"tconevo.willful\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "62baf19a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.5f,
+					Durability: 300,
+					HarvestLevel: 2,
+					Attack: 5.0f,
+					Range: 1.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.5f,
+					Durability: 300,
+					HarvestLevel: 2,
+					Attack: 5.0f,
+					Range: 1.25f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sentient_metal",
+						"sentient_metal",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.sentient",
+					color: -8462621,
+					level: 1
+				},
+				{
+					identifier: "tconevo.willful",
+					color: -8462621,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.sentient",
+					"tconevo.willful",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

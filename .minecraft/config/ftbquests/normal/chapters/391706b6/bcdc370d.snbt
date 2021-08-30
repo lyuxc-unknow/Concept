@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"quartzenrichediron\"},Damage:0s}",
+	tasks: [{
+		uid: "eaa1b25c",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "quartzenrichediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

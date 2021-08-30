@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"steamworld:ancite_golem\"},Damage:0s}",
+	tasks: [{
+		uid: "84c2cf75",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "steamworld:ancite_golem"
+			}
+		}],
+		consume_items: true
+	}]
+}

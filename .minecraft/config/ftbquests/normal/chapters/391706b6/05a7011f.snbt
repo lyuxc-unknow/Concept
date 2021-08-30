@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 571.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"ironchest:wood_copper_chest_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d49880e9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:wood_copper_chest_upgrade"
+		}],
+		consume_items: true
+	}]
+}

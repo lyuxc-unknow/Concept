@@ -1,0 +1,17 @@
+{
+	x: 21.0d,
+	y: 58.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"steamworld:eclipse_stalker\"},Damage:0s}",
+	tasks: [{
+		uid: "c5ac2806",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "steamworld:eclipse_stalker"
+			}
+		}],
+		consume_items: true
+	}]
+}

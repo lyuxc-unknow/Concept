@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 683.0d,
+	description: "{id:\"botania_tweaks:compressed_tiny_potato_5\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "845ff403",
+		type: "item",
+		items: [{
+			item: "botania_tweaks:compressed_tiny_potato_5"
+		}],
+		consume_items: true
+	}]
+}

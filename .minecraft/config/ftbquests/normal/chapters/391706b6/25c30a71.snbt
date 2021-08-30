@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:grid\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "0b342ccb",
+		type: "item",
+		items: [{
+			item: "refinedstorage:grid 1 3"
+		}],
+		consume_items: true
+	}]
+}

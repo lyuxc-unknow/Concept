@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 93.0d,
+	description: "{id:\"randomthings:weatheregg\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8c918298",
+		type: "item",
+		items: [{
+			item: "randomthings:weatheregg"
+		}],
+		consume_items: true
+	}]
+}

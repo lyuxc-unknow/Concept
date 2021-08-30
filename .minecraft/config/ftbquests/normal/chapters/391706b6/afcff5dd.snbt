@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 235.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"dark_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "6f889eef",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "dark_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

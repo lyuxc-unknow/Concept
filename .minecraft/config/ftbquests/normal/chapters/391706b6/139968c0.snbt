@@ -1,0 +1,70 @@
+{
+	x: 18.0d,
+	y: 360.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:176,HarvestLevel:1,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:176,HarvestLevel:1,Attack:5.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lumium\",\"lumium\",\"lumium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.opportunist\",color:-2235507,level:1},{identifier:\"tconevo.luminiferous\",color:-2235507,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.opportunist\",\"tconevo.luminiferous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "93bf910f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 176,
+					HarvestLevel: 1,
+					Attack: 5.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 176,
+					HarvestLevel: 1,
+					Attack: 5.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"lumium",
+						"lumium",
+						"lumium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.opportunist",
+					color: -2235507,
+					level: 1
+				},
+				{
+					identifier: "tconevo.luminiferous",
+					color: -2235507,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.opportunist",
+					"tconevo.luminiferous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

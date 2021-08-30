@@ -1,0 +1,71 @@
+{
+	x: 12.0d,
+	y: 323.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shovel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:14.06f,FreeModifiers:3,Durability:2060,HarvestLevel:4,Attack:11.07f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:14.06f,FreeModifiers:3,Durability:2060,HarvestLevel:4,Attack:11.07f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ivorypsi\",\"ivorypsi\",\"ivorypsi\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psirepair\",color:-13858615,level:1},{identifier:\"holy\",color:-13858615,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psirepair\",\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f7702f72",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shovel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					Durability: 2060,
+					HarvestLevel: 4,
+					Attack: 11.07f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					Durability: 2060,
+					HarvestLevel: 4,
+					Attack: 11.07f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ivorypsi",
+						"ivorypsi",
+						"ivorypsi"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psirepair",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "holy",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psirepair",
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

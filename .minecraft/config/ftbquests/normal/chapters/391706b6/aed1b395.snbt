@@ -1,0 +1,19 @@
+{
+	x: 37.0d,
+	y: 776.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"electrum\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "4341b8c0",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "electrum",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

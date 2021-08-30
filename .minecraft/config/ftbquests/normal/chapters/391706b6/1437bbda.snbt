@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: 397.0d,
+	description: "{id:\"tconstruct:rack\",Count:1b,tag:{textureBlock:{id:\"minecraft:wooden_slab\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "9563d6af",
+		type: "item",
+		items: [{
+			id: "tconstruct:rack",
+			tag: {
+				textureBlock: {
+					id: "minecraft:wooden_slab",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

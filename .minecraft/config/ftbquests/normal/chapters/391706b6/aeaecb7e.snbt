@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 243.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"aluminium\"},Damage:0s}",
+	tasks: [{
+		uid: "961bbd02",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "aluminium"
+			}
+		}],
+		consume_items: true
+	}]
+}

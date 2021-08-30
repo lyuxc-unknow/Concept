@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 312.0d,
+	description: "{id:\"tconstruct:arrow_shaft\",Count:1b,tag:{Material:\"ice\"},Damage:0s}",
+	tasks: [{
+		uid: "f6381874",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_shaft",
+			tag: {
+				Material: "ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

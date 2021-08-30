@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 681.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_pickaxe_obsidian\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6caac42e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_pickaxe_obsidian"
+		}],
+		consume_items: true
+	}]
+}

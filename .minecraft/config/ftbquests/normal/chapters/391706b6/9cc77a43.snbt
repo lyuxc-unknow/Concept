@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:cell_workbench\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fd31e9a5",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:cell_workbench"
+		}],
+		consume_items: true
+	}]
+}

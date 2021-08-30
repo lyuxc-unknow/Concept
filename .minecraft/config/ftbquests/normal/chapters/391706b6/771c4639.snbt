@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 682.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_shovel_crystal_white\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "12f15a5b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_shovel_crystal_white"
+		}],
+		consume_items: true
+	}]
+}

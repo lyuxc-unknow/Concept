@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 420.0d,
+	description: "{id:\"botania:gaiahead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ee42a78e",
+		type: "item",
+		items: [{
+			item: "botania:gaiahead"
+		}],
+		consume_items: true
+	}]
+}

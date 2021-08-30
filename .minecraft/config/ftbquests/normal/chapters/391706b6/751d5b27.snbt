@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"ma.prudentium\"},Damage:0s}",
+	tasks: [{
+		uid: "4f47bca2",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "ma.prudentium"
+			}
+		}],
+		consume_items: true
+	}]
+}

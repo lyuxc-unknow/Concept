@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 473.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"fluix_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "17f1d7d1",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "fluix_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

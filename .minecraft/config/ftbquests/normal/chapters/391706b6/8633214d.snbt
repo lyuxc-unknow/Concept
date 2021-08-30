@@ -1,0 +1,17 @@
+{
+	x: 38.0d,
+	y: 160.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:3b,Block:\"mist:portal_base\"},Damage:0s}",
+	tasks: [{
+		uid: "e3670808",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 3b,
+				Block: "mist:portal_base"
+			}
+		}],
+		consume_items: true
+	}]
+}

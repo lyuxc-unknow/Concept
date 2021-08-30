@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 583.0d,
+	description: "{id:\"pneumaticcraft:range_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2b55126f",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:range_upgrade"
+		}],
+		consume_items: true
+	}]
+}

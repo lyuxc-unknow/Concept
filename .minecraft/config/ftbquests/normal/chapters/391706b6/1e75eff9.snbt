@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:saturationplus_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6c4c29bc",
+		type: "item",
+		items: [{
+			item: "rftools:saturationplus_module"
+		}],
+		consume_items: true
+	}]
+}

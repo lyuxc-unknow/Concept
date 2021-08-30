@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:wyvern_legs\",Count:1b,tag:{Energy:4000000},Damage:0s}",
+	tasks: [{
+		uid: "f5dd0509",
+		type: "item",
+		items: [{
+			id: "draconicevolution:wyvern_legs",
+			tag: {
+				Energy: 4000000
+			}
+		}],
+		consume_items: true
+	}]
+}

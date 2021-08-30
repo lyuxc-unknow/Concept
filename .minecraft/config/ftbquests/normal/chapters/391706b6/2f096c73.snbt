@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 773.0d,
+	description: "{id:\"omegacraft:ore_silverb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "41d2c3ad",
+		type: "item",
+		items: [{
+			item: "omegacraft:ore_silverb"
+		}],
+		consume_items: true
+	}]
+}

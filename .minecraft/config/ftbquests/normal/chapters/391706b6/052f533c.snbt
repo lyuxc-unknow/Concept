@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"titanium\"},Damage:0s}",
+	tasks: [{
+		uid: "afd42aa8",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "titanium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 286.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "29a87a43",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

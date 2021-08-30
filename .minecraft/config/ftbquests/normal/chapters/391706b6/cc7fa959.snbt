@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 76.0d,
+	description: "{id:\"denseneutroncollectors:compressed_neutron_collector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45bafd27",
+		type: "item",
+		items: [{
+			item: "denseneutroncollectors:compressed_neutron_collector"
+		}],
+		consume_items: true
+	}]
+}

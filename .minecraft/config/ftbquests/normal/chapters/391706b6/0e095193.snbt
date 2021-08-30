@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 306.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"iridium\"},Damage:0s}",
+	tasks: [{
+		uid: "4ab885cd",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "iridium"
+			}
+		}],
+		consume_items: true
+	}]
+}

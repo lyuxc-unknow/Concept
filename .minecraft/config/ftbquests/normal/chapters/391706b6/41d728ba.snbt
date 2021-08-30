@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 267.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"galite\"},Damage:0s}",
+	tasks: [{
+		uid: "84eb8997",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "galite"
+			}
+		}],
+		consume_items: true
+	}]
+}

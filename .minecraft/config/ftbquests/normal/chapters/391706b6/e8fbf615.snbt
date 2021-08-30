@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 26.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"cofhcore:swiftness3+\"},Damage:0s}",
+	tasks: [{
+		uid: "1dd832ed",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "cofhcore:swiftness3+"
+			}
+		}],
+		consume_items: true
+	}]
+}

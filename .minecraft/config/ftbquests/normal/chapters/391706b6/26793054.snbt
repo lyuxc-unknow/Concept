@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 98.0d,
+	description: "{id:\"mist:acacia_block\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "4675b468",
+		type: "item",
+		items: [{
+			item: "mist:acacia_block 1 8"
+		}],
+		consume_items: true
+	}]
+}

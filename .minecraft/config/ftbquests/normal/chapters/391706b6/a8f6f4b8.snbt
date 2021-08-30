@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 627.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tinymobfarm:lasso\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca7a1f71",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tinymobfarm:lasso"
+		}],
+		consume_items: true
+	}]
+}

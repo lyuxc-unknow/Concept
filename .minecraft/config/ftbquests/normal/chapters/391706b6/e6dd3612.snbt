@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 303.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"elvenelementium\"},Damage:0s}",
+	tasks: [{
+		uid: "0326c272",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "elvenelementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

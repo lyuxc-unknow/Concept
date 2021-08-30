@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 504.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_trainer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "25fbb8a2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_trainer"
+		}],
+		consume_items: true
+	}]
+}

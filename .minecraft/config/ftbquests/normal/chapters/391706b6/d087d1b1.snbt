@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:draconic_sword\",Count:1b,tag:{DEUpgrades:{attackDmg:3b,rfCap:3b,attackAOE:3b},Energy:256000000},Damage:0s}",
+	tasks: [{
+		uid: "184a77d0",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_sword",
+			tag: {
+				DEUpgrades: {
+					attackDmg: 3b,
+					rfCap: 3b,
+					attackAOE: 3b
+				},
+				Energy: 256000000
+			}
+		}],
+		consume_items: true
+	}]
+}

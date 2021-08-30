@@ -1,0 +1,19 @@
+{
+	x: 24.0d,
+	y: 513.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:gastank\",Count:1b,tag:{tier:4},Damage:0s}",
+	tasks: [{
+		uid: "ff7ca29c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:gastank",
+			tag: {
+				tier: 4
+			}
+		}],
+		consume_items: true
+	}]
+}

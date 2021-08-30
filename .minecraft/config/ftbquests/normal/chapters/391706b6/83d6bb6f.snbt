@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 184.0d,
+	description: "{id:\"enderio:item_material\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "fbc71b06",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 1"
+		}],
+		consume_items: true
+	}]
+}

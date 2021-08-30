@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 286.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"conductive_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "97a4af8b",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "conductive_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

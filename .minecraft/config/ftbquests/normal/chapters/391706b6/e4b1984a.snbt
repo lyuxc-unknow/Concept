@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 112.0d,
+	description: "{id:\"naturesaura:effect_powder\",Count:1b,tag:{effect:\"naturesaura:plant_boost\"},Damage:0s}",
+	tasks: [{
+		uid: "c7e76f58",
+		type: "item",
+		items: [{
+			id: "naturesaura:effect_powder",
+			tag: {
+				effect: "naturesaura:plant_boost"
+			}
+		}],
+		consume_items: true
+	}]
+}

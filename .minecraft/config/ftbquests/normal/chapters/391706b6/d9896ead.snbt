@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 207.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderio:item_end_steel_shield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3bf74d29",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_end_steel_shield"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"dark_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "bc569441",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "dark_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

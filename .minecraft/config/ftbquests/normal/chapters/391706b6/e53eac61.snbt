@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 76.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:circuitdamaged\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "da320df3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:circuitdamaged",
+			Damage: 8s
+		}],
+		consume_items: true
+	}]
+}

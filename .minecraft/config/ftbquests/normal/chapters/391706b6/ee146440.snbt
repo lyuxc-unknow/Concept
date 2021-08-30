@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 518.0d,
+	description: "{id:\"darkutils:shulker_pearl\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "276ec616",
+		type: "item",
+		items: [{
+			item: "darkutils:shulker_pearl"
+		}],
+		consume_items: true
+	}]
+}

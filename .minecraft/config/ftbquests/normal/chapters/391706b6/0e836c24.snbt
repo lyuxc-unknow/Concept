@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 284.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"gelid_gem\"},Damage:0s}",
+	tasks: [{
+		uid: "c9d79fd5",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "gelid_gem"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 289.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"ebonypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "a78e6f8f",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "ebonypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

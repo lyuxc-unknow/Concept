@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"rubber\"},Damage:0s}",
+	tasks: [{
+		uid: "19e8959c",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "rubber"
+			}
+		}],
+		consume_items: true
+	}]
+}

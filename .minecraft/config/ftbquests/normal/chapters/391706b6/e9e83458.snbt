@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 236.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"ivorypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "fd2d2af1",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "ivorypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

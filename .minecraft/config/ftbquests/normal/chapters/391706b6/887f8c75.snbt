@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 557.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"Brachiodon\",level:10,mobId:\"mist:brachiodon\"},Damage:0s}",
+	tasks: [{
+		uid: "c341e794",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "Brachiodon",
+				level: 10,
+				mobId: "mist:brachiodon"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"ivorypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "d83cc2a5",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "ivorypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

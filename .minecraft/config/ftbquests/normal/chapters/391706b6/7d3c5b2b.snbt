@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 648.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"erodium\"},Damage:0s}",
+	tasks: [{
+		uid: "37b1d374",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "erodium"
+			}
+		}],
+		consume_items: true
+	}]
+}

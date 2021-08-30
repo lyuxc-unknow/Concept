@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"ba_snow_flower\"},Damage:0s}",
+	tasks: [{
+		uid: "ab0b90d9",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "ba_snow_flower"
+			}
+		}],
+		consume_items: true
+	}]
+}

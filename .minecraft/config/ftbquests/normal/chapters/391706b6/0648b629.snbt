@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 742.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:axe_aluminum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7c1780eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:axe_aluminum"
+		}],
+		consume_items: true
+	}]
+}

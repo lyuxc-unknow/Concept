@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:advanced_liquid_compressor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ee94838",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:advanced_liquid_compressor"
+		}],
+		consume_items: true
+	}]
+}

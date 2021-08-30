@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 425.0d,
+	description: "{id:\"botania:redstringfertilizer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "25064a43",
+		type: "item",
+		items: [{
+			item: "botania:redstringfertilizer"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,75 @@
+{
+	x: 14.0d,
+	y: 662.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:0.0f,FreeModifiers:3,tt.explosionRadius:2.5f,Durability:248,HarvestLevel:0,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:0.0f,FreeModifiers:3,tt.explosionRadius:2.5f,Durability:248,HarvestLevel:0,Attack:5.0f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"psigem\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"psieater\",color:-15931171,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"psieater\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "88c53019",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					tt.explosionRadius: 2.5f,
+					Durability: 248,
+					HarvestLevel: 0,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					tt.explosionRadius: 2.5f,
+					Durability: 248,
+					HarvestLevel: 0,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"psigem",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "psieater",
+					color: -15931171,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"psieater",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

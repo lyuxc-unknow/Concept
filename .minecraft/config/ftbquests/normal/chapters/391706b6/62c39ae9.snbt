@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 420.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:incensestick\",Count:1b,tag:{brewKey:\"featherFeet\"},Damage:0s}",
+	tasks: [{
+		uid: "790685c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:incensestick",
+			tag: {
+				brewKey: "featherFeet"
+			}
+		}],
+		consume_items: true
+	}]
+}

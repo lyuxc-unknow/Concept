@@ -1,0 +1,19 @@
+{
+	x: 20.0d,
+	y: 689.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"chiselsandbits:bit_bag\",Count:1b,tag:{color:\"orange\"},Damage:0s}",
+	tasks: [{
+		uid: "d69bcc5a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "chiselsandbits:bit_bag",
+			tag: {
+				color: "orange"
+			}
+		}],
+		consume_items: true
+	}]
+}

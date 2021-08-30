@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 272.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"treatedwood\"},Damage:0s}",
+	tasks: [{
+		uid: "d5c4b268",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "treatedwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

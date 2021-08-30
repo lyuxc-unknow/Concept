@@ -1,0 +1,75 @@
+{
+	x: 30.0d,
+	y: 389.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:280,HarvestLevel:4,Attack:10.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:280,HarvestLevel:4,Attack:10.0f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"vibrant_alloy\",\"vibrant_alloy\",\"vibrant_alloy\",\"vibrant_alloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderpickup\",color:-4798352,level:1},{identifier:\"enderport\",enderport-4:1b,color:-4798352,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderpickup\",\"enderport-4\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "591679d9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 280,
+					HarvestLevel: 4,
+					Attack: 10.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 280,
+					HarvestLevel: 4,
+					Attack: 10.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"vibrant_alloy",
+						"vibrant_alloy",
+						"vibrant_alloy",
+						"vibrant_alloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderpickup",
+					color: -4798352,
+					level: 1
+				},
+				{
+					identifier: "enderport",
+					enderport-4: 1b,
+					color: -4798352,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderpickup",
+					"enderport-4",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

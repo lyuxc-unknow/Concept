@@ -1,0 +1,17 @@
+{
+	x: 20.0d,
+	y: 51.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalexpansion:reservoir\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "27d21fb4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:reservoir",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

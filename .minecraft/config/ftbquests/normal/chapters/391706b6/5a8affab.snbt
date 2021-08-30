@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 31.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"enderio:strong_floating\"},Damage:0s}",
+	tasks: [{
+		uid: "b2bd2e25",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "enderio:strong_floating"
+			}
+		}],
+		consume_items: true
+	}]
+}

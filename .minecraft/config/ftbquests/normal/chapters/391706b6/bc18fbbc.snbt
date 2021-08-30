@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:area_card\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7e42fa6",
+		type: "item",
+		items: [{
+			item: "wirelessutils:area_card"
+		}],
+		consume_items: true
+	}]
+}

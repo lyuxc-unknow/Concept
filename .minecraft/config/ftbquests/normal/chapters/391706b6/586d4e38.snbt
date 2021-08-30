@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 88.0d,
+	description: "{id:\"randomthings:analogemitter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00e5ffda",
+		type: "item",
+		items: [{
+			item: "randomthings:analogemitter"
+		}],
+		consume_items: true
+	}]
+}

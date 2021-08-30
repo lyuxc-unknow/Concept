@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 739.0d,
+	description: "{id:\"refinedstorage:upgrade\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "b2927692",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 2"
+		}],
+		consume_items: true
+	}]
+}

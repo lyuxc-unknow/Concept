@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 126.0d,
+	description: "{id:\"openblocks:rope_ladder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "229dc450",
+		type: "item",
+		items: [{
+			item: "openblocks:rope_ladder"
+		}],
+		consume_items: true
+	}]
+}

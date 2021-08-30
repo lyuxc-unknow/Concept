@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 758.0d,
+	description: "{id:\"industrialforegoing:fluid_pump\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b845aad4",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluid_pump"
+		}],
+		consume_items: true
+	}]
+}

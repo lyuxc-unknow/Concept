@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 115.0d,
+	description: "{id:\"moreplates:refined_obsidian_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d885cc4a",
+		type: "item",
+		items: [{
+			item: "moreplates:refined_obsidian_plate"
+		}],
+		consume_items: true
+	}]
+}

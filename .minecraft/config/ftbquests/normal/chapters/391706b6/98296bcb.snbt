@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 129.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:cursor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3d564ac8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:cursor"
+		}],
+		consume_items: true
+	}]
+}

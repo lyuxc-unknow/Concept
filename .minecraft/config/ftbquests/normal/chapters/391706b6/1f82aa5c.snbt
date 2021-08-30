@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 585.0d,
+	description: "{id:\"mysticalcreations:witch_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "56c2f03c",
+		type: "item",
+		items: [{
+			item: "mysticalcreations:witch_seeds"
+		}],
+		consume_items: true
+	}]
+}

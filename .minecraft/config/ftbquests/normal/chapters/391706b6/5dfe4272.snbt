@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:interface\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00375889",
+		type: "item",
+		items: [{
+			item: "refinedstorage:interface"
+		}],
+		consume_items: true
+	}]
+}

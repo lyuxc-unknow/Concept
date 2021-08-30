@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 549.0d,
+	description: "{id:\"mysticalagriculture:experience_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7b568b33",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:experience_seeds"
+		}],
+		consume_items: true
+	}]
+}

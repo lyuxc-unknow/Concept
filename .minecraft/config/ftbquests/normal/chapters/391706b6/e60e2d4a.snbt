@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:mule\"},Damage:0s}",
+	tasks: [{
+		uid: "bcd80dba",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:mule"
+			}
+		}],
+		consume_items: true
+	}]
+}

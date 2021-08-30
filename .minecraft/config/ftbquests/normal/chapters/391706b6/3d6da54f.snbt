@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 393.0d,
+	description: "{id:\"tconstruct:smeltery_controller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "19e42411",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}],
+		consume_items: true
+	}]
+}

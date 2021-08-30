@@ -1,0 +1,17 @@
+{
+	x: 31.0d,
+	y: 159.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:2b,Block:\"mist:s_tree_fence\"},Damage:0s}",
+	tasks: [{
+		uid: "85306dd1",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 2b,
+				Block: "mist:s_tree_fence"
+			}
+		}],
+		consume_items: true
+	}]
+}

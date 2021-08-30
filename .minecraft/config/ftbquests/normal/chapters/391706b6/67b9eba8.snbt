@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 257.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"litherite\"},Damage:0s}",
+	tasks: [{
+		uid: "89f42f35",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "litherite"
+			}
+		}],
+		consume_items: true
+	}]
+}

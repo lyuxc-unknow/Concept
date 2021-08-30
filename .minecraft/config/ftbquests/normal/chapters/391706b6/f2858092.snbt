@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:heat_sawmill\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aea3b18f",
+		type: "item",
+		items: [{
+			item: "prodigytech:heat_sawmill"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 274.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"redgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "8bf25288",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "redgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

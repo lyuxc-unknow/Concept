@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 401.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"appliedenergistics2:charged_staff\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "738be6ff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:charged_staff"
+		}],
+		consume_items: true
+	}]
+}

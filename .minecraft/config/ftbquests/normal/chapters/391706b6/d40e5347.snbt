@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 780.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"red_matter\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "b8b1b421",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "red_matter",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

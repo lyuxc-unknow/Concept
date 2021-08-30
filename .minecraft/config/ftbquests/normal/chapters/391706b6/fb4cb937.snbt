@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:mob_duplicator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4676fda4",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_duplicator"
+		}],
+		consume_items: true
+	}]
+}

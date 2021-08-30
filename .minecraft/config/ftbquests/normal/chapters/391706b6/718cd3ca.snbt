@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 739.0d,
+	description: "{id:\"maia_draconic_edition:chaotic_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ce256bbd",
+		type: "item",
+		items: [{
+			item: "maia_draconic_edition:chaotic_plate"
+		}],
+		consume_items: true
+	}]
+}

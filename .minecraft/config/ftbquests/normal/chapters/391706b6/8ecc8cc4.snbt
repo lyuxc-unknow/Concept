@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 294.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"restonia_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "52d6f64d",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "restonia_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

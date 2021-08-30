@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 70.0d,
+	description: "{id:\"sonarcore:stablestone_magenta\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "db775081",
+		type: "item",
+		items: [{
+			item: "sonarcore:stablestone_magenta"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 615.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"blutonium\"},Damage:0s}",
+	tasks: [{
+		uid: "c228217d",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "blutonium"
+			}
+		}],
+		consume_items: true
+	}]
+}

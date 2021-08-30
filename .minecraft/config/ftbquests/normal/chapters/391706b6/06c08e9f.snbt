@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 611.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"tin\"},Damage:0s}",
+	tasks: [{
+		uid: "bc75d10d",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "tin"
+			}
+		}],
+		consume_items: true
+	}]
+}

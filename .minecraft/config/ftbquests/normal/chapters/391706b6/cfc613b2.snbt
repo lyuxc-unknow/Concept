@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 752.0d,
+	description: "{id:\"environmentaltech:pladium_bricks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4b68f86",
+		type: "item",
+		items: [{
+			item: "environmentaltech:pladium_bricks"
+		}],
+		consume_items: true
+	}]
+}

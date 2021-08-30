@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 93.0d,
+	description: "{id:\"randomthings:spectreilluminator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9bb6dfcb",
+		type: "item",
+		items: [{
+			item: "randomthings:spectreilluminator"
+		}],
+		consume_items: true
+	}]
+}

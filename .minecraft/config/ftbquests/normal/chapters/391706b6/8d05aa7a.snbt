@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 491.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bibliocraft:atlasbook\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf995bb5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bibliocraft:atlasbook"
+		}],
+		consume_items: true
+	}]
+}

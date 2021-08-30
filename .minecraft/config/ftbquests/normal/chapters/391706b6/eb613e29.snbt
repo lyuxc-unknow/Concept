@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 736.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"chiselsandbits:tape_measure\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cf793feb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "chiselsandbits:tape_measure"
+		}],
+		consume_items: true
+	}]
+}

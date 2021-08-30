@@ -1,0 +1,71 @@
+{
+	x: 32.0d,
+	y: 369.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:610,HarvestLevel:1,Attack:6.8999996f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:610,HarvestLevel:1,Attack:6.8999996f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"electrum\",\"electrum\",\"electrum\",\"electrum\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"shocking\",color:-1516727,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shocking\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9d762ed9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 12.0f,
+					FreeModifiers: 3,
+					Durability: 610,
+					HarvestLevel: 1,
+					Attack: 6.8999996f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 12.0f,
+					FreeModifiers: 3,
+					Durability: 610,
+					HarvestLevel: 1,
+					Attack: 6.8999996f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"electrum",
+						"electrum",
+						"electrum",
+						"electrum"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shocking",
+					color: -1516727,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shocking",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

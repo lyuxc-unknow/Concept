@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 439.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"crystal_matrix\"},Damage:0s}",
+	tasks: [{
+		uid: "b64c7533",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}],
+		consume_items: true
+	}]
+}

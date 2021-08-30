@@ -1,0 +1,55 @@
+{
+	x: 5.0d,
+	y: 463.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:59892,Defense:50.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:59892,Defense:50.0f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"ebonypsi\",\"ebonypsi\",\"ebonypsi\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"psieater\",color:-16119286,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"psieater\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "904de338",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 59892,
+					Defense: 50.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 59892,
+					Defense: 50.0f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"ebonypsi",
+						"ebonypsi",
+						"ebonypsi"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "psieater",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psieater",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

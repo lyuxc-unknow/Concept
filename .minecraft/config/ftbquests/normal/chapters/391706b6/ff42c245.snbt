@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 413.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:tinyplanet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "56019df7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:tinyplanet"
+		}],
+		consume_items: true
+	}]
+}

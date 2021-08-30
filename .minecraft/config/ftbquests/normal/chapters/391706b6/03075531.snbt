@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 292.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"constantan\"},Damage:0s}",
+	tasks: [{
+		uid: "e5a6a282",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "constantan"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,67 @@
+{
+	x: 0.0d,
+	y: 643.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:javelin\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.45f,FreeModifiers:3,Durability:288,HarvestLevel:1,Attack:10.45f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.45f,FreeModifiers:3,Durability:288,HarvestLevel:1,Attack:10.45f},Special:{Categories:[\"weapon\",\"tool\",\"projectile\"]},TinkerData:{Materials:[\"certus\",\"certus\",\"certus\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shocking\",color:-3349264,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shocking\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "dbd8b60c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:javelin",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.45f,
+					FreeModifiers: 3,
+					Durability: 288,
+					HarvestLevel: 1,
+					Attack: 10.45f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.45f,
+					FreeModifiers: 3,
+					Durability: 288,
+					HarvestLevel: 1,
+					Attack: 10.45f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"certus",
+						"certus",
+						"certus"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shocking",
+					color: -3349264,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shocking",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 520.0d,
+	description: "{id:\"deepmoblearning:machine_casing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aea94635",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:machine_casing"
+		}],
+		consume_items: true
+	}]
+}

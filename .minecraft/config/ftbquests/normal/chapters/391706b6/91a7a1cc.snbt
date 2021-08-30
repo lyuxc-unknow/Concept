@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 630.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"gelid_gem\"},Damage:0s}",
+	tasks: [{
+		uid: "791a5f5c",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "gelid_gem"
+			}
+		}],
+		consume_items: true
+	}]
+}

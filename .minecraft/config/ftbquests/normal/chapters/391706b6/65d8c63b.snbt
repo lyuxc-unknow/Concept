@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 484.0d,
+	description: "{id:\"psi:psi_decorative\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "c8a5b05b",
+		type: "item",
+		items: [{
+			item: "psi:psi_decorative 1 6"
+		}],
+		consume_items: true
+	}]
+}

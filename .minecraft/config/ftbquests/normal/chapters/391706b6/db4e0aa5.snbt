@@ -1,0 +1,79 @@
+{
+	x: 32.0d,
+	y: 646.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:dagger\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:855,HarvestLevel:3,Attack:5.2f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:855,HarvestLevel:3,Attack:5.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ancite\",\"ancite\",\"ancite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-8682833,level:1,magnetic1:1b},{identifier:\"unnatural\",color:-8682833,level:1},{identifier:\"heavy\",color:-8682833,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic1\",\"unnatural\",\"heavy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "bff91c42",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:dagger",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 855,
+					HarvestLevel: 3,
+					Attack: 5.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 855,
+					HarvestLevel: 3,
+					Attack: 5.2f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ancite",
+						"ancite",
+						"ancite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -8682833,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "unnatural",
+					color: -8682833,
+					level: 1
+				},
+				{
+					identifier: "heavy",
+					color: -8682833,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1",
+					"unnatural",
+					"heavy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

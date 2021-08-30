@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 619.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"gaia\"},Damage:0s}",
+	tasks: [{
+		uid: "247b4506",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "gaia"
+			}
+		}],
+		consume_items: true
+	}]
+}

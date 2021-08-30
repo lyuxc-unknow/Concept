@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 311.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "37350914",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

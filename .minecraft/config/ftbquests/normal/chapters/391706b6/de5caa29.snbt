@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 575.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanismtools:bronzeaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "42234232",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismtools:bronzeaxe"
+		}],
+		consume_items: true
+	}]
+}

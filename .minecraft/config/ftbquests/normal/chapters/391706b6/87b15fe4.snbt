@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 129.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:sponge_on_a_stick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "58d94c2d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:sponge_on_a_stick"
+		}],
+		consume_items: true
+	}]
+}

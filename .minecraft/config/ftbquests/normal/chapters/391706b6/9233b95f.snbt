@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 562.0d,
+	description: "{id:\"immersiveengineering:treated_wood_stairs0\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "71737074",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:treated_wood_stairs0"
+		}],
+		consume_items: true
+	}]
+}

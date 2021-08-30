@@ -1,0 +1,18 @@
+{
+	x: 13.0d,
+	y: 180.0d,
+	description: "{id:\"chickens:spawn_egg\",Count:1b,tag:{ChickenType:{id:\"chickens:pcrystalchicken\"}},Damage:0s}",
+	tasks: [{
+		uid: "46d51046",
+		type: "item",
+		items: [{
+			id: "chickens:spawn_egg",
+			tag: {
+				ChickenType: {
+					id: "chickens:pcrystalchicken"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

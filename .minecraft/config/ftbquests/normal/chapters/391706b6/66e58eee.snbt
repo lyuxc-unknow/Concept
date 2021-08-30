@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 574.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"matc:inferiumcrystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b34c5bd0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "matc:inferiumcrystal"
+		}],
+		consume_items: true
+	}]
+}

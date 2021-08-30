@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 796.0d,
+	description: "{id:\"jaopca:block_mysticalcropslunar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "173a6c8b",
+		type: "item",
+		items: [{
+			item: "jaopca:block_mysticalcropslunar"
+		}],
+		consume_items: true
+	}]
+}

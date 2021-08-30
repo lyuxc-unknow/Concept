@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 284.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"meat_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "fe8a3865",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "meat_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

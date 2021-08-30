@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 770.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"custom_additions:gold_plated_band\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc280e03",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "custom_additions:gold_plated_band"
+		}],
+		consume_items: true
+	}]
+}

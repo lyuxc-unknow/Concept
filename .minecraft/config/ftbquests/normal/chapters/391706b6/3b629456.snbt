@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 623.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"psigem\"},Damage:0s}",
+	tasks: [{
+		uid: "2b45eaa0",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "psigem"
+			}
+		}],
+		consume_items: true
+	}]
+}

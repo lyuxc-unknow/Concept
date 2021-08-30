@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 240.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"diamond\"},Damage:0s}",
+	tasks: [{
+		uid: "75f0fbed",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "diamond"
+			}
+		}],
+		consume_items: true
+	}]
+}

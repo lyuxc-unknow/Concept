@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 448.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"titanium\"},Damage:0s}",
+	tasks: [{
+		uid: "9c50314f",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "titanium"
+			}
+		}],
+		consume_items: true
+	}]
+}

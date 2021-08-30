@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 624.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"lead\"},Damage:0s}",
+	tasks: [{
+		uid: "38d3e018",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "lead"
+			}
+		}],
+		consume_items: true
+	}]
+}

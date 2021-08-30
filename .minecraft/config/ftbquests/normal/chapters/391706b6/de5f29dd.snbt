@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:animal_generator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9fc211d1",
+		type: "item",
+		items: [{
+			item: "naturesaura:animal_generator"
+		}],
+		consume_items: true
+	}]
+}

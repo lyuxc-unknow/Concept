@@ -1,0 +1,18 @@
+{
+	x: 16.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"steamworld:villangler\"}},Damage:0s}",
+	tasks: [{
+		uid: "19ef89db",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "steamworld:villangler"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

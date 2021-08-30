@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 790.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:iron_battle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fe1eb1b6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:iron_battle"
+		}],
+		consume_items: true
+	}]
+}

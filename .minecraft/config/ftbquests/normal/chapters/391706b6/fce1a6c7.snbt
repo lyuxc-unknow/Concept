@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 296.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"yellorium\"},Damage:0s}",
+	tasks: [{
+		uid: "450748c8",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "yellorium"
+			}
+		}],
+		consume_items: true
+	}]
+}

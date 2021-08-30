@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 621.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"ma.base_essence\"},Damage:0s}",
+	tasks: [{
+		uid: "63abeb02",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "ma.base_essence"
+			}
+		}],
+		consume_items: true
+	}]
+}

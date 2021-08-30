@@ -1,0 +1,76 @@
+{
+	x: 34.0d,
+	y: 384.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:0.83f,FreeModifiers:3,Durability:36,HarvestLevel:0,Attack:2.1f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:0.83f,FreeModifiers:5,Durability:36,HarvestLevel:0,Attack:2.1f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"ma.prosperity\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"writable\",color:-6044219,level:2,writable2:1b,writable1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"writable2\",\"writable1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "51100910",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 0.83f,
+					FreeModifiers: 3,
+					Durability: 36,
+					HarvestLevel: 0,
+					Attack: 2.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 0.83f,
+					FreeModifiers: 5,
+					Durability: 36,
+					HarvestLevel: 0,
+					Attack: 2.1f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"ma.prosperity",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "writable",
+					color: -6044219,
+					level: 2,
+					writable2: 1b,
+					writable1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"writable2",
+					"writable1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

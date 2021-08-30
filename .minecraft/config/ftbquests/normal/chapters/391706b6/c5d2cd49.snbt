@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 668.0d,
+	description: "{id:\"wirelessutils:transfer_augment\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "2e579799",
+		type: "item",
+		items: [{
+			item: "wirelessutils:transfer_augment 1 4"
+		}],
+		consume_items: true
+	}]
+}

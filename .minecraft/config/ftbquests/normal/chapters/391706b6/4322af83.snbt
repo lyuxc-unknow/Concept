@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tinkersarsenal:bullet\"},Damage:0s}",
+	tasks: [{
+		uid: "55d30a96",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tinkersarsenal:bullet"
+			}
+		}],
+		consume_items: true
+	}]
+}

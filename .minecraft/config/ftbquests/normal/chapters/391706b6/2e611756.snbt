@@ -1,0 +1,21 @@
+{
+	x: 29.0d,
+	y: 556.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"Momo\",level:10,mobId:\"mist:momo\"},Damage:0s}",
+	tasks: [{
+		uid: "7f28a946",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "Momo",
+				level: 10,
+				mobId: "mist:momo"
+			}
+		}],
+		consume_items: true
+	}]
+}

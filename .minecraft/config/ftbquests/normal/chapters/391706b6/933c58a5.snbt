@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 225.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"refinediron\"},Damage:0s}",
+	tasks: [{
+		uid: "25410029",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "refinediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

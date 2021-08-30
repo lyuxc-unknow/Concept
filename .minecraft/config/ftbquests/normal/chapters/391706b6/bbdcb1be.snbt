@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:gold_powder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53f98a8b",
+		type: "item",
+		items: [{
+			item: "naturesaura:gold_powder"
+		}],
+		consume_items: true
+	}]
+}

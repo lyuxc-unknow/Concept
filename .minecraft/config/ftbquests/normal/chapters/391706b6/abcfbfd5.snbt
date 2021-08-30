@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 623.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"sapphire\"},Damage:0s}",
+	tasks: [{
+		uid: "9edf4636",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "sapphire"
+			}
+		}],
+		consume_items: true
+	}]
+}

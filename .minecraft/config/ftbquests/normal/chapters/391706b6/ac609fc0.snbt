@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 622.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"lonsdaleite\"},Damage:0s}",
+	tasks: [{
+		uid: "5234c03e",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "lonsdaleite"
+			}
+		}],
+		consume_items: true
+	}]
+}

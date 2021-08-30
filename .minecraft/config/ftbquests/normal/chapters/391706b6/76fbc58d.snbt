@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 76.0d,
+	description: "{id:\"chickenchunks:chunk_loader\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "efc35e65",
+		type: "item",
+		items: [{
+			item: "chickenchunks:chunk_loader 1 1"
+		}],
+		consume_items: true
+	}]
+}

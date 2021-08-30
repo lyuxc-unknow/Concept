@@ -1,0 +1,72 @@
+{
+	x: 24.0d,
+	y: 325.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,FreeModifiers:3,Durability:100,HarvestLevel:0,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,FreeModifiers:6,Durability:100,HarvestLevel:0,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"livingwood\",\"livingwood\",\"livingwood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-8824277,level:1},{identifier:\"tconevo.modifiable\",color:-8824277,level:3},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tconevo.modifiable1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "082f68f7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					Durability: 100,
+					HarvestLevel: 0,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 6,
+					Durability: 100,
+					HarvestLevel: 0,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"livingwood",
+						"livingwood",
+						"livingwood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -8824277,
+					level: 1
+				},
+				{
+					identifier: "tconevo.modifiable",
+					color: -8824277,
+					level: 3
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tconevo.modifiable1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

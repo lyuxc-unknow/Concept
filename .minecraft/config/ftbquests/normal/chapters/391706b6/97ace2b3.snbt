@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"aethium\"},Damage:0s}",
+	tasks: [{
+		uid: "9e586b94",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "aethium"
+			}
+		}],
+		consume_items: true
+	}]
+}

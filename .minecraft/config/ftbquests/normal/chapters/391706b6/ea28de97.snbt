@@ -1,0 +1,20 @@
+{
+	x: 11.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:chaos_container\",Count:1b,tag:{chaos:1000,Energy:2000000},Damage:0s}",
+	tasks: [{
+		uid: "9447a347",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:chaos_container",
+			tag: {
+				chaos: 1000,
+				Energy: 2000000
+			}
+		}],
+		consume_items: true
+	}]
+}

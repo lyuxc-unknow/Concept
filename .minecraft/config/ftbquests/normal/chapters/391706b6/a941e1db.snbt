@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 161.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"naturesaura:decayed_leaves\"},Damage:0s}",
+	tasks: [{
+		uid: "49fbf331",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "naturesaura:decayed_leaves"
+			}
+		}],
+		consume_items: true
+	}]
+}

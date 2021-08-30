@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"electrical_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "399a2500",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "electrical_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

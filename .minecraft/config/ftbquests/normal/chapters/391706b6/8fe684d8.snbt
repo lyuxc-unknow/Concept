@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 626.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"gelid_enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "5dbe8c97",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "gelid_enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 772.0d,
+	description: "{id:\"omegacraft:dust_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9ef89ccf",
+		type: "item",
+		items: [{
+			item: "omegacraft:dust_bronze"
+		}],
+		consume_items: true
+	}]
+}

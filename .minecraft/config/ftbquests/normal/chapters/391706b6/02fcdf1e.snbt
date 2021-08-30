@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 54.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"melodic_alloy\"},Damage:1s}",
+	tasks: [{
+		uid: "eda58a19",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "melodic_alloy"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

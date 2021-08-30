@@ -1,0 +1,19 @@
+{
+	x: 20.0d,
+	y: 416.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:brewflask\",Count:1b,tag:{brewKey:\"speed\"},Damage:0s}",
+	tasks: [{
+		uid: "4a8e7815",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:brewflask",
+			tag: {
+				brewKey: "speed"
+			}
+		}],
+		consume_items: true
+	}]
+}

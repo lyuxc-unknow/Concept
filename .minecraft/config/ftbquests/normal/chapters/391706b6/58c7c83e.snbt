@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 409.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"projecte:item.pe_hyperkinetic_lens\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "540ce655",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_hyperkinetic_lens"
+		}],
+		consume_items: true
+	}]
+}

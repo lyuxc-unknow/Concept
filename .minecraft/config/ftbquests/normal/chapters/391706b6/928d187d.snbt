@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 565.0d,
+	description: "{id:\"immersiveengineering:connector\",Count:1b,Damage:13s}",
+	tasks: [{
+		uid: "cbbaab6f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 13"
+		}],
+		consume_items: true
+	}]
+}

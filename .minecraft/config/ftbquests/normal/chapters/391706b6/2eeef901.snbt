@@ -1,0 +1,21 @@
+{
+	x: 29.0d,
+	y: 686.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemcape\",Count:1b,tag:{astralsorcery:{constellationName:\"astralsorcery.constellation.pelotrio\"}},Damage:0s}",
+	tasks: [{
+		uid: "d3c5c8b4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcape",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.pelotrio"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

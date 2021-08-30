@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 12.0d,
+	description: "{id:\"minecraft:cookie\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4079af1f",
+		type: "item",
+		items: [{
+			item: "minecraft:cookie"
+		}],
+		consume_items: true
+	}]
+}

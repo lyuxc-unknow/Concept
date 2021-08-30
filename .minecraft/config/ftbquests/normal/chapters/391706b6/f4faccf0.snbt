@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 448.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "79933474",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

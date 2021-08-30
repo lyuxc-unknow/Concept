@@ -1,0 +1,20 @@
+{
+	x: 22.0d,
+	y: 500.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:2,key:\"bloodmagic.upgrade.knockback\"},Damage:0s}",
+	tasks: [{
+		uid: "d365d26b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 2,
+				key: "bloodmagic.upgrade.knockback"
+			}
+		}],
+		consume_items: true
+	}]
+}

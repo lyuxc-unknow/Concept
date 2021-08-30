@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 763.0d,
+	description: "{id:\"tconevo:part_arcane_focus\",Count:1b,tag:{Material:\"certus_quartz\"},Damage:0s}",
+	tasks: [{
+		uid: "73b22980",
+		type: "item",
+		items: [{
+			id: "tconevo:part_arcane_focus",
+			tag: {
+				Material: "certus_quartz"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 601.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"steamworld:hoe_galite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0af3367a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "steamworld:hoe_galite"
+		}],
+		consume_items: true
+	}]
+}

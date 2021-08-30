@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 397.0d,
+	description: "{id:\"tconstruct:wooden_hopper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0f187ad3",
+		type: "item",
+		items: [{
+			item: "tconstruct:wooden_hopper"
+		}],
+		consume_items: true
+	}]
+}

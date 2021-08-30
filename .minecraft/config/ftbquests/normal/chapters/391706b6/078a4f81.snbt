@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "cc86cec4",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

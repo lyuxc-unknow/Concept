@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 414.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:divacharm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "15260999",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:divacharm"
+		}],
+		consume_items: true
+	}]
+}

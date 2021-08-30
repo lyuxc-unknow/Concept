@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 225.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"cyanite\"},Damage:0s}",
+	tasks: [{
+		uid: "d190f74b",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "cyanite"
+			}
+		}],
+		consume_items: true
+	}]
+}

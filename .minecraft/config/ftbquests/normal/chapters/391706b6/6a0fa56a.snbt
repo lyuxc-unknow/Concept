@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 755.0d,
+	description: "{id:\"environmentaltech:void_ore_miner_cont_5\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "139c3ba8",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_ore_miner_cont_5"
+		}],
+		consume_items: true
+	}]
+}

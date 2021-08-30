@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 689.0d,
+	description: "{id:\"chiselsandbits:mirrorprint\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b084e50f",
+		type: "item",
+		items: [{
+			item: "chiselsandbits:mirrorprint"
+		}],
+		consume_items: true
+	}]
+}

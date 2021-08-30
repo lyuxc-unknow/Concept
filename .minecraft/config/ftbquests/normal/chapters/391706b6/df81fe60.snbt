@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 564.0d,
+	description: "{id:\"immersiveengineering:steel_scaffolding_stairs0\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d3163f41",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:steel_scaffolding_stairs0"
+		}],
+		consume_items: true
+	}]
+}

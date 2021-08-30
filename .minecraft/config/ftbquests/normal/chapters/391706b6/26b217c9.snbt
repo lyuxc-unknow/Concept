@@ -1,0 +1,19 @@
+{
+	x: 37.0d,
+	y: 780.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"etchacid\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "5552b88a",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "etchacid",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

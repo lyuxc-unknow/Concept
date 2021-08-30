@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 587.0d,
+	description: "{id:\"overloaded:compressed_stone\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "48fd34d1",
+		type: "item",
+		items: [{
+			item: "overloaded:compressed_stone 1 6"
+		}],
+		consume_items: true
+	}]
+}

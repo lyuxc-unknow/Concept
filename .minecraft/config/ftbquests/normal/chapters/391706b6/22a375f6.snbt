@@ -1,0 +1,79 @@
+{
+	x: 20.0d,
+	y: 658.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:5.0f,Durability:392,HarvestLevel:4,Attack:9.0f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:5.0f,Durability:392,HarvestLevel:4,Attack:9.0f,Range:1.0f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"vibrant_alloy\",\"vibrant_alloy\",\"vibrant_alloy\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderpickup\",color:-4798352,level:1},{identifier:\"enderport\",enderport-4:1b,color:-4798352,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderpickup\",\"enderport-4\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "21df0137",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 5.0f,
+					Durability: 392,
+					HarvestLevel: 4,
+					Attack: 9.0f,
+					Range: 1.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 5.0f,
+					Durability: 392,
+					HarvestLevel: 4,
+					Attack: 9.0f,
+					Range: 1.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"vibrant_alloy",
+						"vibrant_alloy",
+						"vibrant_alloy",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderpickup",
+					color: -4798352,
+					level: 1
+				},
+				{
+					identifier: "enderport",
+					enderport-4: 1b,
+					color: -4798352,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderpickup",
+					"enderport-4",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

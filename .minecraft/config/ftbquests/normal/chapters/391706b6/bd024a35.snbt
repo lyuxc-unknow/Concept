@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 620.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"redstone_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "958a43a3",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "redstone_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

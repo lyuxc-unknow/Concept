@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 268.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"livingrock\"},Damage:0s}",
+	tasks: [{
+		uid: "f5bbcd30",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "livingrock"
+			}
+		}],
+		consume_items: true
+	}]
+}

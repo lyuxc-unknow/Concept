@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"redstone_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "918b5adf",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "redstone_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

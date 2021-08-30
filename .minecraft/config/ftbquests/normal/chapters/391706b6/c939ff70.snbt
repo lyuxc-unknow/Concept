@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:slime_vine_blue_end\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b2ea0983",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_vine_blue_end"
+		}],
+		consume_items: true
+	}]
+}

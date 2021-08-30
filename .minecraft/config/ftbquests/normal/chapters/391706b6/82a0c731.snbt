@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 303.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"pladium\"},Damage:0s}",
+	tasks: [{
+		uid: "ffe6a789",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "pladium"
+			}
+		}],
+		consume_items: true
+	}]
+}

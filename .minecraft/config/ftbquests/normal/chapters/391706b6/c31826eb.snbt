@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 442.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"ma.supremium\"},Damage:0s}",
+	tasks: [{
+		uid: "91384b5e",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "ma.supremium"
+			}
+		}],
+		consume_items: true
+	}]
+}

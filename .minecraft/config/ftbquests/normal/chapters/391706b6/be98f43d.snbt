@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 622.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"dreamwood\"},Damage:0s}",
+	tasks: [{
+		uid: "b805eb64",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "dreamwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

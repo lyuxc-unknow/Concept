@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 55.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"refinediron\"},Damage:0s}",
+	tasks: [{
+		uid: "cf10fc83",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "refinediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

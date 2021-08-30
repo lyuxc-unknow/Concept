@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 561.0d,
+	description: "{id:\"immersiveengineering:ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c0520cc6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:ore"
+		}],
+		consume_items: true
+	}]
+}

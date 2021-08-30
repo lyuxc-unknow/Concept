@@ -1,0 +1,17 @@
+{
+	x: 23.0d,
+	y: 600.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"steamworld:treasure\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "1cba4763",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "steamworld:treasure",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

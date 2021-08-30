@@ -1,0 +1,71 @@
+{
+	x: 28.0d,
+	y: 383.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:1.1f,FreeModifiers:3,ProjectileBonusDamage:1.05f,Durability:741,HarvestLevel:5,Attack:2.5f,Range:0.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:1.1f,FreeModifiers:3,ProjectileBonusDamage:1.05f,Durability:741,HarvestLevel:5,Attack:2.5f,Range:0.6f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"essen\",\"essen\",\"essen\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"dual_nature\",color:-16284266,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"dual_nature\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "89db534e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 1.1f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.05f,
+					Durability: 741,
+					HarvestLevel: 5,
+					Attack: 2.5f,
+					Range: 0.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 1.1f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.05f,
+					Durability: 741,
+					HarvestLevel: 5,
+					Attack: 2.5f,
+					Range: 0.6f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"essen",
+						"essen",
+						"essen",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "dual_nature",
+					color: -16284266,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dual_nature",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

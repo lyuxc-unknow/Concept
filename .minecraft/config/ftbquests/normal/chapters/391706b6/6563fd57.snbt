@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:decayed_leaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "90cdc9f2",
+		type: "item",
+		items: [{
+			item: "naturesaura:decayed_leaves"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,73 @@
+{
+	x: 1.0d,
+	y: 386.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:1200,HarvestLevel:0,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:1200,HarvestLevel:0,Attack:4.0f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"pink_slime\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"tconevo.slimey_pink\",color:-3508789,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tconevo.slimey_pink\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "807c4cba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 1200,
+					HarvestLevel: 0,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 1200,
+					HarvestLevel: 0,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"pink_slime",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "tconevo.slimey_pink",
+					color: -3508789,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tconevo.slimey_pink",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

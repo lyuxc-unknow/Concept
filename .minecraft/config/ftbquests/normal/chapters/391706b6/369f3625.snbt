@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 797.0d,
+	description: "{id:\"jaopca:block_blockcertusquartz\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88eca696",
+		type: "item",
+		items: [{
+			item: "jaopca:block_blockcertusquartz"
+		}],
+		consume_items: true
+	}]
+}

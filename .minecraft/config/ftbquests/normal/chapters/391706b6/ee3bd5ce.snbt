@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 607.0d,
+	description: "{id:\"thermallogistics:distributor\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "9f168c0e",
+		type: "item",
+		items: [{
+			item: "thermallogistics:distributor 1 1"
+		}],
+		consume_items: true
+	}]
+}

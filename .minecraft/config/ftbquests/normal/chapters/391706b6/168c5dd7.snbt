@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 792.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:nether_diamond_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6088da0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:nether_diamond_sword"
+		}],
+		consume_items: true
+	}]
+}

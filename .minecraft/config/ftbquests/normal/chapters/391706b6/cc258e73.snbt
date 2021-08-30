@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 762.0d,
+	description: "{id:\"tconevo:metal_block\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "e3241d56",
+		type: "item",
+		items: [{
+			item: "tconevo:metal_block 1 3"
+		}],
+		consume_items: true
+	}]
+}

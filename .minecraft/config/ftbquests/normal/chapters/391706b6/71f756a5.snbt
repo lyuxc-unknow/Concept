@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 450.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "281916af",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

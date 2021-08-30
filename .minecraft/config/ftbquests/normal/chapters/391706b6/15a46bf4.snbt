@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 47.0d,
+	description: "{id:\"draconicevolution:nugget\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f1872a4",
+		type: "item",
+		items: [{
+			item: "draconicevolution:nugget"
+		}],
+		consume_items: true
+	}]
+}

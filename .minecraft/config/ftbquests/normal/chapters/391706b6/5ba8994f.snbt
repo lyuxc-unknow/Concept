@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:banner\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "18080831",
+		type: "item",
+		items: [{
+			item: "minecraft:banner 1 3"
+		}],
+		consume_items: true
+	}]
+}

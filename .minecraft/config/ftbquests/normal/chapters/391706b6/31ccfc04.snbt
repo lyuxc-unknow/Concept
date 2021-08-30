@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 528.0d,
+	description: "{id:\"emergingtechnology:injector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e2307145",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:injector"
+		}],
+		consume_items: true
+	}]
+}

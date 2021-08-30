@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 246.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"ionite\"},Damage:0s}",
+	tasks: [{
+		uid: "706668b0",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "ionite"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	x: 9.0d,
+	y: 359.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:136,HarvestLevel:1,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:136,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"aquamarine\",\"aquamarine\",\"aquamarine\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.crystalline\",color:-14372354,level:1},{identifier:\"tconevo.astral\",color:-14372354,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.crystalline\",\"tconevo.astral\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e22b3d9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 136,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 136,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"aquamarine",
+						"aquamarine",
+						"aquamarine"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.crystalline",
+					color: -14372354,
+					level: 1
+				},
+				{
+					identifier: "tconevo.astral",
+					color: -14372354,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.crystalline",
+					"tconevo.astral",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

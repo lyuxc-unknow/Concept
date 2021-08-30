@@ -1,0 +1,70 @@
+{
+	x: 38.0d,
+	y: 636.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:22.25f,FreeModifiers:3,Durability:9668,HarvestLevel:4,Attack:16.029999f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:22.25f,FreeModifiers:3,Durability:9668,HarvestLevel:4,Attack:16.029999f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ma.supremium\",\"ma.supremium\",\"ma.supremium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prosperous\",color:-3932160,level:1},{identifier:\"duritos\",color:-3932160,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prosperous\",\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "29bf4ccf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 22.25f,
+					FreeModifiers: 3,
+					Durability: 9668,
+					HarvestLevel: 4,
+					Attack: 16.029999f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 22.25f,
+					FreeModifiers: 3,
+					Durability: 9668,
+					HarvestLevel: 4,
+					Attack: 16.029999f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.supremium",
+						"ma.supremium",
+						"ma.supremium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -3932160,
+					level: 1
+				},
+				{
+					identifier: "duritos",
+					color: -3932160,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

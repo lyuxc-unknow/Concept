@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 267.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"essen\"},Damage:0s}",
+	tasks: [{
+		uid: "942bd304",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "essen"
+			}
+		}],
+		consume_items: true
+	}]
+}

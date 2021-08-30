@@ -1,0 +1,17 @@
+{
+	x: 21.0d,
+	y: 574.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"jecalculation:item_calculator\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "df9be37f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "jecalculation:item_calculator",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"terrasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "fd442cc9",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "terrasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

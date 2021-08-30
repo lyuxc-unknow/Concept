@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 545.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:core_remover\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6912e9ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:core_remover"
+		}],
+		consume_items: true
+	}]
+}

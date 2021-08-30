@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 437.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"redgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "cfa51eaa",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "redgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

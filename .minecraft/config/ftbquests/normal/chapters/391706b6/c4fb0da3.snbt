@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 626.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"gelid_gem\"},Damage:0s}",
+	tasks: [{
+		uid: "b000b319",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "gelid_gem"
+			}
+		}],
+		consume_items: true
+	}]
+}

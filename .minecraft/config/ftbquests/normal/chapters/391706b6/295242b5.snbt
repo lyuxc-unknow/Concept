@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 743.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:hoe_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6bc46759",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:hoe_nickel"
+		}],
+		consume_items: true
+	}]
+}

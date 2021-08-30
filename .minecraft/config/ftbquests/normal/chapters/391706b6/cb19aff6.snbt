@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 169.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"intermedium\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "8b604bb2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "intermedium",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

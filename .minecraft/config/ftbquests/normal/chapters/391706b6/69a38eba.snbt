@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 70.0d,
+	description: "{id:\"sonarcore:stablestoneblackrimmed_pink\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "647eb7b9",
+		type: "item",
+		items: [{
+			item: "sonarcore:stablestoneblackrimmed_pink"
+		}],
+		consume_items: true
+	}]
+}

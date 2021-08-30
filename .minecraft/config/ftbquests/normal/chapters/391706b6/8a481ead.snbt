@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 256.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"redstone_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "313ea9ce",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "redstone_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 541.0d,
+	description: "{id:\"integratedtunnels:part_exporter_world_energy_item\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c48b45a",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_exporter_world_energy_item"
+		}],
+		consume_items: true
+	}]
+}

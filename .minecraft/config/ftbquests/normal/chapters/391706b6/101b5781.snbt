@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 744.0d,
+	description: "{id:\"embers:ore_silver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fa860d8a",
+		type: "item",
+		items: [{
+			item: "embers:ore_silver"
+		}],
+		consume_items: true
+	}]
+}

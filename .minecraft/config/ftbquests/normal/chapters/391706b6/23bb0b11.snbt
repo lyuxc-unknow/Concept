@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 621.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"void_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "b75c5cb2",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "void_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

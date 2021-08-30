@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 296.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"mithril\"},Damage:0s}",
+	tasks: [{
+		uid: "9ea317b0",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "mithril"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 592.0d,
+	description: "{id:\"random_add:stone_torch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d9b7a8a",
+		type: "item",
+		items: [{
+			item: "random_add:stone_torch"
+		}],
+		consume_items: true
+	}]
+}

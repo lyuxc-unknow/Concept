@@ -1,0 +1,66 @@
+{
+	x: 25.0d,
+	y: 343.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.5f,FreeModifiers:3,Durability:250,HarvestLevel:1,Attack:13.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.5f,FreeModifiers:3,Durability:250,HarvestLevel:1,Attack:13.1f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"xu_demonic_metal\",\"xu_demonic_metal\",\"xu_demonic_metal\",\"xu_demonic_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"xu_whispering\",color:-6079744,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"xu_whispering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "cd6dc87b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.5f,
+					FreeModifiers: 3,
+					Durability: 250,
+					HarvestLevel: 1,
+					Attack: 13.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.5f,
+					FreeModifiers: 3,
+					Durability: 250,
+					HarvestLevel: 1,
+					Attack: 13.1f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"xu_demonic_metal",
+						"xu_demonic_metal",
+						"xu_demonic_metal",
+						"xu_demonic_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "xu_whispering",
+					color: -6079744,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"xu_whispering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

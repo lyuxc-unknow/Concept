@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 560.0d,
+	description: "{id:\"rftools:space_chamber_controller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f76d6ec7",
+		type: "item",
+		items: [{
+			item: "rftools:space_chamber_controller"
+		}],
+		consume_items: true
+	}]
+}

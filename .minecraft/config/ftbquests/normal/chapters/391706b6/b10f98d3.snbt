@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 87.0d,
+	description: "{id:\"randomthings:fertilizeddirt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "664a7411",
+		type: "item",
+		items: [{
+			item: "randomthings:fertilizeddirt"
+		}],
+		consume_items: true
+	}]
+}

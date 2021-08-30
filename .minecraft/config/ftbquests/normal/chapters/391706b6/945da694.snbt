@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 27.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extrautils2:oily\"},Damage:0s}",
+	tasks: [{
+		uid: "447da6b2",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extrautils2:oily"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 19.0d,
+	y: 783.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"ec.internal.slurrynickel\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "04c859cc",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "ec.internal.slurrynickel",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

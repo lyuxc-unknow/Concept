@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"minecraft:evocation_illager\"},Damage:0s}",
+	tasks: [{
+		uid: "0bbdf0eb",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "minecraft:evocation_illager"
+			}
+		}],
+		consume_items: true
+	}]
+}

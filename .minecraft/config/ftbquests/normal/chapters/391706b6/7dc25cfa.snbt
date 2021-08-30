@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 629.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"steel\"},Damage:0s}",
+	tasks: [{
+		uid: "bc97abbb",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

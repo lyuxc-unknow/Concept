@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 628.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"construction_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "ffeabe13",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "construction_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

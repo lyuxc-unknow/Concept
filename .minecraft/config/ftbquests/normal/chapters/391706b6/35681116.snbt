@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 595.0d,
+	description: "{id:\"rftoolsdim:known_dimlet\",Count:1b,tag:{dkey:\"2\"},Damage:9s}",
+	tasks: [{
+		uid: "b68f45f6",
+		type: "item",
+		items: [{
+			id: "rftoolsdim:known_dimlet",
+			tag: {
+				dkey: "2"
+			},
+			Damage: 9s
+		}],
+		consume_items: true
+	}]
+}

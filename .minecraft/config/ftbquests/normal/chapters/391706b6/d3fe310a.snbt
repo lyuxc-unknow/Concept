@@ -1,0 +1,75 @@
+{
+	x: 12.0d,
+	y: 662.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:0.0f,FreeModifiers:3,tt.explosionRadius:1.8f,Durability:80,HarvestLevel:0,Attack:7.04f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:0.0f,FreeModifiers:3,tt.explosionRadius:1.8f,Durability:80,HarvestLevel:0,Attack:7.04f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"elvenelementium\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"manarepair\",color:-1229864,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"manarepair\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4e7915bc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					tt.explosionRadius: 1.8f,
+					Durability: 80,
+					HarvestLevel: 0,
+					Attack: 7.04f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					tt.explosionRadius: 1.8f,
+					Durability: 80,
+					HarvestLevel: 0,
+					Attack: 7.04f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"elvenelementium",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "manarepair",
+					color: -1229864,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"manarepair",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

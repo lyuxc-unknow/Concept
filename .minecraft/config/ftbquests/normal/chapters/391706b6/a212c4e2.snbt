@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 27.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"cofhcore:regeneration3+\"},Damage:0s}",
+	tasks: [{
+		uid: "6288b9fc",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "cofhcore:regeneration3+"
+			}
+		}],
+		consume_items: true
+	}]
+}

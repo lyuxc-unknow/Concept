@@ -1,0 +1,24 @@
+{
+	x: 32.0d,
+	y: 537.0d,
+	description: "{id:\"ftbquests:screen\",Count:1b,tag:{BlockEntityTag:{Size:1b,id:\"ftbquests:screen_core\"},display:{Lore:[\"(+NBT)\"]}},Damage:0s}",
+	tasks: [{
+		uid: "a64ee537",
+		type: "item",
+		items: [{
+			id: "ftbquests:screen",
+			tag: {
+				BlockEntityTag: {
+					Size: 1b,
+					id: "ftbquests:screen_core"
+				},
+				display: {
+					Lore: [
+						"(+NBT)"
+					]
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

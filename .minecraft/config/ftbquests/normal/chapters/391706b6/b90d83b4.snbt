@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 247.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"yellorium\"},Damage:0s}",
+	tasks: [{
+		uid: "507405b9",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "yellorium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 756.0d,
+	description: "{id:\"environmentaltech:nano_cont_personal_3\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc0d6030",
+		type: "item",
+		items: [{
+			item: "environmentaltech:nano_cont_personal_3"
+		}],
+		consume_items: true
+	}]
+}

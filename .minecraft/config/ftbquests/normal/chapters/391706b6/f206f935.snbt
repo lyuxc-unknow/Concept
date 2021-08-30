@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 631.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"cyanite\"},Damage:0s}",
+	tasks: [{
+		uid: "87ee6eb9",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "cyanite"
+			}
+		}],
+		consume_items: true
+	}]
+}

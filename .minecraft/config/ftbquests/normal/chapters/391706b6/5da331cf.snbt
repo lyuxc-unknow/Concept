@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 668.0d,
+	description: "{id:\"wirelessutils:capacity_augment\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "2574dc51",
+		type: "item",
+		items: [{
+			item: "wirelessutils:capacity_augment 1 2"
+		}],
+		consume_items: true
+	}]
+}

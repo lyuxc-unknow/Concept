@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 166.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalinnovation:injector\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "5a8adfff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:injector",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

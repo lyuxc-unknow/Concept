@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 528.0d,
+	description: "{id:\"emergingtechnology:scrubber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6465659f",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:scrubber"
+		}],
+		consume_items: true
+	}]
+}

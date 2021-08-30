@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 621.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"ma.inferium\"},Damage:0s}",
+	tasks: [{
+		uid: "34703f00",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "ma.inferium"
+			}
+		}],
+		consume_items: true
+	}]
+}

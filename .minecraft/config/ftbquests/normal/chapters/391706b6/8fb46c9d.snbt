@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 606.0d,
+	description: "{id:\"thermallogistics:crafter\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "952ea492",
+		type: "item",
+		items: [{
+			item: "thermallogistics:crafter 1 1"
+		}],
+		consume_items: true
+	}]
+}

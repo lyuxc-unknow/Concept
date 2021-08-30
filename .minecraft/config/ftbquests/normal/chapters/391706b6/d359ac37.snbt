@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 790.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:lava_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a800f80",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:lava_leggings"
+		}],
+		consume_items: true
+	}]
+}

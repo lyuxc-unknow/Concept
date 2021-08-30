@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 269.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"refined_obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "1b52c654",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "refined_obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

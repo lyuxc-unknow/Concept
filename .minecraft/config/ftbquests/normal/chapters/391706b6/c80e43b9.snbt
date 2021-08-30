@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:disk_drive\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c97587e5",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_drive"
+		}],
+		consume_items: true
+	}]
+}

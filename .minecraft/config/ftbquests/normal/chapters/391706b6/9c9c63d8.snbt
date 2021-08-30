@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 293.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"redgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "f9b86e84",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "redgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

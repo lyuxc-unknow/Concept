@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 758.0d,
+	description: "{id:\"industrialforegoing:dryrubber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e656aa09",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:dryrubber"
+		}],
+		consume_items: true
+	}]
+}

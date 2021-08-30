@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 550.0d,
+	description: "{id:\"mysticalagriculture:invar_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e40f075",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:invar_seeds"
+		}],
+		consume_items: true
+	}]
+}

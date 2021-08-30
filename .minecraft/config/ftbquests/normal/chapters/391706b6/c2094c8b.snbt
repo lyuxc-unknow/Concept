@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 50.0d,
+	description: "{id:\"draconicevolution:draconic_chest\",Count:1b,tag:{Energy:16000000},Damage:0s}",
+	tasks: [{
+		uid: "c384cbc0",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_chest",
+			tag: {
+				Energy: 16000000
+			}
+		}],
+		consume_items: true
+	}]
+}

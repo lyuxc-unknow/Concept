@@ -1,0 +1,20 @@
+{
+	x: 25.0d,
+	y: 51.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalexpansion:satchel\",Count:1b,tag:{Accessible:1b},Damage:1s}",
+	tasks: [{
+		uid: "53cf5738",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 310.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"pink_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "768700b4",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "pink_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

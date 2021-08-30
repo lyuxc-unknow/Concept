@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 545.0d,
+	description: "{id:\"mysticalagriculture:xp_droplet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f036ad8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:xp_droplet"
+		}],
+		consume_items: true
+	}]
+}

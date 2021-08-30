@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"chaoticdraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "0037d201",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "chaoticdraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

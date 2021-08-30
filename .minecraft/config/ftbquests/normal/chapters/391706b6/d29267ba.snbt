@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 680.0d,
+	description: "{id:\"actuallyadditions:item_canola_seed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a21ed05e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_canola_seed"
+		}],
+		consume_items: true
+	}]
+}

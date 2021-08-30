@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:air_compressor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "964aa059",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:air_compressor"
+		}],
+		consume_items: true
+	}]
+}

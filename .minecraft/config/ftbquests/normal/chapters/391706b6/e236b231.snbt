@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 284.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"constantan\"},Damage:0s}",
+	tasks: [{
+		uid: "65859a1d",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "constantan"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 600.0d,
+	description: "{id:\"snad:snad\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "cb9549c2",
+		type: "item",
+		items: [{
+			item: "snad:snad 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 794.0d,
+	description: "{id:\"tp:octuple_compressed_sugar_cane\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "531c45e0",
+		type: "item",
+		items: [{
+			item: "tp:octuple_compressed_sugar_cane"
+		}],
+		consume_items: true
+	}]
+}

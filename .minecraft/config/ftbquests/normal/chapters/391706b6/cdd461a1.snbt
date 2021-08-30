@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 530.0d,
+	description: "{id:\"emergingtechnology:turbine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cb9d19ce",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:turbine"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 756.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"hardcorequesting:quest_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d3493450",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "hardcorequesting:quest_book"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 46.0d,
+	description: "{id:\"draconicevolution:energy_pylon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ebd2ff3c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_pylon"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 607.0d,
+	description: "{id:\"thermalsolars:itemlunardust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "72d8a909",
+		type: "item",
+		items: [{
+			item: "thermalsolars:itemlunardust"
+		}],
+		consume_items: true
+	}]
+}

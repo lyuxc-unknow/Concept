@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 519.0d,
+	description: "{id:\"darkutils:grate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d2a5fae3",
+		type: "item",
+		items: [{
+			item: "darkutils:grate"
+		}],
+		consume_items: true
+	}]
+}

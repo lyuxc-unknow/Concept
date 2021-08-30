@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 446.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"pladium\"},Damage:0s}",
+	tasks: [{
+		uid: "42adaefd",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "pladium"
+			}
+		}],
+		consume_items: true
+	}]
+}

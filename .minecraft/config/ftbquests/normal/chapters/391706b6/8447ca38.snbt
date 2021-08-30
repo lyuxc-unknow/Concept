@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 802.0d,
+	description: "{id:\"jaopca:item_platedenseosmium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3282b3a",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platedenseosmium"
+		}],
+		consume_items: true
+	}]
+}

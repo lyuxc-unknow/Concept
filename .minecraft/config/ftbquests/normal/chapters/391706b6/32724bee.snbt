@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 232.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"mithril\"},Damage:0s}",
+	tasks: [{
+		uid: "b17d5f17",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "mithril"
+			}
+		}],
+		consume_items: true
+	}]
+}

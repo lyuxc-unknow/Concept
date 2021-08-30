@@ -1,0 +1,61 @@
+{
+	x: 11.0d,
+	y: 460.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:70,Defense:18.8f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:70,Defense:18.8f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"aquaspeed_armor\",color:-8462660,level:1},{identifier:\"rough_armor\",color:-8462660,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"aquaspeed_armor\",\"rough_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "f4f9356d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 70,
+					Defense: 18.8f
+				},
+				Stats: {
+					Toughness: 2.0f,
+					FreeModifiers: 3,
+					Durability: 70,
+					Defense: 18.8f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"prismarine",
+						"prismarine",
+						"prismarine"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "aquaspeed_armor",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "rough_armor",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"aquaspeed_armor",
+					"rough_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

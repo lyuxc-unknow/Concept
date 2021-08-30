@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 677.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_chest_quartz\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d6fab079",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_chest_quartz"
+		}],
+		consume_items: true
+	}]
+}

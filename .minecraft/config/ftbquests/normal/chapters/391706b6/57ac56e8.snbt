@@ -1,0 +1,65 @@
+{
+	x: 14.0d,
+	y: 383.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.42f,DrawSpeed:0.98f,FreeModifiers:3,ProjectileBonusDamage:14.25f,Durability:1595,HarvestLevel:4,Attack:11.52f,Range:5.17f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.42f,DrawSpeed:0.98f,FreeModifiers:3,ProjectileBonusDamage:14.25f,Durability:1595,HarvestLevel:4,Attack:11.52f,Range:5.17f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"tungsten\",\"tungsten\",\"tungsten\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "5b5793c9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.42f,
+					DrawSpeed: 0.98f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 14.25f,
+					Durability: 1595,
+					HarvestLevel: 4,
+					Attack: 11.52f,
+					Range: 5.17f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.42f,
+					DrawSpeed: 0.98f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 14.25f,
+					Durability: 1595,
+					HarvestLevel: 4,
+					Attack: 11.52f,
+					Range: 5.17f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"tungsten",
+						"tungsten",
+						"tungsten",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

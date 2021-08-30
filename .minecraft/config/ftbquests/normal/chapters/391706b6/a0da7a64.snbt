@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 478.0d,
+	description: "{id:\"extrabotany:gildedmashedpotato\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d0101c65",
+		type: "item",
+		items: [{
+			item: "extrabotany:gildedmashedpotato"
+		}],
+		consume_items: true
+	}]
+}

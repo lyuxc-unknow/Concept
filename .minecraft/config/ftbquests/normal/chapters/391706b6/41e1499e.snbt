@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 800.0d,
+	description: "{id:\"jaopca:item_stickender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "90b173cd",
+		type: "item",
+		items: [{
+			item: "jaopca:item_stickender"
+		}],
+		consume_items: true
+	}]
+}

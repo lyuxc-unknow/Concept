@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:water_breathing\"},Damage:0s}",
+	tasks: [{
+		uid: "f5d5f61d",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:water_breathing"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 480.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:infinitewine\",Count:1b,tag:{brewKey:\"featherFeet\"},Damage:0s}",
+	tasks: [{
+		uid: "dd185687",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:infinitewine",
+			tag: {
+				brewKey: "featherFeet"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 38.0d,
+	y: 121.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"refinediron\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "fe1859af",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "refinediron",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

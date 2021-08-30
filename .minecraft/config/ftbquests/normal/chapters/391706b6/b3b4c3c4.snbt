@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 303.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"rubber\"},Damage:0s}",
+	tasks: [{
+		uid: "cf096d7d",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "rubber"
+			}
+		}],
+		consume_items: true
+	}]
+}

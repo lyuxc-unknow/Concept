@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 274.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"ruby\"},Damage:0s}",
+	tasks: [{
+		uid: "af2d8830",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "ruby"
+			}
+		}],
+		consume_items: true
+	}]
+}

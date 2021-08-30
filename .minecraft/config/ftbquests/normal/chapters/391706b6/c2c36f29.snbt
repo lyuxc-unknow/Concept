@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 627.0d,
+	description: "{id:\"tinymobfarm:emerald_farm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7e1416c9",
+		type: "item",
+		items: [{
+			item: "tinymobfarm:emerald_farm"
+		}],
+		consume_items: true
+	}]
+}

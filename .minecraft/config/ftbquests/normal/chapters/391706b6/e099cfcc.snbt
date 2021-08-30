@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 532.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderutilities:mobharness\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "10162b35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:mobharness"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 59.0d,
+	description: "{id:\"extrautils2:compressedgravel\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "f8517450",
+		type: "item",
+		items: [{
+			item: "extrautils2:compressedgravel 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"diamantine_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "7140b8ed",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "diamantine_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 23.0d,
+	description: "{id:\"minecraft:rabbit_hide\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "859f46c4",
+		type: "item",
+		items: [{
+			item: "minecraft:rabbit_hide"
+		}],
+		consume_items: true
+	}]
+}

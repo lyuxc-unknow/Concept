@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 473.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"erodium\"},Damage:0s}",
+	tasks: [{
+		uid: "560e6e23",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "erodium"
+			}
+		}],
+		consume_items: true
+	}]
+}

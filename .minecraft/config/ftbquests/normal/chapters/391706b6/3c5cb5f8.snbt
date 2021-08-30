@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"tangleberrie\"},Damage:0s}",
+	tasks: [{
+		uid: "2c828c6b",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "tangleberrie"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 33.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"minecraft:elytra\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e8ca2629",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:elytra"
+		}],
+		consume_items: true
+	}]
+}

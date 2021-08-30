@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 165.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"solarflux:furnace_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7839a968",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "solarflux:furnace_upgrade"
+		}],
+		consume_items: true
+	}]
+}

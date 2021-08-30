@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 666.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"minecraft:rabbit\"},Damage:0s}",
+	tasks: [{
+		uid: "c58bb86e",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "minecraft:rabbit"
+			}
+		}],
+		consume_items: true
+	}]
+}

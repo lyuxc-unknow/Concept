@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 507.0d,
+	description: "{id:\"mekanism:controlcircuit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "061dd7ee",
+		type: "item",
+		items: [{
+			item: "mekanism:controlcircuit"
+		}],
+		consume_items: true
+	}]
+}

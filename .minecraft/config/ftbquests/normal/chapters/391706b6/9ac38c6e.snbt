@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 540.0d,
+	description: "{id:\"integrateddynamics:materializer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d855776",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:materializer"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,75 @@
+{
+	x: 36.0d,
+	y: 658.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,DrawSpeed:1.5f,FreeModifiers:3,ProjectileBonusDamage:-2.0f,Durability:37,HarvestLevel:0,Attack:0.05f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,DrawSpeed:1.5f,FreeModifiers:5,ProjectileBonusDamage:-2.0f,Durability:37,HarvestLevel:0,Attack:0.05f,Range:0.4f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"writable2\",\"writable1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "93dbbb0a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.51f,
+					DrawSpeed: 1.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -2.0f,
+					Durability: 37,
+					HarvestLevel: 0,
+					Attack: 0.05f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.51f,
+					DrawSpeed: 1.5f,
+					FreeModifiers: 5,
+					ProjectileBonusDamage: -2.0f,
+					Durability: 37,
+					HarvestLevel: 0,
+					Attack: 0.05f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"paper",
+						"paper",
+						"paper",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "writable",
+					color: -1,
+					level: 2,
+					writable2: 1b,
+					writable1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"writable2",
+					"writable1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

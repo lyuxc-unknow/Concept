@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 768.0d,
+	description: "{id:\"lordcraft:void_altarb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4fd9c0d",
+		type: "item",
+		items: [{
+			item: "lordcraft:void_altarb"
+		}],
+		consume_items: true
+	}]
+}

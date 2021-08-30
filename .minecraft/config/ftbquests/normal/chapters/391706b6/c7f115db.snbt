@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 613.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"bronze\"},Damage:0s}",
+	tasks: [{
+		uid: "deab02f7",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "bronze"
+			}
+		}],
+		consume_items: true
+	}]
+}

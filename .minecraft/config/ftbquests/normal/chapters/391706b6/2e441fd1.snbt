@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 797.0d,
+	description: "{id:\"jaopca:item_essencesteaite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e412f7e1",
+		type: "item",
+		items: [{
+			item: "jaopca:item_essencesteaite"
+		}],
+		consume_items: true
+	}]
+}

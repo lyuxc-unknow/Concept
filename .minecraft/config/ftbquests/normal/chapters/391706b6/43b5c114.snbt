@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 529.0d,
+	description: "{id:\"emergingtechnology:solarglass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e8a7ef00",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:solarglass"
+		}],
+		consume_items: true
+	}]
+}

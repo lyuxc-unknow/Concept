@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 310.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"starmetal\"},Damage:0s}",
+	tasks: [{
+		uid: "1cd0f8da",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "starmetal"
+			}
+		}],
+		consume_items: true
+	}]
+}

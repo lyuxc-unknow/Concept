@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"electrical_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "28afc770",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "electrical_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

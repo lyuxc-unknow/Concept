@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 214.0d,
+	description: "{id:\"tconstruct:firewood_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "20025f4c",
+		type: "item",
+		items: [{
+			item: "tconstruct:firewood_stairs"
+		}],
+		consume_items: true
+	}]
+}

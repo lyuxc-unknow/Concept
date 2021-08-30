@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 414.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:waterrod\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c05accb8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:waterrod"
+		}],
+		consume_items: true
+	}]
+}

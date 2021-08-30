@@ -1,0 +1,72 @@
+{
+	x: 27.0d,
+	y: 658.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.25f,DrawSpeed:3.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:84,HarvestLevel:1,Attack:1.0f,Range:0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.25f,DrawSpeed:3.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:67,HarvestLevel:1,Attack:1.0f,Range:0.5f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"construction_alloy\",\"construction_alloy\",\"construction_alloy\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"cheapskate\",color:-14084054,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"cheapskate\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "717644b9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.25f,
+					DrawSpeed: 3.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 84,
+					HarvestLevel: 1,
+					Attack: 1.0f,
+					Range: 0.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.25f,
+					DrawSpeed: 3.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 67,
+					HarvestLevel: 1,
+					Attack: 1.0f,
+					Range: 0.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"construction_alloy",
+						"construction_alloy",
+						"construction_alloy",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheapskate",
+					color: -14084054,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheapskate",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

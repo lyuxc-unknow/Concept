@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 552.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:inferium_sickle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8c9e42e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:inferium_sickle"
+		}],
+		consume_items: true
+	}]
+}

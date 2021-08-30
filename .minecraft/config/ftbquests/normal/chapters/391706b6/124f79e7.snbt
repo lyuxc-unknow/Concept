@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:infused_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f975a09d",
+		type: "item",
+		items: [{
+			item: "naturesaura:infused_slab"
+		}],
+		consume_items: true
+	}]
+}

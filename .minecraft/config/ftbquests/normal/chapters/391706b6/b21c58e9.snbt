@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 586.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"overloaded:multi_leggings\",Count:1b,tag:{},Damage:0s}",
+	tasks: [{
+		uid: "c69950fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "overloaded:multi_leggings",
+			tag: {}
+		}],
+		consume_items: true
+	}]
+}

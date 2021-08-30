@@ -1,0 +1,72 @@
+{
+	x: 26.0d,
+	y: 634.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:1320,HarvestLevel:4,Attack:7.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:1320,HarvestLevel:4,Attack:7.5f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"platinum\",\"platinum\",\"platinum\",\"platinum\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.deadly_precision\",color:-10366477,level:1},{identifier:\"coldblooded\",color:-10366477,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.deadly_precision\",\"coldblooded\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "51859438",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 1320,
+					HarvestLevel: 4,
+					Attack: 7.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 1320,
+					HarvestLevel: 4,
+					Attack: 7.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"platinum",
+						"platinum",
+						"platinum",
+						"platinum"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.deadly_precision",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "coldblooded",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.deadly_precision",
+					"coldblooded",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

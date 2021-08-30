@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"infinity_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "27026e22",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "infinity_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 0.0d,
+	description: "{id:\"minecraft:sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "698df4ab",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}],
+		consume_items: true
+	}]
+}

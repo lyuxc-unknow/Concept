@@ -1,0 +1,68 @@
+{
+	x: 37.0d,
+	y: 390.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:16.53f,FreeModifiers:3,Durability:2985,HarvestLevel:4,Attack:12.62f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:16.53f,FreeModifiers:3,Durability:2985,HarvestLevel:4,Attack:12.62f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"ma.superium\",\"ma.superium\",\"ma.superium\",\"ma.superium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prosperous\",color:-16744485,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prosperous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "1709fd96",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 16.53f,
+					FreeModifiers: 3,
+					Durability: 2985,
+					HarvestLevel: 4,
+					Attack: 12.62f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 16.53f,
+					FreeModifiers: 3,
+					Durability: 2985,
+					HarvestLevel: 4,
+					Attack: 12.62f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.superium",
+						"ma.superium",
+						"ma.superium",
+						"ma.superium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -16744485,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

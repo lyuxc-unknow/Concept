@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 276.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"starmetal\"},Damage:0s}",
+	tasks: [{
+		uid: "462d8a5c",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "starmetal"
+			}
+		}],
+		consume_items: true
+	}]
+}

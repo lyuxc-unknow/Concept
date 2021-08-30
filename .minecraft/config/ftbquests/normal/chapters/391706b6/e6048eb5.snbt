@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:wyvern_chest\",Count:1b,tag:{Energy:4000000},Damage:0s}",
+	tasks: [{
+		uid: "32550ec5",
+		type: "item",
+		items: [{
+			id: "draconicevolution:wyvern_chest",
+			tag: {
+				Energy: 4000000
+			}
+		}],
+		consume_items: true
+	}]
+}

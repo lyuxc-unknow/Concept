@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 765.0d,
+	description: "{id:\"lordcraft:fire_siphon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "34b5534f",
+		type: "item",
+		items: [{
+			item: "lordcraft:fire_siphon"
+		}],
+		consume_items: true
+	}]
+}

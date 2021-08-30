@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 430.0d,
+	description: "{id:\"botania:quartztypesunny\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "2420c8ed",
+		type: "item",
+		items: [{
+			item: "botania:quartztypesunny 1 1"
+		}],
+		consume_items: true
+	}]
+}

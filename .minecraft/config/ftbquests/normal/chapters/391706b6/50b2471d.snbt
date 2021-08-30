@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 446.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"ma.supremium\"},Damage:0s}",
+	tasks: [{
+		uid: "363e907d",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "ma.supremium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 592.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"random_add:phantom_light_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f50b8dfe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "random_add:phantom_light_sword"
+		}],
+		consume_items: true
+	}]
+}

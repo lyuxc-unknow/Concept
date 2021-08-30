@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 111.0d,
+	description: "{id:\"naturesaura:auto_crafter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0ede836f",
+		type: "item",
+		items: [{
+			item: "naturesaura:auto_crafter"
+		}],
+		consume_items: true
+	}]
+}

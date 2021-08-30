@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 701.0d,
+	description: "{id:\"chiselsandbits:block_bit\",Count:1b,tag:{id:29448},Damage:0s}",
+	tasks: [{
+		uid: "7c4de0ba",
+		type: "item",
+		items: [{
+			id: "chiselsandbits:block_bit",
+			tag: {
+				id: 29448
+			}
+		}],
+		consume_items: true
+	}]
+}

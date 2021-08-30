@@ -1,0 +1,18 @@
+{
+	x: 24.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"embers:magma_worm\"}},Damage:0s}",
+	tasks: [{
+		uid: "8461447d",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "embers:magma_worm"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

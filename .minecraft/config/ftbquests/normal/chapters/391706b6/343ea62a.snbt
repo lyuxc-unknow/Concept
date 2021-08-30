@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 775.0d,
+	description: "{id:\"omegacraft:long_pusherb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "52e8c7fa",
+		type: "item",
+		items: [{
+			item: "omegacraft:long_pusherb"
+		}],
+		consume_items: true
+	}]
+}

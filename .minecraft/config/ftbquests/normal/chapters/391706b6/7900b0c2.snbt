@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 278.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"construction_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "dce26ed4",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "construction_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 630.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"kyronite\"},Damage:0s}",
+	tasks: [{
+		uid: "9ddfac45",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "kyronite"
+			}
+		}],
+		consume_items: true
+	}]
+}

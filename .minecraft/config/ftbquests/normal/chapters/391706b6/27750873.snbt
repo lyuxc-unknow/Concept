@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 86.0d,
+	description: "{id:\"extracells:storage.component\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "5e553ca8",
+		type: "item",
+		items: [{
+			item: "extracells:storage.component 1 4"
+		}],
+		consume_items: true
+	}]
+}

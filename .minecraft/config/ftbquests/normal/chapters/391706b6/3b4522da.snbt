@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 596.0d,
+	description: "{id:\"rftoolspower:information_screen\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76691725",
+		type: "item",
+		items: [{
+			item: "rftoolspower:information_screen"
+		}],
+		consume_items: true
+	}]
+}

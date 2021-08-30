@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 94.0d,
+	description: "{id:\"randomthings:runedust\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "16ef0293",
+		type: "item",
+		items: [{
+			item: "randomthings:runedust 1 3"
+		}],
+		consume_items: true
+	}]
+}

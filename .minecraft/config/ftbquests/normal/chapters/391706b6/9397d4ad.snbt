@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 97.0d,
+	description: "{id:\"mist:r_tree_leaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c8aedbe9",
+		type: "item",
+		items: [{
+			item: "mist:r_tree_leaves"
+		}],
+		consume_items: true
+	}]
+}

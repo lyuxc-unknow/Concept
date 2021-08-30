@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_shardiridium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "56d068f0",
+		type: "item",
+		items: [{
+			item: "jaopca:item_shardiridium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 413.0d,
+	description: "{id:\"botania:grassseeds\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "7657aea0",
+		type: "item",
+		items: [{
+			item: "botania:grassseeds 1 5"
+		}],
+		consume_items: true
+	}]
+}

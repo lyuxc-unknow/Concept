@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 786.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"silver\"},Damage:0s}",
+	tasks: [{
+		uid: "8f3221c7",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "silver"
+			}
+		}],
+		consume_items: true
+	}]
+}

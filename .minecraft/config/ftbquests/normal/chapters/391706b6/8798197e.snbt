@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 269.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"chaotic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "2e0a6cb4",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "chaotic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

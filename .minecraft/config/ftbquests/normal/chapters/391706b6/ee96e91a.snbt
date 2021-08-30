@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 546.0d,
+	description: "{id:\"mysticalagriculture:zombie_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ff6242e0",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:zombie_essence"
+		}],
+		consume_items: true
+	}]
+}

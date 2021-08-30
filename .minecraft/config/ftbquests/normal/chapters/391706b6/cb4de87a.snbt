@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 448.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"vibrant_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "b9ac9489",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "vibrant_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

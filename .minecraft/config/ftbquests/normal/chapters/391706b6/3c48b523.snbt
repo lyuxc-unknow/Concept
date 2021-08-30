@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"electrumflux\"},Damage:0s}",
+	tasks: [{
+		uid: "10495d5a",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "electrumflux"
+			}
+		}],
+		consume_items: true
+	}]
+}

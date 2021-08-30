@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 276.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"wyvern_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "af742135",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "wyvern_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

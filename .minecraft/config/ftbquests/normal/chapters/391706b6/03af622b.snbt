@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 300.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"steaite\"},Damage:0s}",
+	tasks: [{
+		uid: "4cae8f19",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "steaite"
+			}
+		}],
+		consume_items: true
+	}]
+}

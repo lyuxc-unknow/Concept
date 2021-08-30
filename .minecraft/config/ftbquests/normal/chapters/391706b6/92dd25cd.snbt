@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 787.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"blutonium\"},Damage:0s}",
+	tasks: [{
+		uid: "92db10bd",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "blutonium"
+			}
+		}],
+		consume_items: true
+	}]
+}

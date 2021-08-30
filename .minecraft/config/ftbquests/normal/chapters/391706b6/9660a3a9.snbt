@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 623.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"ebonypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "1fcd2c17",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "ebonypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

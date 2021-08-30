@@ -1,0 +1,18 @@
+{
+	x: 38.0d,
+	y: 181.0d,
+	description: "{id:\"chickens:spawn_egg\",Count:1b,tag:{ChickenType:{id:\"morechickens:knightslimechicken\"}},Damage:0s}",
+	tasks: [{
+		uid: "f13f080d",
+		type: "item",
+		items: [{
+			id: "chickens:spawn_egg",
+			tag: {
+				ChickenType: {
+					id: "morechickens:knightslimechicken"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 449.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"prismarine\"},Damage:0s}",
+	tasks: [{
+		uid: "8651b539",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "prismarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

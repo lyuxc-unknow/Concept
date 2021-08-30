@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 766.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:sword_dark\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "202140b1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:sword_dark"
+		}],
+		consume_items: true
+	}]
+}

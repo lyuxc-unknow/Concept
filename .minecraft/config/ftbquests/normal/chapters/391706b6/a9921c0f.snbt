@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 307.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"zinc\"},Damage:0s}",
+	tasks: [{
+		uid: "5525ee04",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "zinc"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 743.0d,
+	description: "{id:\"embers:ingot_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d76985d2",
+		type: "item",
+		items: [{
+			item: "embers:ingot_electrum"
+		}],
+		consume_items: true
+	}]
+}

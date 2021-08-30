@@ -1,0 +1,19 @@
+{
+	x: 39.0d,
+	y: 598.0d,
+	description: "{id:\"roost:chicken\",Count:1b,tag:{Growth:1,Chicken:\"morechickens:draconiumchicken\",Gain:1,Strength:1},Damage:0s}",
+	tasks: [{
+		uid: "08d8ae26",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:draconiumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}],
+		consume_items: true
+	}]
+}

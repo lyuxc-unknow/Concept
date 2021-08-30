@@ -1,0 +1,77 @@
+{
+	x: 17.0d,
+	y: 380.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,DrawSpeed:0.95f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:342,HarvestLevel:1,Attack:2.5f,Range:1.15f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,DrawSpeed:0.95f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:342,HarvestLevel:1,Attack:4.0f,Range:1.15f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"fractured\",\"splintering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f4849e16",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.09f,
+					DrawSpeed: 0.95f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 342,
+					HarvestLevel: 1,
+					Attack: 2.5f,
+					Range: 1.15f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.09f,
+					DrawSpeed: 0.95f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 342,
+					HarvestLevel: 1,
+					Attack: 4.0f,
+					Range: 1.15f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bone",
+						"bone",
+						"bone",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "fractured",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "splintering",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"fractured",
+					"splintering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

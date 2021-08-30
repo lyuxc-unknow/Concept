@@ -1,0 +1,77 @@
+{
+	x: 2.0d,
+	y: 379.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:665,HarvestLevel:2,Attack:5.5f,Range:1.75f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:665,HarvestLevel:2,Attack:5.5f,Range:1.75f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"invar\",\"invar\",\"invar\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stiff\",color:-7101283,level:1},{identifier:\"duritos\",color:-7101283,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stiff\",\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "edb83cb6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 665,
+					HarvestLevel: 2,
+					Attack: 5.5f,
+					Range: 1.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 665,
+					HarvestLevel: 2,
+					Attack: 5.5f,
+					Range: 1.75f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"invar",
+						"invar",
+						"invar",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -7101283,
+					level: 1
+				},
+				{
+					identifier: "duritos",
+					color: -7101283,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"steaite\"},Damage:0s}",
+	tasks: [{
+		uid: "147cf9f2",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "steaite"
+			}
+		}],
+		consume_items: true
+	}]
+}

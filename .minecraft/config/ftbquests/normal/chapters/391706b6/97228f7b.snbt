@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 627.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"yellowgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "4227401f",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "yellowgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

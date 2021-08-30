@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: 136.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:glowstone\"},Damage:0s}",
+	tasks: [{
+		uid: "be9759b2",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:glowstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

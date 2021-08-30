@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 614.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"enori_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "00f09f9c",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "enori_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

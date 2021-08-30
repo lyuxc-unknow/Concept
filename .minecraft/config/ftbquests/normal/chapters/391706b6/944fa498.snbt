@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 68.0d,
+	description: "{id:\"hammercore:emerald_bordered_cobblestone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c7e1285",
+		type: "item",
+		items: [{
+			item: "hammercore:emerald_bordered_cobblestone"
+		}],
+		consume_items: true
+	}]
+}

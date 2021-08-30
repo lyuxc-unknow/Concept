@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 761.0d,
+	description: "{id:\"industrialforegoing:conveyor\",Count:1b,Damage:13s}",
+	tasks: [{
+		uid: "a60ae740",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:conveyor 1 13"
+		}],
+		consume_items: true
+	}]
+}

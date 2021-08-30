@@ -1,0 +1,19 @@
+{
+	x: 38.0d,
+	y: 676.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_suction_ring\",Count:1b,tag:{Energy:200000},Damage:0s}",
+	tasks: [{
+		uid: "09905f2a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_suction_ring",
+			tag: {
+				Energy: 200000
+			}
+		}],
+		consume_items: true
+	}]
+}

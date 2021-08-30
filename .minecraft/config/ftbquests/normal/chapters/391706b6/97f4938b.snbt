@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 289.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"certus\"},Damage:0s}",
+	tasks: [{
+		uid: "fbdba54c",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "certus"
+			}
+		}],
+		consume_items: true
+	}]
+}

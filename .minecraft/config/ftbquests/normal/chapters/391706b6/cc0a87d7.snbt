@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 491.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bibliocraft:handdrill\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ae0ed4b2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bibliocraft:handdrill"
+		}],
+		consume_items: true
+	}]
+}

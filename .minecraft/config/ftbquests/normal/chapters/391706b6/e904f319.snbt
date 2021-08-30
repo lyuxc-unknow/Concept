@@ -1,0 +1,66 @@
+{
+	x: 12.0d,
+	y: 319.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.53f,FreeModifiers:3,Durability:571,HarvestLevel:3,Attack:4.83f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.53f,FreeModifiers:3,Durability:571,HarvestLevel:3,Attack:4.83f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"cyanite\",\"cyanite\",\"cyanite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"radioactive\",color:-14300709,level:1,radioactive1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"radioactive1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "04aad94f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.53f,
+					FreeModifiers: 3,
+					Durability: 571,
+					HarvestLevel: 3,
+					Attack: 4.83f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.53f,
+					FreeModifiers: 3,
+					Durability: 571,
+					HarvestLevel: 3,
+					Attack: 4.83f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cyanite",
+						"cyanite",
+						"cyanite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "radioactive",
+					color: -14300709,
+					level: 1,
+					radioactive1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"radioactive1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

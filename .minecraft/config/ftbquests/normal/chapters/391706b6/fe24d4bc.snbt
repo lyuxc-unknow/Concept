@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 579.0d,
+	description: "{id:\"pneumaticcraft:empty_pcb\",Count:1b,Damage:100s}",
+	tasks: [{
+		uid: "481b016e",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:empty_pcb 1 100"
+		}],
+		consume_items: true
+	}]
+}

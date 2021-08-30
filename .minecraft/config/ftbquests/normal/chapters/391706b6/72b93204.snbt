@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 47.0d,
+	description: "{id:\"draconicevolution:chaos_shard\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7f23664",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard"
+		}],
+		consume_items: true
+	}]
+}

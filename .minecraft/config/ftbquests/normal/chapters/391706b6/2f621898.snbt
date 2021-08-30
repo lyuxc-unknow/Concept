@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 293.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"bone\"},Damage:0s}",
+	tasks: [{
+		uid: "e47caa2c",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "bone"
+			}
+		}],
+		consume_items: true
+	}]
+}

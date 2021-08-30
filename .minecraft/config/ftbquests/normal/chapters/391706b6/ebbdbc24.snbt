@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"essen\"},Damage:0s}",
+	tasks: [{
+		uid: "59ddd6ae",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "essen"
+			}
+		}],
+		consume_items: true
+	}]
+}

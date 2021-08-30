@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 118.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"liquidchlorine\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "7316228e",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "liquidchlorine",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

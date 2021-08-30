@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 743.0d,
+	description: "{id:\"embers:ingot_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d87ce28",
+		type: "item",
+		items: [{
+			item: "embers:ingot_bronze"
+		}],
+		consume_items: true
+	}]
+}

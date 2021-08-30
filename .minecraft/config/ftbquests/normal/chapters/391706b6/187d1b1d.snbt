@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 607.0d,
+	description: "{id:\"thermalsolars:blockenderoreend\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45afc677",
+		type: "item",
+		items: [{
+			item: "thermalsolars:blockenderoreend"
+		}],
+		consume_items: true
+	}]
+}

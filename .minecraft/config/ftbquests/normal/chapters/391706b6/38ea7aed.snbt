@@ -1,0 +1,20 @@
+{
+	x: 19.0d,
+	y: 677.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_drill\",Count:1b,tag:{Energy:250000},Damage:1s}",
+	tasks: [{
+		uid: "732c673d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_drill",
+			tag: {
+				Energy: 250000
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

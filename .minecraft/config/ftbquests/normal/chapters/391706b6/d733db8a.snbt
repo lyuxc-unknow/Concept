@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 311.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"nickel\"},Damage:0s}",
+	tasks: [{
+		uid: "eae9d262",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "nickel"
+			}
+		}],
+		consume_items: true
+	}]
+}

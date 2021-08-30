@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 616.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"chrome\"},Damage:0s}",
+	tasks: [{
+		uid: "4a81d81d",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "chrome"
+			}
+		}],
+		consume_items: true
+	}]
+}

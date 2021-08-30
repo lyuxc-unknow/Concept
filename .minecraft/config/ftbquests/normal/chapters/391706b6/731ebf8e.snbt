@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:fluid_storage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9645965f",
+		type: "item",
+		items: [{
+			item: "refinedstorage:fluid_storage"
+		}],
+		consume_items: true
+	}]
+}

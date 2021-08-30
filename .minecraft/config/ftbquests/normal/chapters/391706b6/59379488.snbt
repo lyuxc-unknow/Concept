@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 570.0d,
+	description: "{id:\"immersiveengineering:shader_bag\",Count:1b,tag:{rarity:\"UNCOMMON\"},Damage:0s}",
+	tasks: [{
+		uid: "30c0a6f1",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:shader_bag",
+			tag: {
+				rarity: "UNCOMMON"
+			}
+		}],
+		consume_items: true
+	}]
+}

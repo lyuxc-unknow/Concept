@@ -1,0 +1,21 @@
+{
+	x: 23.0d,
+	y: 555.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"蝙蝠\",level:10,mobId:\"minecraft:bat\"},Damage:0s}",
+	tasks: [{
+		uid: "1e2f2236",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "蝙蝠",
+				level: 10,
+				mobId: "minecraft:bat"
+			}
+		}],
+		consume_items: true
+	}]
+}

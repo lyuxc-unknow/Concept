@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "75fb479b",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

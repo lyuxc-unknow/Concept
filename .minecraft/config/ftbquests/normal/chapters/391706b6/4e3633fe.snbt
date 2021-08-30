@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 669.0d,
+	description: "{id:\"xnet:wireless_router\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "39cf171e",
+		type: "item",
+		items: [{
+			item: "xnet:wireless_router"
+		}],
+		consume_items: true
+	}]
+}

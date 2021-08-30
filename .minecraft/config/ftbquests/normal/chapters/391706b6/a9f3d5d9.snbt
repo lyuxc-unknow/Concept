@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"extrabotany:ingotorichalcos\"},Damage:0s}",
+	tasks: [{
+		uid: "6031e399",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "extrabotany:ingotorichalcos"
+			}
+		}],
+		consume_items: true
+	}]
+}

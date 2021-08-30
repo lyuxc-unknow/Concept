@@ -1,0 +1,76 @@
+{
+	x: 12.0d,
+	y: 359.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:10221,HarvestLevel:10,Attack:16.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,FreeModifiers:3,Durability:10221,HarvestLevel:10,Attack:16.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"neutronium\",\"neutronium\",\"neutronium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"dense\",color:-12895429,level:1},{identifier:\"heavy\",color:-12895429,level:1},{identifier:\"tconevo.condensing\",color:-12895429,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"dense\",\"heavy\",\"tconevo.condensing1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f6523799",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 10221,
+					HarvestLevel: 10,
+					Attack: 16.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 10221,
+					HarvestLevel: 10,
+					Attack: 16.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"neutronium",
+						"neutronium",
+						"neutronium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "dense",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "heavy",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "tconevo.condensing",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dense",
+					"heavy",
+					"tconevo.condensing1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

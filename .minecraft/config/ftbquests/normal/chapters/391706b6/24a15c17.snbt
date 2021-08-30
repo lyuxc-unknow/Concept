@@ -1,0 +1,78 @@
+{
+	x: 4.0d,
+	y: 659.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,DrawSpeed:1.1f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:1050,HarvestLevel:0,Attack:7.0f,Range:1.05f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,DrawSpeed:1.1f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:1050,HarvestLevel:0,Attack:7.0f,Range:1.05f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"superheat\",color:-27123,level:1},{identifier:\"flammable\",color:-27123,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"superheat\",\"flammable\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d11f1492",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.1f,
+					DrawSpeed: 1.1f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.0f,
+					Durability: 1050,
+					HarvestLevel: 0,
+					Attack: 7.0f,
+					Range: 1.05f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.1f,
+					DrawSpeed: 1.1f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.0f,
+					Durability: 1050,
+					HarvestLevel: 0,
+					Attack: 7.0f,
+					Range: 1.05f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"magmaslime",
+						"magmaslime",
+						"magmaslime",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "superheat",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "flammable",
+					color: -27123,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"superheat",
+					"flammable",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

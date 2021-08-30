@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 562.0d,
+	description: "{id:\"immersiveengineering:treated_wood_slab\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "f8a8ce80",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:treated_wood_slab 1 2"
+		}],
+		consume_items: true
+	}]
+}

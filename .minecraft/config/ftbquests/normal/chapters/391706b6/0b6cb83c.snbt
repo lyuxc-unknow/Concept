@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 236.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"gelid_enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "fab1a75a",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "gelid_enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

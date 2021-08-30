@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 536.0d,
+	description: "{id:\"bigreactors:reactorcoolantport\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5332f2fb",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcoolantport"
+		}],
+		consume_items: true
+	}]
+}

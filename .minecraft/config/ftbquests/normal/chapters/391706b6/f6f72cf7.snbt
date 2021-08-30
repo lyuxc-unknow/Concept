@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 449.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "3953eb1a",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

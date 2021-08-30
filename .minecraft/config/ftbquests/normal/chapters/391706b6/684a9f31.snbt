@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:crop_enrich_material_injector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "80221544",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_enrich_material_injector"
+		}],
+		consume_items: true
+	}]
+}

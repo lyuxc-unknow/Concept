@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 452.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "52791e5a",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

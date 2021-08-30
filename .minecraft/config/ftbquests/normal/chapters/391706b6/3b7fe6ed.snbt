@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 395.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tinkersarsenal:bayonet\"},Damage:0s}",
+	tasks: [{
+		uid: "1e5e1ae9",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tinkersarsenal:bayonet"
+			}
+		}],
+		consume_items: true
+	}]
+}

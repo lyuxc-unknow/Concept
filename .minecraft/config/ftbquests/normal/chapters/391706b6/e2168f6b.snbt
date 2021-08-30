@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 413.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:grasshorn\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4390b0e9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:grasshorn"
+		}],
+		consume_items: true
+	}]
+}

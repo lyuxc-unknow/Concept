@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 60.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:sickle_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c061f406",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:sickle_stone"
+		}],
+		consume_items: true
+	}]
+}

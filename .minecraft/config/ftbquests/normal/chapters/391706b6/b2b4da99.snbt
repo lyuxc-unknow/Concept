@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 58.0d,
+	description: "{id:\"ae2stuff:grower\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "03dc4f7b",
+		type: "item",
+		items: [{
+			item: "ae2stuff:grower"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"sentient_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "d147d411",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "sentient_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

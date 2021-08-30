@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 792.0d,
+	description: "{id:\"tp:hardened_stone_bricks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f8c09b6f",
+		type: "item",
+		items: [{
+			item: "tp:hardened_stone_bricks"
+		}],
+		consume_items: true
+	}]
+}

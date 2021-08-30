@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 608.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalsolars:itemtitaniumpickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6bf19e2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalsolars:itemtitaniumpickaxe"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 425.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"manastar\"},Damage:0s}",
+	tasks: [{
+		uid: "77161224",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "manastar"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 776.0d,
+	description: "{id:\"requious:gas_emitter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fa5a5a26",
+		type: "item",
+		items: [{
+			item: "requious:gas_emitter"
+		}],
+		consume_items: true
+	}]
+}

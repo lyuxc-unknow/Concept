@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 283.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"fluix_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "ab00b9e1",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "fluix_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

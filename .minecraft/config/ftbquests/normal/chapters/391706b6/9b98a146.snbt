@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 630.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"chaotic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "e0e53bed",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "chaotic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

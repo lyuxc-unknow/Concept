@@ -1,0 +1,19 @@
+{
+	x: 39.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:chaotic_legs\",Count:1b,tag:{Energy:16000000},Damage:0s}",
+	tasks: [{
+		uid: "99869bcf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:chaotic_legs",
+			tag: {
+				Energy: 16000000
+			}
+		}],
+		consume_items: true
+	}]
+}

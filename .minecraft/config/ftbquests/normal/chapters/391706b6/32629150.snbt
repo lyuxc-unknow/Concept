@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 448.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"stone\"},Damage:0s}",
+	tasks: [{
+		uid: "ed25d366",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

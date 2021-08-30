@@ -1,0 +1,17 @@
+{
+	x: 39.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"conductive_iron\"},Damage:1s}",
+	tasks: [{
+		uid: "5ea55e86",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "conductive_iron"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

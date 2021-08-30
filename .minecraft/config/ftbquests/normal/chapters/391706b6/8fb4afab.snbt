@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 609.0d,
+	description: "{id:\"tinker_io:smart_output\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eaa788dd",
+		type: "item",
+		items: [{
+			item: "tinker_io:smart_output"
+		}],
+		consume_items: true
+	}]
+}

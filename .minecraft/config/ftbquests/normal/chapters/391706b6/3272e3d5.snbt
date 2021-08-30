@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 625.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"ma.intermedium\"},Damage:0s}",
+	tasks: [{
+		uid: "1b58f354",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "ma.intermedium"
+			}
+		}],
+		consume_items: true
+	}]
+}

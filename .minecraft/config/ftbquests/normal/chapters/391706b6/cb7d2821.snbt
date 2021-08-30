@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 550.0d,
+	description: "{id:\"mysticalagriculture:electrum_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "db02fe1c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:electrum_seeds"
+		}],
+		consume_items: true
+	}]
+}

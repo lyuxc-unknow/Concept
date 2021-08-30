@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: 555.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"巨人\",level:10,mobId:\"minecraft:giant\"},Damage:0s}",
+	tasks: [{
+		uid: "b8090f9d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "巨人",
+				level: 10,
+				mobId: "minecraft:giant"
+			}
+		}],
+		consume_items: true
+	}]
+}

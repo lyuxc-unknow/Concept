@@ -1,0 +1,65 @@
+{
+	x: 20.0d,
+	y: 317.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.08f,FreeModifiers:3,Durability:1584,HarvestLevel:3,Attack:9.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.08f,FreeModifiers:3,Durability:1584,HarvestLevel:3,Attack:9.23f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ma.intermedium\",\"ma.intermedium\",\"ma.intermedium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prosperous\",color:-4765440,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prosperous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a9448182",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.08f,
+					FreeModifiers: 3,
+					Durability: 1584,
+					HarvestLevel: 3,
+					Attack: 9.23f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.08f,
+					FreeModifiers: 3,
+					Durability: 1584,
+					HarvestLevel: 3,
+					Attack: 9.23f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.intermedium",
+						"ma.intermedium",
+						"ma.intermedium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -4765440,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

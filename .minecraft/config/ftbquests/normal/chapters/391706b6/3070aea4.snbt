@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 434.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"restonia_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "a63d7eb0",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "restonia_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

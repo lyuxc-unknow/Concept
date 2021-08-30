@@ -1,0 +1,17 @@
+{
+	x: 31.0d,
+	y: 594.0d,
+	description: "{id:\"rftoolsdim:known_dimlet\",Count:1b,tag:{dkey:\"None\"},Damage:5s}",
+	tasks: [{
+		uid: "aac3971a",
+		type: "item",
+		items: [{
+			id: "rftoolsdim:known_dimlet",
+			tag: {
+				dkey: "None"
+			},
+			Damage: 5s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:hyper_energy_sender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "826a5df2",
+		type: "item",
+		items: [{
+			item: "overloaded:hyper_energy_sender"
+		}],
+		consume_items: true
+	}]
+}

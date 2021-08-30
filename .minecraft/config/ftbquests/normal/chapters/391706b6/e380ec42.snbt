@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 425.0d,
+	description: "{id:\"botania:elfglass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "27f9b5b3",
+		type: "item",
+		items: [{
+			item: "botania:elfglass"
+		}],
+		consume_items: true
+	}]
+}

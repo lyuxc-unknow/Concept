@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 547.0d,
+	description: "{id:\"mysticalagriculture:conductive_iron_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cb381f7d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:conductive_iron_essence"
+		}],
+		consume_items: true
+	}]
+}

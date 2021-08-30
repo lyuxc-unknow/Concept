@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 608.0d,
+	description: "{id:\"tinker_io:solidfuel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d00df66",
+		type: "item",
+		items: [{
+			item: "tinker_io:solidfuel"
+		}],
+		consume_items: true
+	}]
+}

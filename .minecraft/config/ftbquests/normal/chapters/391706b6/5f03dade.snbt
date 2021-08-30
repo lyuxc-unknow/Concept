@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 56.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"astral_starmetal\"},Damage:0s}",
+	tasks: [{
+		uid: "39236125",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "astral_starmetal"
+			}
+		}],
+		consume_items: true
+	}]
+}

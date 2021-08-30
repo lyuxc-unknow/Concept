@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 278.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"vibrant_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "7fd7ce58",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "vibrant_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

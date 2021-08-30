@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 284.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"lonsdaleite\"},Damage:0s}",
+	tasks: [{
+		uid: "4ad93863",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "lonsdaleite"
+			}
+		}],
+		consume_items: true
+	}]
+}

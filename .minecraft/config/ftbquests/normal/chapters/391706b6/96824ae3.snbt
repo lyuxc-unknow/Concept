@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 474.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"red_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "1aeaab98",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "red_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

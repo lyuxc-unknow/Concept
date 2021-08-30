@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 47.0d,
+	description: "{id:\"draconicevolution:draconic_spawner\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "126266d8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_spawner"
+		}],
+		consume_items: true
+	}]
+}

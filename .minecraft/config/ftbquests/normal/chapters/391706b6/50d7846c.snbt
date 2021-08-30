@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 769.0d,
+	description: "{id:\"custom_additions:elemental_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eb5bef77",
+		type: "item",
+		items: [{
+			item: "custom_additions:elemental_plate"
+		}],
+		consume_items: true
+	}]
+}

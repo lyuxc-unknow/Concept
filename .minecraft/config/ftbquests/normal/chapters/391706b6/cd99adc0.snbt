@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 663.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"minecraft:magma_cube\"},Damage:0s}",
+	tasks: [{
+		uid: "4cff090b",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "minecraft:magma_cube"
+			}
+		}],
+		consume_items: true
+	}]
+}

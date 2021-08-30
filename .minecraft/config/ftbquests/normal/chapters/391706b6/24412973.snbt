@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 488.0d,
+	description: "{id:\"bibliocraft:clock\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "046dc0c8",
+		type: "item",
+		items: [{
+			item: "bibliocraft:clock 1 6"
+		}],
+		consume_items: true
+	}]
+}

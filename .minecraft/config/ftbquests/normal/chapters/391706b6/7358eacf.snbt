@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 613.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"xu_evil_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "0fd4ddfc",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "xu_evil_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

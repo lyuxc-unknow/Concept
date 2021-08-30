@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 260.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"iron\"},Damage:0s}",
+	tasks: [{
+		uid: "e5423add",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

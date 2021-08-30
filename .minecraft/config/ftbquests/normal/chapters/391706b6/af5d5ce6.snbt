@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 109.0d,
+	description: "{id:\"mist:painting\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "254fd62b",
+		type: "item",
+		items: [{
+			item: "mist:painting 1 1"
+		}],
+		consume_items: true
+	}]
+}

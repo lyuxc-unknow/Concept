@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 309.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"treatedwood\"},Damage:0s}",
+	tasks: [{
+		uid: "e9299c28",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "treatedwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

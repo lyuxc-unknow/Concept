@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 97.0d,
+	description: "{id:\"mist:pine_trunk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b36a570d",
+		type: "item",
+		items: [{
+			item: "mist:pine_trunk"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 414.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:elementiumpick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7bbad66b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:elementiumpick"
+		}],
+		consume_items: true
+	}]
+}

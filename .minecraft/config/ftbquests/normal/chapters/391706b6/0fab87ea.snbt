@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 302.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"void_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "c7316a8d",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "void_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

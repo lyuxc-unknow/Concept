@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 127.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:sonic_glasses\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "22b5c243",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:sonic_glasses"
+		}],
+		consume_items: true
+	}]
+}

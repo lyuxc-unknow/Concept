@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 663.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"minecraft:wither_skeleton\"},Damage:0s}",
+	tasks: [{
+		uid: "c9bd67fd",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "minecraft:wither_skeleton"
+			}
+		}],
+		consume_items: true
+	}]
+}

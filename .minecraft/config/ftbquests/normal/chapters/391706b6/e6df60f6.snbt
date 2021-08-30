@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"steamworld:anemone\"},Damage:0s}",
+	tasks: [{
+		uid: "e2451829",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "steamworld:anemone"
+			}
+		}],
+		consume_items: true
+	}]
+}

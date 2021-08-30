@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 25.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"enderio:long_floating\"},Damage:0s}",
+	tasks: [{
+		uid: "0a790f92",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "enderio:long_floating"
+			}
+		}],
+		consume_items: true
+	}]
+}

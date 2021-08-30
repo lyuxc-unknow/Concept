@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 540.0d,
+	description: "{id:\"integrateddynamics:variablestore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c003e3d3",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:variablestore"
+		}],
+		consume_items: true
+	}]
+}

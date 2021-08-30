@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 287.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"erodium\"},Damage:0s}",
+	tasks: [{
+		uid: "51e63a7f",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "erodium"
+			}
+		}],
+		consume_items: true
+	}]
+}

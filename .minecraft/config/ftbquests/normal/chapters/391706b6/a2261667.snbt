@@ -1,0 +1,76 @@
+{
+	x: 10.0d,
+	y: 329.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:93,MiningSpeed:66.6f,FreeModifiers:3,HarvestLevelShovel:93,Durability:1332,HarvestLevel:93,Attack:9004.0f},Unbreakable:1b,Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:93,MiningSpeed:66.6f,FreeModifiers:3,HarvestLevelShovel:93,Durability:1332,HarvestLevel:93,Attack:9004.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"infinity_metal\",\"infinity_metal\",\"infinity_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.infinitum\",color:-11757164,level:1},{identifier:\"tconevo.omnipotence\",color:-11757164,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.infinitum\",\"tconevo.omnipotence\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d84ae380",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 93,
+					MiningSpeed: 66.6f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 93,
+					Durability: 1332,
+					HarvestLevel: 93,
+					Attack: 9004.0f
+				},
+				Unbreakable: 1b,
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 93,
+					MiningSpeed: 66.6f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 93,
+					Durability: 1332,
+					HarvestLevel: 93,
+					Attack: 9004.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"infinity_metal",
+						"infinity_metal",
+						"infinity_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.infinitum",
+					color: -11757164,
+					level: 1
+				},
+				{
+					identifier: "tconevo.omnipotence",
+					color: -11757164,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.infinitum",
+					"tconevo.omnipotence",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

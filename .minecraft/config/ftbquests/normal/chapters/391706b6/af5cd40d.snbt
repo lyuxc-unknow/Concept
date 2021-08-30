@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:inventory_augment\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc43e677",
+		type: "item",
+		items: [{
+			item: "wirelessutils:inventory_augment"
+		}],
+		consume_items: true
+	}]
+}

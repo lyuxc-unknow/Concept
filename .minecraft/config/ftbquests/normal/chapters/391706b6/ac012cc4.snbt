@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 400.0d,
+	description: "{id:\"appliedenergistics2:molecular_assembler\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f353ea7b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:molecular_assembler"
+		}],
+		consume_items: true
+	}]
+}

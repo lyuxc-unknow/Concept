@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 310.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"crystal_matrix\"},Damage:0s}",
+	tasks: [{
+		uid: "e64b2ea5",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}],
+		consume_items: true
+	}]
+}

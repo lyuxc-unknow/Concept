@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 250.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"chaotic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "c3b79d23",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "chaotic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

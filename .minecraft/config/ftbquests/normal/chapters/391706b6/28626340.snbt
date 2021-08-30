@@ -1,0 +1,17 @@
+{
+	x: 14.0d,
+	y: 146.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"calculator:amethystlog\"},Damage:0s}",
+	tasks: [{
+		uid: "c13d8b52",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "calculator:amethystlog"
+			}
+		}],
+		consume_items: true
+	}]
+}

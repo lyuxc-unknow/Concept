@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: 122.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"fuel\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "ec77afbf",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "fuel",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

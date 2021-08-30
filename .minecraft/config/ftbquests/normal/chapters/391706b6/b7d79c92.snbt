@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 112.0d,
+	description: "{id:\"naturesaura:token_terror\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9209d87b",
+		type: "item",
+		items: [{
+			item: "naturesaura:token_terror"
+		}],
+		consume_items: true
+	}]
+}

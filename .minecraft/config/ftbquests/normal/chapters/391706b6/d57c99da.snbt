@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_dustdirtyuranium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e801eeb1",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustdirtyuranium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 7.0d,
+	y: 313.0d,
+	description: "{id:\"tconstruct:bolt_core\",Count:1b,tag:{TinkerData:{Materials:[\"basalz_rod\",\"iron\"]}},Damage:0s}",
+	tasks: [{
+		uid: "1887aa95",
+		type: "item",
+		items: [{
+			id: "tconstruct:bolt_core",
+			tag: {
+				TinkerData: {
+					Materials: [
+						"basalz_rod",
+						"iron"
+					]
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

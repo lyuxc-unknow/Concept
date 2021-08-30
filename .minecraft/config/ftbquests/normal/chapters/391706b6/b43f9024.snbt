@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 127.0d,
+	description: "{id:\"openblocks:scaffolding\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "60732661",
+		type: "item",
+		items: [{
+			item: "openblocks:scaffolding"
+		}],
+		consume_items: true
+	}]
+}

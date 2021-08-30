@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 267.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "8175b1c2",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

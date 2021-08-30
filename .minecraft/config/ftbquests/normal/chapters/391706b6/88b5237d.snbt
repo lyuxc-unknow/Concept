@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 602.0d,
+	description: "{id:\"steamworld:block_crystal\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "9051e917",
+		type: "item",
+		items: [{
+			item: "steamworld:block_crystal 1 1"
+		}],
+		consume_items: true
+	}]
+}

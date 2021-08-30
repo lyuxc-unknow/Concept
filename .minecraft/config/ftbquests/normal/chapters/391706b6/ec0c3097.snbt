@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 299.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"refined_obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "90ab0c98",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "refined_obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

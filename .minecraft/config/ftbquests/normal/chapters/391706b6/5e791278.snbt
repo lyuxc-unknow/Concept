@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 450.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"diamantine_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "447e5abe",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "diamantine_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

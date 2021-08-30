@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 105.0d,
+	description: "{id:\"mist:oak_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "71b19584",
+		type: "item",
+		items: [{
+			item: "mist:oak_door"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 761.0d,
+	description: "{id:\"threng:big_assembler\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "242f060f",
+		type: "item",
+		items: [{
+			item: "threng:big_assembler 1 5"
+		}],
+		consume_items: true
+	}]
+}

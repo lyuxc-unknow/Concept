@@ -1,0 +1,64 @@
+{
+	x: 27.0d,
+	y: 375.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.21f,DrawSpeed:4.52f,FreeModifiers:3,ProjectileBonusDamage:13.0f,Durability:1400,HarvestLevel:4,Attack:12.42f,Range:3.21f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.21f,DrawSpeed:4.52f,FreeModifiers:3,ProjectileBonusDamage:13.0f,Durability:1400,HarvestLevel:4,Attack:12.42f,Range:3.21f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"ludicrite\",\"ludicrite\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "33424582",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.21f,
+					DrawSpeed: 4.52f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 13.0f,
+					Durability: 1400,
+					HarvestLevel: 4,
+					Attack: 12.42f,
+					Range: 3.21f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.21f,
+					DrawSpeed: 4.52f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 13.0f,
+					Durability: 1400,
+					HarvestLevel: 4,
+					Attack: 12.42f,
+					Range: 3.21f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ludicrite",
+						"ludicrite",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

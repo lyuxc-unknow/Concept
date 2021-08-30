@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 191.0d,
+	description: "{id:\"enderio:block_holy_fused_quartz\",Count:1b,Damage:15s}",
+	tasks: [{
+		uid: "ac754932",
+		type: "item",
+		items: [{
+			item: "enderio:block_holy_fused_quartz 1 15"
+		}],
+		consume_items: true
+	}]
+}

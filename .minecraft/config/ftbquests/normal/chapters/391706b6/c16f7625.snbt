@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 762.0d,
+	description: "{id:\"tconevo:metal\",Count:1b,Damage:29s}",
+	tasks: [{
+		uid: "ff9edd49",
+		type: "item",
+		items: [{
+			item: "tconevo:metal 1 29"
+		}],
+		consume_items: true
+	}]
+}

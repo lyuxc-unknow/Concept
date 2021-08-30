@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 503.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:1,key:\"bloodmagic.upgrade.poisonResist\"},Damage:0s}",
+	tasks: [{
+		uid: "133251ef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 1,
+				key: "bloodmagic.upgrade.poisonResist"
+			}
+		}],
+		consume_items: true
+	}]
+}

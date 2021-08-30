@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 786.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "37003d97",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

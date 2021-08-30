@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:raw_ultimate_processor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f418c070",
+		type: "item",
+		items: [{
+			item: "custom_additions:raw_ultimate_processor"
+		}],
+		consume_items: true
+	}]
+}

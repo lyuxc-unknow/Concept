@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 66.0d,
+	description: "{id:\"extrautils2:decorativebedrock\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "f31620c5",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativebedrock 1 1"
+		}],
+		consume_items: true
+	}]
+}

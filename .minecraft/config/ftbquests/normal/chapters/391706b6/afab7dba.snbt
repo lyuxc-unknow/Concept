@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 796.0d,
+	description: "{id:\"jaopca:block_mysticalcropssteaite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6dd97d80",
+		type: "item",
+		items: [{
+			item: "jaopca:block_mysticalcropssteaite"
+		}],
+		consume_items: true
+	}]
+}

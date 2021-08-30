@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 447.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"platinum\"},Damage:0s}",
+	tasks: [{
+		uid: "00f26e1a",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "platinum"
+			}
+		}],
+		consume_items: true
+	}]
+}

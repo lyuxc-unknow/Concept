@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:block_fluid_controller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "30de0c7f",
+		type: "item",
+		items: [{
+			item: "steamworld:block_fluid_controller"
+		}],
+		consume_items: true
+	}]
+}

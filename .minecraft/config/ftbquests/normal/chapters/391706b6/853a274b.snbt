@@ -1,0 +1,78 @@
+{
+	x: 21.0d,
+	y: 764.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconevo:tool_sceptre\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.25f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:760,HarvestLevel:5,Attack:8.0f,Range:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.25f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:760,HarvestLevel:5,Attack:8.0f,Range:1.2f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ionite\",\"ionite\",\"ionite\",\"ionite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.deadly_precision\",color:-9909000,level:1},{identifier:\"tconevo.chain_lightning\",color:-9909000,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.deadly_precision\",\"tconevo.chain_lightning\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "af81ce38",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconevo:tool_sceptre",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.25f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 760,
+					HarvestLevel: 5,
+					Attack: 8.0f,
+					Range: 1.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.25f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 760,
+					HarvestLevel: 5,
+					Attack: 8.0f,
+					Range: 1.2f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ionite",
+						"ionite",
+						"ionite",
+						"ionite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.deadly_precision",
+					color: -9909000,
+					level: 1
+				},
+				{
+					identifier: "tconevo.chain_lightning",
+					color: -9909000,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.deadly_precision",
+					"tconevo.chain_lightning",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 41.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:armor.plate_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b8fc427b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:armor.plate_bronze"
+		}],
+		consume_items: true
+	}]
+}

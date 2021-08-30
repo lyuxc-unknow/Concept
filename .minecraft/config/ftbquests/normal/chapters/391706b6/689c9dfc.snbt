@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 89.0d,
+	description: "{id:\"randomthings:luminousblock\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "948fb7ca",
+		type: "item",
+		items: [{
+			item: "randomthings:luminousblock 1 7"
+		}],
+		consume_items: true
+	}]
+}

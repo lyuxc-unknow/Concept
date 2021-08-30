@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 576.0d,
+	description: "{id:\"modularmagic:blockauraprovideroutput\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad8236be",
+		type: "item",
+		items: [{
+			item: "modularmagic:blockauraprovideroutput"
+		}],
+		consume_items: true
+	}]
+}

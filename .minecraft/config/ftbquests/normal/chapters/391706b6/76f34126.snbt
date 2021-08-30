@@ -1,0 +1,69 @@
+{
+	x: 23.0d,
+	y: 367.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:battlesign\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:1425,HarvestLevel:4,Attack:7.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:1425,HarvestLevel:4,Attack:7.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"refined_obsidian\",\"refined_obsidian\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.impact_force\",color:-8559205,level:1},{identifier:\"duritos\",color:-8559205,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.impact_force\",\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "af05b9e9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:battlesign",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 1425,
+					HarvestLevel: 4,
+					Attack: 7.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 1425,
+					HarvestLevel: 4,
+					Attack: 7.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"refined_obsidian",
+						"refined_obsidian"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.impact_force",
+					color: -8559205,
+					level: 1
+				},
+				{
+					identifier: "duritos",
+					color: -8559205,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.impact_force",
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

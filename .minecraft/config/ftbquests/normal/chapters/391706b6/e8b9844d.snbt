@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 444.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"psi\"},Damage:0s}",
+	tasks: [{
+		uid: "182b0000",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "psi"
+			}
+		}],
+		consume_items: true
+	}]
+}

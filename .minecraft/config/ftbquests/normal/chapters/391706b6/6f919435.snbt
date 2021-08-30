@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 280.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"pladium\"},Damage:0s}",
+	tasks: [{
+		uid: "07985a30",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "pladium"
+			}
+		}],
+		consume_items: true
+	}]
+}

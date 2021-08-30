@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 440.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"invar\"},Damage:0s}",
+	tasks: [{
+		uid: "4deef779",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "invar"
+			}
+		}],
+		consume_items: true
+	}]
+}

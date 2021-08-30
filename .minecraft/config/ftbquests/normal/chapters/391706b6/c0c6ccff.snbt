@@ -1,0 +1,58 @@
+{
+	x: 39.0d,
+	y: 356.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.65f,FreeModifiers:3,Durability:876,HarvestLevel:3,Attack:7.33f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.65f,FreeModifiers:3,Durability:876,HarvestLevel:3,Attack:7.33f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"quartzenrichediron\",\"quartzenrichediron\",\"quartzenrichediron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "476b4c80",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					Durability: 876,
+					HarvestLevel: 3,
+					Attack: 7.33f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					Durability: 876,
+					HarvestLevel: 3,
+					Attack: 7.33f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"quartzenrichediron",
+						"quartzenrichediron",
+						"quartzenrichediron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

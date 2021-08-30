@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"black_quartz\"},Damage:0s}",
+	tasks: [{
+		uid: "51fb8c00",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "black_quartz"
+			}
+		}],
+		consume_items: true
+	}]
+}

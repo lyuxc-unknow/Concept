@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 677.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_tele_staff\",Count:1b,tag:{Energy:250000},Damage:0s}",
+	tasks: [{
+		uid: "f62fb90b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_tele_staff",
+			tag: {
+				Energy: 250000
+			}
+		}],
+		consume_items: true
+	}]
+}

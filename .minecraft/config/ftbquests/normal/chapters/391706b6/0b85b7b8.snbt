@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"sentient_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "296a6f46",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "sentient_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

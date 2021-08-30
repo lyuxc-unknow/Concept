@@ -1,0 +1,78 @@
+{
+	x: 35.0d,
+	y: 377.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:0.7f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:735,HarvestLevel:3,Attack:5.5f,Range:1.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:0.7f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:735,HarvestLevel:3,Attack:5.5f,Range:1.3f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"fluix_steel\",\"fluix_steel\",\"fluix_steel\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.piezoelectric\",color:-12044456,level:1},{identifier:\"magnetic\",color:-12044456,level:1,magnetic1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.piezoelectric\",\"magnetic1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "af8dce23",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 0.7f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 735,
+					HarvestLevel: 3,
+					Attack: 5.5f,
+					Range: 1.3f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 0.7f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 735,
+					HarvestLevel: 3,
+					Attack: 5.5f,
+					Range: 1.3f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"fluix_steel",
+						"fluix_steel",
+						"fluix_steel",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.piezoelectric",
+					color: -12044456,
+					level: 1
+				},
+				{
+					identifier: "magnetic",
+					color: -12044456,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.piezoelectric",
+					"magnetic1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

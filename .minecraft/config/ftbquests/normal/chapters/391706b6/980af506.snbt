@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 517.0d,
+	description: "{id:\"compactvoidminers:void_pump\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0045474",
+		type: "item",
+		items: [{
+			item: "compactvoidminers:void_pump"
+		}],
+		consume_items: true
+	}]
+}

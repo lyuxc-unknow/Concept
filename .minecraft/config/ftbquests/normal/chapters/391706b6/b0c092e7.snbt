@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 760.0d,
+	description: "{id:\"industrialforegoing:leaf_shearing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9ef2296b",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:leaf_shearing"
+		}],
+		consume_items: true
+	}]
+}

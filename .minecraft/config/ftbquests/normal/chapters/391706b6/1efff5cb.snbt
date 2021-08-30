@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 30.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"extrautils2:xu2.second.chance\"},Damage:0s}",
+	tasks: [{
+		uid: "3e124b98",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "extrautils2:xu2.second.chance"
+			}
+		}],
+		consume_items: true
+	}]
+}

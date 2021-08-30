@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 290.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"ma.superium\"},Damage:0s}",
+	tasks: [{
+		uid: "c57aab50",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "ma.superium"
+			}
+		}],
+		consume_items: true
+	}]
+}

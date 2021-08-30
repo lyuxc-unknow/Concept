@@ -1,0 +1,77 @@
+{
+	x: 13.0d,
+	y: 381.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:1.2f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:252,HarvestLevel:2,Attack:5.0f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:1.2f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:252,HarvestLevel:2,Attack:5.0f,Range:1.0f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"black_quartz\",\"black_quartz\",\"black_quartz\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"jagged\",color:-11053225,level:1},{identifier:\"depthdigger\",color:-11053225,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"jagged\",\"depthdigger\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "936612b0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 1.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 252,
+					HarvestLevel: 2,
+					Attack: 5.0f,
+					Range: 1.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 1.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 252,
+					HarvestLevel: 2,
+					Attack: 5.0f,
+					Range: 1.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"black_quartz",
+						"black_quartz",
+						"black_quartz",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "jagged",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "depthdigger",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"jagged",
+					"depthdigger",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

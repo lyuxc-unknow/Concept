@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 478.0d,
+	description: "{id:\"extrabotany:splashgrenade\",Count:1b,tag:{brewKey:\"regenWeak\"},Damage:0s}",
+	tasks: [{
+		uid: "7f0af2db",
+		type: "item",
+		items: [{
+			id: "extrabotany:splashgrenade",
+			tag: {
+				brewKey: "regenWeak"
+			}
+		}],
+		consume_items: true
+	}]
+}

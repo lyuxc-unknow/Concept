@@ -1,0 +1,78 @@
+{
+	x: 35.0d,
+	y: 650.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:greatblade\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.0f,FreeModifiers:3,Durability:4064,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.0f,FreeModifiers:3,Durability:4064,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"soularium\",\"soularium\",\"soularium\",\"soularium\",\"soularium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"flammable\",color:-9872563,level:1},{identifier:\"hellish\",color:-9872563,level:1},{identifier:\"splinters\",color:-9872563,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"flammable\",\"hellish\",\"splinters\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "777c214d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:greatblade",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.0f,
+					FreeModifiers: 3,
+					Durability: 4064,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.0f,
+					FreeModifiers: 3,
+					Durability: 4064,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"soularium",
+						"soularium",
+						"soularium",
+						"soularium",
+						"soularium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "flammable",
+					color: -9872563,
+					level: 1
+				},
+				{
+					identifier: "hellish",
+					color: -9872563,
+					level: 1
+				},
+				{
+					identifier: "splinters",
+					color: -9872563,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"flammable",
+					"hellish",
+					"splinters",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

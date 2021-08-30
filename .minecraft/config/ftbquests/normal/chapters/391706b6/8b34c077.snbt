@@ -1,0 +1,17 @@
+{
+	x: 20.0d,
+	y: 161.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"openblocks:ladder\"},Damage:0s}",
+	tasks: [{
+		uid: "2d640548",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "openblocks:ladder"
+			}
+		}],
+		consume_items: true
+	}]
+}

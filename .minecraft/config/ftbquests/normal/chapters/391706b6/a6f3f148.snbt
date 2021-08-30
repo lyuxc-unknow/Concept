@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 415.0d,
+	description: "{id:\"botania:sparkupgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e9dbaabd",
+		type: "item",
+		items: [{
+			item: "botania:sparkupgrade"
+		}],
+		consume_items: true
+	}]
+}

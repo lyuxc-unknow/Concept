@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:fire_resistance\"},Damage:0s}",
+	tasks: [{
+		uid: "f7ee2384",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:fire_resistance"
+			}
+		}],
+		consume_items: true
+	}]
+}

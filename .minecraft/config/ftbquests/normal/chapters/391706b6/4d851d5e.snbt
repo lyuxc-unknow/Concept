@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 663.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"minecraft:vex\"},Damage:0s}",
+	tasks: [{
+		uid: "265f4a3b",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "minecraft:vex"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 4.0d,
+	description: "{id:\"minecraft:quartz_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "61b7b6f3",
+		type: "item",
+		items: [{
+			item: "minecraft:quartz_ore"
+		}],
+		consume_items: true
+	}]
+}

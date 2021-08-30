@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 479.0d,
+	description: "{id:\"extrabotany:splashgrenade\",Count:1b,tag:{brewKey:\"allure\"},Damage:0s}",
+	tasks: [{
+		uid: "1a160b82",
+		type: "item",
+		items: [{
+			id: "extrabotany:splashgrenade",
+			tag: {
+				brewKey: "allure"
+			}
+		}],
+		consume_items: true
+	}]
+}

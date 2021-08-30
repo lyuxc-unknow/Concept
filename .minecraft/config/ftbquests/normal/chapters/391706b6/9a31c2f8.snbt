@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 242.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"infinity_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "d77eee3d",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "infinity_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

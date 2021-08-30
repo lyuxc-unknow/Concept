@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 36.0d,
+	description: "{id:\"thermalfoundation:upgrade\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "ccaf7b4a",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 3"
+		}],
+		consume_items: true
+	}]
+}

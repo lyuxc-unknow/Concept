@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"rannuncarpus\"},Damage:0s}",
+	tasks: [{
+		uid: "111b03d1",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "rannuncarpus"
+			}
+		}],
+		consume_items: true
+	}]
+}

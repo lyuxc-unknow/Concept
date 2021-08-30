@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 802.0d,
+	description: "{id:\"jaopca:item_platedensegold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ec9e1661",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platedensegold"
+		}],
+		consume_items: true
+	}]
+}

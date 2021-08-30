@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 583.0d,
+	description: "{id:\"pneumaticcraft:dispenser_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "039eec78",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:dispenser_upgrade"
+		}],
+		consume_items: true
+	}]
+}

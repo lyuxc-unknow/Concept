@@ -1,0 +1,84 @@
+{
+	x: 35.0d,
+	y: 660.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:15.0f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:5236,HarvestLevel:5,Attack:14.0f,Range:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:15.0f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:5236,HarvestLevel:5,Attack:14.0f,Range:1.5f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dark_matter\",\"dark_matter\",\"dark_matter\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.eternal_density\",color:-13684945,level:1},{identifier:\"tconevo.culling\",color:-13684945,level:1},{identifier:\"tconevo.staggering\",color:-13684945,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.eternal_density1\",\"tconevo.culling\",\"tconevo.staggering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fa659f69",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 15.0f,
+					DrawSpeed: 0.85f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 5236,
+					HarvestLevel: 5,
+					Attack: 14.0f,
+					Range: 1.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 15.0f,
+					DrawSpeed: 0.85f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 5236,
+					HarvestLevel: 5,
+					Attack: 14.0f,
+					Range: 1.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dark_matter",
+						"dark_matter",
+						"dark_matter",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.eternal_density",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "tconevo.culling",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "tconevo.staggering",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.eternal_density1",
+					"tconevo.culling",
+					"tconevo.staggering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

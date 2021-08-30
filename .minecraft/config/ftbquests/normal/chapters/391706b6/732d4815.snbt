@@ -1,0 +1,17 @@
+{
+	x: 27.0d,
+	y: 594.0d,
+	description: "{id:\"rftoolsdim:known_dimlet\",Count:1b,tag:{dkey:\"minecraft:water@0\"},Damage:1s}",
+	tasks: [{
+		uid: "f1628b08",
+		type: "item",
+		items: [{
+			id: "rftoolsdim:known_dimlet",
+			tag: {
+				dkey: "minecraft:water@0"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 519.0d,
+	description: "{id:\"darkutils:fake_tnt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f14a8f0",
+		type: "item",
+		items: [{
+			item: "darkutils:fake_tnt"
+		}],
+		consume_items: true
+	}]
+}

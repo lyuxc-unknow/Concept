@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 530.0d,
+	description: "{id:\"emergingtechnology:syntheticchickenraw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd744625",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:syntheticchickenraw"
+		}],
+		consume_items: true
+	}]
+}

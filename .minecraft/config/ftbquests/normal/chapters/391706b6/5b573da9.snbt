@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 15.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"cofhcore:regeneration4\"},Damage:0s}",
+	tasks: [{
+		uid: "f72dd539",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "cofhcore:regeneration4"
+			}
+		}],
+		consume_items: true
+	}]
+}

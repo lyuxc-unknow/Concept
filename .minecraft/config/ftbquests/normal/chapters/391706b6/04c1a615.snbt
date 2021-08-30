@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 283.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"aquamarine\"},Damage:0s}",
+	tasks: [{
+		uid: "56d46ef9",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "aquamarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

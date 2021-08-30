@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 787.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"ludicrite\"},Damage:0s}",
+	tasks: [{
+		uid: "b61332bf",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "ludicrite"
+			}
+		}],
+		consume_items: true
+	}]
+}

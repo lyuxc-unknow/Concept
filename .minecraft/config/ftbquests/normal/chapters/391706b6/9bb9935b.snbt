@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 68.0d,
+	description: "{id:\"avaritia:singularity\",Count:1b,Damage:13s}",
+	tasks: [{
+		uid: "0d6b565d",
+		type: "item",
+		items: [{
+			item: "avaritia:singularity 1 13"
+		}],
+		consume_items: true
+	}]
+}

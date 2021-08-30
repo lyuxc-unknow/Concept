@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"elvenelementium\"},Damage:0s}",
+	tasks: [{
+		uid: "6719a11e",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "elvenelementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

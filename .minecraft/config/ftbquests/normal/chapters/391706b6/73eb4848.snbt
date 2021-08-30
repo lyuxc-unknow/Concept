@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 112.0d,
+	description: "{id:\"naturesaura:aura_bottle\",Count:1b,tag:{stored_type:\"naturesaura:end\"},Damage:0s}",
+	tasks: [{
+		uid: "ce84df7e",
+		type: "item",
+		items: [{
+			id: "naturesaura:aura_bottle",
+			tag: {
+				stored_type: "naturesaura:end"
+			}
+		}],
+		consume_items: true
+	}]
+}

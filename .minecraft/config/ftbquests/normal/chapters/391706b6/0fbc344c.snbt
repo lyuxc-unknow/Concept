@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"quartzenrichediron\"},Damage:0s}",
+	tasks: [{
+		uid: "308e9108",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "quartzenrichediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

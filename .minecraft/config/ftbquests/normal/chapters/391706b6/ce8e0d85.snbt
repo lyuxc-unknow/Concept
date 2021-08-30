@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:speed_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f3fb09da",
+		type: "item",
+		items: [{
+			item: "rftools:speed_module"
+		}],
+		consume_items: true
+	}]
+}

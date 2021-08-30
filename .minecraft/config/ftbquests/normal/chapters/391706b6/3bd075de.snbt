@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 454.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"wyvern_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "df0e9eb2",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "wyvern_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

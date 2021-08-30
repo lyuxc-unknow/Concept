@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 743.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:hoe_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4fbb20a7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:hoe_electrum"
+		}],
+		consume_items: true
+	}]
+}

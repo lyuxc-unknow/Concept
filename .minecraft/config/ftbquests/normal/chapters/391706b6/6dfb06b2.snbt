@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 420.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:manaweavehelm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ba54645",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:manaweavehelm"
+		}],
+		consume_items: true
+	}]
+}

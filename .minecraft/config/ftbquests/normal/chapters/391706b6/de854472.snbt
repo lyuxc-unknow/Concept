@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 586.0d,
+	description: "{id:\"overloaded:compressed_cobblestone\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "832a5748",
+		type: "item",
+		items: [{
+			item: "overloaded:compressed_cobblestone 1 9"
+		}],
+		consume_items: true
+	}]
+}

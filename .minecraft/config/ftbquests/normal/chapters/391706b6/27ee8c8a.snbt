@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: 568.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:mold\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "b34bc5bb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:mold",
+			Damage: 5s
+		}],
+		consume_items: true
+	}]
+}

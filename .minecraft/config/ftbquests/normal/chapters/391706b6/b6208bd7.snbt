@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"wyverndraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "7b76cdec",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "wyverndraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

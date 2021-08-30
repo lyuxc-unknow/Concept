@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 591.0d,
+	description: "{id:\"random_add:blue_blood\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c321d9b",
+		type: "item",
+		items: [{
+			item: "random_add:blue_blood"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 96.0d,
+	description: "{id:\"mist:filter_coal_block\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "4ae9a682",
+		type: "item",
+		items: [{
+			item: "mist:filter_coal_block 1 4"
+		}],
+		consume_items: true
+	}]
+}

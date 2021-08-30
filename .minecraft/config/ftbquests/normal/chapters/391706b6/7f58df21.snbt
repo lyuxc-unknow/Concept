@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:bow_limb\"},Damage:0s}",
+	tasks: [{
+		uid: "1e36c6d6",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:bow_limb"
+			}
+		}],
+		consume_items: true
+	}]
+}

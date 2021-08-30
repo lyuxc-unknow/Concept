@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 429.0d,
+	description: "{id:\"botania:livingwood0wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "42ec61d6",
+		type: "item",
+		items: [{
+			item: "botania:livingwood0wall"
+		}],
+		consume_items: true
+	}]
+}

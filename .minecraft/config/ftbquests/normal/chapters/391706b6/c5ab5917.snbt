@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"kyronite\"},Damage:0s}",
+	tasks: [{
+		uid: "3c27aa32",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "kyronite"
+			}
+		}],
+		consume_items: true
+	}]
+}

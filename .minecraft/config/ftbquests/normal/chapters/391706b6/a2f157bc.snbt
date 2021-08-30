@@ -1,0 +1,66 @@
+{
+	x: 22.0d,
+	y: 653.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:greatblade\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.02f,FreeModifiers:3,Durability:1096,HarvestLevel:4,Attack:8.030001f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.02f,FreeModifiers:3,Durability:1096,HarvestLevel:4,Attack:8.030001f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"mithril\",\"mithril\",\"mithril\",\"mithril\",\"mithril\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sos\",color:-14641744,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "3336175c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:greatblade",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.02f,
+					FreeModifiers: 3,
+					Durability: 1096,
+					HarvestLevel: 4,
+					Attack: 8.030001f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.02f,
+					FreeModifiers: 3,
+					Durability: 1096,
+					HarvestLevel: 4,
+					Attack: 8.030001f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"mithril",
+						"mithril",
+						"mithril",
+						"mithril",
+						"mithril"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sos",
+					color: -14641744,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

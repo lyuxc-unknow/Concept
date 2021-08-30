@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 595.0d,
+	description: "{id:\"rftoolsdim:dimension_editor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eaff4e3f",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:dimension_editor"
+		}],
+		consume_items: true
+	}]
+}

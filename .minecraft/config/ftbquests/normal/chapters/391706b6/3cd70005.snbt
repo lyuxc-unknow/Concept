@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 756.0d,
+	description: "{id:\"hardcorequesting:quarterheart\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c8716ba",
+		type: "item",
+		items: [{
+			item: "hardcorequesting:quarterheart"
+		}],
+		consume_items: true
+	}]
+}

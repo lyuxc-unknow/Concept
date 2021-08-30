@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 111.0d,
+	description: "{id:\"naturesaura:gold_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "21992475",
+		type: "item",
+		items: [{
+			item: "naturesaura:gold_brick"
+		}],
+		consume_items: true
+	}]
+}

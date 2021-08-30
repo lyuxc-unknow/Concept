@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:exporter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16375580",
+		type: "item",
+		items: [{
+			item: "refinedstorage:exporter"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	x: 4.0d,
+	y: 469.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:278,Defense:16.0f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:278,Defense:16.0f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"sentient_metal\",\"sentient_metal\",\"sentient_metal\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"tconevo.willful_armor\",color:-8462621,level:1},{identifier:\"tconevo.sentient_armor\",color:-8462621,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"tconevo.willful_armor\",\"tconevo.sentient_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "fdf23137",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 278,
+					Defense: 16.0f
+				},
+				Stats: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 278,
+					Defense: 16.0f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"sentient_metal",
+						"sentient_metal",
+						"sentient_metal"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.willful_armor",
+					color: -8462621,
+					level: 1
+				},
+				{
+					identifier: "tconevo.sentient_armor",
+					color: -8462621,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.willful_armor",
+					"tconevo.sentient_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

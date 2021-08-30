@@ -1,0 +1,19 @@
+{
+	x: 31.0d,
+	y: 120.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"molten_reinforced_pink_slime\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "6423f86d",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "molten_reinforced_pink_slime",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

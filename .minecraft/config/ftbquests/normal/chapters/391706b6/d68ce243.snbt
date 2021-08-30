@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 238.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"infinity_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "32b0b00c",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "infinity_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

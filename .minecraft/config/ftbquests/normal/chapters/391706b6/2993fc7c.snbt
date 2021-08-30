@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 452.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"stone\"},Damage:0s}",
+	tasks: [{
+		uid: "e85c4b37",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

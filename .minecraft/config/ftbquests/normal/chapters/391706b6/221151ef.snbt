@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 772.0d,
+	description: "{id:\"omegacraft:split_ring_commutator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "29ac3561",
+		type: "item",
+		items: [{
+			item: "omegacraft:split_ring_commutator"
+		}],
+		consume_items: true
+	}]
+}

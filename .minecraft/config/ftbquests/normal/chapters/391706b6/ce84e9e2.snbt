@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 309.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"diamantine_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "dab42140",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "diamantine_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

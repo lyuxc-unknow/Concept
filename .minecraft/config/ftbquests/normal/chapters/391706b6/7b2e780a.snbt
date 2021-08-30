@@ -1,0 +1,17 @@
+{
+	x: 29.0d,
+	y: 578.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"pneumaticcraft:vortex_cannon\",Count:1b,Damage:30000s}",
+	tasks: [{
+		uid: "c04ed745",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:vortex_cannon",
+			Damage: 30000s
+		}],
+		consume_items: true
+	}]
+}

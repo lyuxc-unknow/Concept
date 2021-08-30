@@ -1,0 +1,67 @@
+{
+	x: 22.0d,
+	y: 640.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:javelin\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.35f,FreeModifiers:3,Durability:238,HarvestLevel:1,Attack:4.6f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.35f,FreeModifiers:3,Durability:238,HarvestLevel:1,Attack:4.6f},Special:{Categories:[\"weapon\",\"tool\",\"projectile\"]},TinkerData:{Materials:[\"ma.soulium\",\"ma.soulium\",\"ma.soulium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"chunky\",color:-11124169,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"chunky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c3a3fd24",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:javelin",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.35f,
+					FreeModifiers: 3,
+					Durability: 238,
+					HarvestLevel: 1,
+					Attack: 4.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.35f,
+					FreeModifiers: 3,
+					Durability: 238,
+					HarvestLevel: 1,
+					Attack: 4.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.soulium",
+						"ma.soulium",
+						"ma.soulium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "chunky",
+					color: -11124169,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"chunky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

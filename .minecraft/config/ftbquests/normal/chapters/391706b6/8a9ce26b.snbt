@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:diaphanousblock\",Count:1b,tag:{meta:0,block:\"minecraft:stone\",inverted:0b},Damage:0s}",
+	tasks: [{
+		uid: "089755f7",
+		type: "item",
+		items: [{
+			id: "randomthings:diaphanousblock",
+			tag: {
+				meta: 0,
+				block: "minecraft:stone",
+				inverted: 0b
+			}
+		}],
+		consume_items: true
+	}]
+}

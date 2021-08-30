@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 607.0d,
+	description: "{id:\"thermalsolars:blocksolarpanel4\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7d2b322b",
+		type: "item",
+		items: [{
+			item: "thermalsolars:blocksolarpanel4"
+		}],
+		consume_items: true
+	}]
+}

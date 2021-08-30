@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 593.0d,
+	description: "{id:\"rftoolsdim:dimlet_energy_module\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "6ad49fa3",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:dimlet_energy_module 1 2"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 606.0d,
+	description: "{id:\"thermalintegrate:endsilver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "77e539d6",
+		type: "item",
+		items: [{
+			item: "thermalintegrate:endsilver"
+		}],
+		consume_items: true
+	}]
+}

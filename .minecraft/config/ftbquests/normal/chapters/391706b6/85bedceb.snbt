@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 518.0d,
+	description: "{id:\"darkutils:trap_anchor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5d4ed5f0",
+		type: "item",
+		items: [{
+			item: "darkutils:trap_anchor"
+		}],
+		consume_items: true
+	}]
+}

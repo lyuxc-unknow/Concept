@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:slime_sapling\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b14ec390",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_sapling"
+		}],
+		consume_items: true
+	}]
+}

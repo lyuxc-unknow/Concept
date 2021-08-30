@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 471.0d,
+	description: "{id:\"conarm:invisible_ink\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa00a067",
+		type: "item",
+		items: [{
+			item: "conarm:invisible_ink"
+		}],
+		consume_items: true
+	}]
+}

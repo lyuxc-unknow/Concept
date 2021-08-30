@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 585.0d,
+	description: "{id:\"pneumaticcraft:transfer_gadget\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "74ff18fb",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:transfer_gadget"
+		}],
+		consume_items: true
+	}]
+}

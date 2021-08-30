@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 104.0d,
+	description: "{id:\"mist:snow_fence\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "a3a55d04",
+		type: "item",
+		items: [{
+			item: "mist:snow_fence 1 2"
+		}],
+		consume_items: true
+	}]
+}

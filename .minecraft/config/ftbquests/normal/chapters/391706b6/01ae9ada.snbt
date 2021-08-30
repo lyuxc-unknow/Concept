@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 480.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:combatmaidchestdarkened\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4d368465",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:combatmaidchestdarkened"
+		}],
+		consume_items: true
+	}]
+}

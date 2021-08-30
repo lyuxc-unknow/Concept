@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 211.0d,
+	description: "{id:\"enderio:block_experience_obelisk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00d5bce8",
+		type: "item",
+		items: [{
+			item: "enderio:block_experience_obelisk"
+		}],
+		consume_items: true
+	}]
+}

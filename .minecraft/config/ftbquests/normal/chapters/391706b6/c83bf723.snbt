@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 543.0d,
+	description: "{id:\"mysticalagriculture:soulstone_brick_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "620a6315",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:soulstone_brick_slab"
+		}],
+		consume_items: true
+	}]
+}

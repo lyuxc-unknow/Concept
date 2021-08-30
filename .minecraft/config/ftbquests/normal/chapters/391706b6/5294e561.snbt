@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"cofhcore:resistance2\"},Damage:0s}",
+	tasks: [{
+		uid: "5037a39b",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "cofhcore:resistance2"
+			}
+		}],
+		consume_items: true
+	}]
+}

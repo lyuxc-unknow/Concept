@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"sky_stone\"},Damage:0s}",
+	tasks: [{
+		uid: "42ae4317",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "sky_stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

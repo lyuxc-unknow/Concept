@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:sky_stone_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7403e30f",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:sky_stone_brick"
+		}],
+		consume_items: true
+	}]
+}

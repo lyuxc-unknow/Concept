@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"dreadthorn\"},Damage:0s}",
+	tasks: [{
+		uid: "7c83a13e",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "dreadthorn"
+			}
+		}],
+		consume_items: true
+	}]
+}

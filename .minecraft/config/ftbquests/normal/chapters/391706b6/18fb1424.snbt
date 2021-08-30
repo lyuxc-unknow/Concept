@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 546.0d,
+	description: "{id:\"mysticalagriculture:fire_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4af2f28",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:fire_essence"
+		}],
+		consume_items: true
+	}]
+}

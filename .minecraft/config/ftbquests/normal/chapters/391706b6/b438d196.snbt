@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"yellowgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "80eaffcc",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "yellowgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

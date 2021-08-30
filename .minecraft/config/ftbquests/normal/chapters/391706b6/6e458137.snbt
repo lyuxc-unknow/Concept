@@ -1,0 +1,69 @@
+{
+	x: 10.0d,
+	y: 346.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.2f,FreeModifiers:3,Durability:2,HarvestLevel:2,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.2f,FreeModifiers:3,Durability:2,HarvestLevel:2,Attack:3.5f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"preservation\",\"preservation\",\"preservation\",\"preservation\"],Modifiers:[\"toolleveling\"]},Modifiers:[{selective1:1b,identifier:\"selective\",selective2:1b,color:-5649516,level:3},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"selective1\",\"selective2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d59c6968",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.2f,
+					FreeModifiers: 3,
+					Durability: 2,
+					HarvestLevel: 2,
+					Attack: 3.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.2f,
+					FreeModifiers: 3,
+					Durability: 2,
+					HarvestLevel: 2,
+					Attack: 3.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"preservation",
+						"preservation",
+						"preservation",
+						"preservation"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					selective1: 1b,
+					identifier: "selective",
+					selective2: 1b,
+					color: -5649516,
+					level: 3
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"selective1",
+					"selective2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

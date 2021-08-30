@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 784.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "d768b719",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

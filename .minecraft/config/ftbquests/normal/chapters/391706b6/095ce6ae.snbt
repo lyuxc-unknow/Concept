@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 166.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalinnovation:magnet\",Count:1b,tag:{Energy:120000},Damage:1s}",
+	tasks: [{
+		uid: "02c1455d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:magnet",
+			tag: {
+				Energy: 120000
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

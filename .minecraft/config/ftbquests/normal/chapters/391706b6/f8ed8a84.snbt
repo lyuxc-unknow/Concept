@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 5.0d,
+	description: "{id:\"minecraft:stained_hardened_clay\",Count:1b,Damage:14s}",
+	tasks: [{
+		uid: "7cff9cdb",
+		type: "item",
+		items: [{
+			item: "minecraft:stained_hardened_clay 1 14"
+		}],
+		consume_items: true
+	}]
+}

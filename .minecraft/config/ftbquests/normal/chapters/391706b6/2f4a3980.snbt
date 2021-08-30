@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:magnet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a83a5f72",
+		type: "item",
+		items: [{
+			item: "draconicevolution:magnet"
+		}],
+		consume_items: true
+	}]
+}

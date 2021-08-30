@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 252.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "791862ae",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "b7a2d0d2",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

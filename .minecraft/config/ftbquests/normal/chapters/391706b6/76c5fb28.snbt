@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 261.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"palis_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "103ff750",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "palis_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

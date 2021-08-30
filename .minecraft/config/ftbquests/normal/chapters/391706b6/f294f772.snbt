@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 777.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"liquidsulfurdioxide\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "673d95bb",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "liquidsulfurdioxide",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

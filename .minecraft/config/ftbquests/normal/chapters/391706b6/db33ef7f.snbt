@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 278.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"preservation\"},Damage:0s}",
+	tasks: [{
+		uid: "aeb2dc58",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "preservation"
+			}
+		}],
+		consume_items: true
+	}]
+}

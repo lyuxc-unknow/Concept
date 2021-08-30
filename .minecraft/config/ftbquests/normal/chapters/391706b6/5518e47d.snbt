@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 518.0d,
+	description: "{id:\"darkutils:filter\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "1a2b3da5",
+		type: "item",
+		items: [{
+			item: "darkutils:filter 1 1"
+		}],
+		consume_items: true
+	}]
+}

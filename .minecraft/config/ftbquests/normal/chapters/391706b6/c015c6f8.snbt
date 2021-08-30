@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:feather\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f78a174d",
+		type: "item",
+		items: [{
+			item: "minecraft:feather"
+		}],
+		consume_items: true
+	}]
+}

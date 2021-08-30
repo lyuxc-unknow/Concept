@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 236.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"yellowgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "552df242",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "yellowgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

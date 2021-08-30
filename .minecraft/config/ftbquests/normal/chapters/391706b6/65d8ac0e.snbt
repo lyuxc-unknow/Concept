@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 565.0d,
+	description: "{id:\"immersiveengineering:conveyor\",Count:1b,tag:{conveyorType:\"immersiveengineering:chute_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "d66e3cb3",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:chute_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

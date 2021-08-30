@@ -1,0 +1,17 @@
+{
+	x: 13.0d,
+	y: 152.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"mist:humus_grass\"},Damage:0s}",
+	tasks: [{
+		uid: "9ccd980a",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "mist:humus_grass"
+			}
+		}],
+		consume_items: true
+	}]
+}

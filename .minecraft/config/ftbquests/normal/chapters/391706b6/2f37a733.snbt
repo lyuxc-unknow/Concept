@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 740.0d,
+	description: "{id:\"embers:ashen_tile_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3a7da9df",
+		type: "item",
+		items: [{
+			item: "embers:ashen_tile_slab"
+		}],
+		consume_items: true
+	}]
+}

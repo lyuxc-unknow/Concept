@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: 556.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"系统故障\",level:10,mobId:\"deepmoblearning:glitch\"},Damage:0s}",
+	tasks: [{
+		uid: "7d949e9e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "系统故障",
+				level: 10,
+				mobId: "deepmoblearning:glitch"
+			}
+		}],
+		consume_items: true
+	}]
+}

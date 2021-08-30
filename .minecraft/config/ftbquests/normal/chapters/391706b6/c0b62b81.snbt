@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 583.0d,
+	description: "{id:\"pneumaticcraft:speed_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0c504041",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:speed_upgrade"
+		}],
+		consume_items: true
+	}]
+}

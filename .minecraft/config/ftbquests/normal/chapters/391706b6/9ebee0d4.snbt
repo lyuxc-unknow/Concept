@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:enderman\"},Damage:0s}",
+	tasks: [{
+		uid: "16db55a1",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:enderman"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 567.0d,
+	description: "{id:\"immersiveengineering:wirecoil\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "ec762fdf",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 5"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:placer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8ee72517",
+		type: "item",
+		items: [{
+			item: "naturesaura:placer"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 4.0d,
+	description: "{id:\"minecraft:tripwire_hook\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "86d054a4",
+		type: "item",
+		items: [{
+			item: "minecraft:tripwire_hook"
+		}],
+		consume_items: true
+	}]
+}

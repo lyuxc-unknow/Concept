@@ -1,0 +1,58 @@
+{
+	x: 1.0d,
+	y: 639.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.42f,FreeModifiers:3,Durability:1914,HarvestLevel:4,Attack:12.52f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.42f,FreeModifiers:3,Durability:1914,HarvestLevel:4,Attack:12.52f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"tungsten\",\"tungsten\",\"tungsten\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b0506e89",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.42f,
+					FreeModifiers: 3,
+					Durability: 1914,
+					HarvestLevel: 4,
+					Attack: 12.52f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.42f,
+					FreeModifiers: 3,
+					Durability: 1914,
+					HarvestLevel: 4,
+					Attack: 12.52f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"tungsten",
+						"tungsten",
+						"tungsten"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

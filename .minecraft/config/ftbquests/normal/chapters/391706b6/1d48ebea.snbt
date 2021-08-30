@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 251.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"electrumflux\"},Damage:0s}",
+	tasks: [{
+		uid: "d4cd9bbc",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "electrumflux"
+			}
+		}],
+		consume_items: true
+	}]
+}

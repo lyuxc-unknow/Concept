@@ -1,0 +1,31 @@
+{
+	x: 34.0d,
+	y: 213.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderio:item_stellar_alloy_chestplate\",Count:1b,tag:{enderio.darksteel.upgrade.energyUpgrade:{level:4,energy:2500000},enderio.darksteel.upgrade.inv:{level:2},enderio.darksteel.upgrade.elytra:{level:0},enderio.darksteel.upgrade.anvil:{level:2}},Damage:0s}",
+	tasks: [{
+		uid: "7685d4b3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_stellar_alloy_chestplate",
+			tag: {
+				enderio.darksteel.upgrade.energyUpgrade: {
+					level: 4,
+					energy: 2500000
+				},
+				enderio.darksteel.upgrade.inv: {
+					level: 2
+				},
+				enderio.darksteel.upgrade.elytra: {
+					level: 0
+				},
+				enderio.darksteel.upgrade.anvil: {
+					level: 2
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 39.0d,
+	y: 141.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:9b,Block:\"thermalfoundation:rockwool\"},Damage:0s}",
+	tasks: [{
+		uid: "22af69b2",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 9b,
+				Block: "thermalfoundation:rockwool"
+			}
+		}],
+		consume_items: true
+	}]
+}

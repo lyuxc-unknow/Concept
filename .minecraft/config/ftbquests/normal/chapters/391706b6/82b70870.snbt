@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 434.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"ma.supremium\"},Damage:0s}",
+	tasks: [{
+		uid: "8538452a",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "ma.supremium"
+			}
+		}],
+		consume_items: true
+	}]
+}

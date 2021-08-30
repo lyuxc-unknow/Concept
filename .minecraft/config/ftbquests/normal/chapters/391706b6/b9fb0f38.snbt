@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 4.0d,
+	description: "{id:\"minecraft:ender_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "345578ab",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_chest"
+		}],
+		consume_items: true
+	}]
+}

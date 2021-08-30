@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"enderio:long_confusion\"},Damage:0s}",
+	tasks: [{
+		uid: "f15227c4",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "enderio:long_confusion"
+			}
+		}],
+		consume_items: true
+	}]
+}

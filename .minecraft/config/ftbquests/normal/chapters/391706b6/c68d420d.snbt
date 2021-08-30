@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 606.0d,
+	description: "{id:\"thermalintegrate:crate_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3e2f26d0",
+		type: "item",
+		items: [{
+			item: "thermalintegrate:crate_tin"
+		}],
+		consume_items: true
+	}]
+}

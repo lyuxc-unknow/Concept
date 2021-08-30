@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 520.0d,
+	description: "{id:\"deepmoblearning:trial_keystone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b8b2106",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:trial_keystone"
+		}],
+		consume_items: true
+	}]
+}

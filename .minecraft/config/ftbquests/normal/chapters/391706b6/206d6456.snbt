@@ -1,0 +1,19 @@
+{
+	x: 25.0d,
+	y: 777.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"seed_oil\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "c7112d2e",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "seed_oil",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

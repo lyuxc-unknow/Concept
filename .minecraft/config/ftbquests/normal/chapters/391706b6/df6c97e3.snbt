@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 300.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"brass\"},Damage:0s}",
+	tasks: [{
+		uid: "a7e43fbe",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "brass"
+			}
+		}],
+		consume_items: true
+	}]
+}

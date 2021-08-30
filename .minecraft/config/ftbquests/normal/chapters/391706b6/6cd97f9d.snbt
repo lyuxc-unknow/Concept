@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 446.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"palis_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "c0073d8f",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "palis_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

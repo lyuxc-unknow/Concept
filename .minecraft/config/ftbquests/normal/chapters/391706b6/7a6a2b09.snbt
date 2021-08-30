@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 423.0d,
+	description: "{id:\"botania:tinyplanetblock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "08bb6016",
+		type: "item",
+		items: [{
+			item: "botania:tinyplanetblock"
+		}],
+		consume_items: true
+	}]
+}

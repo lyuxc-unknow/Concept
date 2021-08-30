@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 265.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"starmetal\"},Damage:0s}",
+	tasks: [{
+		uid: "d962df1f",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "starmetal"
+			}
+		}],
+		consume_items: true
+	}]
+}

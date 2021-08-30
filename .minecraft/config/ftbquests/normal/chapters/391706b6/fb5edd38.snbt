@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 776.0d,
+	description: "{id:\"requious:material_factory\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3c054b1",
+		type: "item",
+		items: [{
+			item: "requious:material_factory"
+		}],
+		consume_items: true
+	}]
+}

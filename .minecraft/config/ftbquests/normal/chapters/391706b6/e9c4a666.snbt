@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 790.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:obsidian_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e1a236ab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:obsidian_boots"
+		}],
+		consume_items: true
+	}]
+}

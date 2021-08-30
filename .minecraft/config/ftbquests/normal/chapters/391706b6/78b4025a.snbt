@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 44.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.shears_invar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "41a7f929",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.shears_invar"
+		}],
+		consume_items: true
+	}]
+}

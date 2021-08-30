@@ -1,0 +1,77 @@
+{
+	x: 6.0d,
+	y: 341.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:excavator\",Count:1b,tag:{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:332,HarvestLevel:1,Attack:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:332,HarvestLevel:1,Attack:1.5f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"rubber\",\"rubber\",\"rubber\",\"rubber\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crude\",color:-11053225,level:1,crude1:1b},{identifier:\"squeaky\",color:-11053225,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crude1\",\"squeaky\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "3c78769a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:excavator",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 33s
+				}],
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 332,
+					HarvestLevel: 1,
+					Attack: 1.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 332,
+					HarvestLevel: 1,
+					Attack: 1.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"rubber",
+						"rubber",
+						"rubber",
+						"rubber"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crude",
+					color: -11053225,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "squeaky",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crude1",
+					"squeaky",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

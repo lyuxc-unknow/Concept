@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 617.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"ma.prudentium\"},Damage:0s}",
+	tasks: [{
+		uid: "4d445183",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "ma.prudentium"
+			}
+		}],
+		consume_items: true
+	}]
+}

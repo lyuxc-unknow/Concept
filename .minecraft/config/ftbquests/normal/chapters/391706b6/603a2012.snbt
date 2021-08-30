@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 190.0d,
+	description: "{id:\"enderio:block_enlightened_fused_glass\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "6a787299",
+		type: "item",
+		items: [{
+			item: "enderio:block_enlightened_fused_glass 1 5"
+		}],
+		consume_items: true
+	}]
+}

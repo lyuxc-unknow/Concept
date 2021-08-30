@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 165.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"solarflux:dispersive_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de0e4757",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "solarflux:dispersive_upgrade"
+		}],
+		consume_items: true
+	}]
+}

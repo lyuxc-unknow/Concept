@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 614.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"ionite\"},Damage:0s}",
+	tasks: [{
+		uid: "c05b4e38",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "ionite"
+			}
+		}],
+		consume_items: true
+	}]
+}

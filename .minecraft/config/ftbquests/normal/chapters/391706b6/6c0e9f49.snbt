@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 31.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"minecraft:luck\"},Damage:0s}",
+	tasks: [{
+		uid: "c3d498c6",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:luck"
+			}
+		}],
+		consume_items: true
+	}]
+}

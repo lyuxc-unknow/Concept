@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 685.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemarchitectwand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9d4b8b75",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemarchitectwand"
+		}],
+		consume_items: true
+	}]
+}

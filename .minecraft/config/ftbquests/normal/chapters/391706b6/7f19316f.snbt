@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 506.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:sentient_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7bb2238a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sentient_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

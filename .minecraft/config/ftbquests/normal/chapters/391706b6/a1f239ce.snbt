@@ -1,0 +1,17 @@
+{
+	x: 30.0d,
+	y: 56.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"minecraft:donkey\"},Damage:0s}",
+	tasks: [{
+		uid: "de6f9896",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "minecraft:donkey"
+			}
+		}],
+		consume_items: true
+	}]
+}

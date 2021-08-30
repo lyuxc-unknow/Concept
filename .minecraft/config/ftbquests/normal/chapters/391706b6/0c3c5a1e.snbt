@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: 739.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"deepmoblearning:book\"},Damage:0s}",
+	tasks: [{
+		uid: "d3bceb08",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "deepmoblearning:book"
+			}
+		}],
+		consume_items: true
+	}]
+}

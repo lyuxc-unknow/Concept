@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 579.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"pneumaticcraft:remote\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e520e71b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:remote"
+		}],
+		consume_items: true
+	}]
+}

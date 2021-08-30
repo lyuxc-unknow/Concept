@@ -1,0 +1,17 @@
+{
+	x: 30.0d,
+	y: 75.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:circuitboard\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "a688d70c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:circuitboard",
+			Damage: 5s
+		}],
+		consume_items: true
+	}]
+}

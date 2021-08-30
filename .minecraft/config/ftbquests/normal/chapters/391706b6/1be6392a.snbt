@@ -1,0 +1,70 @@
+{
+	x: 36.0d,
+	y: 353.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:384,HarvestLevel:2,Attack:2.75f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:6.5f,FreeModifiers:3,Durability:384,HarvestLevel:2,Attack:2.75f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"electrical_steel\",\"electrical_steel\",\"electrical_steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-5658199,level:1},{identifier:\"shocking\",color:-5658199,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"shocking\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4f9c345f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 384,
+					HarvestLevel: 2,
+					Attack: 2.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 384,
+					HarvestLevel: 2,
+					Attack: 2.75f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"electrical_steel",
+						"electrical_steel",
+						"electrical_steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -5658199,
+					level: 1
+				},
+				{
+					identifier: "shocking",
+					color: -5658199,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"shocking",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"dark_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "6a7fa59b",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "dark_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

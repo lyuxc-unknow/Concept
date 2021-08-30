@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 289.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "533b03af",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

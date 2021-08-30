@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 679.0d,
+	description: "{id:\"actuallyadditions:item_dust\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "dbc866b6",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_dust 1 1"
+		}],
+		consume_items: true
+	}]
+}

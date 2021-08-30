@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 232.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "ee95dd18",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

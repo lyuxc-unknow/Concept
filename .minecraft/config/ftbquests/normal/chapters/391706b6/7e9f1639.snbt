@@ -1,0 +1,19 @@
+{
+	x: 37.0d,
+	y: 63.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"minecraft:mushroom_island\"},Damage:0s}",
+	tasks: [{
+		uid: "b59becf0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "minecraft:mushroom_island"
+			}
+		}],
+		consume_items: true
+	}]
+}

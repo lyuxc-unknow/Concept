@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 293.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"galite\"},Damage:0s}",
+	tasks: [{
+		uid: "8256a3f9",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "galite"
+			}
+		}],
+		consume_items: true
+	}]
+}

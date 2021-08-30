@@ -1,0 +1,18 @@
+{
+	x: 25.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"minecraft:endermite\"}},Damage:0s}",
+	tasks: [{
+		uid: "a19bef63",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:endermite"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

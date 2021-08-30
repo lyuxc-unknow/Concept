@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 92.0d,
+	description: "{id:\"randomthings:plate_accelerator_directional\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2e54e7b4",
+		type: "item",
+		items: [{
+			item: "randomthings:plate_accelerator_directional"
+		}],
+		consume_items: true
+	}]
+}

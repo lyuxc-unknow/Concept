@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 628.0d,
+	description: "{id:\"tinymobfarm:inferno_farm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "78c799a0",
+		type: "item",
+		items: [{
+			item: "tinymobfarm:inferno_farm"
+		}],
+		consume_items: true
+	}]
+}

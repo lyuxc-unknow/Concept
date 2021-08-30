@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 36.0d,
+	description: "{id:\"thermalfoundation:coin\",Count:1b,Damage:72s}",
+	tasks: [{
+		uid: "a2074bf1",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:coin 1 72"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:plate_processing\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "99e3bc84",
+		type: "item",
+		items: [{
+			item: "randomthings:plate_processing"
+		}],
+		consume_items: true
+	}]
+}

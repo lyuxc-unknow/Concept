@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"pink_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "3a932a9a",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "pink_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

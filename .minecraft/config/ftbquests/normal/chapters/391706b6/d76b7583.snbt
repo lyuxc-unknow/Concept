@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 775.0d,
+	description: "{id:\"omegacraft:electric_crusherb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c693dbf7",
+		type: "item",
+		items: [{
+			item: "omegacraft:electric_crusherb"
+		}],
+		consume_items: true
+	}]
+}

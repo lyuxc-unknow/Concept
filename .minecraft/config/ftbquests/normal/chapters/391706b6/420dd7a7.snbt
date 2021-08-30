@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 536.0d,
+	description: "{id:\"bigreactors:ingotludicrite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd6b7cc9",
+		type: "item",
+		items: [{
+			item: "bigreactors:ingotludicrite"
+		}],
+		consume_items: true
+	}]
+}

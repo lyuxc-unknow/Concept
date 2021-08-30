@@ -1,0 +1,22 @@
+{
+	x: 1.0d,
+	y: 49.0d,
+	description: "{ForgeCaps:{Parent:{Size:27,Items:[]}},id:\"draconicevolution:draconic_staff_of_power\",Count:1b,tag:{Energy:48000000},Damage:0s}",
+	tasks: [{
+		uid: "964b3fa5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_staff_of_power",
+			tag: {
+				Energy: 48000000
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 474.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"ivorypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "ff26a8a5",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "ivorypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 107.0d,
+	description: "{id:\"mist:tree_seed\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "c466a484",
+		type: "item",
+		items: [{
+			item: "mist:tree_seed 1 2"
+		}],
+		consume_items: true
+	}]
+}

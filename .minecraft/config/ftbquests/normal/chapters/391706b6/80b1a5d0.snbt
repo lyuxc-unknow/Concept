@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 485.0d,
+	description: "{id:\"bibliocraft:lanterngold\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "7b594e08",
+		type: "item",
+		items: [{
+			item: "bibliocraft:lanterngold 1 7"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_crystalardite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6783fc8",
+		type: "item",
+		items: [{
+			item: "jaopca:item_crystalardite"
+		}],
+		consume_items: true
+	}]
+}

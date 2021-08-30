@@ -1,0 +1,22 @@
+{
+	x: 36.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:wyvern_boots\",Count:1b,tag:{DEUpgrades:{shieldRec:2b,shieldCap:2b,rfCap:2b,jumpBoost:2b},Energy:32000000},Damage:0s}",
+	tasks: [{
+		uid: "f7019cee",
+		type: "item",
+		items: [{
+			id: "draconicevolution:wyvern_boots",
+			tag: {
+				DEUpgrades: {
+					shieldRec: 2b,
+					shieldCap: 2b,
+					rfCap: 2b,
+					jumpBoost: 2b
+				},
+				Energy: 32000000
+			}
+		}],
+		consume_items: true
+	}]
+}

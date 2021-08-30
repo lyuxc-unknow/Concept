@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 206.0d,
+	description: "{id:\"enderio:item_inventory_charger_vibrant\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "78dc813c",
+		type: "item",
+		items: [{
+			item: "enderio:item_inventory_charger_vibrant"
+		}],
+		consume_items: true
+	}]
+}

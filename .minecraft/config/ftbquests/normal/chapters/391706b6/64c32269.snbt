@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 549.0d,
+	description: "{id:\"mysticalagriculture:diamond_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cb9b2fef",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:diamond_seeds"
+		}],
+		consume_items: true
+	}]
+}

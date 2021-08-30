@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 421.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"arcanerose\"},Damage:0s}",
+	tasks: [{
+		uid: "d2db9759",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "arcanerose"
+			}
+		}],
+		consume_items: true
+	}]
+}

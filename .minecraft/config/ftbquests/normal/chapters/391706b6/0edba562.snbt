@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 604.0d,
+	description: "{id:\"storagedrawers:quantify_key\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c8d55973",
+		type: "item",
+		items: [{
+			item: "storagedrawers:quantify_key"
+		}],
+		consume_items: true
+	}]
+}

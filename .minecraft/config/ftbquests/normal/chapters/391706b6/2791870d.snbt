@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 506.0d,
+	description: "{id:\"botanianeedsit:mana_capacitor_manasteel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c55df10",
+		type: "item",
+		items: [{
+			item: "botanianeedsit:mana_capacitor_manasteel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 92.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"randomthings:obsidianskull\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d265a3bb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:obsidianskull"
+		}],
+		consume_items: true
+	}]
+}

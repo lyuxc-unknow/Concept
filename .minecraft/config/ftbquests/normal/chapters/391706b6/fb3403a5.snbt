@@ -1,0 +1,22 @@
+{
+	x: 17.0d,
+	y: 48.0d,
+	description: "{ForgeCaps:{Parent:{Size:9,Items:[]}},id:\"draconicevolution:wyvern_pick\",Count:1b,tag:{Energy:4000000},Damage:0s}",
+	tasks: [{
+		uid: "ad0519f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 9,
+					Items: []
+				}
+			},
+			id: "draconicevolution:wyvern_pick",
+			tag: {
+				Energy: 4000000
+			}
+		}],
+		consume_items: true
+	}]
+}

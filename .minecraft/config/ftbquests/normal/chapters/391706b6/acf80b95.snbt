@@ -1,0 +1,19 @@
+{
+	x: 13.0d,
+	y: 783.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"ec.internal.slurrydraconium\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "1d0479c2",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "ec.internal.slurrydraconium",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

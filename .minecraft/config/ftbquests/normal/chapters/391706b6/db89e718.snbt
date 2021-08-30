@@ -1,0 +1,77 @@
+{
+	x: 31.0d,
+	y: 380.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:4.5f,Durability:1072,HarvestLevel:4,Attack:4.1f,Range:1.3f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,DrawSpeed:0.99824995f,FreeModifiers:3,ProjectileBonusDamage:4.5f,Durability:1072,HarvestLevel:4,Attack:4.1f,Range:1.3f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"momentum\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b8185bed",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 12.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.5f,
+					Durability: 1072,
+					HarvestLevel: 4,
+					Attack: 4.1f,
+					Range: 1.3f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 12.0f,
+					DrawSpeed: 0.99824995f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.5f,
+					Durability: 1072,
+					HarvestLevel: 4,
+					Attack: 4.1f,
+					Range: 1.3f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cobalt",
+						"cobalt",
+						"cobalt",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -14122284,
+					level: 1
+				},
+				{
+					identifier: "momentum",
+					color: -14122284,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"momentum",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

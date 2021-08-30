@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 441.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"galite\"},Damage:0s}",
+	tasks: [{
+		uid: "0582c34f",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "galite"
+			}
+		}],
+		consume_items: true
+	}]
+}

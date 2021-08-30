@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 479.0d,
+	description: "{id:\"extrabotany:splashgrenade\",Count:1b,tag:{brewKey:\"soulCross\"},Damage:0s}",
+	tasks: [{
+		uid: "72f3ae00",
+		type: "item",
+		items: [{
+			id: "extrabotany:splashgrenade",
+			tag: {
+				brewKey: "soulCross"
+			}
+		}],
+		consume_items: true
+	}]
+}

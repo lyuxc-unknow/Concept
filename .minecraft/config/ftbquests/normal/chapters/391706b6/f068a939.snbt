@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 616.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"ivorypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "bc1ebe51",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "ivorypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

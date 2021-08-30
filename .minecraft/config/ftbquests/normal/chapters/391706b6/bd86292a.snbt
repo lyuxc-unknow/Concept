@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 747.0d,
+	description: "{id:\"environmentalmaterials:alabaster_paver\",Count:1b,Damage:14s}",
+	tasks: [{
+		uid: "588eb95c",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_paver 1 14"
+		}],
+		consume_items: true
+	}]
+}

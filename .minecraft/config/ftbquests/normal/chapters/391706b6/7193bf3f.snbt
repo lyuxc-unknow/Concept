@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 289.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"gold\"},Damage:0s}",
+	tasks: [{
+		uid: "c0372886",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "gold"
+			}
+		}],
+		consume_items: true
+	}]
+}

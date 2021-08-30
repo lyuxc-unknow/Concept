@@ -1,0 +1,74 @@
+{
+	x: 36.0d,
+	y: 788.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:1204,HarvestLevel:0,Duration:222,Attack:7.04f,Weight:1.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:1204,HarvestLevel:0,Duration:222,Attack:7.04f,Weight:1.4f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"elvenelementium\",\"elvenelementium\",\"elvenelementium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"manarepair\",color:-1229864,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"manarepair\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "88be6b78",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 1204,
+					HarvestLevel: 0,
+					Duration: 222,
+					Attack: 7.04f,
+					Weight: 1.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 1204,
+					HarvestLevel: 0,
+					Duration: 222,
+					Attack: 7.04f,
+					Weight: 1.4f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"elvenelementium",
+						"elvenelementium",
+						"elvenelementium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "manarepair",
+					color: -1229864,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"manarepair",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

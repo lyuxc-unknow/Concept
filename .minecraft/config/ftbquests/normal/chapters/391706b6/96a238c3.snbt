@@ -1,0 +1,55 @@
+{
+	x: 29.0d,
+	y: 462.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:9580,Defense:31.635f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:9580,Defense:31.635f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"mithril\",\"mithril\",\"mithril\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"sos\",color:-14641744,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"sos\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "2ec27f50",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 9580,
+					Defense: 31.635f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 9580,
+					Defense: 31.635f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"mithril",
+						"mithril",
+						"mithril"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "sos",
+					color: -14641744,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sos",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:crafter_manager\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "037cf03b",
+		type: "item",
+		items: [{
+			item: "refinedstorage:crafter_manager"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 37.0d,
+	y: 569.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:shader\",Count:1b,tag:{shader_name:\"IKELOS\"},Damage:0s}",
+	tasks: [{
+		uid: "746fb04a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:shader",
+			tag: {
+				shader_name: "IKELOS"
+			}
+		}],
+		consume_items: true
+	}]
+}

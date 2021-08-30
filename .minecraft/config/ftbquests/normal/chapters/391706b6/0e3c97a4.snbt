@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 591.0d,
+	description: "{id:\"prodigytech:zorrasteel_raw\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "adeca453",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorrasteel_raw"
+		}],
+		consume_items: true
+	}]
+}

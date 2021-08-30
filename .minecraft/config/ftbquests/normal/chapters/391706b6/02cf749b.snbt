@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 554.0d,
+	description: "{id:\"mysticalagradditions:charm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53aadf7d",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:charm"
+		}],
+		consume_items: true
+	}]
+}

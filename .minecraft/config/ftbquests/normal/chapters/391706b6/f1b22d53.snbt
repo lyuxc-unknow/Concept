@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 395.0d,
+	description: "{id:\"tconstruct:cast_custom\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "a37a67df",
+		type: "item",
+		items: [{
+			item: "tconstruct:cast_custom 1 3"
+		}],
+		consume_items: true
+	}]
+}

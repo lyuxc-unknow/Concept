@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 629.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"xu_evil_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "ba680f7a",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "xu_evil_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

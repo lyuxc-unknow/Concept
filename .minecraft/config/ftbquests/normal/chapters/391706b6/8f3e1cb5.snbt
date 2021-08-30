@@ -1,0 +1,59 @@
+{
+	x: 6.0d,
+	y: 323.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shovel\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.65f,FreeModifiers:3,Durability:835,HarvestLevel:3,Attack:6.83f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.65f,FreeModifiers:3,Durability:835,HarvestLevel:3,Attack:6.83f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"quartzenrichediron\",\"quartzenrichediron\",\"quartzenrichediron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "5b7b7cf1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shovel",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					Durability: 835,
+					HarvestLevel: 3,
+					Attack: 6.83f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					Durability: 835,
+					HarvestLevel: 3,
+					Attack: 6.83f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"quartzenrichediron",
+						"quartzenrichediron",
+						"quartzenrichediron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

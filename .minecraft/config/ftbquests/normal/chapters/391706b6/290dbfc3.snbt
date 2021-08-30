@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 491.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bibliocraft:testeritem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eccb871d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bibliocraft:testeritem"
+		}],
+		consume_items: true
+	}]
+}

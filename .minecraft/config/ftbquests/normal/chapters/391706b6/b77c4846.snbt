@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 63.0d,
+	description: "{id:\"extrautils2:redstonelantern\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5bc20302",
+		type: "item",
+		items: [{
+			item: "extrautils2:redstonelantern"
+		}],
+		consume_items: true
+	}]
+}

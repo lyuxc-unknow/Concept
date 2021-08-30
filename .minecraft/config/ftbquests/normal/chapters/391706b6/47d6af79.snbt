@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 792.0d,
+	description: "{id:\"tp:lapis_ingot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6618621",
+		type: "item",
+		items: [{
+			item: "tp:lapis_ingot"
+		}],
+		consume_items: true
+	}]
+}

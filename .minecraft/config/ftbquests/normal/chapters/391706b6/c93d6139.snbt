@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 517.0d,
+	description: "{id:\"compactmachines3:machine\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "1511769c",
+		type: "item",
+		items: [{
+			item: "compactmachines3:machine 1 4"
+		}],
+		consume_items: true
+	}]
+}

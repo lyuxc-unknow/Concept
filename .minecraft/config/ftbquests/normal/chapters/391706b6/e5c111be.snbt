@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 750.0d,
+	description: "{id:\"environmentalmaterials:alabaster_tile_slab_cyan\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0f4bbd04",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_tile_slab_cyan"
+		}],
+		consume_items: true
+	}]
+}

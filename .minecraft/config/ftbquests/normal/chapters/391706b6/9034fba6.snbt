@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 547.0d,
+	description: "{id:\"mysticalagriculture:basalz_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bfc7302b",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:basalz_essence"
+		}],
+		consume_items: true
+	}]
+}

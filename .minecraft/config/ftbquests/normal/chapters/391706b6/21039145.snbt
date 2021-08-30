@@ -1,0 +1,67 @@
+{
+	x: 5.0d,
+	y: 470.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:204,Defense:12.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:204,Defense:12.0f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"constantan\",\"constantan\",\"constantan\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"absorbent_armor\",color:-4219041,level:1},{identifier:\"tconevo.hearth_embrace_armor\",color:-4219041,level:1},{identifier:\"tconevo.chilling_touch_armor\",color:-4219041,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"absorbent_armor\",\"tconevo.hearth_embrace_armor\",\"tconevo.chilling_touch_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "75a1d20f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 204,
+					Defense: 12.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 204,
+					Defense: 12.0f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"constantan",
+						"constantan",
+						"constantan"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "absorbent_armor",
+					color: -4219041,
+					level: 1
+				},
+				{
+					identifier: "tconevo.hearth_embrace_armor",
+					color: -4219041,
+					level: 1
+				},
+				{
+					identifier: "tconevo.chilling_touch_armor",
+					color: -4219041,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"absorbent_armor",
+					"tconevo.hearth_embrace_armor",
+					"tconevo.chilling_touch_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

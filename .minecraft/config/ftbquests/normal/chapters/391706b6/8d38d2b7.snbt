@@ -1,0 +1,79 @@
+{
+	x: 11.0d,
+	y: 387.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:11.54f,FreeModifiers:3,Durability:800,HarvestLevel:3,Attack:9.42f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:11.54f,FreeModifiers:3,Durability:800,HarvestLevel:3,Attack:9.42f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"yellowgarnet\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"superheat\",color:-658149,level:1},{identifier:\"autosmelt\",color:-658149,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"superheat\",\"autosmelt\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4b67b50e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 11.54f,
+					FreeModifiers: 3,
+					Durability: 800,
+					HarvestLevel: 3,
+					Attack: 9.42f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 11.54f,
+					FreeModifiers: 3,
+					Durability: 800,
+					HarvestLevel: 3,
+					Attack: 9.42f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"yellowgarnet",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "superheat",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "autosmelt",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"superheat",
+					"autosmelt",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

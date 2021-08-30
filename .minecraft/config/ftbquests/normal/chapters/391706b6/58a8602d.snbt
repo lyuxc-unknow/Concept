@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 6.0d,
+	description: "{id:\"minecraft:carpet\",Count:1b,Damage:10s}",
+	tasks: [{
+		uid: "2a3daee7",
+		type: "item",
+		items: [{
+			item: "minecraft:carpet 1 10"
+		}],
+		consume_items: true
+	}]
+}

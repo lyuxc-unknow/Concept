@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "77f68a77",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

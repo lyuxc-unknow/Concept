@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 487.0d,
+	description: "{id:\"bibliocraft:toolrack\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "ab0482cc",
+		type: "item",
+		items: [{
+			item: "bibliocraft:toolrack 1 5"
+		}],
+		consume_items: true
+	}]
+}

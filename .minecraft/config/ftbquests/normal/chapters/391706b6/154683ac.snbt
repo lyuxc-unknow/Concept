@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 741.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:sword_lead\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53a6d4ce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:sword_lead"
+		}],
+		consume_items: true
+	}]
+}

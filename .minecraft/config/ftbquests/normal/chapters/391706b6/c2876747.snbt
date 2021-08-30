@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:spruce_door\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "23d9c71b",
+		type: "item",
+		items: [{
+			item: "minecraft:spruce_door"
+		}],
+		consume_items: true
+	}]
+}

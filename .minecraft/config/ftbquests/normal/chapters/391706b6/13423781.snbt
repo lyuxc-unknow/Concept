@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 627.0d,
+	description: "{id:\"tinymobfarm:stone_farm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eddb0d4c",
+		type: "item",
+		items: [{
+			item: "tinymobfarm:stone_farm"
+		}],
+		consume_items: true
+	}]
+}

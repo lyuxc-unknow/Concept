@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 291.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"ionite\"},Damage:0s}",
+	tasks: [{
+		uid: "41e09d11",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "ionite"
+			}
+		}],
+		consume_items: true
+	}]
+}

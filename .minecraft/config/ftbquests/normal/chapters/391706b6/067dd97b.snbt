@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 425.0d,
+	description: "{id:\"botania:redstringdispenser\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa84beee",
+		type: "item",
+		items: [{
+			item: "botania:redstringdispenser"
+		}],
+		consume_items: true
+	}]
+}

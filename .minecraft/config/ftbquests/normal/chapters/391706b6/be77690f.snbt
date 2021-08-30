@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 554.0d,
+	description: "{id:\"mysticalagradditions:insanium\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "bec34c19",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:insanium 1 5"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 571.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"ironchest:diamond_obsidian_chest_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3f47c491",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:diamond_obsidian_chest_upgrade"
+		}],
+		consume_items: true
+	}]
+}

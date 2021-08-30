@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 622.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"aethium\"},Damage:0s}",
+	tasks: [{
+		uid: "f06983ac",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "aethium"
+			}
+		}],
+		consume_items: true
+	}]
+}

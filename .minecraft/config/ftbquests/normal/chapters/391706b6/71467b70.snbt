@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 428.0d,
+	description: "{id:\"botania:manabomb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a930126",
+		type: "item",
+		items: [{
+			item: "botania:manabomb"
+		}],
+		consume_items: true
+	}]
+}

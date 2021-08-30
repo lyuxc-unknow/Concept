@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 278.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"dark_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "daedc30a",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "dark_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

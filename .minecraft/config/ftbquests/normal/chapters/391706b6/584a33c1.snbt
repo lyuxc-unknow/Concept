@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 437.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"galite\"},Damage:0s}",
+	tasks: [{
+		uid: "fc3a4ed4",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "galite"
+			}
+		}],
+		consume_items: true
+	}]
+}

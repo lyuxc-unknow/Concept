@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 265.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"terrasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "e1c60722",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "terrasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

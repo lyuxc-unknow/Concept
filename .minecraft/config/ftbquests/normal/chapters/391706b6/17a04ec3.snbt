@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:lumber_endritch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "365a5951",
+		type: "item",
+		items: [{
+			item: "steamworld:lumber_endritch"
+		}],
+		consume_items: true
+	}]
+}

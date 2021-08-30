@@ -1,0 +1,21 @@
+{
+	x: 37.0d,
+	y: 165.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalinnovation:saw\",Count:1b,tag:{Energy:600000,Mode:4},Damage:4s}",
+	tasks: [{
+		uid: "fac63f51",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:saw",
+			tag: {
+				Energy: 600000,
+				Mode: 4
+			},
+			Damage: 4s
+		}],
+		consume_items: true
+	}]
+}

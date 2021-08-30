@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:tool_upgrade\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "bf408c17",
+		type: "item",
+		items: [{
+			item: "draconicevolution:tool_upgrade 1 4"
+		}],
+		consume_items: true
+	}]
+}

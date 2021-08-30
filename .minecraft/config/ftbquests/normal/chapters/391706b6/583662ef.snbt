@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 620.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"electrical_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "603379a9",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "electrical_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

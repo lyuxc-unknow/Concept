@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 106.0d,
+	description: "{id:\"mist:niobium_nugget\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "db9061b8",
+		type: "item",
+		items: [{
+			item: "mist:niobium_nugget"
+		}],
+		consume_items: true
+	}]
+}

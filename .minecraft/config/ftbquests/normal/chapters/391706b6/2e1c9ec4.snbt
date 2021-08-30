@@ -1,0 +1,19 @@
+{
+	x: 25.0d,
+	y: 48.0d,
+	description: "{ForgeCaps:{Parent:{Size:18,Items:[]}},id:\"draconicevolution:draconic_axe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e5f3bcd7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 18,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_axe"
+		}],
+		consume_items: true
+	}]
+}

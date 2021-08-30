@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 236.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"yellorium\"},Damage:0s}",
+	tasks: [{
+		uid: "0fb7d7a4",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "yellorium"
+			}
+		}],
+		consume_items: true
+	}]
+}

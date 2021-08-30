@@ -1,0 +1,17 @@
+{
+	x: 28.0d,
+	y: 56.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"minecraft:skeleton_horse\"},Damage:0s}",
+	tasks: [{
+		uid: "10fddac3",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "minecraft:skeleton_horse"
+			}
+		}],
+		consume_items: true
+	}]
+}

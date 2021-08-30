@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 249.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "662b88f9",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

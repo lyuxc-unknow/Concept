@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"electrical_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "f6317463",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "electrical_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 397.0d,
+	description: "{id:\"tconstruct:stone_ladder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad5aecc4",
+		type: "item",
+		items: [{
+			item: "tconstruct:stone_ladder"
+		}],
+		consume_items: true
+	}]
+}

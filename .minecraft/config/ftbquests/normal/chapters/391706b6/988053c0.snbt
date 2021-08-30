@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 304.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"peridot\"},Damage:0s}",
+	tasks: [{
+		uid: "c3ed360d",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "peridot"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 309.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "4f36a0c7",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

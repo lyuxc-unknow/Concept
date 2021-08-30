@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"carbon_fiber\"},Damage:0s}",
+	tasks: [{
+		uid: "fd3d2f3b",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "carbon_fiber"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 302.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"chaotic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "a29475c0",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "chaotic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "d2646fa0",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

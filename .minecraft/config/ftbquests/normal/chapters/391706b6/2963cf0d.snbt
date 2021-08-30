@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 267.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"dark_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "d05f6970",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "dark_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

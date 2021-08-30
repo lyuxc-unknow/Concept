@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"emeraldic_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "cc587fb4",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "emeraldic_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

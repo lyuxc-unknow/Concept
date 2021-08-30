@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 612.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"galite\"},Damage:0s}",
+	tasks: [{
+		uid: "96e00776",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "galite"
+			}
+		}],
+		consume_items: true
+	}]
+}

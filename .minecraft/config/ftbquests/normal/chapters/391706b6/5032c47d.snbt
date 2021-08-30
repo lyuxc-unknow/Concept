@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 783.0d,
+	description: "{id:\"requious:battery_copper\",Count:1b,tag:{energy:1000},Damage:0s}",
+	tasks: [{
+		uid: "629c2734",
+		type: "item",
+		items: [{
+			id: "requious:battery_copper",
+			tag: {
+				energy: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 289.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"steaite\"},Damage:0s}",
+	tasks: [{
+		uid: "93d1e6c4",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "steaite"
+			}
+		}],
+		consume_items: true
+	}]
+}

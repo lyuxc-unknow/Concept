@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 687.0d,
+	description: "{id:\"astralsorcery:blockinfusedwood\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "766b91ac",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockinfusedwood 1 3"
+		}],
+		consume_items: true
+	}]
+}

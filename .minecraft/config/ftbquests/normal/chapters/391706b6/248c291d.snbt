@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 561.0d,
+	description: "{id:\"rftools:pearl_injector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6562f908",
+		type: "item",
+		items: [{
+			item: "rftools:pearl_injector"
+		}],
+		consume_items: true
+	}]
+}

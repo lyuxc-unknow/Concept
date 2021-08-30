@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 423.0d,
+	description: "{id:\"botania:spreader\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "bce162b6",
+		type: "item",
+		items: [{
+			item: "botania:spreader 1 2"
+		}],
+		consume_items: true
+	}]
+}

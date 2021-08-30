@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 786.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "a50d2dab",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

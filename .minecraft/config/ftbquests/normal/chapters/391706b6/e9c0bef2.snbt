@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 767.0d,
+	description: "{id:\"lordcraft:crystal_basic_fireb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d167f41c",
+		type: "item",
+		items: [{
+			item: "lordcraft:crystal_basic_fireb"
+		}],
+		consume_items: true
+	}]
+}

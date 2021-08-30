@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 211.0d,
+	description: "{id:\"enderio:block_inhibitor_obelisk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "423a3558",
+		type: "item",
+		items: [{
+			item: "enderio:block_inhibitor_obelisk"
+		}],
+		consume_items: true
+	}]
+}

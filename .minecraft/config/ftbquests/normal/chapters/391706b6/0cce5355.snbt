@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 550.0d,
+	description: "{id:\"mysticalagriculture:cobalt_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "59a10d73",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:cobalt_seeds"
+		}],
+		consume_items: true
+	}]
+}

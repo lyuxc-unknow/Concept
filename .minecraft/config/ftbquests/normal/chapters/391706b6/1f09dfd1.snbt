@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 789.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:stone_leggings\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cbdc4322",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:stone_leggings"
+		}],
+		consume_items: true
+	}]
+}

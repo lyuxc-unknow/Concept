@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 551.0d,
+	description: "{id:\"mysticalagriculture:starmetal_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d455f84e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:starmetal_seeds"
+		}],
+		consume_items: true
+	}]
+}

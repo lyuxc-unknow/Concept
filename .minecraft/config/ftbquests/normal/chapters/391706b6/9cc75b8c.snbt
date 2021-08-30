@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 436.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"gelid_gem\"},Damage:0s}",
+	tasks: [{
+		uid: "67757ddc",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "gelid_gem"
+			}
+		}],
+		consume_items: true
+	}]
+}

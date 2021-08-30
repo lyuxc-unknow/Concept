@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 276.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"elementium\"},Damage:0s}",
+	tasks: [{
+		uid: "e0a21691",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "elementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

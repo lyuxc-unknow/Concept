@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 553.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:superium_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e57489e9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:superium_helmet"
+		}],
+		consume_items: true
+	}]
+}

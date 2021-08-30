@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 521.0d,
+	description: "{id:\"deepmoblearning:pristine_matter_blaze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "14a4ec3f",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_blaze"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	x: 36.0d,
+	y: 375.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.52f,DrawSpeed:2.26f,FreeModifiers:3,ProjectileBonusDamage:8.0f,Durability:1100,HarvestLevel:4,Attack:14.06f,Range:3.41f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.52f,DrawSpeed:2.26f,FreeModifiers:3,ProjectileBonusDamage:8.0f,Durability:1100,HarvestLevel:4,Attack:14.06f,Range:3.41f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"electrumflux\",\"electrumflux\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"energyeater\",color:-2709,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"energyeater\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "525d35b7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.52f,
+					DrawSpeed: 2.26f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 8.0f,
+					Durability: 1100,
+					HarvestLevel: 4,
+					Attack: 14.06f,
+					Range: 3.41f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.52f,
+					DrawSpeed: 2.26f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 8.0f,
+					Durability: 1100,
+					HarvestLevel: 4,
+					Attack: 14.06f,
+					Range: 3.41f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"electrumflux",
+						"electrumflux",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "energyeater",
+					color: -2709,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"energyeater",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"ruby\"},Damage:0s}",
+	tasks: [{
+		uid: "81bf63d9",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "ruby"
+			}
+		}],
+		consume_items: true
+	}]
+}

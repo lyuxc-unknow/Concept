@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 93.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"randomthings:soundrecorder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3a707f84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:soundrecorder"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 616.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"energetic_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "ecc66be4",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "energetic_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 592.0d,
+	description: "{id:\"random_add:white_matter_of_star\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "97918f90",
+		type: "item",
+		items: [{
+			item: "random_add:white_matter_of_star"
+		}],
+		consume_items: true
+	}]
+}

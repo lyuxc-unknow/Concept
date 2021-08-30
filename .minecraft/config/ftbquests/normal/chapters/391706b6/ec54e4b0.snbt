@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 437.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"paper\"},Damage:0s}",
+	tasks: [{
+		uid: "7f6aa13c",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "paper"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,66 @@
+{
+	x: 6.0d,
+	y: 654.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:greatblade\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:844,HarvestLevel:3,Attack:7.84f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:844,HarvestLevel:3,Attack:7.84f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"sapphire\",\"sapphire\",\"sapphire\",\"sapphire\",\"sapphire\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"launch\",color:-16043050,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"launch\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f7023eda",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:greatblade",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 844,
+					HarvestLevel: 3,
+					Attack: 7.84f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 844,
+					HarvestLevel: 3,
+					Attack: 7.84f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sapphire",
+						"sapphire",
+						"sapphire",
+						"sapphire",
+						"sapphire"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "launch",
+					color: -16043050,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"launch",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

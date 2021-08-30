@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:machine_panel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "93f08aaf",
+		type: "item",
+		items: [{
+			item: "wirelessutils:machine_panel"
+		}],
+		consume_items: true
+	}]
+}

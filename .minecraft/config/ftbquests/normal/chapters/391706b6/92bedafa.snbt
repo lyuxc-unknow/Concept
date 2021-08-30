@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 517.0d,
+	description: "{id:\"compactvoidminers:item_filter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0e1aad63",
+		type: "item",
+		items: [{
+			item: "compactvoidminers:item_filter"
+		}],
+		consume_items: true
+	}]
+}

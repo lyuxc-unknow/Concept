@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 451.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"chaoticdraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "e6103054",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "chaoticdraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"orechidIgnem\"},Damage:0s}",
+	tasks: [{
+		uid: "eabce4c7",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "orechidIgnem"
+			}
+		}],
+		consume_items: true
+	}]
+}

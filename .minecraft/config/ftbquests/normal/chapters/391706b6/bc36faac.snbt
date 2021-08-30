@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"jadedAmaranthus\"},Damage:0s}",
+	tasks: [{
+		uid: "2aaa91b8",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "jadedAmaranthus"
+			}
+		}],
+		consume_items: true
+	}]
+}

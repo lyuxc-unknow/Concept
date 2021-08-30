@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:dimensional_dust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "33b98629",
+		type: "item",
+		items: [{
+			item: "custom_additions:dimensional_dust"
+		}],
+		consume_items: true
+	}]
+}

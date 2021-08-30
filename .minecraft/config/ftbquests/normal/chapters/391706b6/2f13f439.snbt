@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 746.0d,
+	description: "{id:\"embers:block_nickel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c8ab5e23",
+		type: "item",
+		items: [{
+			item: "embers:block_nickel"
+		}],
+		consume_items: true
+	}]
+}

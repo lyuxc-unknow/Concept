@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 797.0d,
+	description: "{id:\"jaopca:item_mysticalseedsancite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "11ab8e4a",
+		type: "item",
+		items: [{
+			item: "jaopca:item_mysticalseedsancite"
+		}],
+		consume_items: true
+	}]
+}

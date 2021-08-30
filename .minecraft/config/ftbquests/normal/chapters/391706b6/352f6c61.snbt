@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 442.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"fluix\"},Damage:0s}",
+	tasks: [{
+		uid: "3845dbf7",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "fluix"
+			}
+		}],
+		consume_items: true
+	}]
+}

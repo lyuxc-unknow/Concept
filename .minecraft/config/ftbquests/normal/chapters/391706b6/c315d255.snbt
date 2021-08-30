@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 235.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"elementium\"},Damage:0s}",
+	tasks: [{
+		uid: "538b8188",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "elementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

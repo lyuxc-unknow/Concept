@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:range_augment\",Count:1b,Damage:32766s}",
+	tasks: [{
+		uid: "a8382f16",
+		type: "item",
+		items: [{
+			item: "wirelessutils:range_augment 1 32766"
+		}],
+		consume_items: true
+	}]
+}

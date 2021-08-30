@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 290.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "d932c465",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

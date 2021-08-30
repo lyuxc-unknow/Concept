@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 754.0d,
+	description: "{id:\"environmentaltech:solar_cell_pladium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d2820810",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cell_pladium"
+		}],
+		consume_items: true
+	}]
+}

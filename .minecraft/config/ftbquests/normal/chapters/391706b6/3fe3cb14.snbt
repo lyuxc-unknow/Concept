@@ -1,0 +1,21 @@
+{
+	x: 35.0d,
+	y: 556.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"Sniff\",level:10,mobId:\"mist:sniff\"},Damage:0s}",
+	tasks: [{
+		uid: "12ad2929",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "Sniff",
+				level: 10,
+				mobId: "mist:sniff"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 304.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"ivorypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "ed738e3b",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "ivorypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 561.0d,
+	description: "{id:\"rftools:block_protector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cad40b7a",
+		type: "item",
+		items: [{
+			item: "rftools:block_protector"
+		}],
+		consume_items: true
+	}]
+}

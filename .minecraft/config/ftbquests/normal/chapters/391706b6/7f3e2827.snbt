@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_platedenseaquamarine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0b953526",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platedenseaquamarine"
+		}],
+		consume_items: true
+	}]
+}

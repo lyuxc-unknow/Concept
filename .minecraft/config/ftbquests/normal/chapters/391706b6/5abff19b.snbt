@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 520.0d,
+	description: "{id:\"darkutils:wither_block\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "21b8addf",
+		type: "item",
+		items: [{
+			item: "darkutils:wither_block 1 3"
+		}],
+		consume_items: true
+	}]
+}

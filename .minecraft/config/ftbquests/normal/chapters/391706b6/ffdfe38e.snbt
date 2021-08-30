@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 483.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"psi:exosuit_controller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f09e5cbd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "psi:exosuit_controller"
+		}],
+		consume_items: true
+	}]
+}

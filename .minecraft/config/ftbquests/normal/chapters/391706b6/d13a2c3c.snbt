@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 576.0d,
+	description: "{id:\"modularmagic:blockmanaproviderinput\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eddb8134",
+		type: "item",
+		items: [{
+			item: "modularmagic:blockmanaproviderinput"
+		}],
+		consume_items: true
+	}]
+}

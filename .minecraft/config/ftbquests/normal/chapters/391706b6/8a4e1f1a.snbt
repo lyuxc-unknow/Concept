@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 472.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "099a9337",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

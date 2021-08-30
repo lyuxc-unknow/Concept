@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 530.0d,
+	description: "{id:\"csb_ench_table:ender_enchanting_table\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87374cc7",
+		type: "item",
+		items: [{
+			item: "csb_ench_table:ender_enchanting_table"
+		}],
+		consume_items: true
+	}]
+}

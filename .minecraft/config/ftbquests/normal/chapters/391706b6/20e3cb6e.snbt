@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 774.0d,
+	description: "{id:\"omegacraft:block_silverb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "37e6e5e6",
+		type: "item",
+		items: [{
+			item: "omegacraft:block_silverb"
+		}],
+		consume_items: true
+	}]
+}

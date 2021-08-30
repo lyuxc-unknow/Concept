@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 579.0d,
+	description: "{id:\"pneumaticcraft:network_component\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "7ec58e3e",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:network_component 1 3"
+		}],
+		consume_items: true
+	}]
+}

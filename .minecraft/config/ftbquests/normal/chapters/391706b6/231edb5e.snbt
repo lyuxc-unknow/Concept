@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 295.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"chaotic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "42dfb11f",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "chaotic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

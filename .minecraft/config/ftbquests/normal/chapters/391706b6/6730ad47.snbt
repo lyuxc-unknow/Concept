@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 515.0d,
+	description: "{id:\"mekanism:glowplasticblock\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "88ab708c",
+		type: "item",
+		items: [{
+			item: "mekanism:glowplasticblock 1 1"
+		}],
+		consume_items: true
+	}]
+}

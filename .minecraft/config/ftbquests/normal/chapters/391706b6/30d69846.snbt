@@ -1,0 +1,18 @@
+{
+	x: 17.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"minecraft:zombie_pigman\"}},Damage:0s}",
+	tasks: [{
+		uid: "f5bf4bbc",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:zombie_pigman"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

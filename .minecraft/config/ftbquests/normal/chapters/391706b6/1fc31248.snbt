@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 773.0d,
+	description: "{id:\"omegacraft:ore_copperb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f477b912",
+		type: "item",
+		items: [{
+			item: "omegacraft:ore_copperb"
+		}],
+		consume_items: true
+	}]
+}

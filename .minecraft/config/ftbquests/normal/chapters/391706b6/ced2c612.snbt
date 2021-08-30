@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 604.0d,
+	description: "{id:\"steamworld:generator_electric\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c048d07e",
+		type: "item",
+		items: [{
+			item: "steamworld:generator_electric"
+		}],
+		consume_items: true
+	}]
+}

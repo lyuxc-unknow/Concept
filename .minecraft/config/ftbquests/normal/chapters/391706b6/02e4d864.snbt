@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 789.0d,
+	description: "{id:\"tp:glowstone_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7688af4",
+		type: "item",
+		items: [{
+			item: "tp:glowstone_glass"
+		}],
+		consume_items: true
+	}]
+}

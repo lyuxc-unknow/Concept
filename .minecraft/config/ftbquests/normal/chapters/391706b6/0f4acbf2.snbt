@@ -1,0 +1,78 @@
+{
+	x: 24.0d,
+	y: 371.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:610,HarvestLevel:2,Attack:10.15f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:610,HarvestLevel:2,Attack:10.15f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"nickel\",\"nickel\",\"nickel\",\"nickel\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-4213116,level:1,magnetic1:1b},{identifier:\"tconevo.impact_force\",color:-4213116,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic1\",\"tconevo.impact_force\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f3b9936d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 610,
+					HarvestLevel: 2,
+					Attack: 10.15f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 610,
+					HarvestLevel: 2,
+					Attack: 10.15f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"nickel",
+						"nickel",
+						"nickel",
+						"nickel"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -4213116,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "tconevo.impact_force",
+					color: -4213116,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1",
+					"tconevo.impact_force",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

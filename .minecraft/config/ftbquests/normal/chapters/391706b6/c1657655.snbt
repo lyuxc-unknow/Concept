@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 612.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"awakeneddraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "58de2e2b",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "awakeneddraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

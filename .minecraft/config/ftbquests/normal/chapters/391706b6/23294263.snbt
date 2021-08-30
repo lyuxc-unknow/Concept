@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 546.0d,
+	description: "{id:\"mysticalagriculture:creeper_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ded42922",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:creeper_essence"
+		}],
+		consume_items: true
+	}]
+}

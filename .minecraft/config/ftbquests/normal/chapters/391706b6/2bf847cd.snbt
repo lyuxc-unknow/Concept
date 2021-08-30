@@ -1,0 +1,20 @@
+{
+	x: 23.0d,
+	y: 314.0d,
+	description: "{id:\"tconstruct:toolforge\",Count:1b,tag:{textureBlock:{id:\"tconevo:metal_block\",Count:1b,Damage:2s}},Damage:0s}",
+	tasks: [{
+		uid: "56afc966",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "tconevo:metal_block",
+					Count: 1b,
+					Damage: 2s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,55 @@
+{
+	x: 26.0d,
+	y: 464.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:14929,Defense:27.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:14929,Defense:27.0f},ConArmEquipmentSlot:3,TinkerData:{Materials:[\"extrabotany:ingotshadowium\",\"extrabotany:ingotshadowium\",\"extrabotany:ingotshadowium\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"shadow\",color:-8388480,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"shadow\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "cc3c3b84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 14929,
+					Defense: 27.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 14929,
+					Defense: 27.0f
+				},
+				ConArmEquipmentSlot: 3,
+				TinkerData: {
+					Materials: [
+						"extrabotany:ingotshadowium",
+						"extrabotany:ingotshadowium",
+						"extrabotany:ingotshadowium"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "shadow",
+					color: -8388480,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shadow",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

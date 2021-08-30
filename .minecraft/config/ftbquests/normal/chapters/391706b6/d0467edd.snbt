@@ -1,0 +1,19 @@
+{
+	x: 27.0d,
+	y: 512.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:energycube\",Count:1b,tag:{tier:0},Damage:0s}",
+	tasks: [{
+		uid: "5c2f9578",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:energycube",
+			tag: {
+				tier: 0
+			}
+		}],
+		consume_items: true
+	}]
+}

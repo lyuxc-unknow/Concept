@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 588.0d,
+	description: "{id:\"overloaded:compressed_gravel\",Count:1b,Damage:10s}",
+	tasks: [{
+		uid: "15f7bae9",
+		type: "item",
+		items: [{
+			item: "overloaded:compressed_gravel 1 10"
+		}],
+		consume_items: true
+	}]
+}

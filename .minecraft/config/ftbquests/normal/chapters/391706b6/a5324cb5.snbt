@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 746.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"valkyrielib:guide\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "219796da",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "valkyrielib:guide"
+		}],
+		consume_items: true
+	}]
+}

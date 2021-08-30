@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_singularityyellorium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fc3af04b",
+		type: "item",
+		items: [{
+			item: "jaopca:item_singularityyellorium"
+		}],
+		consume_items: true
+	}]
+}

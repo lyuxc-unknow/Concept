@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 296.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"cyanite\"},Damage:0s}",
+	tasks: [{
+		uid: "a2dc8adb",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "cyanite"
+			}
+		}],
+		consume_items: true
+	}]
+}

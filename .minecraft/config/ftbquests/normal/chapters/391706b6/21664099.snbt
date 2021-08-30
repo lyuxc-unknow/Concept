@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 742.0d,
+	description: "{id:\"embers:dust_metallurgic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5fc5401c",
+		type: "item",
+		items: [{
+			item: "embers:dust_metallurgic"
+		}],
+		consume_items: true
+	}]
+}

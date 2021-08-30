@@ -1,0 +1,71 @@
+{
+	x: 13.0d,
+	y: 360.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:244,HarvestLevel:2,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:244,HarvestLevel:2,Attack:5.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"nickel\",\"nickel\",\"nickel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-4213116,level:1,magnetic1:1b},{identifier:\"tconevo.impact_force\",color:-4213116,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic1\",\"tconevo.impact_force\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4376cf43",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 244,
+					HarvestLevel: 2,
+					Attack: 5.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 244,
+					HarvestLevel: 2,
+					Attack: 5.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"nickel",
+						"nickel",
+						"nickel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -4213116,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "tconevo.impact_force",
+					color: -4213116,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1",
+					"tconevo.impact_force",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

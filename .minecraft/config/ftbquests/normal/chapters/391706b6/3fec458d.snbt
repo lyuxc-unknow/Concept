@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:heat_sink\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4551f4d3",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:heat_sink"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 19.0d,
+	y: 523.0d,
+	description: "{id:\"doubleslabs:vertical_slab\",Count:1b,tag:{item:{id:\"tconstruct:brownstone_slab2\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "63a54abc",
+		type: "item",
+		items: [{
+			id: "doubleslabs:vertical_slab",
+			tag: {
+				item: {
+					id: "tconstruct:brownstone_slab2",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

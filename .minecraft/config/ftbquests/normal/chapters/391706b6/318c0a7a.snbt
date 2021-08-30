@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 12.0d,
+	description: "{id:\"minecraft:rotten_flesh\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16617626",
+		type: "item",
+		items: [{
+			item: "minecraft:rotten_flesh"
+		}],
+		consume_items: true
+	}]
+}

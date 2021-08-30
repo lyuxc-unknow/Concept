@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 100.0d,
+	description: "{id:\"mist:stone_brick_slab\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "d281cbb9",
+		type: "item",
+		items: [{
+			item: "mist:stone_brick_slab 1 1"
+		}],
+		consume_items: true
+	}]
+}

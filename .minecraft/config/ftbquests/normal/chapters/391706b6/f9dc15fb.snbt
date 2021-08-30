@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 408.0d,
+	description: "{id:\"projecte:item.pe_covalence_dust\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "44cfb4ae",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_covalence_dust 1 2"
+		}],
+		consume_items: true
+	}]
+}

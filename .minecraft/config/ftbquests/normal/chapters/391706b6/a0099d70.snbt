@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 687.0d,
+	description: "{id:\"astralsorcery:blockcelestialcrystals\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "b647d12e",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcelestialcrystals 1 2"
+		}],
+		consume_items: true
+	}]
+}

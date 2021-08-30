@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:animal_stock_increaser\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9a81495",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:animal_stock_increaser"
+		}],
+		consume_items: true
+	}]
+}

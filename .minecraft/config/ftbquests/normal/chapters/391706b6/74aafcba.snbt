@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 307.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"cyanite\"},Damage:0s}",
+	tasks: [{
+		uid: "c812dc03",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "cyanite"
+			}
+		}],
+		consume_items: true
+	}]
+}

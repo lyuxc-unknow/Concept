@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 25.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"randomthings:long_collapse\"},Damage:0s}",
+	tasks: [{
+		uid: "9bb215e6",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "randomthings:long_collapse"
+			}
+		}],
+		consume_items: true
+	}]
+}

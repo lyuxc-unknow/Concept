@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 103.0d,
+	description: "{id:\"mist:a_tree_fence\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "e3c72ad9",
+		type: "item",
+		items: [{
+			item: "mist:a_tree_fence 1 3"
+		}],
+		consume_items: true
+	}]
+}

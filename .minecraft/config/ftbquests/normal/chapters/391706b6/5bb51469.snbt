@@ -1,0 +1,61 @@
+{
+	x: 14.0d,
+	y: 466.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:421,Defense:16.0f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:421,Defense:16.0f},ConArmEquipmentSlot:3,TinkerData:{Materials:[\"invar\",\"invar\",\"invar\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"steady_armor\",color:-7101283,level:1},{identifier:\"duritos_ranch_armor\",color:-7101283,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"steady_armor\",\"duritos_ranch_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "083b7b5e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 421,
+					Defense: 16.0f
+				},
+				Stats: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 421,
+					Defense: 16.0f
+				},
+				ConArmEquipmentSlot: 3,
+				TinkerData: {
+					Materials: [
+						"invar",
+						"invar",
+						"invar"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "steady_armor",
+					color: -7101283,
+					level: 1
+				},
+				{
+					identifier: "duritos_ranch_armor",
+					color: -7101283,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"steady_armor",
+					"duritos_ranch_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

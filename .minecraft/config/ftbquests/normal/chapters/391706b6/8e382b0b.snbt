@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 576.0d,
+	description: "{id:\"mob_grinding_utils:xp_tap\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0ef3dabe",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:xp_tap"
+		}],
+		consume_items: true
+	}]
+}

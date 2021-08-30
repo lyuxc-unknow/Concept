@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:potato_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6d09fb48",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:potato_chest"
+		}],
+		consume_items: true
+	}]
+}

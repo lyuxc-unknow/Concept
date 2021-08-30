@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 394.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"conarm:helmet_core\"},Damage:0s}",
+	tasks: [{
+		uid: "c19504d0",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:helmet_core"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 546.0d,
+	description: "{id:\"mysticalagriculture:slime_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "998c50f6",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:slime_essence"
+		}],
+		consume_items: true
+	}]
+}

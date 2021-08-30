@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 575.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanismtools:lapislazulihoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d657158c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismtools:lapislazulihoe"
+		}],
+		consume_items: true
+	}]
+}

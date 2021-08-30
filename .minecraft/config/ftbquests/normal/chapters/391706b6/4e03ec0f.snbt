@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 411.0d,
+	description: "{id:\"botania:manaresource\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "baf630ff",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 9"
+		}],
+		consume_items: true
+	}]
+}

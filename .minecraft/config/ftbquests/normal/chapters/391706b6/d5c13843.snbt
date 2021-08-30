@@ -1,0 +1,17 @@
+{
+	x: 11.0d,
+	y: 419.0d,
+	description: "{ForgeCaps:{Parent:[],\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:flowerbag\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "95ebbd0e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: [],
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:flowerbag"
+		}],
+		consume_items: true
+	}]
+}

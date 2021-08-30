@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 796.0d,
+	description: "{id:\"jaopca:block_mysticalcropssalt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "615dd9a6",
+		type: "item",
+		items: [{
+			item: "jaopca:block_mysticalcropssalt"
+		}],
+		consume_items: true
+	}]
+}

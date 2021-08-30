@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 306.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"mica\"},Damage:0s}",
+	tasks: [{
+		uid: "da9f7dfa",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "mica"
+			}
+		}],
+		consume_items: true
+	}]
+}

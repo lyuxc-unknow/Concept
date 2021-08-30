@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_platedensediamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1a180d67",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platedensediamond"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 115.0d,
+	description: "{id:\"moreplates:refined_glowstone_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f36467a8",
+		type: "item",
+		items: [{
+			item: "moreplates:refined_glowstone_plate"
+		}],
+		consume_items: true
+	}]
+}

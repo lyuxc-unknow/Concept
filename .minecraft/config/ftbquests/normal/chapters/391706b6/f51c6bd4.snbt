@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 664.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"embers:ancient_golem\"},Damage:0s}",
+	tasks: [{
+		uid: "5415766f",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "embers:ancient_golem"
+			}
+		}],
+		consume_items: true
+	}]
+}

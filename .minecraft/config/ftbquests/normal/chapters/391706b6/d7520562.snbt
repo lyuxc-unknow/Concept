@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 259.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"certus\"},Damage:0s}",
+	tasks: [{
+		uid: "20e4be41",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "certus"
+			}
+		}],
+		consume_items: true
+	}]
+}

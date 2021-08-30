@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 545.0d,
+	description: "{id:\"mysticalagriculture:prudentium_apple\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b571f1d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_apple"
+		}],
+		consume_items: true
+	}]
+}

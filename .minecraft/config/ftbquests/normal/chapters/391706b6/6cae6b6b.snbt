@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 89.0d,
+	description: "{id:\"randomthings:slimecube\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "993547b7",
+		type: "item",
+		items: [{
+			item: "randomthings:slimecube"
+		}],
+		consume_items: true
+	}]
+}

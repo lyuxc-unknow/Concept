@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 768.0d,
+	description: "{id:\"lordcraft:staff_crafterb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bdad8161",
+		type: "item",
+		items: [{
+			item: "lordcraft:staff_crafterb"
+		}],
+		consume_items: true
+	}]
+}

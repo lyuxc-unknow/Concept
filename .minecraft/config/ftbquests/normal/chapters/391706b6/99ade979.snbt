@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 610.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"dreamwood\"},Damage:0s}",
+	tasks: [{
+		uid: "4fff1848",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "dreamwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

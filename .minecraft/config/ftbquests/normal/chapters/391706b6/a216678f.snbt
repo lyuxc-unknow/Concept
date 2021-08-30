@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 745.0d,
+	description: "{id:\"embers:reactor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d4d3841e",
+		type: "item",
+		items: [{
+			item: "embers:reactor"
+		}],
+		consume_items: true
+	}]
+}

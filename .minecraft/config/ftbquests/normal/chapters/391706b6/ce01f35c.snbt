@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 239.0d,
+	description: "{id:\"tconstruct:broad_axe_head\",Count:1b,tag:{Material:\"lumium\"},Damage:0s}",
+	tasks: [{
+		uid: "3eefed44",
+		type: "item",
+		items: [{
+			id: "tconstruct:broad_axe_head",
+			tag: {
+				Material: "lumium"
+			}
+		}],
+		consume_items: true
+	}]
+}

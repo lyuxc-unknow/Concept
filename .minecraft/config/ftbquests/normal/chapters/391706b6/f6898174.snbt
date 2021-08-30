@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 452.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"prismarine\"},Damage:0s}",
+	tasks: [{
+		uid: "a846a98a",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "prismarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,76 @@
+{
+	x: 37.0d,
+	y: 353.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,FreeModifiers:3,Durability:1448,HarvestLevel:3,Attack:6.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,FreeModifiers:3,Durability:1448,HarvestLevel:3,Attack:6.1f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"energetic_alloy\",\"energetic_alloy\",\"energetic_alloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"holy\",color:-2518196,level:1},{identifier:\"unnatural\",color:-2518196,level:1},{identifier:\"petramor\",color:-2518196,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"holy\",\"unnatural\",\"petramor\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d214814a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					Durability: 1448,
+					HarvestLevel: 3,
+					Attack: 6.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					Durability: 1448,
+					HarvestLevel: 3,
+					Attack: 6.1f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"energetic_alloy",
+						"energetic_alloy",
+						"energetic_alloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "holy",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "unnatural",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "petramor",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"holy",
+					"unnatural",
+					"petramor",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

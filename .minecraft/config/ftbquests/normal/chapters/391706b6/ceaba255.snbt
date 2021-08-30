@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 756.0d,
+	description: "{id:\"hardcorequesting:bags\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "933f32d8",
+		type: "item",
+		items: [{
+			item: "hardcorequesting:bags 1 1"
+		}],
+		consume_items: true
+	}]
+}

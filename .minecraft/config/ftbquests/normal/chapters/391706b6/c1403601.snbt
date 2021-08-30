@@ -1,0 +1,80 @@
+{
+	x: 0.0d,
+	y: 788.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:912,HarvestLevel:0,Duration:80,Attack:4.5f,Weight:7.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:912,HarvestLevel:0,Duration:80,Attack:4.5f,Weight:7.4f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tasty\",\"baconlicious\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d2dedee5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 912,
+					HarvestLevel: 0,
+					Duration: 80,
+					Attack: 4.5f,
+					Weight: 7.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 912,
+					HarvestLevel: 0,
+					Duration: 80,
+					Attack: 4.5f,
+					Weight: 7.4f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"pigiron",
+						"pigiron",
+						"pigiron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tasty",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "baconlicious",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tasty",
+					"baconlicious",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

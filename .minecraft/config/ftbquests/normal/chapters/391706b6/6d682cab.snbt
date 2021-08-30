@@ -1,0 +1,49 @@
+{
+	x: 30.0d,
+	y: 462.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:4685,Defense:7.9199996f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:4685,Defense:7.9199996f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"brass\",\"brass\",\"brass\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "4a3d4252",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 4685,
+					Defense: 7.9199996f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 4685,
+					Defense: 7.9199996f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"brass",
+						"brass",
+						"brass"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,80 @@
+{
+	x: 4.0d,
+	y: 789.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:5346,HarvestLevel:0,Duration:285,Attack:14.06f,Weight:2.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:5346,HarvestLevel:0,Duration:285,Attack:14.06f,Weight:2.2f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"electrumflux\",\"electrumflux\",\"electrumflux\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"energyeater\",color:-2709,level:1},{identifier:\"energyrepair\",color:-2709,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"energyeater\",\"energyrepair\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4c2563cf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 5346,
+					HarvestLevel: 0,
+					Duration: 285,
+					Attack: 14.06f,
+					Weight: 2.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 5346,
+					HarvestLevel: 0,
+					Duration: 285,
+					Attack: 14.06f,
+					Weight: 2.2f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"electrumflux",
+						"electrumflux",
+						"electrumflux"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "energyeater",
+					color: -2709,
+					level: 1
+				},
+				{
+					identifier: "energyrepair",
+					color: -2709,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"energyeater",
+					"energyrepair",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

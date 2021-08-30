@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 261.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"chaotic_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "bc9fe54d",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "chaotic_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

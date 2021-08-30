@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 672.0d,
+	description: "{id:\"actuallyadditions:block_leaf_generator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4491977c",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_leaf_generator"
+		}],
+		consume_items: true
+	}]
+}

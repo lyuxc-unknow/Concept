@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 228.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"brass\"},Damage:0s}",
+	tasks: [{
+		uid: "6eccd456",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "brass"
+			}
+		}],
+		consume_items: true
+	}]
+}

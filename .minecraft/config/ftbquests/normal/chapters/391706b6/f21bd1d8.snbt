@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 688.0d,
+	description: "{id:\"avaritiatweaks:gaia_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "69bd94bf",
+		type: "item",
+		items: [{
+			item: "avaritiatweaks:gaia_block"
+		}],
+		consume_items: true
+	}]
+}

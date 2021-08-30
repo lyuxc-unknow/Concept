@@ -1,0 +1,70 @@
+{
+	x: 14.0d,
+	y: 376.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:1.75f,Durability:1270,HarvestLevel:3,Attack:5.0f,Range:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:1.75f,Durability:1270,HarvestLevel:3,Attack:5.0f,Range:1.5f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"diamond\",\"diamond\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"diamond_edge\",color:-13374517,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"diamond_edge\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0a2768ec",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.75f,
+					Durability: 1270,
+					HarvestLevel: 3,
+					Attack: 5.0f,
+					Range: 1.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.75f,
+					Durability: 1270,
+					HarvestLevel: 3,
+					Attack: 5.0f,
+					Range: 1.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"diamond",
+						"diamond",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "diamond_edge",
+					color: -13374517,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"diamond_edge",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

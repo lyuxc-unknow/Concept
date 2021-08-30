@@ -1,0 +1,71 @@
+{
+	x: 31.0d,
+	y: 379.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,DrawSpeed:1.97f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:952,HarvestLevel:3,Attack:6.84f,Range:2.26f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,DrawSpeed:1.97f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:952,HarvestLevel:3,Attack:6.84f,Range:2.26f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"sapphire\",\"sapphire\",\"sapphire\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"launch\",color:-16043050,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"launch\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ae6ee904",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					DrawSpeed: 1.97f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 952,
+					HarvestLevel: 3,
+					Attack: 6.84f,
+					Range: 2.26f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					DrawSpeed: 1.97f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 6.0f,
+					Durability: 952,
+					HarvestLevel: 3,
+					Attack: 6.84f,
+					Range: 2.26f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sapphire",
+						"sapphire",
+						"sapphire",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "launch",
+					color: -16043050,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"launch",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

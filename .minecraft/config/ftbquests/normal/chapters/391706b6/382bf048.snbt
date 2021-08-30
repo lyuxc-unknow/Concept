@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:nether_star_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c41e4fef",
+		type: "item",
+		items: [{
+			item: "overloaded:nether_star_block"
+		}],
+		consume_items: true
+	}]
+}

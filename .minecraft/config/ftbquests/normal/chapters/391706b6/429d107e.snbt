@@ -1,0 +1,19 @@
+{
+	x: 37.0d,
+	y: 668.0d,
+	description: "{id:\"xnet:netcable\",Count:1b,tag:{display:{LocName:\"tile.xnet.netcable_red.name\"}},Damage:1s}",
+	tasks: [{
+		uid: "abb72480",
+		type: "item",
+		items: [{
+			id: "xnet:netcable",
+			tag: {
+				display: {
+					LocName: "tile.xnet.netcable_red.name"
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

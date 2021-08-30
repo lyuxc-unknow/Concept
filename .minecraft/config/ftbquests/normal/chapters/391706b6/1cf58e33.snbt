@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 425.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"munchdew\"},Damage:0s}",
+	tasks: [{
+		uid: "422d9795",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "munchdew"
+			}
+		}],
+		consume_items: true
+	}]
+}

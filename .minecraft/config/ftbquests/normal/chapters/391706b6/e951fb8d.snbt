@@ -1,0 +1,83 @@
+{
+	x: 27.0d,
+	y: 381.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,DrawSpeed:0.25f,FreeModifiers:3,ProjectileBonusDamage:30.0f,Durability:12777,HarvestLevel:10,Attack:16.0f,Range:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.0f,DrawSpeed:0.25f,FreeModifiers:3,ProjectileBonusDamage:30.0f,Durability:12777,HarvestLevel:10,Attack:16.0f,Range:4.0f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"neutronium\",\"neutronium\",\"neutronium\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"dense\",color:-12895429,level:1},{identifier:\"heavy\",color:-12895429,level:1},{identifier:\"tconevo.condensing\",color:-12895429,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"dense\",\"heavy\",\"tconevo.condensing1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "45f150b2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					DrawSpeed: 0.25f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 30.0f,
+					Durability: 12777,
+					HarvestLevel: 10,
+					Attack: 16.0f,
+					Range: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.0f,
+					DrawSpeed: 0.25f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 30.0f,
+					Durability: 12777,
+					HarvestLevel: 10,
+					Attack: 16.0f,
+					Range: 4.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"neutronium",
+						"neutronium",
+						"neutronium",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "dense",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "heavy",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "tconevo.condensing",
+					color: -12895429,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dense",
+					"heavy",
+					"tconevo.condensing1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

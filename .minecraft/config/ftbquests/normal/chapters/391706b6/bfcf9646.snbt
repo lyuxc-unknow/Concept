@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 4.0d,
+	description: "{id:\"minecraft:cobblestone_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ebaa6204",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone_wall"
+		}],
+		consume_items: true
+	}]
+}

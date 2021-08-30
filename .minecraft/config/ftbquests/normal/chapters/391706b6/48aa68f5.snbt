@@ -1,0 +1,70 @@
+{
+	x: 19.0d,
+	y: 350.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:broadsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:265,HarvestLevel:1,Attack:4.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:265,HarvestLevel:1,Attack:4.4f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"spiky\",\"prickly\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "513fb9b6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:broadsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 265,
+					HarvestLevel: 1,
+					Attack: 4.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 265,
+					HarvestLevel: 1,
+					Attack: 4.4f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cactus",
+						"cactus",
+						"cactus"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "spiky",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "prickly",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"spiky",
+					"prickly",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

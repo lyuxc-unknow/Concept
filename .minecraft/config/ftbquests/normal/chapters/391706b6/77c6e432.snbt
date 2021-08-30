@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:invisibility\"},Damage:0s}",
+	tasks: [{
+		uid: "0249e6d7",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:invisibility"
+			}
+		}],
+		consume_items: true
+	}]
+}

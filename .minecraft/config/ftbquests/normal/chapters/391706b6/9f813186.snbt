@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 625.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"sky_stone\"},Damage:0s}",
+	tasks: [{
+		uid: "5c4964c8",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "sky_stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

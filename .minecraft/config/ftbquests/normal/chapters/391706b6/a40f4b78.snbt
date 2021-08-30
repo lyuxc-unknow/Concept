@@ -1,0 +1,77 @@
+{
+	x: 30.0d,
+	y: 787.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:60,HarvestLevel:0,Duration:666,Attack:2.9f,Weight:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:60,HarvestLevel:0,Duration:666,Attack:2.9f,Weight:0.4f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"flint\",\"flint\",\"flint\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crude2\",\"crude1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ac986878",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 60,
+					HarvestLevel: 0,
+					Duration: 666,
+					Attack: 2.9f,
+					Weight: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 60,
+					HarvestLevel: 0,
+					Duration: 666,
+					Attack: 2.9f,
+					Weight: 0.4f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"flint",
+						"flint",
+						"flint"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crude",
+					color: -9868951,
+					level: 3,
+					crude1: 1b,
+					crude2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crude2",
+					"crude1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 478.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:buddhistrelics\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ef51f944",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:buddhistrelics"
+		}],
+		consume_items: true
+	}]
+}

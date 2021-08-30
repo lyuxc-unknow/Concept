@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 243.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"carbon_fiber\"},Damage:0s}",
+	tasks: [{
+		uid: "67710d1c",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "carbon_fiber"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 24.0d,
+	y: 56.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"minecraft:wither_skeleton\"},Damage:0s}",
+	tasks: [{
+		uid: "ae7c7913",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "minecraft:wither_skeleton"
+			}
+		}],
+		consume_items: true
+	}]
+}

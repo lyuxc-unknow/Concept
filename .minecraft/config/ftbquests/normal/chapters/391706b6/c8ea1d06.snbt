@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 543.0d,
+	description: "{id:\"mysticalagriculture:prosperity_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7cffee91",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prosperity_ore"
+		}],
+		consume_items: true
+	}]
+}

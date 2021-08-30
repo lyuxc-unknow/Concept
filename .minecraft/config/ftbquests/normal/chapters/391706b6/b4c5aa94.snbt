@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 577.0d,
+	description: "{id:\"pneumaticcraft:redstone_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "45b00b3a",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:redstone_module"
+		}],
+		consume_items: true
+	}]
+}

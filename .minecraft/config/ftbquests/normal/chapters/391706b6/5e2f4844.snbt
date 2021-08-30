@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"refinediron\"},Damage:0s}",
+	tasks: [{
+		uid: "a28f7d67",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "refinediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

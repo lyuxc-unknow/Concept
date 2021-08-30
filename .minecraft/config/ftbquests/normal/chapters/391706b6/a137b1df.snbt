@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 56.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"hootch\"},Damage:0s}",
+	tasks: [{
+		uid: "895a2af1",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "hootch"
+			}
+		}],
+		consume_items: true
+	}]
+}

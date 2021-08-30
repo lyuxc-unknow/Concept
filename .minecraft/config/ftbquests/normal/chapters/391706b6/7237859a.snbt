@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"knightslime\"},Damage:0s}",
+	tasks: [{
+		uid: "637e7568",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "knightslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

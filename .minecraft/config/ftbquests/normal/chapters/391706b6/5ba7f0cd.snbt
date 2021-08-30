@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 740.0d,
+	description: "{id:\"maia_draconic_edition:red_matter_core\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f53b82d",
+		type: "item",
+		items: [{
+			item: "maia_draconic_edition:red_matter_core"
+		}],
+		consume_items: true
+	}]
+}

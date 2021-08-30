@@ -1,0 +1,17 @@
+{
+	x: 35.0d,
+	y: 759.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"industrialforegoing:range_addon\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "61db580a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:range_addon",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

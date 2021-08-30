@@ -1,0 +1,17 @@
+{
+	x: 29.0d,
+	y: 57.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"deepmoblearning:glitch\"},Damage:0s}",
+	tasks: [{
+		uid: "7482318a",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "deepmoblearning:glitch"
+			}
+		}],
+		consume_items: true
+	}]
+}

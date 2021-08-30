@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 126.0d,
+	description: "{id:\"openblocks:item_dropper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1f09f0a7",
+		type: "item",
+		items: [{
+			item: "openblocks:item_dropper"
+		}],
+		consume_items: true
+	}]
+}

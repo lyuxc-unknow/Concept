@@ -1,0 +1,64 @@
+{
+	x: 32.0d,
+	y: 356.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.76f,FreeModifiers:3,Durability:1,HarvestLevel:1,Attack:1.03f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.76f,FreeModifiers:3,Durability:1,HarvestLevel:1,Attack:1.03f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"zinc\",\"zinc\",\"zinc\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crumbling\",color:-2887704,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crumbling\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4581f04f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.76f,
+					FreeModifiers: 3,
+					Durability: 1,
+					HarvestLevel: 1,
+					Attack: 1.03f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.76f,
+					FreeModifiers: 3,
+					Durability: 1,
+					HarvestLevel: 1,
+					Attack: 1.03f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"zinc",
+						"zinc",
+						"zinc"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crumbling",
+					color: -2887704,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crumbling",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 626.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"zinc\"},Damage:0s}",
+	tasks: [{
+		uid: "cdf6194f",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "zinc"
+			}
+		}],
+		consume_items: true
+	}]
+}

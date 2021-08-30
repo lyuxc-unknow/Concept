@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 687.0d,
+	description: "{id:\"astralsorcery:blockcustomsandore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e053b2d9",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomsandore"
+		}],
+		consume_items: true
+	}]
+}

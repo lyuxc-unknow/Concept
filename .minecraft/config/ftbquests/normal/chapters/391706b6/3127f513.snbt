@@ -1,0 +1,77 @@
+{
+	x: 33.0d,
+	y: 379.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,DrawSpeed:1.67f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:1253,HarvestLevel:3,Attack:7.42f,Range:2.41f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,DrawSpeed:1.67f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:1253,HarvestLevel:3,Attack:7.42f,Range:2.41f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"yellowgarnet\",\"yellowgarnet\",\"yellowgarnet\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"superheat\",color:-658149,level:1},{identifier:\"autosmelt\",color:-658149,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"superheat\",\"autosmelt\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2848e9d7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					DrawSpeed: 1.67f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 7.0f,
+					Durability: 1253,
+					HarvestLevel: 3,
+					Attack: 7.42f,
+					Range: 2.41f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					DrawSpeed: 1.67f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 7.0f,
+					Durability: 1253,
+					HarvestLevel: 3,
+					Attack: 7.42f,
+					Range: 2.41f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"yellowgarnet",
+						"yellowgarnet",
+						"yellowgarnet",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "superheat",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "autosmelt",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"superheat",
+					"autosmelt",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

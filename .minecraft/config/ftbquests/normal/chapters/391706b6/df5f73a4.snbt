@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 230.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"ma.supremium\"},Damage:0s}",
+	tasks: [{
+		uid: "d819bfb9",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "ma.supremium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 684.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:iteminfusedglass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bb536c6b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:iteminfusedglass"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 578.0d,
+	description: "{id:\"pneumaticcraft:gps_tool\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e9fdb16a",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:gps_tool"
+		}],
+		consume_items: true
+	}]
+}

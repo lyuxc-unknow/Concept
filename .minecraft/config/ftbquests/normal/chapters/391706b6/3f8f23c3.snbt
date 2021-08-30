@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 179.0d,
+	description: "{id:\"chickens:colored_egg\",Count:1b,Damage:15s}",
+	tasks: [{
+		uid: "27ab3ba2",
+		type: "item",
+		items: [{
+			item: "chickens:colored_egg 1 15"
+		}],
+		consume_items: true
+	}]
+}

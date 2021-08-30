@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 518.0d,
+	description: "{id:\"darkutils:timer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "183663e9",
+		type: "item",
+		items: [{
+			item: "darkutils:timer"
+		}],
+		consume_items: true
+	}]
+}

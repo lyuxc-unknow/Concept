@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 791.0d,
+	description: "{id:\"tp:maloberry_juice\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7de63d9d",
+		type: "item",
+		items: [{
+			item: "tp:maloberry_juice"
+		}],
+		consume_items: true
+	}]
+}

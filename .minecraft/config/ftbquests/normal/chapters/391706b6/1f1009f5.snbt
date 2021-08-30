@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: 778.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"electrical_steel\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "2b91a40e",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "electrical_steel",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 34.0d,
+	y: 500.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:7,key:\"bloodmagic.upgrade.jump\"},Damage:0s}",
+	tasks: [{
+		uid: "37713914",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 7,
+				key: "bloodmagic.upgrade.jump"
+			}
+		}],
+		consume_items: true
+	}]
+}

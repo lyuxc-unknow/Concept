@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 663.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"minecraft:skeleton_horse\"},Damage:0s}",
+	tasks: [{
+		uid: "4f37298e",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "minecraft:skeleton_horse"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 210.0d,
+	description: "{id:\"enderio:item_rs_crafting_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02a952c3",
+		type: "item",
+		items: [{
+			item: "enderio:item_rs_crafting_upgrade"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,72 @@
+{
+	x: 36.0d,
+	y: 644.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:dagger\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:442,HarvestLevel:4,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:442,HarvestLevel:4,Attack:7.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bound_metal\",\"bound_metal\",\"bound_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.bloodbound\",color:-9764347,level:1},{identifier:\"tconevo.crystalys\",color:-9764347,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.bloodbound\",\"tconevo.crystalys\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "6d3cad69",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:dagger",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 442,
+					HarvestLevel: 4,
+					Attack: 7.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 442,
+					HarvestLevel: 4,
+					Attack: 7.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bound_metal",
+						"bound_metal",
+						"bound_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.bloodbound",
+					color: -9764347,
+					level: 1
+				},
+				{
+					identifier: "tconevo.crystalys",
+					color: -9764347,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.bloodbound",
+					"tconevo.crystalys",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

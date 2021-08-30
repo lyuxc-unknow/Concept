@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 776.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"naturalabsorption:book_absorption\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01fdea1b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturalabsorption:book_absorption"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 774.0d,
+	description: "{id:\"omegacraft:dark_quadb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e944fc03",
+		type: "item",
+		items: [{
+			item: "omegacraft:dark_quadb"
+		}],
+		consume_items: true
+	}]
+}

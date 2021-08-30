@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 765.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:hoe_water\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8656d4e6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:hoe_water"
+		}],
+		consume_items: true
+	}]
+}

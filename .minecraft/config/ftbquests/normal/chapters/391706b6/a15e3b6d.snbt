@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 674.0d,
+	description: "{id:\"actuallyadditions:block_heat_collector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "90f24e37",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_heat_collector"
+		}],
+		consume_items: true
+	}]
+}

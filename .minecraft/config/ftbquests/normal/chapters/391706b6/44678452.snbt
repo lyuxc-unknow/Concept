@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 585.0d,
+	description: "{id:\"pneumaticcraft:heat_frame\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "44042dbf",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:heat_frame"
+		}],
+		consume_items: true
+	}]
+}

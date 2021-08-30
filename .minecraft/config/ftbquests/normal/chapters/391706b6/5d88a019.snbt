@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"orechid\"},Damage:0s}",
+	tasks: [{
+		uid: "6a7ac3d3",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "orechid"
+			}
+		}],
+		consume_items: true
+	}]
+}

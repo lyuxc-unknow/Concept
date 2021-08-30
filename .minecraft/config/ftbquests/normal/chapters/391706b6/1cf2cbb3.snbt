@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:omnidirectional_hopper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "37ad2176",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:omnidirectional_hopper"
+		}],
+		consume_items: true
+	}]
+}

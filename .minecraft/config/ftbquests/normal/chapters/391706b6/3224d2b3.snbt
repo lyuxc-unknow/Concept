@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 516.0d,
+	description: "{id:\"mekanism:roadplasticblock\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "94831a94",
+		type: "item",
+		items: [{
+			item: "mekanism:roadplasticblock 1 4"
+		}],
+		consume_items: true
+	}]
+}

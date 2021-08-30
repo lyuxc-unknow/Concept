@@ -1,0 +1,80 @@
+{
+	x: 21.0d,
+	y: 337.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hammer\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:337,HarvestLevel:0,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:337,HarvestLevel:0,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"polyethylene\",\"polyethylene\",\"polyethylene\",\"polyethylene\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"cheap\",color:-2039584,level:1},{identifier:\"tconevo.foot_fleet\",color:-2039584,level:1},{identifier:\"crude\",color:-2039584,level:1,crude1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"cheap\",\"tconevo.foot_fleet\",\"crude1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "54e17d0e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 337,
+					HarvestLevel: 0,
+					Attack: 3.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 337,
+					HarvestLevel: 0,
+					Attack: 3.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"polyethylene",
+						"polyethylene",
+						"polyethylene",
+						"polyethylene"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheap",
+					color: -2039584,
+					level: 1
+				},
+				{
+					identifier: "tconevo.foot_fleet",
+					color: -2039584,
+					level: 1
+				},
+				{
+					identifier: "crude",
+					color: -2039584,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheap",
+					"tconevo.foot_fleet",
+					"crude1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

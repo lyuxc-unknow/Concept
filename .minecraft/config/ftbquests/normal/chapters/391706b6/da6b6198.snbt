@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 499.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:3,key:\"bloodmagic.upgrade.arrowShot\"},Damage:0s}",
+	tasks: [{
+		uid: "dbba2830",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 3,
+				key: "bloodmagic.upgrade.arrowShot"
+			}
+		}],
+		consume_items: true
+	}]
+}

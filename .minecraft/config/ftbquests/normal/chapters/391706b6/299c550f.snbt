@@ -1,0 +1,59 @@
+{
+	x: 24.0d,
+	y: 319.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.86f,FreeModifiers:3,Durability:841,HarvestLevel:3,Attack:9.53f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.86f,FreeModifiers:3,Durability:841,HarvestLevel:3,Attack:9.53f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"refinediron\",\"refinediron\",\"refinediron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "3c6b9c43",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.86f,
+					FreeModifiers: 3,
+					Durability: 841,
+					HarvestLevel: 3,
+					Attack: 9.53f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.86f,
+					FreeModifiers: 3,
+					Durability: 841,
+					HarvestLevel: 3,
+					Attack: 9.53f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"refinediron",
+						"refinediron",
+						"refinediron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

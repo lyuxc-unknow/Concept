@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 658.0d,
+	description: "{id:\"totaltinkers:explosivecore\",Count:1b,tag:{Material:\"pigiron\"},Damage:0s}",
+	tasks: [{
+		uid: "de9fd9f6",
+		type: "item",
+		items: [{
+			id: "totaltinkers:explosivecore",
+			tag: {
+				Material: "pigiron"
+			}
+		}],
+		consume_items: true
+	}]
+}

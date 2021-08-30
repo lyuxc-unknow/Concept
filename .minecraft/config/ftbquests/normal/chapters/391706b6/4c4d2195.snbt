@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 796.0d,
+	description: "{id:\"jaopca:block_mysticalcropsancite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a676a5ba",
+		type: "item",
+		items: [{
+			item: "jaopca:block_mysticalcropsancite"
+		}],
+		consume_items: true
+	}]
+}

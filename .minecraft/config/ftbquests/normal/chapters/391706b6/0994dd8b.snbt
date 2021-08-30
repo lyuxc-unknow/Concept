@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"dark_matter\"},Damage:0s}",
+	tasks: [{
+		uid: "65c83d12",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "dark_matter"
+			}
+		}],
+		consume_items: true
+	}]
+}

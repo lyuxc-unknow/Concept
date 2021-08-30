@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 291.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"sky_stone\"},Damage:0s}",
+	tasks: [{
+		uid: "f2261dd0",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "sky_stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

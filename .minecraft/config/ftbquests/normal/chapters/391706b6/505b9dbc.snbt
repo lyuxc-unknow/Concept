@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 487.0d,
+	description: "{id:\"bibliocraft:furniturepaneler\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "2b1a6873",
+		type: "item",
+		items: [{
+			item: "bibliocraft:furniturepaneler 1 3"
+		}],
+		consume_items: true
+	}]
+}

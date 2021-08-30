@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"randomthings:collapse\"},Damage:0s}",
+	tasks: [{
+		uid: "c07903a7",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "randomthings:collapse"
+			}
+		}],
+		consume_items: true
+	}]
+}

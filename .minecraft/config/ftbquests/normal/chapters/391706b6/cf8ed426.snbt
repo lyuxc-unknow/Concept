@@ -1,0 +1,77 @@
+{
+	x: 30.0d,
+	y: 370.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:658,HarvestLevel:2,Attack:9.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:658,HarvestLevel:2,Attack:9.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"manasteel\",\"manasteel\",\"manasteel\",\"manasteel\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"momentum\",color:-15764755,level:1},{identifier:\"tconevo.mana_infused\",color:-15764755,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"momentum\",\"tconevo.mana_infused\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "aebeb01d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 658,
+					HarvestLevel: 2,
+					Attack: 9.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 658,
+					HarvestLevel: 2,
+					Attack: 9.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"manasteel",
+						"manasteel",
+						"manasteel",
+						"manasteel"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "momentum",
+					color: -15764755,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mana_infused",
+					color: -15764755,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"momentum",
+					"tconevo.mana_infused",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

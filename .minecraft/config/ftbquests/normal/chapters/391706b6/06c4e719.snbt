@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 785.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"cactus\"},Damage:0s}",
+	tasks: [{
+		uid: "a5701703",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "cactus"
+			}
+		}],
+		consume_items: true
+	}]
+}

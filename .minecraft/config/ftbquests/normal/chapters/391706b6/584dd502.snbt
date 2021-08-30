@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 478.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:natureorb\",Count:1b,tag:{xp:500000},Damage:0s}",
+	tasks: [{
+		uid: "e022315d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:natureorb",
+			tag: {
+				xp: 500000
+			}
+		}],
+		consume_items: true
+	}]
+}

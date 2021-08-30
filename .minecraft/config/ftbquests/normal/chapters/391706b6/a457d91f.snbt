@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 272.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"ma.soulium\"},Damage:0s}",
+	tasks: [{
+		uid: "6ae3ef5c",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "ma.soulium"
+			}
+		}],
+		consume_items: true
+	}]
+}

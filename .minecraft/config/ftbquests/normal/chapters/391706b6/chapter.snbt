@@ -1,0 +1,7 @@
+{
+	title: "Generated chapter of all items in search creative tab [32211]",
+	icon: "minecraft:compass",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

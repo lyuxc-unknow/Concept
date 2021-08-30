@@ -1,0 +1,69 @@
+{
+	x: 36.0d,
+	y: 368.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:battlesign\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:1497,HarvestLevel:3,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:1497,HarvestLevel:3,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"diamond\",\"diamond\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"resilience\",color:-13374517,level:1},{identifier:\"diamond_edge\",color:-13374517,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"resilience\",\"diamond_edge\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e39cc6fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:battlesign",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 1497,
+					HarvestLevel: 3,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 1497,
+					HarvestLevel: 3,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"diamond",
+						"diamond"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "resilience",
+					color: -13374517,
+					level: 1
+				},
+				{
+					identifier: "diamond_edge",
+					color: -13374517,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"resilience",
+					"diamond_edge",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

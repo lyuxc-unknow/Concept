@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 434.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"black_quartz\"},Damage:0s}",
+	tasks: [{
+		uid: "83c8b3e3",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "black_quartz"
+			}
+		}],
+		consume_items: true
+	}]
+}

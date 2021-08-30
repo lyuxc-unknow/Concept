@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 295.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"osmium\"},Damage:0s}",
+	tasks: [{
+		uid: "b2ce7134",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "osmium"
+			}
+		}],
+		consume_items: true
+	}]
+}

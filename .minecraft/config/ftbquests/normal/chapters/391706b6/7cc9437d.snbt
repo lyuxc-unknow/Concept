@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 144.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"extrautils2:ironwood_planks\"},Damage:0s}",
+	tasks: [{
+		uid: "4dbeacae",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "extrautils2:ironwood_planks"
+			}
+		}],
+		consume_items: true
+	}]
+}

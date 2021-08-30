@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 615.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"gelid_enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "42c5793b",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "gelid_enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,66 @@
+{
+	x: 13.0d,
+	y: 651.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:greatblade\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1713,HarvestLevel:0,Attack:2.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1713,HarvestLevel:0,Attack:2.8f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"slimey_blue\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ec572083",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:greatblade",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					Durability: 1713,
+					HarvestLevel: 0,
+					Attack: 2.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					Durability: 1713,
+					HarvestLevel: 0,
+					Attack: 2.8f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blueslime",
+						"blueslime",
+						"blueslime",
+						"blueslime",
+						"blueslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_blue",
+					color: -9123641,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_blue",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

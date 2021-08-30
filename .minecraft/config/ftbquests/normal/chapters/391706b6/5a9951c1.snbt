@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 284.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"fluxed_electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "96f705d7",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "fluxed_electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

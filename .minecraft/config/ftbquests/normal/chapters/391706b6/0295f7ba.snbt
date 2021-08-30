@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:hasteplus_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4c1f7c2",
+		type: "item",
+		items: [{
+			item: "rftools:hasteplus_module"
+		}],
+		consume_items: true
+	}]
+}

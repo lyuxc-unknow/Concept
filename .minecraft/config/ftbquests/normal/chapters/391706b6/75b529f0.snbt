@@ -1,0 +1,21 @@
+{
+	x: 26.0d,
+	y: 557.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"炮击者\",level:10,mobId:\"steamworld:propellorshell\"},Damage:0s}",
+	tasks: [{
+		uid: "b23d931d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "炮击者",
+				level: 10,
+				mobId: "steamworld:propellorshell"
+			}
+		}],
+		consume_items: true
+	}]
+}

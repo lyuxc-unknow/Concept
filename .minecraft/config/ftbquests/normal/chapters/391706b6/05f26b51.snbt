@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:altar\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "3cbb9944",
+		type: "item",
+		items: [{
+			item: "steamworld:altar 1 1"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 434.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "c3693e2f",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

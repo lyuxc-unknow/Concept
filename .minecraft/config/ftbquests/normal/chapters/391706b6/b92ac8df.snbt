@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 313.0d,
+	description: "{id:\"tconstruct:bolt_core\",Count:1b,tag:{TinkerData:{Materials:[\"dreamwood\",\"iron\"]}},Damage:0s}",
+	tasks: [{
+		uid: "9537443e",
+		type: "item",
+		items: [{
+			id: "tconstruct:bolt_core",
+			tag: {
+				TinkerData: {
+					Materials: [
+						"dreamwood",
+						"iron"
+					]
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

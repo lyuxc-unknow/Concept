@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 425.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"thermalily\"},Damage:0s}",
+	tasks: [{
+		uid: "e62419cc",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "thermalily"
+			}
+		}],
+		consume_items: true
+	}]
+}

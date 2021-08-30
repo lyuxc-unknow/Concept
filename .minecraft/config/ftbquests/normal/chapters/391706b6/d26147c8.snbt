@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 794.0d,
+	description: "{id:\"tp:raspberry_bush\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4a02ba72",
+		type: "item",
+		items: [{
+			item: "tp:raspberry_bush"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"xu_magical_wood\"},Damage:0s}",
+	tasks: [{
+		uid: "c0081612",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "xu_magical_wood"
+			}
+		}],
+		consume_items: true
+	}]
+}

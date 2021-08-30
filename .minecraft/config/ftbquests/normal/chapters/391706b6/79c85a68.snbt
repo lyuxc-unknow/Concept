@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 493.0d,
+	description: "{id:\"bloodmagic:blood_tank\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "6f6bff53",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_tank 1 2"
+		}],
+		consume_items: true
+	}]
+}

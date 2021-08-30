@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 482.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:cosmetic\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "97759a7f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:cosmetic",
+			Damage: 7s
+		}],
+		consume_items: true
+	}]
+}

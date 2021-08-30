@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 565.0d,
+	description: "{id:\"immersiveengineering:conveyor\",Count:1b,tag:{conveyorType:\"immersiveengineering:dropper\"},Damage:0s}",
+	tasks: [{
+		uid: "bb20fbf7",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:dropper"
+			}
+		}],
+		consume_items: true
+	}]
+}

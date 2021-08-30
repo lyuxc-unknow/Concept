@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 273.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"pink_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "6d9d10b1",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "pink_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

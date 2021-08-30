@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 282.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"bronze\"},Damage:0s}",
+	tasks: [{
+		uid: "15acfc79",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "bronze"
+			}
+		}],
+		consume_items: true
+	}]
+}

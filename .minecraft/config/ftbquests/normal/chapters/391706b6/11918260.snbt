@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:conversion_upgrade\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "410a9d62",
+		type: "item",
+		items: [{
+			item: "wirelessutils:conversion_upgrade 1 3"
+		}],
+		consume_items: true
+	}]
+}

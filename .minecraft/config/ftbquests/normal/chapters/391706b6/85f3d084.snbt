@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 36.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tome_lexicon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87a498df",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tome_lexicon"
+		}],
+		consume_items: true
+	}]
+}

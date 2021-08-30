@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 418.0d,
+	description: "{id:\"botania:corporeaspark\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ecdf5104",
+		type: "item",
+		items: [{
+			item: "botania:corporeaspark"
+		}],
+		consume_items: true
+	}]
+}

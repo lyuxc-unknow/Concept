@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 551.0d,
+	description: "{id:\"mysticalagriculture:gear\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "1eacde25",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:gear 1 3"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 196.0d,
+	description: "{id:\"enderio:block_pasture_fused_quartz\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cb8120c3",
+		type: "item",
+		items: [{
+			item: "enderio:block_pasture_fused_quartz"
+		}],
+		consume_items: true
+	}]
+}

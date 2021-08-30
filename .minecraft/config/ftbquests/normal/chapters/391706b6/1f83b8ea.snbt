@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 474.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"refined_obsidian\"},Damage:0s}",
+	tasks: [{
+		uid: "7114456c",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "refined_obsidian"
+			}
+		}],
+		consume_items: true
+	}]
+}

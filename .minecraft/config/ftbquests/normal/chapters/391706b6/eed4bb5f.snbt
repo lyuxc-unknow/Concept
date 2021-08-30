@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:animal_resource_harvester\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "47ee172c",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:animal_resource_harvester"
+		}],
+		consume_items: true
+	}]
+}

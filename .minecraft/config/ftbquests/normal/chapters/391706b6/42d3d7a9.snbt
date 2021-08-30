@@ -1,0 +1,67 @@
+{
+	x: 34.0d,
+	y: 349.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:1326,HarvestLevel:3,Attack:6.84f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:1326,HarvestLevel:3,Attack:6.84f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"sapphire\",\"sapphire\",\"sapphire\",\"sapphire\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"launch\",color:-16043050,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"launch\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "dc927650",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 1326,
+					HarvestLevel: 3,
+					Attack: 6.84f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 1326,
+					HarvestLevel: 3,
+					Attack: 6.84f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sapphire",
+						"sapphire",
+						"sapphire",
+						"sapphire"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "launch",
+					color: -16043050,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"launch",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

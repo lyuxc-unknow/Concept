@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 63.0d,
+	description: "{id:\"extrautils2:creativeharvest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ffc32480",
+		type: "item",
+		items: [{
+			item: "extrautils2:creativeharvest"
+		}],
+		consume_items: true
+	}]
+}

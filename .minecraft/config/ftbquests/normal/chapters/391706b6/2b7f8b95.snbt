@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 3.0d,
+	description: "{id:\"minecraft:glass_pane\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "acea891d",
+		type: "item",
+		items: [{
+			item: "minecraft:glass_pane"
+		}],
+		consume_items: true
+	}]
+}

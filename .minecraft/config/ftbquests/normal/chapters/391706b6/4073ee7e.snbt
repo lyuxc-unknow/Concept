@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 115.0d,
+	description: "{id:\"moreplates:electrum_stick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "97977273",
+		type: "item",
+		items: [{
+			item: "moreplates:electrum_stick"
+		}],
+		consume_items: true
+	}]
+}

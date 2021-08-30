@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 801.0d,
+	description: "{id:\"jaopca:item_dustsmallgold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf16ca48",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustsmallgold"
+		}],
+		consume_items: true
+	}]
+}

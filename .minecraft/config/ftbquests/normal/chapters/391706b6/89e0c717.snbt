@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 650.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"chrome\"},Damage:0s}",
+	tasks: [{
+		uid: "3ad4f816",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "chrome"
+			}
+		}],
+		consume_items: true
+	}]
+}

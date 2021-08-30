@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 32.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"cofhcore:wither\"},Damage:0s}",
+	tasks: [{
+		uid: "0ac154e0",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "cofhcore:wither"
+			}
+		}],
+		consume_items: true
+	}]
+}

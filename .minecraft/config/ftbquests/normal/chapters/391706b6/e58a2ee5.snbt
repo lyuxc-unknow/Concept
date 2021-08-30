@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 45.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.fishing_rod_bronze\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d6937a26",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.fishing_rod_bronze"
+		}],
+		consume_items: true
+	}]
+}

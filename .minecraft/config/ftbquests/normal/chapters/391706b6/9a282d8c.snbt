@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 417.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:cobblerod\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4bf9573b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:cobblerod"
+		}],
+		consume_items: true
+	}]
+}

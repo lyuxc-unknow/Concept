@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 68.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"avaritia:infinity_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d366711c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:infinity_boots"
+		}],
+		consume_items: true
+	}]
+}

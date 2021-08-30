@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 312.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"diamond\"},Damage:0s}",
+	tasks: [{
+		uid: "e123169b",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "diamond"
+			}
+		}],
+		consume_items: true
+	}]
+}

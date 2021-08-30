@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: 476.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"enderio:block_alloy\",Count:1b,Damage:5s}},Damage:0s}",
+	tasks: [{
+		uid: "a32c17d3",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "enderio:block_alloy",
+					Count: 1b,
+					Damage: 5s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

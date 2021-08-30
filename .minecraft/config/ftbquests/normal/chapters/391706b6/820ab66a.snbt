@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 600.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"steamworld:steaite_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3211ba43",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "steamworld:steaite_crystal"
+		}],
+		consume_items: true
+	}]
+}

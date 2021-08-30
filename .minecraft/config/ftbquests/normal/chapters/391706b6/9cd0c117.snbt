@@ -1,0 +1,26 @@
+{
+	x: 3.0d,
+	y: 78.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:chaotic_boots\",Count:1b,tag:{DEUpgrades:{shieldRec:4b,shieldCap:4b,rfCap:4b,jumpBoost:4b},Energy:512000000,isStable:1b},Damage:0s}",
+	tasks: [{
+		uid: "497c5150",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:chaotic_boots",
+			tag: {
+				DEUpgrades: {
+					shieldRec: 4b,
+					shieldCap: 4b,
+					rfCap: 4b,
+					jumpBoost: 4b
+				},
+				Energy: 512000000,
+				isStable: 1b
+			}
+		}],
+		consume_items: true
+	}]
+}

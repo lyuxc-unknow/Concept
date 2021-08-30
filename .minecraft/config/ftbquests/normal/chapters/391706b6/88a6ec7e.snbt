@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 743.0d,
+	description: "{id:\"embers:plate_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5e392d33",
+		type: "item",
+		items: [{
+			item: "embers:plate_tin"
+		}],
+		consume_items: true
+	}]
+}

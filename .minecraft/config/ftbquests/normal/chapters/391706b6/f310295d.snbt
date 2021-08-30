@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 605.0d,
+	description: "{id:\"thermalconversion:cell8\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c6d4afd9",
+		type: "item",
+		items: [{
+			item: "thermalconversion:cell8"
+		}],
+		consume_items: true
+	}]
+}

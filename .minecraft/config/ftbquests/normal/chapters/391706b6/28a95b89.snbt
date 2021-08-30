@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:energy_field_provider\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8c349044",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:energy_field_provider"
+		}],
+		consume_items: true
+	}]
+}

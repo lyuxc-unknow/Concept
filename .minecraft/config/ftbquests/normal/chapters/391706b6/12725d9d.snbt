@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 296.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"awakeneddraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "0f060c47",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "awakeneddraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

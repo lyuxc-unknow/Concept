@@ -1,0 +1,67 @@
+{
+	x: 14.0d,
+	y: 354.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:3,Durability:8,HarvestLevel:0,Attack:0.55f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:5,Durability:8,HarvestLevel:0,Attack:0.55f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"writable1\",\"writable2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2ecdb15e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.51f,
+					FreeModifiers: 3,
+					Durability: 8,
+					HarvestLevel: 0,
+					Attack: 0.55f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.51f,
+					FreeModifiers: 5,
+					Durability: 8,
+					HarvestLevel: 0,
+					Attack: 0.55f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"paper",
+						"paper",
+						"paper"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "writable",
+					color: -1,
+					level: 2,
+					writable2: 1b,
+					writable1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"writable1",
+					"writable2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

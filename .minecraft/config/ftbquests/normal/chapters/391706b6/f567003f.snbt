@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 455.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"gaia\"},Damage:0s}",
+	tasks: [{
+		uid: "71d6ab4e",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "gaia"
+			}
+		}],
+		consume_items: true
+	}]
+}

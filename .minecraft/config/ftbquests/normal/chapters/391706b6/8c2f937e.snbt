@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 255.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"tungsten\"},Damage:0s}",
+	tasks: [{
+		uid: "a16dc9f4",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "tungsten"
+			}
+		}],
+		consume_items: true
+	}]
+}

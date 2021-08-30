@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 608.0d,
+	description: "{id:\"tinker_io:upg\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "0b348fa7",
+		type: "item",
+		items: [{
+			item: "tinker_io:upg 1 2"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 507.0d,
+	description: "{id:\"mekanism:clump\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d6cb397d",
+		type: "item",
+		items: [{
+			item: "mekanism:clump"
+		}],
+		consume_items: true
+	}]
+}

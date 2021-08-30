@@ -1,0 +1,70 @@
+{
+	x: 7.0d,
+	y: 656.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:scimitar\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:404,HarvestLevel:2,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:404,HarvestLevel:2,Attack:6.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"sentient_metal\",\"sentient_metal\",\"sentient_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.willful\",color:-8462621,level:1},{identifier:\"tconevo.sentient\",color:-8462621,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.willful\",\"tconevo.sentient\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "56167f81",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:scimitar",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 404,
+					HarvestLevel: 2,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 404,
+					HarvestLevel: 2,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sentient_metal",
+						"sentient_metal",
+						"sentient_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.willful",
+					color: -8462621,
+					level: 1
+				},
+				{
+					identifier: "tconevo.sentient",
+					color: -8462621,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.willful",
+					"tconevo.sentient",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

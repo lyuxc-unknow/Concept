@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 775.0d,
+	description: "{id:\"omegacraft:projectorb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d69a99df",
+		type: "item",
+		items: [{
+			item: "omegacraft:projectorb"
+		}],
+		consume_items: true
+	}]
+}

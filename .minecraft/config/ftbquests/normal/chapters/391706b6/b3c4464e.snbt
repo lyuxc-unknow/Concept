@@ -1,0 +1,19 @@
+{
+	x: 18.0d,
+	y: 781.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"hootch\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "dfb20234",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "hootch",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

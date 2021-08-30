@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 760.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"industrialforegoing:itemstack_transfer_addon_push\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7199a48",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:itemstack_transfer_addon_push"
+		}],
+		consume_items: true
+	}]
+}

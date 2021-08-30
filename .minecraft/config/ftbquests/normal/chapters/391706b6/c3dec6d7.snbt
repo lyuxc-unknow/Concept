@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 69.0d,
+	description: "{id:\"sonarcore:reinforceddirtbrickfence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "880cc2df",
+		type: "item",
+		items: [{
+			item: "sonarcore:reinforceddirtbrickfence"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 452.0d,
+	description: "{id:\"conarm:leggings_core\",Count:1b,tag:{Material:\"redgarnet\"},Damage:0s}",
+	tasks: [{
+		uid: "f882fba3",
+		type: "item",
+		items: [{
+			id: "conarm:leggings_core",
+			tag: {
+				Material: "redgarnet"
+			}
+		}],
+		consume_items: true
+	}]
+}

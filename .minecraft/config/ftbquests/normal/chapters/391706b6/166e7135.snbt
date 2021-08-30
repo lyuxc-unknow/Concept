@@ -1,0 +1,17 @@
+{
+	x: 19.0d,
+	y: 138.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:14b,Block:\"minecraft:stained_glass_pane\"},Damage:0s}",
+	tasks: [{
+		uid: "7eb8e33d",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 14b,
+				Block: "minecraft:stained_glass_pane"
+			}
+		}],
+		consume_items: true
+	}]
+}

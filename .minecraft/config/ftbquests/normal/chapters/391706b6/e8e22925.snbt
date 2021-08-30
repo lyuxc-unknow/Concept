@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 771.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mapgadgets:potion_maker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "abeef5d7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mapgadgets:potion_maker"
+		}],
+		consume_items: true
+	}]
+}

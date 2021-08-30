@@ -1,0 +1,21 @@
+{
+	x: 26.0d,
+	y: 686.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemcape\",Count:1b,tag:{astralsorcery:{constellationName:\"astralsorcery.constellation.octans\"}},Damage:0s}",
+	tasks: [{
+		uid: "fd561dc8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcape",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.octans"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

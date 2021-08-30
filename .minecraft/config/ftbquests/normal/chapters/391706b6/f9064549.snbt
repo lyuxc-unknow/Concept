@@ -1,0 +1,19 @@
+{
+	x: 31.0d,
+	y: 117.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"ardite\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "da7881a0",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "ardite",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

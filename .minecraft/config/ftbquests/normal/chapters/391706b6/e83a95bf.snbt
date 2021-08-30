@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 269.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"constantan\"},Damage:0s}",
+	tasks: [{
+		uid: "e5ec4915",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "constantan"
+			}
+		}],
+		consume_items: true
+	}]
+}

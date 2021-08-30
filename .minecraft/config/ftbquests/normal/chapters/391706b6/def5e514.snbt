@@ -1,0 +1,72 @@
+{
+	x: 9.0d,
+	y: 324.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.7f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"aquadynamic\",\"jagged\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f51dc277",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.5f,
+					FreeModifiers: 3,
+					Durability: 168,
+					HarvestLevel: 1,
+					Attack: 6.7f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.5f,
+					FreeModifiers: 3,
+					Durability: 168,
+					HarvestLevel: 1,
+					Attack: 6.7f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"prismarine",
+						"prismarine",
+						"prismarine"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "aquadynamic",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "jagged",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"aquadynamic",
+					"jagged",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

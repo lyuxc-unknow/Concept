@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 478.0d,
+	description: "{id:\"extrabotany:splashgrenade\",Count:1b,tag:{brewKey:\"jumpBoost\"},Damage:0s}",
+	tasks: [{
+		uid: "dd1bbd4f",
+		type: "item",
+		items: [{
+			id: "extrabotany:splashgrenade",
+			tag: {
+				brewKey: "jumpBoost"
+			}
+		}],
+		consume_items: true
+	}]
+}

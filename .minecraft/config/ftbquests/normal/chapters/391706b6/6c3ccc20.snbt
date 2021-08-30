@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:wyvern_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4e4a752f",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_chest"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,64 @@
+{
+	x: 10.0d,
+	y: 639.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.45f,FreeModifiers:3,Durability:494,HarvestLevel:1,Attack:11.45f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.45f,FreeModifiers:3,Durability:494,HarvestLevel:1,Attack:11.45f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"certus\",\"certus\",\"certus\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shocking\",color:-3349264,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shocking\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f2a49eeb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.45f,
+					FreeModifiers: 3,
+					Durability: 494,
+					HarvestLevel: 1,
+					Attack: 11.45f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.45f,
+					FreeModifiers: 3,
+					Durability: 494,
+					HarvestLevel: 1,
+					Attack: 11.45f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"certus",
+						"certus",
+						"certus"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shocking",
+					color: -3349264,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shocking",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

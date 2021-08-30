@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 401.0d,
+	description: "{id:\"appliedenergistics2:crystal_seed\",Count:1b,tag:{progress:0},Damage:0s}",
+	tasks: [{
+		uid: "8c63139e",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:crystal_seed",
+			tag: {
+				progress: 0
+			}
+		}],
+		consume_items: true
+	}]
+}

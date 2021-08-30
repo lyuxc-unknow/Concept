@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 774.0d,
+	description: "{id:\"omegacraft:machine_workbenchb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd390001",
+		type: "item",
+		items: [{
+			item: "omegacraft:machine_workbenchb"
+		}],
+		consume_items: true
+	}]
+}

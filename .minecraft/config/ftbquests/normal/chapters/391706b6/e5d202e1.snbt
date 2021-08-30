@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 70.0d,
+	description: "{id:\"sonarcore:stableglass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed1359cb",
+		type: "item",
+		items: [{
+			item: "sonarcore:stableglass"
+		}],
+		consume_items: true
+	}]
+}

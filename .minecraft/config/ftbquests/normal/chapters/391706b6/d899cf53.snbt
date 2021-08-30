@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 602.0d,
+	description: "{id:\"steamworld:block_steaite_gold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cbde418c",
+		type: "item",
+		items: [{
+			item: "steamworld:block_steaite_gold"
+		}],
+		consume_items: true
+	}]
+}

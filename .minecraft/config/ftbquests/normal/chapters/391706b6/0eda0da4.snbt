@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 628.0d,
+	description: "{id:\"torchmaster:feral_flare_lantern\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bdad05bd",
+		type: "item",
+		items: [{
+			item: "torchmaster:feral_flare_lantern"
+		}],
+		consume_items: true
+	}]
+}

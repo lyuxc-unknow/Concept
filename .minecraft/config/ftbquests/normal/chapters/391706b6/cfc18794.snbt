@@ -1,0 +1,64 @@
+{
+	x: 30.0d,
+	y: 356.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.02f,FreeModifiers:3,Durability:822,HarvestLevel:4,Attack:7.53f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.02f,FreeModifiers:3,Durability:822,HarvestLevel:4,Attack:7.53f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"mithril\",\"mithril\",\"mithril\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sos\",color:-14641744,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c1bef929",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.02f,
+					FreeModifiers: 3,
+					Durability: 822,
+					HarvestLevel: 4,
+					Attack: 7.53f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.02f,
+					FreeModifiers: 3,
+					Durability: 822,
+					HarvestLevel: 4,
+					Attack: 7.53f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"mithril",
+						"mithril",
+						"mithril"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sos",
+					color: -14641744,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

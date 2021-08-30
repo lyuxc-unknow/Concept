@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 606.0d,
+	description: "{id:\"thermalintegrate:netherplatinum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "84883404",
+		type: "item",
+		items: [{
+			item: "thermalintegrate:netherplatinum"
+		}],
+		consume_items: true
+	}]
+}

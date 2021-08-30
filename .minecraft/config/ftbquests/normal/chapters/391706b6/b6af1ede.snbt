@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 789.0d,
+	description: "{id:\"tp:blueberry_bush\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "52c80d26",
+		type: "item",
+		items: [{
+			item: "tp:blueberry_bush"
+		}],
+		consume_items: true
+	}]
+}

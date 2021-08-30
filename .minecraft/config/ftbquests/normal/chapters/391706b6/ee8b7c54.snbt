@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 801.0d,
+	description: "{id:\"jaopca:item_dustsmalldraconium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "085f8c5d",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustsmalldraconium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 38.0d,
+	y: 167.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"pulsating_iron\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "8ab39ebd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "pulsating_iron",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

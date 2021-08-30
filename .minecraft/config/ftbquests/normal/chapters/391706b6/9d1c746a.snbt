@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 110.0d,
+	description: "{id:\"naturesaura:field_creator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ce1e2e6d",
+		type: "item",
+		items: [{
+			item: "naturesaura:field_creator"
+		}],
+		consume_items: true
+	}]
+}

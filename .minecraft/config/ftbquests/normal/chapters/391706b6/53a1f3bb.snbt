@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 420.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:astrolabe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8984368c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:astrolabe"
+		}],
+		consume_items: true
+	}]
+}

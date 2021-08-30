@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 670.0d,
+	description: "{id:\"survivalist:rock\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "9cf02c3d",
+		type: "item",
+		items: [{
+			item: "survivalist:rock 1 3"
+		}],
+		consume_items: true
+	}]
+}

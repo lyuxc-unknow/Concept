@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:energy_extractor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "57120b42",
+		type: "item",
+		items: [{
+			item: "overloaded:energy_extractor"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:spectreplank\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9773292b",
+		type: "item",
+		items: [{
+			item: "randomthings:spectreplank"
+		}],
+		consume_items: true
+	}]
+}

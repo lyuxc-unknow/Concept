@@ -1,0 +1,83 @@
+{
+	x: 22.0d,
+	y: 376.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.0f,DrawSpeed:0.1f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:3927,HarvestLevel:0,Attack:1.0f,Range:0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.0f,DrawSpeed:0.1f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:3927,HarvestLevel:0,Attack:1.0f,Range:0.5f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"soularium\",\"soularium\",\"soularium\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"hellish\",color:-9872563,level:1},{identifier:\"duritos\",color:-9872563,level:1},{identifier:\"splinters\",color:-9872563,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"hellish\",\"duritos\",\"splinters\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "05b73d44",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.0f,
+					DrawSpeed: 0.1f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 3927,
+					HarvestLevel: 0,
+					Attack: 1.0f,
+					Range: 0.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.0f,
+					DrawSpeed: 0.1f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 3927,
+					HarvestLevel: 0,
+					Attack: 1.0f,
+					Range: 0.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"soularium",
+						"soularium",
+						"soularium",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "hellish",
+					color: -9872563,
+					level: 1
+				},
+				{
+					identifier: "duritos",
+					color: -9872563,
+					level: 1
+				},
+				{
+					identifier: "splinters",
+					color: -9872563,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"hellish",
+					"duritos",
+					"splinters",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 44.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.hoe_steel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2c22a40c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.hoe_steel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 510.0d,
+	description: "{id:\"mekanism:basicblock\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "ef0b0e36",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 3"
+		}],
+		consume_items: true
+	}]
+}

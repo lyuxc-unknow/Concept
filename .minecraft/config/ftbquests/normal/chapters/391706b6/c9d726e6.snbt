@@ -1,0 +1,72 @@
+{
+	x: 4.0d,
+	y: 344.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:820,HarvestLevel:2,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:820,HarvestLevel:2,Attack:6.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"sky_stone\",\"sky_stone\",\"sky_stone\",\"sky_stone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stonebound\",color:-11907764,level:1},{identifier:\"crumbling\",color:-11907764,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stonebound\",\"crumbling\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "185a6d78",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 820,
+					HarvestLevel: 2,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 820,
+					HarvestLevel: 2,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"sky_stone",
+						"sky_stone",
+						"sky_stone",
+						"sky_stone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stonebound",
+					color: -11907764,
+					level: 1
+				},
+				{
+					identifier: "crumbling",
+					color: -11907764,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stonebound",
+					"crumbling",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

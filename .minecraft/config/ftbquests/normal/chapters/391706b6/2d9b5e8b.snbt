@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 568.0d,
+	description: "{id:\"immersiveengineering:seed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa06b1f1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:seed"
+		}],
+		consume_items: true
+	}]
+}

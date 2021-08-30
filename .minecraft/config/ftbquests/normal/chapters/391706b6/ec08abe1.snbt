@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 487.0d,
+	description: "{id:\"bibliocraft:framedchest\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "f6c18185",
+		type: "item",
+		items: [{
+			item: "bibliocraft:framedchest 1 1"
+		}],
+		consume_items: true
+	}]
+}

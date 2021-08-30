@@ -1,0 +1,68 @@
+{
+	x: 20.0d,
+	y: 390.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:510,HarvestLevel:2,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:510,HarvestLevel:2,Attack:4.5f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\",\"bronze\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"dense\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "6c27a4dd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.8f,
+					FreeModifiers: 3,
+					Durability: 510,
+					HarvestLevel: 2,
+					Attack: 4.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.8f,
+					FreeModifiers: 3,
+					Durability: 510,
+					HarvestLevel: 2,
+					Attack: 4.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bronze",
+						"bronze",
+						"bronze",
+						"bronze"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "dense",
+					color: -1852056,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dense",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

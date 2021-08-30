@@ -1,0 +1,65 @@
+{
+	x: 12.0d,
+	y: 317.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.5f,FreeModifiers:3,Durability:125,HarvestLevel:1,Attack:11.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.5f,FreeModifiers:3,Durability:125,HarvestLevel:1,Attack:11.1f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"xu_demonic_metal\",\"xu_demonic_metal\",\"xu_demonic_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"xu_whispering\",color:-6079744,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"xu_whispering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e31c7b9e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.5f,
+					FreeModifiers: 3,
+					Durability: 125,
+					HarvestLevel: 1,
+					Attack: 11.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.5f,
+					FreeModifiers: 3,
+					Durability: 125,
+					HarvestLevel: 1,
+					Attack: 11.1f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"xu_demonic_metal",
+						"xu_demonic_metal",
+						"xu_demonic_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "xu_whispering",
+					color: -6079744,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"xu_whispering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 742.0d,
+	description: "{id:\"embers:winding_gears\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ed2624ac",
+		type: "item",
+		items: [{
+			item: "embers:winding_gears"
+		}],
+		consume_items: true
+	}]
+}

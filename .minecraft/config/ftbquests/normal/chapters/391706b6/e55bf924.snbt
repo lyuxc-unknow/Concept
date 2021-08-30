@@ -1,0 +1,19 @@
+{
+	x: 17.0d,
+	y: 65.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"steamworld:forgotten sky\"},Damage:0s}",
+	tasks: [{
+		uid: "9a5f51be",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "steamworld:forgotten sky"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 789.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:flint_shears\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "edd496ea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:flint_shears"
+		}],
+		consume_items: true
+	}]
+}

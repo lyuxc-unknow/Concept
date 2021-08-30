@@ -1,0 +1,19 @@
+{
+	x: 20.0d,
+	y: 778.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"melodic_alloy\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "3727d25c",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "melodic_alloy",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

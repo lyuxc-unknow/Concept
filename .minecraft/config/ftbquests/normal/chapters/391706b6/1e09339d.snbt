@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 775.0d,
+	description: "{id:\"omegacraft:energy_receptorb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "71c8cc14",
+		type: "item",
+		items: [{
+			item: "omegacraft:energy_receptorb"
+		}],
+		consume_items: true
+	}]
+}

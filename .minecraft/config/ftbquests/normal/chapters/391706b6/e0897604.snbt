@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 285.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"tungsten\"},Damage:0s}",
+	tasks: [{
+		uid: "03104c7d",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "tungsten"
+			}
+		}],
+		consume_items: true
+	}]
+}

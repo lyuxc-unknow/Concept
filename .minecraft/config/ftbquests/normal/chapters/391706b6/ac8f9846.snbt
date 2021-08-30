@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 519.0d,
+	description: "{id:\"darkutils:lore_tag\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "710f7e28",
+		type: "item",
+		items: [{
+			item: "darkutils:lore_tag 1 2"
+		}],
+		consume_items: true
+	}]
+}

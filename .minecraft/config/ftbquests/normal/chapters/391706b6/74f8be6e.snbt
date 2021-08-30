@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 490.0d,
+	description: "{id:\"bibliocraft:paintingframeborderless\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "4177e1ff",
+		type: "item",
+		items: [{
+			item: "bibliocraft:paintingframeborderless 1 4"
+		}],
+		consume_items: true
+	}]
+}

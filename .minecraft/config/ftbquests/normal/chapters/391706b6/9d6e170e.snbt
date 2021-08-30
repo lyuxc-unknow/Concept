@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_dustniobium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6ae88df9",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustniobium"
+		}],
+		consume_items: true
+	}]
+}

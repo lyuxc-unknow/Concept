@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 767.0d,
+	description: "{id:\"lordcraft:translocation_marker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "532871d3",
+		type: "item",
+		items: [{
+			item: "lordcraft:translocation_marker"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 673.0d,
+	description: "{id:\"actuallyadditions:block_colored_lamp_on\",Count:1b,Damage:7s}",
+	tasks: [{
+		uid: "bc20ab61",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_colored_lamp_on 1 7"
+		}],
+		consume_items: true
+	}]
+}

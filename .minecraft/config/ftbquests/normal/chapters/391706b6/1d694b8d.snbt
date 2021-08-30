@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 685.0d,
+	description: "{id:\"astralsorcery:itemcoloredlens\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "d6a5bf2a",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcoloredlens 1 5"
+		}],
+		consume_items: true
+	}]
+}

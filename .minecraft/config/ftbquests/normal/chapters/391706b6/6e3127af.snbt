@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 420.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:obediencestick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bd2e8b84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:obediencestick"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 509.0d,
+	description: "{id:\"mekanism:shard\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "123ebf31",
+		type: "item",
+		items: [{
+			item: "mekanism:shard 1 3"
+		}],
+		consume_items: true
+	}]
+}

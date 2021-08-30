@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:long_invisibility\"},Damage:0s}",
+	tasks: [{
+		uid: "0b21a6ba",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:long_invisibility"
+			}
+		}],
+		consume_items: true
+	}]
+}

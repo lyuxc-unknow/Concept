@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 540.0d,
+	description: "{id:\"integrateddynamics:part_dynamic_light_panel_item\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "507832d0",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:part_dynamic_light_panel_item"
+		}],
+		consume_items: true
+	}]
+}

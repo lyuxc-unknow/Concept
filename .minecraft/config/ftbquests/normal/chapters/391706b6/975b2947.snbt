@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 792.0d,
+	description: "{id:\"tp:netherstar_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad1b5395",
+		type: "item",
+		items: [{
+			item: "tp:netherstar_block"
+		}],
+		consume_items: true
+	}]
+}

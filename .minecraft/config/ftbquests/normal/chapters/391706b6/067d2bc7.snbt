@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 129.0d,
+	description: "{id:\"openblocks:empty_map\",Count:1b,tag:{Scale:0b},Damage:0s}",
+	tasks: [{
+		uid: "14c3099e",
+		type: "item",
+		items: [{
+			id: "openblocks:empty_map",
+			tag: {
+				Scale: 0b
+			}
+		}],
+		consume_items: true
+	}]
+}

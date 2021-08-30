@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"agricarnationChibi\"},Damage:0s}",
+	tasks: [{
+		uid: "c5ceedf2",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "agricarnationChibi"
+			}
+		}],
+		consume_items: true
+	}]
+}

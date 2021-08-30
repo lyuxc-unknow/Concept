@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 122.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"etchacid\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "8837b76d",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "etchacid",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

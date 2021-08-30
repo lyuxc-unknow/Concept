@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 293.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"titanium\"},Damage:0s}",
+	tasks: [{
+		uid: "d8de0903",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "titanium"
+			}
+		}],
+		consume_items: true
+	}]
+}

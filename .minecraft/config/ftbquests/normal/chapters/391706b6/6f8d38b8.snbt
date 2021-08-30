@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 765.0d,
+	description: "{id:\"lordcraft:rod_3\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eb3be013",
+		type: "item",
+		items: [{
+			item: "lordcraft:rod_3"
+		}],
+		consume_items: true
+	}]
+}

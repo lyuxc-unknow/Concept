@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 284.0d,
+	description: "{id:\"tconstruct:tough_binding\",Count:1b,tag:{Material:\"gelid_enderium\"},Damage:0s}",
+	tasks: [{
+		uid: "5df1b313",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_binding",
+			tag: {
+				Material: "gelid_enderium"
+			}
+		}],
+		consume_items: true
+	}]
+}

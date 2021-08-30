@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 763.0d,
+	description: "{id:\"tconevo:part_arcane_focus\",Count:1b,tag:{Material:\"flux_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "3e226fb0",
+		type: "item",
+		items: [{
+			id: "tconevo:part_arcane_focus",
+			tag: {
+				Material: "flux_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

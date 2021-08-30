@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 210.0d,
+	description: "{id:\"enderio:item_extract_speed_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "748d6fed",
+		type: "item",
+		items: [{
+			item: "enderio:item_extract_speed_upgrade"
+		}],
+		consume_items: true
+	}]
+}

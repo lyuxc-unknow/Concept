@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 529.0d,
+	description: "{id:\"emergingtechnology:aquaponicblock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e3e2ad19",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:aquaponicblock"
+		}],
+		consume_items: true
+	}]
+}

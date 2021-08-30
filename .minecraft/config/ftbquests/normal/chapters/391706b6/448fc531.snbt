@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 550.0d,
+	description: "{id:\"mysticalagriculture:fluxed_electrum_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9db9193b",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:fluxed_electrum_seeds"
+		}],
+		consume_items: true
+	}]
+}

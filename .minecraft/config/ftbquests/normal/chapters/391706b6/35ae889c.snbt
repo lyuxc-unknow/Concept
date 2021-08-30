@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 484.0d,
+	description: "{id:\"bhc:blue_heart_canister\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a0a83a5f",
+		type: "item",
+		items: [{
+			item: "bhc:blue_heart_canister"
+		}],
+		consume_items: true
+	}]
+}

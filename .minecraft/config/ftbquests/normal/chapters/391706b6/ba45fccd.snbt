@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"solegnoliaChibi\"},Damage:0s}",
+	tasks: [{
+		uid: "906a49b7",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "solegnoliaChibi"
+			}
+		}],
+		consume_items: true
+	}]
+}

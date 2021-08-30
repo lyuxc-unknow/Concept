@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 617.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"black_quartz\"},Damage:0s}",
+	tasks: [{
+		uid: "6f911750",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "black_quartz"
+			}
+		}],
+		consume_items: true
+	}]
+}

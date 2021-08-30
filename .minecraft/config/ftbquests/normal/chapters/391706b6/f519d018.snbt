@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 302.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "d801460c",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

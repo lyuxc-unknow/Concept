@@ -1,0 +1,17 @@
+{
+	x: 29.0d,
+	y: 594.0d,
+	description: "{id:\"rftoolsdim:known_dimlet\",Count:1b,tag:{dkey:\"Flat\"},Damage:6s}",
+	tasks: [{
+		uid: "49dd137e",
+		type: "item",
+		items: [{
+			id: "rftoolsdim:known_dimlet",
+			tag: {
+				dkey: "Flat"
+			},
+			Damage: 6s
+		}],
+		consume_items: true
+	}]
+}

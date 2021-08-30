@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 673.0d,
+	description: "{id:\"actuallyadditions:block_lava_factory_controller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "738774b7",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_lava_factory_controller"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 26.0d,
+	y: 502.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:3,key:\"bloodmagic.upgrade.criticalStrike\"},Damage:0s}",
+	tasks: [{
+		uid: "d3e27ea4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 3,
+				key: "bloodmagic.upgrade.criticalStrike"
+			}
+		}],
+		consume_items: true
+	}]
+}

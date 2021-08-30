@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 616.0d,
+	description: "{id:\"tinkersarsenal:boomstick_handle\",Count:1b,tag:{Material:\"certus\"},Damage:0s}",
+	tasks: [{
+		uid: "9884707d",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_handle",
+			tag: {
+				Material: "certus"
+			}
+		}],
+		consume_items: true
+	}]
+}

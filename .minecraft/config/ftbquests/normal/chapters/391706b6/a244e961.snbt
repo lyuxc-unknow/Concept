@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 604.0d,
+	description: "{id:\"storagedrawers:upgrade_status\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e2b88f7d",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_status"
+		}],
+		consume_items: true
+	}]
+}

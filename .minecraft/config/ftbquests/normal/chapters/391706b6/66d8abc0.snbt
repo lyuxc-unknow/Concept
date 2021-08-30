@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 310.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"neutronium\"},Damage:0s}",
+	tasks: [{
+		uid: "c36cd66a",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "neutronium"
+			}
+		}],
+		consume_items: true
+	}]
+}

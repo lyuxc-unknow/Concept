@@ -1,0 +1,70 @@
+{
+	x: 28.0d,
+	y: 635.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:439,HarvestLevel:2,Attack:3.25f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:6.5f,FreeModifiers:3,Durability:439,HarvestLevel:2,Attack:3.25f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"electrical_steel\",\"electrical_steel\",\"electrical_steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-5658199,level:1},{identifier:\"shocking\",color:-5658199,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"shocking\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "41289c5a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 439,
+					HarvestLevel: 2,
+					Attack: 3.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 439,
+					HarvestLevel: 2,
+					Attack: 3.25f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"electrical_steel",
+						"electrical_steel",
+						"electrical_steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -5658199,
+					level: 1
+				},
+				{
+					identifier: "shocking",
+					color: -5658199,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"shocking",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

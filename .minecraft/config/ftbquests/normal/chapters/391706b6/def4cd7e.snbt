@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 537.0d,
+	description: "{id:\"ftbquests:detector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8b47c512",
+		type: "item",
+		items: [{
+			item: "ftbquests:detector"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"peridot\"},Damage:0s}",
+	tasks: [{
+		uid: "3f2c36ed",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "peridot"
+			}
+		}],
+		consume_items: true
+	}]
+}

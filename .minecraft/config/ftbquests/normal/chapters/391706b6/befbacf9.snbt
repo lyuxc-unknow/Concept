@@ -1,0 +1,77 @@
+{
+	x: 25.0d,
+	y: 369.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:2144,HarvestLevel:4,Attack:8.33f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:2144,HarvestLevel:4,Attack:8.33f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"momentum\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2e23e39d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 12.0f,
+					FreeModifiers: 3,
+					Durability: 2144,
+					HarvestLevel: 4,
+					Attack: 8.33f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 12.0f,
+					FreeModifiers: 3,
+					Durability: 2144,
+					HarvestLevel: 4,
+					Attack: 8.33f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cobalt",
+						"cobalt",
+						"cobalt",
+						"cobalt"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -14122284,
+					level: 1
+				},
+				{
+					identifier: "momentum",
+					color: -14122284,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"momentum",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

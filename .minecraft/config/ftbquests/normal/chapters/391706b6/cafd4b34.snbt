@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 3.0d,
+	description: "{id:\"minecraft:stonebrick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5902108",
+		type: "item",
+		items: [{
+			item: "minecraft:stonebrick"
+		}],
+		consume_items: true
+	}]
+}

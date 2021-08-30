@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 591.0d,
+	description: "{id:\"prodigytech:fuel_pellet_16\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9c8067b",
+		type: "item",
+		items: [{
+			item: "prodigytech:fuel_pellet_16"
+		}],
+		consume_items: true
+	}]
+}

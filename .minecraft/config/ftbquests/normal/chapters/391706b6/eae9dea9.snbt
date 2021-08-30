@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 281.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"ludicrite\"},Damage:0s}",
+	tasks: [{
+		uid: "49cf7dd0",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "ludicrite"
+			}
+		}],
+		consume_items: true
+	}]
+}

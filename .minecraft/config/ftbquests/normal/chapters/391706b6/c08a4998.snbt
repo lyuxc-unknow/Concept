@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 36.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:meter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "624d3101",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:meter"
+		}],
+		consume_items: true
+	}]
+}

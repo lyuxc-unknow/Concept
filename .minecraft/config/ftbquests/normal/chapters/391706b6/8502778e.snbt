@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"ruby\"},Damage:0s}",
+	tasks: [{
+		uid: "1646d20c",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "ruby"
+			}
+		}],
+		consume_items: true
+	}]
+}

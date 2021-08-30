@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"lava\"},Damage:1s}",
+	tasks: [{
+		uid: "90402c62",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "lava"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 530.0d,
+	description: "{id:\"emergingtechnology:plasticsheet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "539e0123",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:plasticsheet"
+		}],
+		consume_items: true
+	}]
+}

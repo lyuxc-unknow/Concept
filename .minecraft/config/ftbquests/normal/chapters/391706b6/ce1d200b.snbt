@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 533.0d,
+	description: "{id:\"enderutilities:molecular_exciter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "80ca3625",
+		type: "item",
+		items: [{
+			item: "enderutilities:molecular_exciter"
+		}],
+		consume_items: true
+	}]
+}

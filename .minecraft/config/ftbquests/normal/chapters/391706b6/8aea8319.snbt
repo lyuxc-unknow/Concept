@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: 65.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"integrateddynamics:biome_meneglin\"},Damage:0s}",
+	tasks: [{
+		uid: "c83da768",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "integrateddynamics:biome_meneglin"
+			}
+		}],
+		consume_items: true
+	}]
+}

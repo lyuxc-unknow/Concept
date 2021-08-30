@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 274.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"advancedalloy\"},Damage:0s}",
+	tasks: [{
+		uid: "d71b5d1d",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "advancedalloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

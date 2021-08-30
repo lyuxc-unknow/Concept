@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 689.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"chancecubes:creative_pendant\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a6bee95e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "chancecubes:creative_pendant"
+		}],
+		consume_items: true
+	}]
+}

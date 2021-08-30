@@ -1,0 +1,79 @@
+{
+	x: 37.0d,
+	y: 641.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:javelin\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:15.0f,FreeModifiers:3,Durability:2842,HarvestLevel:5,Attack:14.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:15.0f,FreeModifiers:3,Durability:2842,HarvestLevel:5,Attack:14.0f},Special:{Categories:[\"weapon\",\"tool\",\"projectile\"]},TinkerData:{Materials:[\"dark_matter\",\"dark_matter\",\"dark_matter\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.culling\",color:-13684945,level:1},{identifier:\"tconevo.staggering\",color:-13684945,level:1},{identifier:\"tconevo.eternal_density\",color:-13684945,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.culling\",\"tconevo.staggering\",\"tconevo.eternal_density1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d1e2c1e7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:javelin",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 15.0f,
+					FreeModifiers: 3,
+					Durability: 2842,
+					HarvestLevel: 5,
+					Attack: 14.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 15.0f,
+					FreeModifiers: 3,
+					Durability: 2842,
+					HarvestLevel: 5,
+					Attack: 14.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dark_matter",
+						"dark_matter",
+						"dark_matter"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.culling",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "tconevo.staggering",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "tconevo.eternal_density",
+					color: -13684945,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.culling",
+					"tconevo.staggering",
+					"tconevo.eternal_density1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

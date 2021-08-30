@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:grind_ball_mold\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f1913a5a",
+		type: "item",
+		items: [{
+			item: "custom_additions:grind_ball_mold"
+		}],
+		consume_items: true
+	}]
+}

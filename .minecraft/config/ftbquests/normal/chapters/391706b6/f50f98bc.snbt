@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 188.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderio:item_ender_food\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4bf7a60a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_ender_food"
+		}],
+		consume_items: true
+	}]
+}

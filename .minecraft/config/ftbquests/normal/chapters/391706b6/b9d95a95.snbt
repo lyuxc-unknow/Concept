@@ -1,0 +1,20 @@
+{
+	x: 19.0d,
+	y: 499.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:0,key:\"bloodmagic.upgrade.fireResist\"},Damage:0s}",
+	tasks: [{
+		uid: "ea34ea11",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 0,
+				key: "bloodmagic.upgrade.fireResist"
+			}
+		}],
+		consume_items: true
+	}]
+}

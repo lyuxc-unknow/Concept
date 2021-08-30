@@ -1,0 +1,71 @@
+{
+	x: 27.0d,
+	y: 317.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.5f,FreeModifiers:3,Durability:1305,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.5f,FreeModifiers:3,Durability:1305,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"diamantine_crystal\",\"diamantine_crystal\",\"diamantine_crystal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.crystalline\",color:-7617026,level:1},{identifier:\"tconevo.aftershock\",color:-7617026,level:3},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.crystalline\",\"tconevo.aftershock1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9272e6ef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.5f,
+					FreeModifiers: 3,
+					Durability: 1305,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.5f,
+					FreeModifiers: 3,
+					Durability: 1305,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"diamantine_crystal",
+						"diamantine_crystal",
+						"diamantine_crystal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.crystalline",
+					color: -7617026,
+					level: 1
+				},
+				{
+					identifier: "tconevo.aftershock",
+					color: -7617026,
+					level: 3
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.crystalline",
+					"tconevo.aftershock1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

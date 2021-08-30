@@ -1,0 +1,17 @@
+{
+	x: 19.0d,
+	y: 140.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"thermalfoundation:ore\"},Damage:0s}",
+	tasks: [{
+		uid: "4e91b7e5",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "thermalfoundation:ore"
+			}
+		}],
+		consume_items: true
+	}]
+}

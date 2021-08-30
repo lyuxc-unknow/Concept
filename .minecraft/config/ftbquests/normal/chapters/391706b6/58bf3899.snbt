@@ -1,0 +1,17 @@
+{
+	x: 14.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:portable_wired_charger\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "0d23b9bc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:portable_wired_charger",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

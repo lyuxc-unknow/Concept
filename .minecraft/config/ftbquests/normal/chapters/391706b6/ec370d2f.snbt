@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 790.0d,
+	description: "{id:\"tp:asphalt_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "386b540a",
+		type: "item",
+		items: [{
+			item: "tp:asphalt_block"
+		}],
+		consume_items: true
+	}]
+}

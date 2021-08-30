@@ -1,0 +1,69 @@
+{
+	x: 8.0d,
+	y: 363.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:121,HarvestLevel:0,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:121,HarvestLevel:0,Attack:3.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dreamwood\",\"dreamwood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-5391425,level:1},{identifier:\"tconevo.aura_siphon\",color:-5391425,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tconevo.aura_siphon\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "accb76d0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 121,
+					HarvestLevel: 0,
+					Attack: 3.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 121,
+					HarvestLevel: 0,
+					Attack: 3.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dreamwood",
+						"dreamwood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -5391425,
+					level: 1
+				},
+				{
+					identifier: "tconevo.aura_siphon",
+					color: -5391425,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tconevo.aura_siphon",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 259.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"stone\"},Damage:0s}",
+	tasks: [{
+		uid: "a1755e14",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 13.0d,
+	y: 779.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"soulium\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "6a282f89",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "soulium",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

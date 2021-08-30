@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 529.0d,
+	description: "{id:\"emergingtechnology:shreddedstarchblock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6154ad61",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:shreddedstarchblock"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 26.0d,
+	y: 80.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extracells:pattern.fluid\",Count:1b,tag:{Fluid:{FluidName:\"biocrude\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "d2a2e37f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:pattern.fluid",
+			tag: {
+				Fluid: {
+					FluidName: "biocrude",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

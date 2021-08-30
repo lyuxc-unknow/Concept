@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:mystical_flower_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b101aac4",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:mystical_flower_essence"
+		}],
+		consume_items: true
+	}]
+}

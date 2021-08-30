@@ -1,0 +1,19 @@
+{
+	x: 19.0d,
+	y: 48.0d,
+	description: "{ForgeCaps:{Parent:{Size:9,Items:[]}},id:\"draconicevolution:wyvern_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b6721597",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 9,
+					Items: []
+				}
+			},
+			id: "draconicevolution:wyvern_shovel"
+		}],
+		consume_items: true
+	}]
+}

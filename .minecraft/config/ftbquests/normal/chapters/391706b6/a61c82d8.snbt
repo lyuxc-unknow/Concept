@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:glowing_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5367e891",
+		type: "item",
+		items: [{
+			item: "rftools:glowing_module"
+		}],
+		consume_items: true
+	}]
+}

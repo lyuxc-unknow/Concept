@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 558.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:storage_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ff76294e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:storage_module"
+		}],
+		consume_items: true
+	}]
+}

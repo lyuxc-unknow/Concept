@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	description: "{id:\"minecraft:dirt\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "58499820",
+		type: "item",
+		items: [{
+			item: "minecraft:dirt 1 1"
+		}],
+		consume_items: true
+	}]
+}

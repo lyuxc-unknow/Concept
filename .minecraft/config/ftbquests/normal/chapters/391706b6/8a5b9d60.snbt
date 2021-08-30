@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:chaotic_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c7d50cd4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:chaotic_chest"
+		}],
+		consume_items: true
+	}]
+}

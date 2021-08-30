@@ -1,0 +1,21 @@
+{
+	x: 18.0d,
+	y: 314.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"naturesaura:ancient_bark\",Count:1b,Damage:0s}},Damage:2s}",
+	tasks: [{
+		uid: "bb97e928",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "naturesaura:ancient_bark",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

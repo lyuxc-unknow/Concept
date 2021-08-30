@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 221.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"sapphire\"},Damage:0s}",
+	tasks: [{
+		uid: "61d49818",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "sapphire"
+			}
+		}],
+		consume_items: true
+	}]
+}

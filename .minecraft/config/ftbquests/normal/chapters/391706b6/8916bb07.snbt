@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 440.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"blutonium\"},Damage:0s}",
+	tasks: [{
+		uid: "1cd3b820",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "blutonium"
+			}
+		}],
+		consume_items: true
+	}]
+}

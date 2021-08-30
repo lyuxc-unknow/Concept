@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 393.0d,
+	description: "{id:\"tconstruct:seared\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "32a051ab",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 5"
+		}],
+		consume_items: true
+	}]
+}

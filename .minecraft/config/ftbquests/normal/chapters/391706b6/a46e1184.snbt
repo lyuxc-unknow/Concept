@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 536.0d,
+	description: "{id:\"bigreactors:dustyellorium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9d7705fb",
+		type: "item",
+		items: [{
+			item: "bigreactors:dustyellorium"
+		}],
+		consume_items: true
+	}]
+}

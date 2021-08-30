@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 577.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"moreavaritia:infinitympick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ca5a33c5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "moreavaritia:infinitympick"
+		}],
+		consume_items: true
+	}]
+}

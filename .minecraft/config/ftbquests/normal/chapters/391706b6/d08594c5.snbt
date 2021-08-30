@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 594.0d,
+	description: "{id:\"rftoolsdim:structure_essence\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "a150aa08",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:structure_essence 1 2"
+		}],
+		consume_items: true
+	}]
+}

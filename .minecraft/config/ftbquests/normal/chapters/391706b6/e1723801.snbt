@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 591.0d,
+	description: "{id:\"random_add:phantom_light_stick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b359b559",
+		type: "item",
+		items: [{
+			item: "random_add:phantom_light_stick"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 414.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:elementiumshovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a70a966a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:elementiumshovel"
+		}],
+		consume_items: true
+	}]
+}

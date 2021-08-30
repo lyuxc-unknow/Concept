@@ -1,0 +1,75 @@
+{
+	x: 11.0d,
+	y: 330.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:9.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:1240,HarvestLevel:4,Attack:9.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:9.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:1240,HarvestLevel:4,Attack:9.5f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"platinum\",\"platinum\",\"platinum\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.deadly_precision\",color:-10366477,level:1},{identifier:\"coldblooded\",color:-10366477,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.deadly_precision\",\"coldblooded\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4571ce7c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 1240,
+					HarvestLevel: 4,
+					Attack: 9.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 1240,
+					HarvestLevel: 4,
+					Attack: 9.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"platinum",
+						"platinum",
+						"platinum"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.deadly_precision",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "coldblooded",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.deadly_precision",
+					"coldblooded",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

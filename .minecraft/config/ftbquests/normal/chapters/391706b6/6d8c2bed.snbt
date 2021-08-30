@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 242.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"aquamarine\"},Damage:0s}",
+	tasks: [{
+		uid: "492a5dfd",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "aquamarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

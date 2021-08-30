@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 111.0d,
+	description: "{id:\"naturesaura:multiblock_maker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01843123",
+		type: "item",
+		items: [{
+			item: "naturesaura:multiblock_maker"
+		}],
+		consume_items: true
+	}]
+}

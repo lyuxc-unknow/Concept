@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 72.0d,
+	description: "{id:\"calculator:amethystfence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b70cc2b",
+		type: "item",
+		items: [{
+			item: "calculator:amethystfence"
+		}],
+		consume_items: true
+	}]
+}

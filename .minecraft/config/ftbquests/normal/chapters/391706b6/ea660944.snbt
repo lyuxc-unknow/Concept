@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"conarm:chest_core\"},Damage:0s}",
+	tasks: [{
+		uid: "c7976fc4",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:chest_core"
+			}
+		}],
+		consume_items: true
+	}]
+}

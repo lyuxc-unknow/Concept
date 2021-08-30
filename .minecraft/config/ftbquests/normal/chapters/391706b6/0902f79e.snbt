@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 264.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"ma.inferium\"},Damage:0s}",
+	tasks: [{
+		uid: "f7b36344",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "ma.inferium"
+			}
+		}],
+		consume_items: true
+	}]
+}

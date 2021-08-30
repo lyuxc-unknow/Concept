@@ -1,0 +1,22 @@
+{
+	x: 27.0d,
+	y: 790.0d,
+	description: "{ForgeCaps:{Parent:{Inventory:{Size:54,Items:[]}},\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:pouch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b2e5bb23",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Inventory: {
+						Size: 54,
+						Items: []
+					}
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:pouch"
+		}],
+		consume_items: true
+	}]
+}

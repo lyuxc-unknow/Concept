@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 415.0d,
+	description: "{id:\"botania:laputashard\",Count:1b,Damage:19s}",
+	tasks: [{
+		uid: "e630904b",
+		type: "item",
+		items: [{
+			item: "botania:laputashard 1 19"
+		}],
+		consume_items: true
+	}]
+}

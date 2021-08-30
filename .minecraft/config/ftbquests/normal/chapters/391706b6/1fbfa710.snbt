@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 799.0d,
+	description: "{id:\"jaopca:item_gearuranium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9cdb509f",
+		type: "item",
+		items: [{
+			item: "jaopca:item_gearuranium"
+		}],
+		consume_items: true
+	}]
+}

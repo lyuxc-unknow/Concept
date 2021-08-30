@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 271.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"ardite\"},Damage:0s}",
+	tasks: [{
+		uid: "44166287",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "ardite"
+			}
+		}],
+		consume_items: true
+	}]
+}

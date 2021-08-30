@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 543.0d,
+	description: "{id:\"mysticalagriculture:witherproof_glass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f5fbf0c3",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:witherproof_glass"
+		}],
+		consume_items: true
+	}]
+}

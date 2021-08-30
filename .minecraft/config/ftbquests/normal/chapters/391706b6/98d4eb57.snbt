@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:programmer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d2d8b13",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:programmer"
+		}],
+		consume_items: true
+	}]
+}

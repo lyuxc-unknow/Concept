@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 212.0d,
+	description: "{id:\"enderio:block_powered_spawner\",Count:1b,tag:{entityId:\"minecraft:skeleton\"},Damage:0s}",
+	tasks: [{
+		uid: "7a9f1de5",
+		type: "item",
+		items: [{
+			id: "enderio:block_powered_spawner",
+			tag: {
+				entityId: "minecraft:skeleton"
+			}
+		}],
+		consume_items: true
+	}]
+}

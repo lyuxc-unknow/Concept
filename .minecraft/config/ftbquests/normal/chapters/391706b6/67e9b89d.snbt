@@ -1,0 +1,19 @@
+{
+	x: 25.0d,
+	y: 409.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"projecte:item.pe_arcana_ring\",Count:1b,tag:{Mode:2b},Damage:0s}",
+	tasks: [{
+		uid: "2f6a571a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_arcana_ring",
+			tag: {
+				Mode: 2b
+			}
+		}],
+		consume_items: true
+	}]
+}

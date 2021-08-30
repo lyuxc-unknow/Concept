@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 316.0d,
+	description: "{id:\"tconstruct:toolforge\",Count:1b,tag:{textureBlock:{id:\"bigreactors:blockblutonium\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "8d1d8f60",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "bigreactors:blockblutonium",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

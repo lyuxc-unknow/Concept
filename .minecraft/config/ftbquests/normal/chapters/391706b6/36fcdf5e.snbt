@@ -1,0 +1,17 @@
+{
+	x: 22.0d,
+	y: 496.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:ritual_diviner\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "f3a1bcb2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_diviner",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

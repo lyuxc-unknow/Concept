@@ -1,0 +1,19 @@
+{
+	x: 21.0d,
+	y: 417.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:bloodpendant\",Count:1b,tag:{brewKey:\"floating\"},Damage:0s}",
+	tasks: [{
+		uid: "fc1095e9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:bloodpendant",
+			tag: {
+				brewKey: "floating"
+			}
+		}],
+		consume_items: true
+	}]
+}

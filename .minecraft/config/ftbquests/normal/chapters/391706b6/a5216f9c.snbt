@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 551.0d,
+	description: "{id:\"mysticalagriculture:rock_crystal_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c46e204",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:rock_crystal_seeds"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 769.0d,
+	description: "{id:\"custom_additions:argent_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "79518a1c",
+		type: "item",
+		items: [{
+			item: "custom_additions:argent_plate"
+		}],
+		consume_items: true
+	}]
+}

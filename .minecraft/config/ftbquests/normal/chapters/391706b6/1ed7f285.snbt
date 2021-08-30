@@ -1,0 +1,73 @@
+{
+	x: 36.0d,
+	y: 337.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hammer\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:5687,HarvestLevel:5,Attack:9.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:5687,HarvestLevel:5,Attack:9.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"enderium\",\"enderium\",\"enderium\",\"enderium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderference\",color:-15835295,level:1},{identifier:\"tconevo.mortal_wounds\",color:-15835295,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderference\",\"tconevo.mortal_wounds\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b00c5c6b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 5687,
+					HarvestLevel: 5,
+					Attack: 9.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 5687,
+					HarvestLevel: 5,
+					Attack: 9.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"enderium",
+						"enderium",
+						"enderium",
+						"enderium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderference",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mortal_wounds",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderference",
+					"tconevo.mortal_wounds",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

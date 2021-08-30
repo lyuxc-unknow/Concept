@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 477.0d,
+	description: "{id:\"extrabotany:friedchicken\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dbb672d1",
+		type: "item",
+		items: [{
+			item: "extrabotany:friedchicken"
+		}],
+		consume_items: true
+	}]
+}

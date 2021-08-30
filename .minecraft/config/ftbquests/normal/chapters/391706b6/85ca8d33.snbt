@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 211.0d,
+	description: "{id:\"enderio:block_buffer\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "90e73166",
+		type: "item",
+		items: [{
+			item: "enderio:block_buffer 1 1"
+		}],
+		consume_items: true
+	}]
+}

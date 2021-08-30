@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 767.0d,
+	description: "{id:\"lordcraft:arcaneforgeb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c3329024",
+		type: "item",
+		items: [{
+			item: "lordcraft:arcaneforgeb"
+		}],
+		consume_items: true
+	}]
+}

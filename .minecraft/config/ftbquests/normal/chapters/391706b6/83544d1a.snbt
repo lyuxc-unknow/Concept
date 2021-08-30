@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 753.0d,
+	description: "{id:\"environmentaltech:ionite_tiles\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc529c5d",
+		type: "item",
+		items: [{
+			item: "environmentaltech:ionite_tiles"
+		}],
+		consume_items: true
+	}]
+}

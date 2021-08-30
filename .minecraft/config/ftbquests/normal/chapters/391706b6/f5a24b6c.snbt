@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 477.0d,
+	description: "{id:\"extrabotany:spiritfuel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7790a88b",
+		type: "item",
+		items: [{
+			item: "extrabotany:spiritfuel"
+		}],
+		consume_items: true
+	}]
+}

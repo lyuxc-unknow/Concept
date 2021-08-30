@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 536.0d,
+	description: "{id:\"bigreactors:turbinecomputerport\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "97f6101f",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinecomputerport"
+		}],
+		consume_items: true
+	}]
+}

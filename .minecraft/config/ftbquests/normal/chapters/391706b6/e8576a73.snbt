@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 88.0d,
+	description: "{id:\"randomthings:customworkbench\",Count:1b,tag:{woodName:\"minecraft:planks\",woodMeta:5},Damage:0s}",
+	tasks: [{
+		uid: "fa0d177c",
+		type: "item",
+		items: [{
+			id: "randomthings:customworkbench",
+			tag: {
+				woodName: "minecraft:planks",
+				woodMeta: 5
+			}
+		}],
+		consume_items: true
+	}]
+}

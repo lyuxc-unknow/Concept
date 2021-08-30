@@ -1,0 +1,19 @@
+{
+	x: 25.0d,
+	y: 779.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"molten_reinforced_pink_slime\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "317c6d5a",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "molten_reinforced_pink_slime",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 302.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"erodium\"},Damage:0s}",
+	tasks: [{
+		uid: "3587c445",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "erodium"
+			}
+		}],
+		consume_items: true
+	}]
+}

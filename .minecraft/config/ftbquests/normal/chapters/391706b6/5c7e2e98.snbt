@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 171.0d,
+	description: "{id:\"alchemistry:condensed_milk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "533b4a95",
+		type: "item",
+		items: [{
+			item: "alchemistry:condensed_milk"
+		}],
+		consume_items: true
+	}]
+}

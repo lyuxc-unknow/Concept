@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tinkersarsenal:boomstick_barrel\"},Damage:0s}",
+	tasks: [{
+		uid: "20909ee4",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tinkersarsenal:boomstick_barrel"
+			}
+		}],
+		consume_items: true
+	}]
+}

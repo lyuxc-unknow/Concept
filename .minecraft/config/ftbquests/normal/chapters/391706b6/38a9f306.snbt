@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 506.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:sentient_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0f721529",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sentient_shovel"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:water_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ff5ffdf5",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:water_seeds"
+		}],
+		consume_items: true
+	}]
+}

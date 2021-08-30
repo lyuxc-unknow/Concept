@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 530.0d,
+	description: "{id:\"emergingtechnology:shreddedpaper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "266b3cd8",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:shreddedpaper"
+		}],
+		consume_items: true
+	}]
+}

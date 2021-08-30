@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"flux_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "8737db5a",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "flux_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

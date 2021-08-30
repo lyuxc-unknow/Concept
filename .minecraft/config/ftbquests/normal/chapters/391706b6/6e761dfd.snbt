@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 663.0d,
+	description: "{id:\"wirelessutils:scorched_pearl\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d219caed",
+		type: "item",
+		items: [{
+			item: "wirelessutils:scorched_pearl"
+		}],
+		consume_items: true
+	}]
+}

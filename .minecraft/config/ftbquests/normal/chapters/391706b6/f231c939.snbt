@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 407.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"projecte:item.pe_alchemical_bag\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7f9f344a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_alchemical_bag"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:healing\"},Damage:0s}",
+	tasks: [{
+		uid: "3ab025b7",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:healing"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 579.0d,
+	description: "{id:\"pneumaticcraft:capacitor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "182fac3f",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:capacitor"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:spectrecoil_redstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7e7be1dd",
+		type: "item",
+		items: [{
+			item: "randomthings:spectrecoil_redstone"
+		}],
+		consume_items: true
+	}]
+}

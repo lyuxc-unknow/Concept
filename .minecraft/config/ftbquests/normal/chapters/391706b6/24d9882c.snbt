@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 745.0d,
+	description: "{id:\"embers:stairs_ashen_brick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5852da52",
+		type: "item",
+		items: [{
+			item: "embers:stairs_ashen_brick"
+		}],
+		consume_items: true
+	}]
+}

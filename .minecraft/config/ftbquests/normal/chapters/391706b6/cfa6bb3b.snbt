@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 630.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"iridium\"},Damage:0s}",
+	tasks: [{
+		uid: "7565f026",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "iridium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 22.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"minecraft:donkey\"}},Damage:0s}",
+	tasks: [{
+		uid: "b8e71a9d",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:donkey"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

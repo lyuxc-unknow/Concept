@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 621.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"bronze\"},Damage:0s}",
+	tasks: [{
+		uid: "ef344cb0",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "bronze"
+			}
+		}],
+		consume_items: true
+	}]
+}

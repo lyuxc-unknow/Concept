@@ -1,0 +1,66 @@
+{
+	x: 1.0d,
+	y: 462.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:771,Defense:20.0f},Stats:{AttackSpeedMultiplier:0.0f,Toughness:1.0f,MiningSpeed:0.0f,FreeModifiers:6,Durability:771,HarvestLevel:0,Attack:0.0f,Defense:20.0f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"lonsdaleite\",\"lonsdaleite\",\"lonsdaleite\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"mundane_armor\",color:-11053225,level:1,mundane1_armor:1b},{identifier:\"tconevo.modifiable\",color:-11053225,level:3},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"mundane1_armor\",\"tconevo.modifiable1\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "7d6a7ffc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 1.0f,
+					FreeModifiers: 3,
+					Durability: 771,
+					Defense: 20.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 0.0f,
+					Toughness: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 6,
+					Durability: 771,
+					HarvestLevel: 0,
+					Attack: 0.0f,
+					Defense: 20.0f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"lonsdaleite",
+						"lonsdaleite",
+						"lonsdaleite"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "mundane_armor",
+					color: -11053225,
+					level: 1,
+					mundane1_armor: 1b
+				},
+				{
+					identifier: "tconevo.modifiable",
+					color: -11053225,
+					level: 3
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"mundane1_armor",
+					"tconevo.modifiable1",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

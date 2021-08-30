@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 428.0d,
+	description: "{id:\"botania:corporearetainer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "035a2dac",
+		type: "item",
+		items: [{
+			item: "botania:corporearetainer"
+		}],
+		consume_items: true
+	}]
+}

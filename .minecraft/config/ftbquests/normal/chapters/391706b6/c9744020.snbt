@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 24.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:long_swiftness\"},Damage:0s}",
+	tasks: [{
+		uid: "eae247e6",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:long_swiftness"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 215.0d,
+	description: "{id:\"tconstruct:nuggets\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "765731ca",
+		type: "item",
+		items: [{
+			item: "tconstruct:nuggets 1 5"
+		}],
+		consume_items: true
+	}]
+}

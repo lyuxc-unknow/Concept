@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: 555.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"幻术师\",level:10,mobId:\"minecraft:illusion_illager\"},Damage:0s}",
+	tasks: [{
+		uid: "d77a626b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "幻术师",
+				level: 10,
+				mobId: "minecraft:illusion_illager"
+			}
+		}],
+		consume_items: true
+	}]
+}

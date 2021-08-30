@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 767.0d,
+	description: "{id:\"lordcraft:crystal_basic_lightningb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e621f5a4",
+		type: "item",
+		items: [{
+			item: "lordcraft:crystal_basic_lightningb"
+		}],
+		consume_items: true
+	}]
+}

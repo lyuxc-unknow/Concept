@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 108.0d,
+	description: "{id:\"mist:meat_cook\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "3e7eae0c",
+		type: "item",
+		items: [{
+			item: "mist:meat_cook 1 5"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 668.0d,
+	description: "{id:\"xnet:redstone_proxy_upd\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a68f1f7b",
+		type: "item",
+		items: [{
+			item: "xnet:redstone_proxy_upd"
+		}],
+		consume_items: true
+	}]
+}

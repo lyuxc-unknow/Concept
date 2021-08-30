@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 421.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"hydroangeas\"},Damage:0s}",
+	tasks: [{
+		uid: "6a2ecc1d",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "hydroangeas"
+			}
+		}],
+		consume_items: true
+	}]
+}

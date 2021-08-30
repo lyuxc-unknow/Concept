@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 267.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"cobalt\"},Damage:0s}",
+	tasks: [{
+		uid: "ed483311",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "cobalt"
+			}
+		}],
+		consume_items: true
+	}]
+}

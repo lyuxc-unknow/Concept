@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 478.0d,
+	description: "{id:\"extrabotany:splashgrenade\",Count:1b,tag:{brewKey:\"waterBreathing\"},Damage:0s}",
+	tasks: [{
+		uid: "403a312e",
+		type: "item",
+		items: [{
+			id: "extrabotany:splashgrenade",
+			tag: {
+				brewKey: "waterBreathing"
+			}
+		}],
+		consume_items: true
+	}]
+}

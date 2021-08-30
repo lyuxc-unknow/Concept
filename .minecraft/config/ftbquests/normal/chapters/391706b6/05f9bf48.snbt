@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:sounddampener\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b8d113d9",
+		type: "item",
+		items: [{
+			item: "randomthings:sounddampener"
+		}],
+		consume_items: true
+	}]
+}

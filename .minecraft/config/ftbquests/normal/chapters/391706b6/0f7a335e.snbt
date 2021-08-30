@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 202.0d,
+	description: "{id:\"enderio:block_not_unholy_dark_fused_quartz\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "02135181",
+		type: "item",
+		items: [{
+			item: "enderio:block_not_unholy_dark_fused_quartz 1 4"
+		}],
+		consume_items: true
+	}]
+}

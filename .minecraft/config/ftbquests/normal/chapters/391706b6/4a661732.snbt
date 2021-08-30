@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 520.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"deepmoblearning:glitch_infused_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fce8932f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:glitch_infused_helmet"
+		}],
+		consume_items: true
+	}]
+}

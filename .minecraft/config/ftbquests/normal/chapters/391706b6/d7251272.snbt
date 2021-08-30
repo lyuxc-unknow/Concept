@@ -1,0 +1,17 @@
+{
+	x: 14.0d,
+	y: 161.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"naturesaura:crushing_catalyst\"},Damage:0s}",
+	tasks: [{
+		uid: "6e68cc3e",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "naturesaura:crushing_catalyst"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 509.0d,
+	description: "{id:\"mekanism:crystal\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "21e17a38",
+		type: "item",
+		items: [{
+			item: "mekanism:crystal 1 2"
+		}],
+		consume_items: true
+	}]
+}

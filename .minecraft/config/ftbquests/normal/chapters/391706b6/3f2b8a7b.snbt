@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 480.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:infinitewine\",Count:1b,tag:{brewKey:\"invisibility\"},Damage:0s}",
+	tasks: [{
+		uid: "e09edbe6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:infinitewine",
+			tag: {
+				brewKey: "invisibility"
+			}
+		}],
+		consume_items: true
+	}]
+}

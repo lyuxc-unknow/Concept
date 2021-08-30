@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 578.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"pneumaticcraft:pneumatic_boots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "da615e39",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:pneumatic_boots"
+		}],
+		consume_items: true
+	}]
+}

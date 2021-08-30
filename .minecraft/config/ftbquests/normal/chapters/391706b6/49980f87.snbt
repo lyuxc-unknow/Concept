@@ -1,0 +1,22 @@
+{
+	x: 36.0d,
+	y: 512.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:energycube\",Count:1b,tag:{tier:4,mekData:{energyStored:1.7976931348623157E308d}},Damage:0s}",
+	tasks: [{
+		uid: "46a4119d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:energycube",
+			tag: {
+				tier: 4,
+				mekData: {
+					energyStored: 1.7976931348623157E308d
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

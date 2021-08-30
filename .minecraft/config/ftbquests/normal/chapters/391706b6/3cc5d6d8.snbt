@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 577.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"morebuckets:ardite_bucket\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "866029ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "morebuckets:ardite_bucket"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 482.0d,
+	description: "{id:\"psi:material\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "782fdae5",
+		type: "item",
+		items: [{
+			item: "psi:material 1 4"
+		}],
+		consume_items: true
+	}]
+}

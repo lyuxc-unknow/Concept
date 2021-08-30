@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 797.0d,
+	description: "{id:\"jaopca:item_singularitygalite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "87aba9c6",
+		type: "item",
+		items: [{
+			item: "jaopca:item_singularitygalite"
+		}],
+		consume_items: true
+	}]
+}

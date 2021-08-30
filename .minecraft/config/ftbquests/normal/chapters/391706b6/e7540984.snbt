@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 621.0d,
+	description: "{id:\"tinkersarsenal:bullet\",Count:1b,tag:{Material:\"lead\"},Damage:0s}",
+	tasks: [{
+		uid: "efbb570e",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet",
+			tag: {
+				Material: "lead"
+			}
+		}],
+		consume_items: true
+	}]
+}

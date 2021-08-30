@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 758.0d,
+	description: "{id:\"industrialforegoing:ore_fermenter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "197fd77d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:ore_fermenter"
+		}],
+		consume_items: true
+	}]
+}

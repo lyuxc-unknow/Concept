@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 578.0d,
+	description: "{id:\"pneumaticcraft:pressure_gauge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ca6035e",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_gauge"
+		}],
+		consume_items: true
+	}]
+}

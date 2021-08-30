@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 294.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"ma.supremium\"},Damage:0s}",
+	tasks: [{
+		uid: "202b1f9b",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "ma.supremium"
+			}
+		}],
+		consume_items: true
+	}]
+}

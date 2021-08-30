@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 543.0d,
+	description: "{id:\"mysticalagriculture:glowstone_lamp\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5fdcfa27",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:glowstone_lamp"
+		}],
+		consume_items: true
+	}]
+}

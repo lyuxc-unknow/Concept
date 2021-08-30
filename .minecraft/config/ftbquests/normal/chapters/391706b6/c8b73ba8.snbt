@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 162.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:1b,Block:\"redstonerepository:storage\"},Damage:0s}",
+	tasks: [{
+		uid: "ef1f28d5",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 1b,
+				Block: "redstonerepository:storage"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,55 @@
+{
+	x: 0.0d,
+	y: 460.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:25707,Defense:9.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:25707,Defense:9.0f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"pulsating_iron\",\"pulsating_iron\",\"pulsating_iron\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"enderport_armor\",color:-13856700,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"enderport_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "2befb61c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 25707,
+					Defense: 9.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 25707,
+					Defense: 9.0f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"pulsating_iron",
+						"pulsating_iron",
+						"pulsating_iron"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderport_armor",
+					color: -13856700,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderport_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

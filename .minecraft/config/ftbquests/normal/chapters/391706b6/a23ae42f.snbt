@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 206.0d,
+	description: "{id:\"enderio:item_dark_steel_hand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f9fb9c6",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_hand"
+		}],
+		consume_items: true
+	}]
+}

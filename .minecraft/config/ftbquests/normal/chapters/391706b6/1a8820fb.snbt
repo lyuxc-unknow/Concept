@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 61.0d,
+	description: "{id:\"extrautils2:decorativeglass\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "a688617c",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativeglass 1 5"
+		}],
+		consume_items: true
+	}]
+}

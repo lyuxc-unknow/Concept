@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:vortex_tube\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "09dbc9da",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:vortex_tube"
+		}],
+		consume_items: true
+	}]
+}

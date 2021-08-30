@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 575.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanismtools:obsidianchestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad58376c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismtools:obsidianchestplate"
+		}],
+		consume_items: true
+	}]
+}

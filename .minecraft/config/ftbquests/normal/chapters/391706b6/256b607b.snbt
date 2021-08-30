@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 106.0d,
+	description: "{id:\"mist:niobium_ingot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7d171bc2",
+		type: "item",
+		items: [{
+			item: "mist:niobium_ingot"
+		}],
+		consume_items: true
+	}]
+}

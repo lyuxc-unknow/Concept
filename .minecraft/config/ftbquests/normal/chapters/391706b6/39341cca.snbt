@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 412.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:lens\",Count:1b,Damage:11s}",
+	tasks: [{
+		uid: "7088b71d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lens",
+			Damage: 11s
+		}],
+		consume_items: true
+	}]
+}

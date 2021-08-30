@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 272.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"bound_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "b72e4ac2",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "bound_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 109.0d,
+	description: "{id:\"mist:mushrooms_cook\",Count:1b,Damage:20s}",
+	tasks: [{
+		uid: "6161c73c",
+		type: "item",
+		items: [{
+			item: "mist:mushrooms_cook 1 20"
+		}],
+		consume_items: true
+	}]
+}

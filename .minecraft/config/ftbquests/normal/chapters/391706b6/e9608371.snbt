@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 673.0d,
+	description: "{id:\"actuallyadditions:block_colored_lamp_on\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "81a9d36a",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_colored_lamp_on 1 9"
+		}],
+		consume_items: true
+	}]
+}

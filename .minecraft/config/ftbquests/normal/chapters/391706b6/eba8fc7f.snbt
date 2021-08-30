@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"rubber\"},Damage:0s}",
+	tasks: [{
+		uid: "53b4e4cd",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "rubber"
+			}
+		}],
+		consume_items: true
+	}]
+}

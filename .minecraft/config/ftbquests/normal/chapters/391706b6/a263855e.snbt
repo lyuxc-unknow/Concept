@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 753.0d,
+	description: "{id:\"environmentaltech:ionite_tile_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "42b2db5c",
+		type: "item",
+		items: [{
+			item: "environmentaltech:ionite_tile_stairs"
+		}],
+		consume_items: true
+	}]
+}

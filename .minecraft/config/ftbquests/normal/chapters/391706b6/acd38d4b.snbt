@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:glowstone_ingot_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "33208690",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:glowstone_ingot_essence"
+		}],
+		consume_items: true
+	}]
+}

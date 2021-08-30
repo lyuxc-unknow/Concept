@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 805.0d,
+	description: "{id:\"jaopca:item_crystalniobium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a5385f81",
+		type: "item",
+		items: [{
+			item: "jaopca:item_crystalniobium"
+		}],
+		consume_items: true
+	}]
+}

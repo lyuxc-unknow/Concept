@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 28.0d,
+	description: "{id:\"minecraft:tipped_arrow\",Count:1b,tag:{Potion:\"minecraft:long_poison\"},Damage:0s}",
+	tasks: [{
+		uid: "c0f9e624",
+		type: "item",
+		items: [{
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "minecraft:long_poison"
+			}
+		}],
+		consume_items: true
+	}]
+}

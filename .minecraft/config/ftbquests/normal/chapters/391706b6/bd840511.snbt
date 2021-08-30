@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 600.0d,
+	description: "{id:\"steamworld:ingot_ancite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f98e964",
+		type: "item",
+		items: [{
+			item: "steamworld:ingot_ancite"
+		}],
+		consume_items: true
+	}]
+}

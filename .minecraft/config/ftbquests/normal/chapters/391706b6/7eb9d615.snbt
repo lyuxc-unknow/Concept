@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 268.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"restonia_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "fb1d8711",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "restonia_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

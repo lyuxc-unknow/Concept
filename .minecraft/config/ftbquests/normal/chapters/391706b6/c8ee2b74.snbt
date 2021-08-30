@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"chrome\"},Damage:0s}",
+	tasks: [{
+		uid: "38f2608e",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "chrome"
+			}
+		}],
+		consume_items: true
+	}]
+}

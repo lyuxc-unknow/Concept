@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 505.0d,
+	description: "{id:\"bloodmagic:soul_snare\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "03005c6a",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}],
+		consume_items: true
+	}]
+}

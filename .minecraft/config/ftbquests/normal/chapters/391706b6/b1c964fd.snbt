@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:zombie_horse\"},Damage:0s}",
+	tasks: [{
+		uid: "25c3a714",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie_horse"
+			}
+		}],
+		consume_items: true
+	}]
+}

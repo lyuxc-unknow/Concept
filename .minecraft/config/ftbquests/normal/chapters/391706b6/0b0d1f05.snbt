@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 519.0d,
+	description: "{id:\"darkutils:filter_inverted\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "800762b5",
+		type: "item",
+		items: [{
+			item: "darkutils:filter_inverted 1 5"
+		}],
+		consume_items: true
+	}]
+}

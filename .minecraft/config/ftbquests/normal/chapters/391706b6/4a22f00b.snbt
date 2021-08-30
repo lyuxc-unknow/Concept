@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 545.0d,
+	description: "{id:\"mysticalagriculture:chunk\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "2b20f9aa",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:chunk 1 1"
+		}],
+		consume_items: true
+	}]
+}

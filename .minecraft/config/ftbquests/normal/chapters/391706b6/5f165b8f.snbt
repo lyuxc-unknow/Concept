@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 648.0d,
+	description: "{id:\"totaltinkers:greatbladecore\",Count:1b,tag:{Material:\"enori_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "675b1c24",
+		type: "item",
+		items: [{
+			id: "totaltinkers:greatbladecore",
+			tag: {
+				Material: "enori_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

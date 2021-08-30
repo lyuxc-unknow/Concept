@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 776.0d,
+	description: "{id:\"omegacraft:fluid_tankb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "984e35eb",
+		type: "item",
+		items: [{
+			item: "omegacraft:fluid_tankb"
+		}],
+		consume_items: true
+	}]
+}

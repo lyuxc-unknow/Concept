@@ -1,0 +1,77 @@
+{
+	x: 29.0d,
+	y: 371.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:442,HarvestLevel:1,Attack:10.15f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:442,HarvestLevel:1,Attack:10.15f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lumium\",\"lumium\",\"lumium\",\"lumium\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.opportunist\",color:-2235507,level:1},{identifier:\"tconevo.luminiferous\",color:-2235507,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.opportunist\",\"tconevo.luminiferous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c09c752e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 442,
+					HarvestLevel: 1,
+					Attack: 10.15f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 442,
+					HarvestLevel: 1,
+					Attack: 10.15f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"lumium",
+						"lumium",
+						"lumium",
+						"lumium"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.opportunist",
+					color: -2235507,
+					level: 1
+				},
+				{
+					identifier: "tconevo.luminiferous",
+					color: -2235507,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.opportunist",
+					"tconevo.luminiferous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

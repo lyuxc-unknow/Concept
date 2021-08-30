@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 264.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"restonia_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "32d185b2",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "restonia_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

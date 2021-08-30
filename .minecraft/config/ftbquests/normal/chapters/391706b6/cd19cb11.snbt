@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 518.0d,
+	description: "{id:\"darkutils:trap_tile\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "cb250f88",
+		type: "item",
+		items: [{
+			item: "darkutils:trap_tile 1 6"
+		}],
+		consume_items: true
+	}]
+}

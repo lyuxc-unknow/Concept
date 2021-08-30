@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 78.0d,
+	description: "{id:\"extracells:part.base\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "da8fc028",
+		type: "item",
+		items: [{
+			item: "extracells:part.base 1 3"
+		}],
+		consume_items: true
+	}]
+}

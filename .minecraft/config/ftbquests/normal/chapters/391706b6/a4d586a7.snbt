@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 33.0d,
+	description: "{id:\"minecraft:shulker_shell\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a719d0b6",
+		type: "item",
+		items: [{
+			item: "minecraft:shulker_shell"
+		}],
+		consume_items: true
+	}]
+}

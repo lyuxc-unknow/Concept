@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 61.0d,
+	description: "{id:\"extrautils2:playerchest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e70315c3",
+		type: "item",
+		items: [{
+			item: "extrautils2:playerchest"
+		}],
+		consume_items: true
+	}]
+}

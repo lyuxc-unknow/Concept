@@ -1,0 +1,74 @@
+{
+	x: 9.0d,
+	y: 788.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:420,HarvestLevel:0,Duration:222,Attack:3.0f,Weight:3.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:420,HarvestLevel:0,Duration:222,Attack:3.0f,Weight:3.8f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"copper\",\"copper\",\"copper\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"established\",color:-1204473,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"established\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "619475f5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 420,
+					HarvestLevel: 0,
+					Duration: 222,
+					Attack: 3.0f,
+					Weight: 3.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 420,
+					HarvestLevel: 0,
+					Duration: 222,
+					Attack: 3.0f,
+					Weight: 3.8f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"copper",
+						"copper",
+						"copper"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "established",
+					color: -1204473,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"established",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

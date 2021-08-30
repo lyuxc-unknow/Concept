@@ -1,0 +1,22 @@
+{
+	x: 32.0d,
+	y: 83.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extracells:pattern.fluid\",Count:1b,tag:{Fluid:{FluidName:\"refinediron\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "9ade580c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:pattern.fluid",
+			tag: {
+				Fluid: {
+					FluidName: "refinediron",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

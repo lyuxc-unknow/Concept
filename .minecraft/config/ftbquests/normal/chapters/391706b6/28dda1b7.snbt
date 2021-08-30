@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: 51.0d,
+	description: "{id:\"thermalexpansion:device\",Count:1b,tag:{RSControl:0b,Facing:3b,Energy:0,SideCache:[B;1B,1B,2B,2B,2B,2B]},Damage:11s}",
+	tasks: [{
+		uid: "73f635a0",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			},
+			Damage: 11s
+		}],
+		consume_items: true
+	}]
+}

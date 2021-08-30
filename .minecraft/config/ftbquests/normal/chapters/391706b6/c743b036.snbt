@@ -1,0 +1,76 @@
+{
+	x: 6.0d,
+	y: 374.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.9f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:275,HarvestLevel:2,Attack:4.5f,Range:1.25f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.9f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:275,HarvestLevel:2,Attack:4.5f,Range:1.25f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"fluix\",\"fluix\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shocking\",color:-8169311,level:1},{identifier:\"tconevo.crystalline\",color:-8169311,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shocking\",\"tconevo.crystalline\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "6c28d78c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 0.9f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 275,
+					HarvestLevel: 2,
+					Attack: 4.5f,
+					Range: 1.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 0.9f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 275,
+					HarvestLevel: 2,
+					Attack: 4.5f,
+					Range: 1.25f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"fluix",
+						"fluix",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shocking",
+					color: -8169311,
+					level: 1
+				},
+				{
+					identifier: "tconevo.crystalline",
+					color: -8169311,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shocking",
+					"tconevo.crystalline",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

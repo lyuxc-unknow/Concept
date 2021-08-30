@@ -1,0 +1,21 @@
+{
+	x: 24.0d,
+	y: 48.0d,
+	description: "{id:\"draconicevolution:wyvern_sword\",Count:1b,tag:{DEUpgrades:{attackDmg:2b,rfCap:2b,attackAOE:2b},Energy:32000000},Damage:0s}",
+	tasks: [{
+		uid: "73adacd3",
+		type: "item",
+		items: [{
+			id: "draconicevolution:wyvern_sword",
+			tag: {
+				DEUpgrades: {
+					attackDmg: 2b,
+					rfCap: 2b,
+					attackAOE: 2b
+				},
+				Energy: 32000000
+			}
+		}],
+		consume_items: true
+	}]
+}

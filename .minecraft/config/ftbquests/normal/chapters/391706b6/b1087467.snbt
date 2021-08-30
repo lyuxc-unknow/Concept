@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 303.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"flux_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "48c96e0d",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "flux_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

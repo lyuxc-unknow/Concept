@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:certus_quartz_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "98fb651c",
+		type: "item",
+		items: [{
+			item: "moreplates:certus_quartz_plate"
+		}],
+		consume_items: true
+	}]
+}

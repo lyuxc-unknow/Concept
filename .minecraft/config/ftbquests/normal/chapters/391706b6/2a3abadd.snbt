@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:stoneseparator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e711d837",
+		type: "item",
+		items: [{
+			item: "calculator:stoneseparator"
+		}],
+		consume_items: true
+	}]
+}

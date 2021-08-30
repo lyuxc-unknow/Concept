@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 4.0d,
+	description: "{id:\"minecraft:end_portal_frame\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e224ed9e",
+		type: "item",
+		items: [{
+			item: "minecraft:end_portal_frame"
+		}],
+		consume_items: true
+	}]
+}

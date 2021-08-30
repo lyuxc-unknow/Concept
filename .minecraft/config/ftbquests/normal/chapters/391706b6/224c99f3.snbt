@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"rubber\"},Damage:0s}",
+	tasks: [{
+		uid: "01e6ed75",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "rubber"
+			}
+		}],
+		consume_items: true
+	}]
+}

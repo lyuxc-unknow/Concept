@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 48.0d,
+	description: "{id:\"draconicevolution:draconium_capacitor\",Count:1b,tag:{Energy:64000000},Damage:0s}",
+	tasks: [{
+		uid: "f1f1ebeb",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconium_capacitor",
+			tag: {
+				Energy: 64000000
+			}
+		}],
+		consume_items: true
+	}]
+}

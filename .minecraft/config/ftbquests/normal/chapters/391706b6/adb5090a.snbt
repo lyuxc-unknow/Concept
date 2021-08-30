@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 627.0d,
+	description: "{id:\"tinkersarsenal:bullet_shell\",Count:1b,tag:{Material:\"preservation\"},Damage:0s}",
+	tasks: [{
+		uid: "6bd0d1ea",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bullet_shell",
+			tag: {
+				Material: "preservation"
+			}
+		}],
+		consume_items: true
+	}]
+}

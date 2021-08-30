@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 602.0d,
+	description: "{id:\"steamworld:block_ancite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d2b0b838",
+		type: "item",
+		items: [{
+			item: "steamworld:block_ancite"
+		}],
+		consume_items: true
+	}]
+}

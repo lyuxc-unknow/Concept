@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 112.0d,
+	description: "{id:\"naturesaura:token_joy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f517e72",
+		type: "item",
+		items: [{
+			item: "naturesaura:token_joy"
+		}],
+		consume_items: true
+	}]
+}

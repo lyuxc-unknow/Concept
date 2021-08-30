@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 47.0d,
+	description: "{id:\"draconicevolution:chaotic_core\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a2797d90",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}],
+		consume_items: true
+	}]
+}

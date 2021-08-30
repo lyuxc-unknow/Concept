@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 211.0d,
+	description: "{id:\"enderio:block_electric_light\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "ebbce724",
+		type: "item",
+		items: [{
+			item: "enderio:block_electric_light 1 4"
+		}],
+		consume_items: true
+	}]
+}

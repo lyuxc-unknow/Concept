@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 473.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"enori_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "71e39258",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "enori_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

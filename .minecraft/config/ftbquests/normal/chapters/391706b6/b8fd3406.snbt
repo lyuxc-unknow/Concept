@@ -1,0 +1,71 @@
+{
+	x: 39.0d,
+	y: 379.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:1.2f,Durability:1470,HarvestLevel:4,Attack:5.0f,Range:3.6f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:8.0f,DrawSpeed:0.5324f,FreeModifiers:3,ProjectileBonusDamage:1.2f,Durability:1470,HarvestLevel:4,Attack:5.0f,Range:3.6f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"galite\",\"galite\",\"galite\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-10094647,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "27fca7b7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.2f,
+					Durability: 1470,
+					HarvestLevel: 4,
+					Attack: 5.0f,
+					Range: 3.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.5324f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.2f,
+					Durability: 1470,
+					HarvestLevel: 4,
+					Attack: 5.0f,
+					Range: 3.6f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"galite",
+						"galite",
+						"galite",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -10094647,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

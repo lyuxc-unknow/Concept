@@ -1,0 +1,60 @@
+{
+	x: 24.0d,
+	y: 646.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:dagger\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:13.63f,FreeModifiers:3,Durability:2895,HarvestLevel:4,Attack:13.23f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:13.63f,FreeModifiers:3,Durability:2895,HarvestLevel:4,Attack:13.23f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"advancedalloy\",\"advancedalloy\",\"advancedalloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9e65b98d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:dagger",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 13.63f,
+					FreeModifiers: 3,
+					Durability: 2895,
+					HarvestLevel: 4,
+					Attack: 13.23f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 13.63f,
+					FreeModifiers: 3,
+					Durability: 2895,
+					HarvestLevel: 4,
+					Attack: 13.23f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

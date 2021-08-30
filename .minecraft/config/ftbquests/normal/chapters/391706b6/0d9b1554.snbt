@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 533.0d,
+	description: "{id:\"extendedcrafting:storage\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "77d29c0e",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:storage 1 6"
+		}],
+		consume_items: true
+	}]
+}

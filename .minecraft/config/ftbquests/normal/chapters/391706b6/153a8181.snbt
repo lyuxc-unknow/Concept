@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 684.0d,
+	description: "{id:\"astralsorcery:itemcraftingcomponent\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9eccbfa6",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent"
+		}],
+		consume_items: true
+	}]
+}

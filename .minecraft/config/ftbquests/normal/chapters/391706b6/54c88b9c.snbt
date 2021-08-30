@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 528.0d,
+	description: "{id:\"emergingtechnology:shredder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa3da67a",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:shredder"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 576.0d,
+	description: "{id:\"modularmagic:blockstarlightprovideroutput\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "75119e19",
+		type: "item",
+		items: [{
+			item: "modularmagic:blockstarlightprovideroutput"
+		}],
+		consume_items: true
+	}]
+}

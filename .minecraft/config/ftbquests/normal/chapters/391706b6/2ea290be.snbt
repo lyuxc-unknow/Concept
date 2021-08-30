@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 165.0d,
+	description: "{id:\"stonechest:chest_cobblestone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0fbad7b7",
+		type: "item",
+		items: [{
+			item: "stonechest:chest_cobblestone"
+		}],
+		consume_items: true
+	}]
+}

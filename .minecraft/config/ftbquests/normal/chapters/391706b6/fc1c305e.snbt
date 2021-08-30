@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 212.0d,
+	description: "{id:\"enderio:block_wireless_charger_extension\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ed88890",
+		type: "item",
+		items: [{
+			item: "enderio:block_wireless_charger_extension"
+		}],
+		consume_items: true
+	}]
+}

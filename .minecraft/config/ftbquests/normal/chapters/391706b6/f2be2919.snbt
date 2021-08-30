@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 47.0d,
+	description: "{id:\"draconicevolution:crafting_injector\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "cbf95c4c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 2"
+		}],
+		consume_items: true
+	}]
+}

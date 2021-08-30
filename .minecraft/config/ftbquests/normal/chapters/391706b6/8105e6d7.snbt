@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 114.0d,
+	description: "{id:\"moreplates:iron_alloy_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "df3167b8",
+		type: "item",
+		items: [{
+			item: "moreplates:iron_alloy_gear"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 33.0d,
+	y: 523.0d,
+	description: "{id:\"doubleslabs:vertical_slab\",Count:1b,tag:{item:{id:\"botania:livingrock0slab\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "7d5066bd",
+		type: "item",
+		items: [{
+			id: "doubleslabs:vertical_slab",
+			tag: {
+				item: {
+					id: "botania:livingrock0slab",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

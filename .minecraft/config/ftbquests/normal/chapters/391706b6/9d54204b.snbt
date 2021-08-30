@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 591.0d,
+	description: "{id:\"random_add:chaos_rune\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "44a5c1a2",
+		type: "item",
+		items: [{
+			item: "random_add:chaos_rune"
+		}],
+		consume_items: true
+	}]
+}

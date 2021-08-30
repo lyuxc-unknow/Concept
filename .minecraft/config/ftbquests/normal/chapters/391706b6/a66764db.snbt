@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:dark_matter_core\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8cfd14dd",
+		type: "item",
+		items: [{
+			item: "custom_additions:dark_matter_core"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 539.0d,
+	description: "{id:\"teslacorelib:machine_case\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ff9fc528",
+		type: "item",
+		items: [{
+			item: "teslacorelib:machine_case"
+		}],
+		consume_items: true
+	}]
+}

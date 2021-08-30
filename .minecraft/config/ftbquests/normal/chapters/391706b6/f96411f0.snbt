@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 46.0d,
+	description: "{id:\"draconicevolution:rain_sensor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "39f1bea0",
+		type: "item",
+		items: [{
+			item: "draconicevolution:rain_sensor"
+		}],
+		consume_items: true
+	}]
+}

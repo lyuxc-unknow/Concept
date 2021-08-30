@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 560.0d,
+	description: "{id:\"rftools:shield_template_block\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "afc82970",
+		type: "item",
+		items: [{
+			item: "rftools:shield_template_block 1 1"
+		}],
+		consume_items: true
+	}]
+}

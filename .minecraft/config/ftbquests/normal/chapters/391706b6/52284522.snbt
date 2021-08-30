@@ -1,0 +1,80 @@
+{
+	x: 5.0d,
+	y: 788.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:368,HarvestLevel:0,Duration:27,Attack:3.0f,Weight:6.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:368,HarvestLevel:0,Duration:27,Attack:3.0f,Weight:6.8f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"aridiculous\",color:-4698289,level:1},{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"aridiculous\",\"hellish\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b70eac57",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 368,
+					HarvestLevel: 0,
+					Duration: 27,
+					Attack: 3.0f,
+					Weight: 6.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 368,
+					HarvestLevel: 0,
+					Duration: 27,
+					Attack: 3.0f,
+					Weight: 6.8f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"netherrack",
+						"netherrack",
+						"netherrack"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "aridiculous",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "hellish",
+					color: -4698289,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"aridiculous",
+					"hellish",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

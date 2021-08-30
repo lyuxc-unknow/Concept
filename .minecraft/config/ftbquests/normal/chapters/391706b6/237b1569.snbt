@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 114.0d,
+	description: "{id:\"moreplates:energetic_silver_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "72b860c2",
+		type: "item",
+		items: [{
+			item: "moreplates:energetic_silver_gear"
+		}],
+		consume_items: true
+	}]
+}

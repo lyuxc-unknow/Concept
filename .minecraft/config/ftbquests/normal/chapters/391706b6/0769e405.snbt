@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 4.0d,
+	description: "{id:\"minecraft:anvil\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4229877a",
+		type: "item",
+		items: [{
+			item: "minecraft:anvil"
+		}],
+		consume_items: true
+	}]
+}

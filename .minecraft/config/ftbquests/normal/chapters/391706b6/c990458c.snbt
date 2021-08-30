@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 745.0d,
+	description: "{id:\"embers:reaction_chamber\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7fa3d1bb",
+		type: "item",
+		items: [{
+			item: "embers:reaction_chamber"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: 522.0d,
+	description: "{id:\"doubleslabs:vertical_slab\",Count:1b,tag:{item:{id:\"minecraft:wooden_slab\",Count:1b,Damage:2s}},Damage:0s}",
+	tasks: [{
+		uid: "445422d3",
+		type: "item",
+		items: [{
+			id: "doubleslabs:vertical_slab",
+			tag: {
+				item: {
+					id: "minecraft:wooden_slab",
+					Count: 1b,
+					Damage: 2s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

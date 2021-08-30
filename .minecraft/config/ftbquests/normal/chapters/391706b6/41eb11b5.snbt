@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 99.0d,
+	description: "{id:\"mist:spruce_block\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "785c45e7",
+		type: "item",
+		items: [{
+			item: "mist:spruce_block 1 4"
+		}],
+		consume_items: true
+	}]
+}

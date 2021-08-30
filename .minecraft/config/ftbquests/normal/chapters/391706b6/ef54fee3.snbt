@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 31.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"minecraft:water_breathing\"},Damage:0s}",
+	tasks: [{
+		uid: "ee02874f",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:water_breathing"
+			}
+		}],
+		consume_items: true
+	}]
+}

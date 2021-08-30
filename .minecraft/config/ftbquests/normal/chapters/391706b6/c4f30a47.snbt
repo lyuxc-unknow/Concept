@@ -1,0 +1,73 @@
+{
+	x: 4.0d,
+	y: 347.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:2358,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:2358,HarvestLevel:4,Attack:4.1f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"momentum\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "755a8fd7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 12.0f,
+					FreeModifiers: 3,
+					Durability: 2358,
+					HarvestLevel: 4,
+					Attack: 4.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 12.0f,
+					FreeModifiers: 3,
+					Durability: 2358,
+					HarvestLevel: 4,
+					Attack: 4.1f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cobalt",
+						"cobalt",
+						"cobalt",
+						"cobalt"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -14122284,
+					level: 1
+				},
+				{
+					identifier: "momentum",
+					color: -14122284,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"momentum",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

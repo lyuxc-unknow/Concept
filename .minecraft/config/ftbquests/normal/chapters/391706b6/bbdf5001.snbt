@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 425.0d,
+	description: "{id:\"botania:redstringcomparator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d77a0c1e",
+		type: "item",
+		items: [{
+			item: "botania:redstringcomparator"
+		}],
+		consume_items: true
+	}]
+}

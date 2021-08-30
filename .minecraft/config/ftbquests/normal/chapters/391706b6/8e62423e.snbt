@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 115.0d,
+	description: "{id:\"moreplates:coal_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "837edc04",
+		type: "item",
+		items: [{
+			item: "moreplates:coal_gear"
+		}],
+		consume_items: true
+	}]
+}

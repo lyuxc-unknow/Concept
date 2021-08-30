@@ -1,0 +1,61 @@
+{
+	x: 17.0d,
+	y: 468.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:89118,Defense:45.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:89118,Defense:45.0f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"extrabotany:ingotorichalcos\",\"extrabotany:ingotorichalcos\",\"extrabotany:ingotorichalcos\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"mind\",color:-3730043,level:1},{identifier:\"body\",color:-3730043,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"mind\",\"body\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "83c4d32b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 89118,
+					Defense: 45.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 89118,
+					Defense: 45.0f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"extrabotany:ingotorichalcos",
+						"extrabotany:ingotorichalcos",
+						"extrabotany:ingotorichalcos"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "mind",
+					color: -3730043,
+					level: 1
+				},
+				{
+					identifier: "body",
+					color: -3730043,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"mind",
+					"body",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

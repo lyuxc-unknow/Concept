@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 410.0d,
+	description: "{id:\"botania:petal\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "2c4ef903",
+		type: "item",
+		items: [{
+			item: "botania:petal 1 2"
+		}],
+		consume_items: true
+	}]
+}

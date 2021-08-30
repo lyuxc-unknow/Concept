@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:infinite_water_source\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "da03f7a8",
+		type: "item",
+		items: [{
+			item: "overloaded:infinite_water_source"
+		}],
+		consume_items: true
+	}]
+}

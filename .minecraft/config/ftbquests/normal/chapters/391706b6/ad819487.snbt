@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 672.0d,
+	description: "{id:\"actuallyadditions:block_black_lotus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3bb0118a",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_black_lotus"
+		}],
+		consume_items: true
+	}]
+}

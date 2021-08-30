@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 105.0d,
+	description: "{id:\"mist:r_tree_trapdoor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f6c74c3",
+		type: "item",
+		items: [{
+			item: "mist:r_tree_trapdoor"
+		}],
+		consume_items: true
+	}]
+}

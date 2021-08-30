@@ -1,0 +1,67 @@
+{
+	x: 18.0d,
+	y: 350.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:broadsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:59,HarvestLevel:1,Attack:3.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:59,HarvestLevel:1,Attack:3.9f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crude1\",\"crude2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a2996bee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:broadsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 59,
+					HarvestLevel: 1,
+					Attack: 3.9f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 59,
+					HarvestLevel: 1,
+					Attack: 3.9f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"flint",
+						"flint",
+						"flint"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crude",
+					color: -9868951,
+					level: 3,
+					crude1: 1b,
+					crude2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crude1",
+					"crude2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

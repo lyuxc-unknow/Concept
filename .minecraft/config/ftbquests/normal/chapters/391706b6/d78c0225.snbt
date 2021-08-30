@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 452.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"conductive_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "aa70852c",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "conductive_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

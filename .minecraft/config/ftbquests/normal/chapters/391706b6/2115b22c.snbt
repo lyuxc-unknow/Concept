@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:sign\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "36c73be8",
+		type: "item",
+		items: [{
+			item: "minecraft:sign"
+		}],
+		consume_items: true
+	}]
+}

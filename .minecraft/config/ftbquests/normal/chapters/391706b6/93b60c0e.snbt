@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 265.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"polyethylene\"},Damage:0s}",
+	tasks: [{
+		uid: "f99ee344",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "polyethylene"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:assembly_laser\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8958161b",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_laser"
+		}],
+		consume_items: true
+	}]
+}

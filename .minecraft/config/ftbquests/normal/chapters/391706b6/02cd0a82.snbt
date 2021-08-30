@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 232.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"ivorypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "f9764985",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "ivorypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 484.0d,
+	description: "{id:\"bibliocraft:bookcase\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "bacbb30d",
+		type: "item",
+		items: [{
+			item: "bibliocraft:bookcase 1 2"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 583.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"pneumaticcraft:gun_ammo_weighted\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "46d5279c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:gun_ammo_weighted"
+		}],
+		consume_items: true
+	}]
+}

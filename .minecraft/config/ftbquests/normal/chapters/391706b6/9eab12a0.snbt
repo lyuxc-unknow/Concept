@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:weakness_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ef844713",
+		type: "item",
+		items: [{
+			item: "rftools:weakness_module"
+		}],
+		consume_items: true
+	}]
+}

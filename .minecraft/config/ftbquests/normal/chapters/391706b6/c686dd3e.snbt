@@ -1,0 +1,66 @@
+{
+	x: 27.0d,
+	y: 326.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.02f,FreeModifiers:3,Durability:783,HarvestLevel:4,Attack:7.53f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.02f,FreeModifiers:3,Durability:783,HarvestLevel:4,Attack:7.53f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"mithril\",\"mithril\",\"mithril\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sos\",color:-14641744,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "85259f05",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.02f,
+					FreeModifiers: 3,
+					Durability: 783,
+					HarvestLevel: 4,
+					Attack: 7.53f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.02f,
+					FreeModifiers: 3,
+					Durability: 783,
+					HarvestLevel: 4,
+					Attack: 7.53f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"mithril",
+						"mithril",
+						"mithril"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sos",
+					color: -14641744,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

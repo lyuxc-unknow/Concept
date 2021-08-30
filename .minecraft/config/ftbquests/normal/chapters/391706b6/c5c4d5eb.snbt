@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 742.0d,
+	description: "{id:\"embers:intelligent_apparatus\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "06164fd0",
+		type: "item",
+		items: [{
+			item: "embers:intelligent_apparatus"
+		}],
+		consume_items: true
+	}]
+}

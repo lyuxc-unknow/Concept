@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_singularityuranium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9cef5b0b",
+		type: "item",
+		items: [{
+			item: "jaopca:item_singularityuranium"
+		}],
+		consume_items: true
+	}]
+}

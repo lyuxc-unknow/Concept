@@ -1,0 +1,75 @@
+{
+	x: 25.0d,
+	y: 788.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:yoyo\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:804,HarvestLevel:0,Duration:133,Attack:2.27f,Weight:3.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.0f,FreeModifiers:3,ChordLength:6.0f,Durability:804,HarvestLevel:0,Duration:133,Attack:2.27f,Weight:3.6f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"string\",\"tin\",\"tin\",\"tin\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crude\",color:-6771527,level:1,crude1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crude1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ee900cc6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:yoyo",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 804,
+					HarvestLevel: 0,
+					Duration: 133,
+					Attack: 2.27f,
+					Weight: 3.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.0f,
+					FreeModifiers: 3,
+					ChordLength: 6.0f,
+					Durability: 804,
+					HarvestLevel: 0,
+					Duration: 133,
+					Attack: 2.27f,
+					Weight: 3.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"string",
+						"tin",
+						"tin",
+						"tin"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crude",
+					color: -6771527,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crude1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

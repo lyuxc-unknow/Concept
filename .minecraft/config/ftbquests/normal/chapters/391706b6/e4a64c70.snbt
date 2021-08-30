@@ -1,0 +1,17 @@
+{
+	x: 17.0d,
+	y: 156.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"mist:snow_slab\"},Damage:0s}",
+	tasks: [{
+		uid: "7b5194ab",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "mist:snow_slab"
+			}
+		}],
+		consume_items: true
+	}]
+}

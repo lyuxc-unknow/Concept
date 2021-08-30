@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 744.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:explosion_charm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2e96df49",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:explosion_charm"
+		}],
+		consume_items: true
+	}]
+}

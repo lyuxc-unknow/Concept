@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 246.0d,
+	description: "{id:\"tconstruct:large_sword_blade\",Count:1b,tag:{Material:\"sky_stone\"},Damage:0s}",
+	tasks: [{
+		uid: "6fb0e3e0",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_sword_blade",
+			tag: {
+				Material: "sky_stone"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 631.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"elvenelementium\"},Damage:0s}",
+	tasks: [{
+		uid: "384d14ad",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "elvenelementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"conarm:armor_trim\"},Damage:0s}",
+	tasks: [{
+		uid: "9224dd91",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "conarm:armor_trim"
+			}
+		}],
+		consume_items: true
+	}]
+}

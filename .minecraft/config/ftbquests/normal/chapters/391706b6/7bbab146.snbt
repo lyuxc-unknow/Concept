@@ -1,0 +1,64 @@
+{
+	x: 38.0d,
+	y: 637.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:2220,HarvestLevel:0,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:2220,HarvestLevel:0,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"pink_slime\",\"pink_slime\",\"pink_slime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.slimey_pink\",color:-3508789,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.slimey_pink\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "375c614a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 2220,
+					HarvestLevel: 0,
+					Attack: 3.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 2220,
+					HarvestLevel: 0,
+					Attack: 3.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"pink_slime",
+						"pink_slime",
+						"pink_slime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.slimey_pink",
+					color: -3508789,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.slimey_pink",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

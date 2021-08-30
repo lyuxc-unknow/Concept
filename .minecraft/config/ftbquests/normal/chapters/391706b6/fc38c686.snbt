@@ -1,0 +1,76 @@
+{
+	x: 7.0d,
+	y: 331.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:6.5f,FreeModifiers:3,HarvestLevelShovel:3,Durability:1040,HarvestLevel:3,Attack:8.2f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:6.5f,FreeModifiers:3,HarvestLevelShovel:3,Durability:1040,HarvestLevel:3,Attack:8.2f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ancite\",\"ancite\",\"ancite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-8682833,level:1,magnetic1:1b},{identifier:\"unnatural\",color:-8682833,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic1\",\"unnatural\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "825c499a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 1040,
+					HarvestLevel: 3,
+					Attack: 8.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 1040,
+					HarvestLevel: 3,
+					Attack: 8.2f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ancite",
+						"ancite",
+						"ancite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -8682833,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "unnatural",
+					color: -8682833,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1",
+					"unnatural",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

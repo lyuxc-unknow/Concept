@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 673.0d,
+	description: "{id:\"actuallyadditions:block_treasure_chest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d20fda7b",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_treasure_chest"
+		}],
+		consume_items: true
+	}]
+}

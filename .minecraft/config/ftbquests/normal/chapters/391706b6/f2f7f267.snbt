@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 219.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"ma.intermedium\"},Damage:0s}",
+	tasks: [{
+		uid: "e1b04b04",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "ma.intermedium"
+			}
+		}],
+		consume_items: true
+	}]
+}

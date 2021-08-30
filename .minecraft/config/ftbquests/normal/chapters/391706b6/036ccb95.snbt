@@ -1,0 +1,21 @@
+{
+	x: 33.0d,
+	y: 554.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"凋灵骷髅\",level:10,mobId:\"minecraft:wither_skeleton\"},Damage:0s}",
+	tasks: [{
+		uid: "0bfac0e4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "凋灵骷髅",
+				level: 10,
+				mobId: "minecraft:wither_skeleton"
+			}
+		}],
+		consume_items: true
+	}]
+}

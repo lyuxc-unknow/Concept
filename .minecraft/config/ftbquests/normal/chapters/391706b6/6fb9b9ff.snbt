@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 563.0d,
+	description: "{id:\"immersiveengineering:sheetmetal_slab\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "55eec46e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal_slab 1 5"
+		}],
+		consume_items: true
+	}]
+}

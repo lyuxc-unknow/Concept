@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 791.0d,
+	description: "{id:\"tp:raw_bacon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fcd62da7",
+		type: "item",
+		items: [{
+			item: "tp:raw_bacon"
+		}],
+		consume_items: true
+	}]
+}

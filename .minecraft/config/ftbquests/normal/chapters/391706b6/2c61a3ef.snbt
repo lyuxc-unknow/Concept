@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 763.0d,
+	description: "{id:\"tconevo:part_arcane_focus\",Count:1b,tag:{Material:\"pulsating_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "6b7a3a3a",
+		type: "item",
+		items: [{
+			id: "tconevo:part_arcane_focus",
+			tag: {
+				Material: "pulsating_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

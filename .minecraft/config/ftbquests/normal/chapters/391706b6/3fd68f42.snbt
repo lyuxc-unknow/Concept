@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 281.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"lumium\"},Damage:0s}",
+	tasks: [{
+		uid: "43241394",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "lumium"
+			}
+		}],
+		consume_items: true
+	}]
+}

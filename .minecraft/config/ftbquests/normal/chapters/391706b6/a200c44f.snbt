@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 528.0d,
+	description: "{id:\"emergingtechnology:light\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "98a54984",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:light"
+		}],
+		consume_items: true
+	}]
+}

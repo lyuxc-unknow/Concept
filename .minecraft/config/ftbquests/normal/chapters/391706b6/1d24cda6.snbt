@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 218.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"vibrant_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "ca641f60",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "vibrant_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

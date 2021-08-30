@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 790.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:diamond_multi\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "82235331",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:diamond_multi"
+		}],
+		consume_items: true
+	}]
+}

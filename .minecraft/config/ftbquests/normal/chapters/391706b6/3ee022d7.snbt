@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 398.0d,
+	description: "{id:\"tconstruct:fancy_frame\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "89e3196c",
+		type: "item",
+		items: [{
+			item: "tconstruct:fancy_frame 1 1"
+		}],
+		consume_items: true
+	}]
+}

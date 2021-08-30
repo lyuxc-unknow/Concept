@@ -1,0 +1,34 @@
+{
+	x: 10.0d,
+	y: 206.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderio:item_dark_steel_pickaxe\",Count:1b,tag:{enderio.darksteel.upgrade.travel:{level:0},enderio.darksteel.upgrade.direct:{level:0},enderio.darksteel.upgrade.energyUpgrade:{level:3,energy:1000000},enderio.darksteel.upgrade.spoon:{level:0},enderio.darksteel.upgrade.tnt:{level:0}},Damage:0s}",
+	tasks: [{
+		uid: "b1b85bc4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_dark_steel_pickaxe",
+			tag: {
+				enderio.darksteel.upgrade.travel: {
+					level: 0
+				},
+				enderio.darksteel.upgrade.direct: {
+					level: 0
+				},
+				enderio.darksteel.upgrade.energyUpgrade: {
+					level: 3,
+					energy: 1000000
+				},
+				enderio.darksteel.upgrade.spoon: {
+					level: 0
+				},
+				enderio.darksteel.upgrade.tnt: {
+					level: 0
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

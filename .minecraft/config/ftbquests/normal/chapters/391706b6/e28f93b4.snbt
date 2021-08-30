@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 756.0d,
+	description: "{id:\"etlunar:lunarvoltaic_cell\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6b78fb25",
+		type: "item",
+		items: [{
+			item: "etlunar:lunarvoltaic_cell"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 90.0d,
+	description: "{id:\"randomthings:spectreenergyinjector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ebfc5850",
+		type: "item",
+		items: [{
+			item: "randomthings:spectreenergyinjector"
+		}],
+		consume_items: true
+	}]
+}

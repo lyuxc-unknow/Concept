@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 133.0d,
+	description: "{id:\"thermaldynamics:duct_32\",Count:1b,tag:{DenseType:2b},Damage:1s}",
+	tasks: [{
+		uid: "ceffa9eb",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:duct_32",
+			tag: {
+				DenseType: 2b
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

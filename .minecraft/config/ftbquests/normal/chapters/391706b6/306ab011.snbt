@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 686.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemenchantmentamulet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f308bbd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemenchantmentamulet"
+		}],
+		consume_items: true
+	}]
+}

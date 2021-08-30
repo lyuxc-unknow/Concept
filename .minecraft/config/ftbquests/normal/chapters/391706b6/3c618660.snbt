@@ -1,0 +1,56 @@
+{
+	x: 29.0d,
+	y: 463.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:13126,Defense:5.625f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:13126,Defense:5.625f},ConArmEquipmentSlot:3,TinkerData:{Materials:[\"conductive_iron\",\"conductive_iron\",\"conductive_iron\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"magnetic_armor\",color:-5546657,level:1,magnetic1_armor:1b},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"magnetic1_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "d55e278c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 13126,
+					Defense: 5.625f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 13126,
+					Defense: 5.625f
+				},
+				ConArmEquipmentSlot: 3,
+				TinkerData: {
+					Materials: [
+						"conductive_iron",
+						"conductive_iron",
+						"conductive_iron"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic_armor",
+					color: -5546657,
+					level: 1,
+					magnetic1_armor: 1b
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

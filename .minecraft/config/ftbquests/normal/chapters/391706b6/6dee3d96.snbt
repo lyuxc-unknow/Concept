@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 514.0d,
+	description: "{id:\"mekanism:glowpanel\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "b3913bb6",
+		type: "item",
+		items: [{
+			item: "mekanism:glowpanel 1 2"
+		}],
+		consume_items: true
+	}]
+}

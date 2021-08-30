@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 569.0d,
+	description: "{id:\"immersiveengineering:toolupgrade\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "ae357c38",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:toolupgrade 1 2"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 18.0d,
+	y: 545.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:watering_can\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "354a2a09",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:watering_can",
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

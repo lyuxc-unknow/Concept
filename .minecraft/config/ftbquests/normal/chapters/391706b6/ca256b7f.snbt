@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 795.0d,
+	description: "{id:\"tp:hardened_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "50ed02ef",
+		type: "item",
+		items: [{
+			item: "tp:hardened_stone"
+		}],
+		consume_items: true
+	}]
+}

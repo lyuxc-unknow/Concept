@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:healing\"},Damage:0s}",
+	tasks: [{
+		uid: "d3548133",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:healing"
+			}
+		}],
+		consume_items: true
+	}]
+}

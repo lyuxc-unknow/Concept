@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 36.0d,
+	description: "{id:\"thermalfoundation:bait\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "19563cb7",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:bait 1 2"
+		}],
+		consume_items: true
+	}]
+}

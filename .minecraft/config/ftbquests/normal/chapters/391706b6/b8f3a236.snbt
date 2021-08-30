@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 542.0d,
+	description: "{id:\"mysticalagriculture:ingot_storage\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "272db849",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ingot_storage 1 6"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 111.0d,
+	description: "{id:\"naturesaura:chunk_loader\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6654a605",
+		type: "item",
+		items: [{
+			item: "naturesaura:chunk_loader"
+		}],
+		consume_items: true
+	}]
+}

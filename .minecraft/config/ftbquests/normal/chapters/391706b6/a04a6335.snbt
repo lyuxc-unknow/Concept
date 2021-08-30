@@ -1,0 +1,71 @@
+{
+	x: 22.0d,
+	y: 383.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,DrawSpeed:1.67f,FreeModifiers:3,ProjectileBonusDamage:10.5f,Durability:854,HarvestLevel:3,Attack:7.42f,Range:2.41f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,DrawSpeed:1.67f,FreeModifiers:3,ProjectileBonusDamage:10.5f,Durability:854,HarvestLevel:3,Attack:7.42f,Range:2.41f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"redgarnet\",\"redgarnet\",\"redgarnet\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"healer\",color:-1235932,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"healer\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f2a55be5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					DrawSpeed: 1.67f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 10.5f,
+					Durability: 854,
+					HarvestLevel: 3,
+					Attack: 7.42f,
+					Range: 2.41f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					DrawSpeed: 1.67f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 10.5f,
+					Durability: 854,
+					HarvestLevel: 3,
+					Attack: 7.42f,
+					Range: 2.41f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"redgarnet",
+						"redgarnet",
+						"redgarnet",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "healer",
+					color: -1235932,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"healer",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

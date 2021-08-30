@@ -1,0 +1,49 @@
+{
+	x: 21.0d,
+	y: 459.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:helmet\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:57069,Defense:50.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:57069,Defense:50.0f},ConArmEquipmentSlot:5,TinkerData:{Materials:[\"advancedalloy\",\"advancedalloy\",\"advancedalloy\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "9cf59eb1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:helmet",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 57069,
+					Defense: 50.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 57069,
+					Defense: 50.0f
+				},
+				ConArmEquipmentSlot: 5,
+				TinkerData: {
+					Materials: [
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

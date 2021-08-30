@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 546.0d,
+	description: "{id:\"mysticalagriculture:guardian_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "be68cc1d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:guardian_essence"
+		}],
+		consume_items: true
+	}]
+}

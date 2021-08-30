@@ -1,0 +1,17 @@
+{
+	x: 39.0d,
+	y: 417.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:craftpattern\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "a8766703",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:craftpattern",
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

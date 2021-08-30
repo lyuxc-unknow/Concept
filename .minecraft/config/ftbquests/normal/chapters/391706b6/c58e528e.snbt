@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 758.0d,
+	description: "{id:\"industrialforegoing:hydrator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "decd200b",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:hydrator"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"heiseiDream\"},Damage:0s}",
+	tasks: [{
+		uid: "e7d81b9c",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "heiseiDream"
+			}
+		}],
+		consume_items: true
+	}]
+}

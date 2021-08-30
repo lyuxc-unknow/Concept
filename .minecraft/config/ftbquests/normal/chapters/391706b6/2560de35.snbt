@@ -1,0 +1,62 @@
+{
+	x: 12.0d,
+	y: 466.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:229,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:229,Defense:14.0f},ConArmEquipmentSlot:3,TinkerData:{Materials:[\"nickel\",\"nickel\",\"nickel\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"tconevo.bulwark_armor\",color:-4213116,level:1},{identifier:\"magnetic_armor\",color:-4213116,level:1,magnetic1_armor:1b},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"tconevo.bulwark_armor\",\"magnetic1_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "92aada03",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 229,
+					Defense: 14.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 229,
+					Defense: 14.0f
+				},
+				ConArmEquipmentSlot: 3,
+				TinkerData: {
+					Materials: [
+						"nickel",
+						"nickel",
+						"nickel"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.bulwark_armor",
+					color: -4213116,
+					level: 1
+				},
+				{
+					identifier: "magnetic_armor",
+					color: -4213116,
+					level: 1,
+					magnetic1_armor: 1b
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.bulwark_armor",
+					"magnetic1_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

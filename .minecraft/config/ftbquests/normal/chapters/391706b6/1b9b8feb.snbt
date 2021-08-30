@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 670.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"survivalist:tanned_chestplate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5540c0b1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "survivalist:tanned_chestplate"
+		}],
+		consume_items: true
+	}]
+}

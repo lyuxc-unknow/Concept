@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 100.0d,
+	description: "{id:\"mist:a_tree_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "99b969bb",
+		type: "item",
+		items: [{
+			item: "mist:a_tree_slab"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 8.0d,
+	description: "{id:\"minecraft:brown_glazed_terracotta\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f6b374cb",
+		type: "item",
+		items: [{
+			item: "minecraft:brown_glazed_terracotta"
+		}],
+		consume_items: true
+	}]
+}

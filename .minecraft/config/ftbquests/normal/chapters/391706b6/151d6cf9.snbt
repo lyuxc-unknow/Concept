@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 62.0d,
+	description: "{id:\"extrautils2:machine\",Count:1b,tag:{Type:\"extrautils2:enchanter\"},Damage:0s}",
+	tasks: [{
+		uid: "ca834f32",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:enchanter"
+			}
+		}],
+		consume_items: true
+	}]
+}

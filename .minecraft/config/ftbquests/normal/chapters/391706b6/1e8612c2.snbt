@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_coincobalt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "79df9189",
+		type: "item",
+		items: [{
+			item: "jaopca:item_coincobalt"
+		}],
+		consume_items: true
+	}]
+}

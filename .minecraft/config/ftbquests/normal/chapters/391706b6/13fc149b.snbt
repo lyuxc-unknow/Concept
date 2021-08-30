@@ -1,0 +1,17 @@
+{
+	x: 14.0d,
+	y: 137.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:4b,Block:\"minecraft:wooden_slab\"},Damage:0s}",
+	tasks: [{
+		uid: "f208e5f5",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 4b,
+				Block: "minecraft:wooden_slab"
+			}
+		}],
+		consume_items: true
+	}]
+}

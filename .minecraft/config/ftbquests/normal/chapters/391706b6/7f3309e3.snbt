@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 1.0d,
+	description: "{id:\"minecraft:wool\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "9e98584c",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 6"
+		}],
+		consume_items: true
+	}]
+}

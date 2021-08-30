@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 772.0d,
+	description: "{id:\"omegacraft:plate_aluminium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e6b50bf2",
+		type: "item",
+		items: [{
+			item: "omegacraft:plate_aluminium"
+		}],
+		consume_items: true
+	}]
+}

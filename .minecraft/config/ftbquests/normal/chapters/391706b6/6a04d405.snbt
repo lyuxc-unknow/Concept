@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 585.0d,
+	description: "{id:\"mysticalcreations:witch_chunk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "11b52751",
+		type: "item",
+		items: [{
+			item: "mysticalcreations:witch_chunk"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 482.0d,
+	description: "{id:\"extrabotany:specialbag\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "096b91dc",
+		type: "item",
+		items: [{
+			item: "extrabotany:specialbag"
+		}],
+		consume_items: true
+	}]
+}

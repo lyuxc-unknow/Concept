@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 72.0d,
+	description: "{id:\"calculator:pearleaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "183ebfa6",
+		type: "item",
+		items: [{
+			item: "calculator:pearleaves"
+		}],
+		consume_items: true
+	}]
+}

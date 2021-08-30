@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 51.0d,
+	description: "{id:\"thermalexpansion:frame\",Count:1b,Damage:64s}",
+	tasks: [{
+		uid: "cdfb18de",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 64"
+		}],
+		consume_items: true
+	}]
+}

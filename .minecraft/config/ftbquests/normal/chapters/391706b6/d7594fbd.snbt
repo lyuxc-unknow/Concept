@@ -1,0 +1,73 @@
+{
+	x: 14.0d,
+	y: 326.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:hatchet\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:642,HarvestLevel:4,Attack:7.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:642,HarvestLevel:4,Attack:7.5f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"fluxed_electrum\",\"fluxed_electrum\",\"fluxed_electrum\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-797853,level:2,magnetic2:1b},{identifier:\"tconevo.energized\",color:-797853,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic2\",\"tconevo.energized1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b170730e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:hatchet",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 642,
+					HarvestLevel: 4,
+					Attack: 7.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 642,
+					HarvestLevel: 4,
+					Attack: 7.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"fluxed_electrum",
+						"fluxed_electrum",
+						"fluxed_electrum"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -797853,
+					level: 2,
+					magnetic2: 1b
+				},
+				{
+					identifier: "tconevo.energized",
+					color: -797853,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic2",
+					"tconevo.energized1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

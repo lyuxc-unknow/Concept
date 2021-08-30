@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 4.0d,
+	description: "{id:\"minecraft:dragon_egg\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3cbb5b4f",
+		type: "item",
+		items: [{
+			item: "minecraft:dragon_egg"
+		}],
+		consume_items: true
+	}]
+}

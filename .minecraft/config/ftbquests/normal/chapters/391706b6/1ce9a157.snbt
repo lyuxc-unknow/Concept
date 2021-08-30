@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 101.0d,
+	description: "{id:\"mist:cobblestone_moss_wall\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8ec7b154",
+		type: "item",
+		items: [{
+			item: "mist:cobblestone_moss_wall"
+		}],
+		consume_items: true
+	}]
+}

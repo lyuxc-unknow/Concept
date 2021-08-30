@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 112.0d,
+	description: "{id:\"naturesaura:farming_stencil\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d38bdb46",
+		type: "item",
+		items: [{
+			item: "naturesaura:farming_stencil"
+		}],
+		consume_items: true
+	}]
+}

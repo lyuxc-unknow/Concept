@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 267.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"vibrant_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "81c6289b",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "vibrant_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

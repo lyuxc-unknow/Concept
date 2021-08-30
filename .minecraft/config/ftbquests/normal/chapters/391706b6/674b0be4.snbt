@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 309.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"void_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "dd454634",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "void_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

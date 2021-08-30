@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 750.0d,
+	description: "{id:\"environmentalmaterials:alabaster_brick_slab_black\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b2d919a6",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_brick_slab_black"
+		}],
+		consume_items: true
+	}]
+}

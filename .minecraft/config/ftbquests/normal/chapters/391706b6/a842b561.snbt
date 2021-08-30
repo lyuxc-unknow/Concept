@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 299.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"fluxed_electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "43c58b52",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "fluxed_electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

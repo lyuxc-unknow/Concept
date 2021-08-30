@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 520.0d,
+	description: "{id:\"deepmoblearning:soot_covered_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "44104721",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:soot_covered_plate"
+		}],
+		consume_items: true
+	}]
+}

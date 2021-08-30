@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 805.0d,
+	description: "{id:\"jaopca:fluid_moltenastralstarmetal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "955df952",
+		type: "item",
+		items: [{
+			item: "jaopca:fluid_moltenastralstarmetal"
+		}],
+		consume_items: true
+	}]
+}

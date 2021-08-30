@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: 122.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"chrome\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "1e2e0278",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "chrome",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

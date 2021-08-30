@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 578.0d,
+	description: "{id:\"pneumaticcraft:ingot_iron_compressed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2164faa8",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:ingot_iron_compressed"
+		}],
+		consume_items: true
+	}]
+}

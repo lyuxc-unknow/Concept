@@ -1,0 +1,19 @@
+{
+	x: 39.0d,
+	y: 120.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"bound_metal\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "a8a85571",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "bound_metal",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

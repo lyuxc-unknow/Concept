@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"daffomill\"},Damage:0s}",
+	tasks: [{
+		uid: "b1e6f6a5",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "daffomill"
+			}
+		}],
+		consume_items: true
+	}]
+}

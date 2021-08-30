@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 259.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"energetic_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "a3ec89fd",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "energetic_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

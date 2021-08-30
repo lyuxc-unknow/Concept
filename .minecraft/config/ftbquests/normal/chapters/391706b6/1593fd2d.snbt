@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 311.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"blutonium\"},Damage:0s}",
+	tasks: [{
+		uid: "fcb82092",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "blutonium"
+			}
+		}],
+		consume_items: true
+	}]
+}

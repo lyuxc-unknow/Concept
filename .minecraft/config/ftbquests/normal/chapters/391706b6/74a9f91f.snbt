@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 666.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"thermalfoundation:blitz\"},Damage:0s}",
+	tasks: [{
+		uid: "34bacc7e",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "thermalfoundation:blitz"
+			}
+		}],
+		consume_items: true
+	}]
+}

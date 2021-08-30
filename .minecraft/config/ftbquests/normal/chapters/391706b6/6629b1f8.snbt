@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 74.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:enrichedgoldhoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b77d183b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:enrichedgoldhoe"
+		}],
+		consume_items: true
+	}]
+}

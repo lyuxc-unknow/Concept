@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 795.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:bsc_diamond_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c5ea1e59",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:bsc_diamond_sword"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 746.0d,
+	description: "{id:\"embers:stone_valve\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d47bb09",
+		type: "item",
+		items: [{
+			item: "embers:stone_valve"
+		}],
+		consume_items: true
+	}]
+}

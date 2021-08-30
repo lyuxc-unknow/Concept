@@ -1,0 +1,61 @@
+{
+	x: 6.0d,
+	y: 462.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:744,Defense:22.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:744,Defense:22.0f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"pink_metal\",\"pink_metal\",\"pink_metal\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"tconevo.divine_grace_armor\",color:-4032074,level:1},{identifier:\"vengeful_armor\",color:-4032074,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"tconevo.divine_grace_armor\",\"vengeful_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "d520c7ef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 3.0f,
+					FreeModifiers: 3,
+					Durability: 744,
+					Defense: 22.0f
+				},
+				Stats: {
+					Toughness: 3.0f,
+					FreeModifiers: 3,
+					Durability: 744,
+					Defense: 22.0f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"pink_metal",
+						"pink_metal",
+						"pink_metal"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.divine_grace_armor",
+					color: -4032074,
+					level: 1
+				},
+				{
+					identifier: "vengeful_armor",
+					color: -4032074,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.divine_grace_armor",
+					"vengeful_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

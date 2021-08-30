@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 593.0d,
+	description: "{id:\"rftoolsdim:dimlet_control_circuit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "341ec4ea",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:dimlet_control_circuit"
+		}],
+		consume_items: true
+	}]
+}

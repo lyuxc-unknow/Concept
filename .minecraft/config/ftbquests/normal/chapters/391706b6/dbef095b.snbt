@@ -1,0 +1,80 @@
+{
+	x: 13.0d,
+	y: 385.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:450,HarvestLevel:3,Attack:7.5f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:450,HarvestLevel:3,Attack:7.5f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"fluix_steel\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"tconevo.piezoelectric\",color:-12044456,level:1},{identifier:\"magnetic\",color:-12044456,level:1,magnetic1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tconevo.piezoelectric\",\"magnetic1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fc90035d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 450,
+					HarvestLevel: 3,
+					Attack: 7.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 450,
+					HarvestLevel: 3,
+					Attack: 7.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"fluix_steel",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "tconevo.piezoelectric",
+					color: -12044456,
+					level: 1
+				},
+				{
+					identifier: "magnetic",
+					color: -12044456,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tconevo.piezoelectric",
+					"magnetic1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

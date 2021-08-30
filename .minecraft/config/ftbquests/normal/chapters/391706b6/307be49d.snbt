@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 69.0d,
+	description: "{id:\"botanicadds:rune_energy\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9e2a969",
+		type: "item",
+		items: [{
+			item: "botanicadds:rune_energy"
+		}],
+		consume_items: true
+	}]
+}

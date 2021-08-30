@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 104.0d,
+	description: "{id:\"mist:poplar_fence_gate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d360c352",
+		type: "item",
+		items: [{
+			item: "mist:poplar_fence_gate"
+		}],
+		consume_items: true
+	}]
+}

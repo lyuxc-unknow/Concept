@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 231.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"lonsdaleite\"},Damage:0s}",
+	tasks: [{
+		uid: "41f6fcb3",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "lonsdaleite"
+			}
+		}],
+		consume_items: true
+	}]
+}

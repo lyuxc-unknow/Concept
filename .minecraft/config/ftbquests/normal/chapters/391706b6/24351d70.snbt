@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:shovel_head\",Count:1b,tag:{Material:\"sapphire\"},Damage:0s}",
+	tasks: [{
+		uid: "b6409b4c",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "sapphire"
+			}
+		}],
+		consume_items: true
+	}]
+}

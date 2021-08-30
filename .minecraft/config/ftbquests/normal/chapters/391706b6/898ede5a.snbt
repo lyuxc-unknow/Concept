@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 765.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:axe_water\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fbb2e265",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:axe_water"
+		}],
+		consume_items: true
+	}]
+}

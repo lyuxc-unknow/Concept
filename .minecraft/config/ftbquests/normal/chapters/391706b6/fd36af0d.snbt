@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 309.0d,
+	description: "{id:\"tconstruct:arrow_head\",Count:1b,tag:{Material:\"ma.base_essence\"},Damage:0s}",
+	tasks: [{
+		uid: "7ce946b7",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_head",
+			tag: {
+				Material: "ma.base_essence"
+			}
+		}],
+		consume_items: true
+	}]
+}

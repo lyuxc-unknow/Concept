@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 46.0d,
+	description: "{id:\"draconicevolution:generator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c01c26c3",
+		type: "item",
+		items: [{
+			item: "draconicevolution:generator"
+		}],
+		consume_items: true
+	}]
+}

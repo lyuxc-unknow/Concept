@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 300.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"tungsten\"},Damage:0s}",
+	tasks: [{
+		uid: "89e792be",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "tungsten"
+			}
+		}],
+		consume_items: true
+	}]
+}

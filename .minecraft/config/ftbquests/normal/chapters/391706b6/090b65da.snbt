@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:crop_recolector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a304aaa",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_recolector"
+		}],
+		consume_items: true
+	}]
+}

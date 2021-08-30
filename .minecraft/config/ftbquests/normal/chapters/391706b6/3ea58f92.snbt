@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 754.0d,
+	description: "{id:\"environmentaltech:litherite_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "150a5755",
+		type: "item",
+		items: [{
+			item: "environmentaltech:litherite_crystal"
+		}],
+		consume_items: true
+	}]
+}

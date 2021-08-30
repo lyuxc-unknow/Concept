@@ -1,0 +1,49 @@
+{
+	x: 6.0d,
+	y: 463.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:61812,Defense:50.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:61812,Defense:50.0f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"electrumflux\",\"electrumflux\",\"electrumflux\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "c262be8b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 61812,
+					Defense: 50.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 61812,
+					Defense: 50.0f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"electrumflux",
+						"electrumflux",
+						"electrumflux"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

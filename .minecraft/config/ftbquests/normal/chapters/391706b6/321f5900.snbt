@@ -1,0 +1,77 @@
+{
+	x: 32.0d,
+	y: 318.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:20.0f,FreeModifiers:3,Durability:9120,HarvestLevel:10,Attack:23.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:20.0f,FreeModifiers:3,Durability:9120,HarvestLevel:10,Attack:23.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"red_matter\",\"red_matter\",\"red_matter\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.juggernaut\",color:-6617589,level:1},{identifier:\"tconevo.overwhelm\",color:-6617589,level:1},{identifier:\"tconevo.eternal_density\",color:-6617589,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.juggernaut\",\"tconevo.overwhelm\",\"tconevo.eternal_density2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e671c48d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 20.0f,
+					FreeModifiers: 3,
+					Durability: 9120,
+					HarvestLevel: 10,
+					Attack: 23.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 20.0f,
+					FreeModifiers: 3,
+					Durability: 9120,
+					HarvestLevel: 10,
+					Attack: 23.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"red_matter",
+						"red_matter",
+						"red_matter"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.juggernaut",
+					color: -6617589,
+					level: 1
+				},
+				{
+					identifier: "tconevo.overwhelm",
+					color: -6617589,
+					level: 1
+				},
+				{
+					identifier: "tconevo.eternal_density",
+					color: -6617589,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.juggernaut",
+					"tconevo.overwhelm",
+					"tconevo.eternal_density2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

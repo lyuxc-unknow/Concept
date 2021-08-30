@@ -1,0 +1,20 @@
+{
+	x: 14.0d,
+	y: 87.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extracells:terminal.universal.wireless\",Count:1b,tag:{power:1600000.0d,modules:23b},Damage:0s}",
+	tasks: [{
+		uid: "2ec8200c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:terminal.universal.wireless",
+			tag: {
+				power: 1600000.0d,
+				modules: 23b
+			}
+		}],
+		consume_items: true
+	}]
+}

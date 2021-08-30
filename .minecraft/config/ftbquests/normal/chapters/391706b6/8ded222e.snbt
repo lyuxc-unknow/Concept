@@ -1,0 +1,73 @@
+{
+	x: 6.0d,
+	y: 347.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:1507,HarvestLevel:4,Attack:8.72f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:1507,HarvestLevel:4,Attack:8.72f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"coldblooded\",\"insatiable\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "53b9059d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					Durability: 1507,
+					HarvestLevel: 4,
+					Attack: 8.72f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					Durability: 1507,
+					HarvestLevel: 4,
+					Attack: 8.72f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"manyullyn",
+						"manyullyn",
+						"manyullyn",
+						"manyullyn"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "coldblooded",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "insatiable",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"coldblooded",
+					"insatiable",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

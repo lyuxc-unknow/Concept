@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 595.0d,
+	description: "{id:\"rftoolspower:cell1\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a1bec535",
+		type: "item",
+		items: [{
+			item: "rftoolspower:cell1"
+		}],
+		consume_items: true
+	}]
+}

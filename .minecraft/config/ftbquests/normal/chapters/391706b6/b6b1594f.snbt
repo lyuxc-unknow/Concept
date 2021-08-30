@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 254.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"refined_glowstone\"},Damage:0s}",
+	tasks: [{
+		uid: "b53d26c1",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "refined_glowstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 22.0d,
+	y: 139.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:blue_glazed_terracotta\"},Damage:0s}",
+	tasks: [{
+		uid: "a4565975",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:blue_glazed_terracotta"
+			}
+		}],
+		consume_items: true
+	}]
+}

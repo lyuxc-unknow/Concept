@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 756.0d,
+	description: "{id:\"environmentaltech:modifier_absorption\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "699ecb51",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_absorption"
+		}],
+		consume_items: true
+	}]
+}

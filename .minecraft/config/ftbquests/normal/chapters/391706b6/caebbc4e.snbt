@@ -1,0 +1,17 @@
+{
+	x: 32.0d,
+	y: 55.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"ancite\"},Damage:1s}",
+	tasks: [{
+		uid: "15c312a7",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "ancite"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,74 @@
+{
+	x: 38.0d,
+	y: 392.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:11.76f,FreeModifiers:3,Durability:1500,HarvestLevel:4,Attack:15.06f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:11.76f,FreeModifiers:3,Durability:1500,HarvestLevel:4,Attack:15.06f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"ebonypsi\",\"ebonypsi\",\"ebonypsi\",\"ebonypsi\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psieater\",color:-16119286,level:1},{identifier:\"darkness\",color:-16119286,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psieater\",\"darkness\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2fccca36",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 11.76f,
+					FreeModifiers: 3,
+					Durability: 1500,
+					HarvestLevel: 4,
+					Attack: 15.06f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 11.76f,
+					FreeModifiers: 3,
+					Durability: 1500,
+					HarvestLevel: 4,
+					Attack: 15.06f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ebonypsi",
+						"ebonypsi",
+						"ebonypsi",
+						"ebonypsi"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psieater",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "darkness",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psieater",
+					"darkness",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

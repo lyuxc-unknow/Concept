@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 6.0d,
+	description: "{id:\"minecraft:iron_trapdoor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c82ca3c",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_trapdoor"
+		}],
+		consume_items: true
+	}]
+}

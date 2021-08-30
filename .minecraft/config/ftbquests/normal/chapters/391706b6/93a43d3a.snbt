@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 772.0d,
+	description: "{id:\"omegacraft:wire_copper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "337f1901",
+		type: "item",
+		items: [{
+			item: "omegacraft:wire_copper"
+		}],
+		consume_items: true
+	}]
+}

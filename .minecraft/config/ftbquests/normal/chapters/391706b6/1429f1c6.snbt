@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 440.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"quartzenrichediron\"},Damage:0s}",
+	tasks: [{
+		uid: "f5fa8dec",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "quartzenrichediron"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,72 @@
+{
+	x: 15.0d,
+	y: 345.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:714,HarvestLevel:2,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:714,HarvestLevel:2,Attack:6.5f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"constantan\",\"constantan\",\"constantan\",\"constantan\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"freezing\",color:-4219041,level:1},{identifier:\"aridiculous\",color:-4219041,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"freezing\",\"aridiculous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f4caca74",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 714,
+					HarvestLevel: 2,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 714,
+					HarvestLevel: 2,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"constantan",
+						"constantan",
+						"constantan",
+						"constantan"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "freezing",
+					color: -4219041,
+					level: 1
+				},
+				{
+					identifier: "aridiculous",
+					color: -4219041,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"freezing",
+					"aridiculous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

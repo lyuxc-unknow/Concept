@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 97.0d,
+	description: "{id:\"mist:poplar_trunk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ce250209",
+		type: "item",
+		items: [{
+			item: "mist:poplar_trunk"
+		}],
+		consume_items: true
+	}]
+}

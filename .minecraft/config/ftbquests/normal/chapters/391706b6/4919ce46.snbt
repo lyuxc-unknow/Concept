@@ -1,0 +1,77 @@
+{
+	x: 36.0d,
+	y: 378.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:2205,HarvestLevel:6,Attack:11.0f,Range:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:2205,HarvestLevel:6,Attack:11.0f,Range:1.5f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"gelid_enderium\",\"gelid_enderium\",\"gelid_enderium\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.energized\",color:-15567754,level:2},{identifier:\"tconevo.juggernaut\",color:-15567754,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.energized2\",\"tconevo.juggernaut\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0d513663",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 2205,
+					HarvestLevel: 6,
+					Attack: 11.0f,
+					Range: 1.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.0f,
+					DrawSpeed: 0.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 2205,
+					HarvestLevel: 6,
+					Attack: 11.0f,
+					Range: 1.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"gelid_enderium",
+						"gelid_enderium",
+						"gelid_enderium",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.energized",
+					color: -15567754,
+					level: 2
+				},
+				{
+					identifier: "tconevo.juggernaut",
+					color: -15567754,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.energized2",
+					"tconevo.juggernaut",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

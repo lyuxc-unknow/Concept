@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 31.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"enderio:confusion\"},Damage:0s}",
+	tasks: [{
+		uid: "eb2b5c45",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "enderio:confusion"
+			}
+		}],
+		consume_items: true
+	}]
+}

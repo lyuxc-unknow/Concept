@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 751.0d,
+	description: "{id:\"environmentalmaterials:alabaster_wall_magenta\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c9ccd362",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_wall_magenta"
+		}],
+		consume_items: true
+	}]
+}

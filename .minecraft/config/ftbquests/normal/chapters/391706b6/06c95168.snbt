@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 103.0d,
+	description: "{id:\"mist:aspen_fence\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "f4391a26",
+		type: "item",
+		items: [{
+			item: "mist:aspen_fence 1 2"
+		}],
+		consume_items: true
+	}]
+}

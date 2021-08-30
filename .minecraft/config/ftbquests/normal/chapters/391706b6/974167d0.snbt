@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 688.0d,
+	description: "{id:\"avaritiatweaks:enhancement_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e20a36ff",
+		type: "item",
+		items: [{
+			item: "avaritiatweaks:enhancement_crystal"
+		}],
+		consume_items: true
+	}]
+}

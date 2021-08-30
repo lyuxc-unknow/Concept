@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 786.0d,
+	description: "{id:\"yoyos:yoyo_body\",Count:1b,tag:{Material:\"ice\"},Damage:0s}",
+	tasks: [{
+		uid: "358a1455",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_body",
+			tag: {
+				Material: "ice"
+			}
+		}],
+		consume_items: true
+	}]
+}

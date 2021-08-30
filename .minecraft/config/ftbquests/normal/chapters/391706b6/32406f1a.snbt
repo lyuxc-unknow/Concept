@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 552.0d,
+	description: "{id:\"mysticalagriculture:supremium_arrow\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dfb5c772",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:supremium_arrow"
+		}],
+		consume_items: true
+	}]
+}

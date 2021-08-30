@@ -1,0 +1,18 @@
+{
+	x: 17.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"minecraft:blaze\"}},Damage:0s}",
+	tasks: [{
+		uid: "df61018f",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:blaze"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

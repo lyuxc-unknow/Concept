@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 40.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:armor.legs_copper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "95b200e2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:armor.legs_copper"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 129.0d,
+	description: "{id:\"packagedauto:unpackager\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "900d29e4",
+		type: "item",
+		items: [{
+			item: "packagedauto:unpackager"
+		}],
+		consume_items: true
+	}]
+}

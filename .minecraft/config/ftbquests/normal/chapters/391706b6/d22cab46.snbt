@@ -1,0 +1,72 @@
+{
+	x: 18.0d,
+	y: 635.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,FreeModifiers:3,Durability:854,HarvestLevel:3,Attack:8.42f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.54f,FreeModifiers:3,Durability:854,HarvestLevel:3,Attack:8.42f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"yellowgarnet\",\"yellowgarnet\",\"yellowgarnet\",\"yellowgarnet\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"autosmelt\",color:-658149,level:1},{identifier:\"superheat\",color:-658149,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"autosmelt\",\"superheat\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9d8664c9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					FreeModifiers: 3,
+					Durability: 854,
+					HarvestLevel: 3,
+					Attack: 8.42f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.54f,
+					FreeModifiers: 3,
+					Durability: 854,
+					HarvestLevel: 3,
+					Attack: 8.42f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"yellowgarnet",
+						"yellowgarnet",
+						"yellowgarnet",
+						"yellowgarnet"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "autosmelt",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "superheat",
+					color: -658149,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"autosmelt",
+					"superheat",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

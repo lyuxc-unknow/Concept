@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 242.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"restonia_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "b7e91095",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "restonia_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

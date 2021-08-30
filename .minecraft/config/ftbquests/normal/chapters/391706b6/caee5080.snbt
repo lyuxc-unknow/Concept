@@ -1,0 +1,77 @@
+{
+	x: 21.0d,
+	y: 371.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:2250,HarvestLevel:6,Attack:18.599998f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:2250,HarvestLevel:6,Attack:18.599998f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"gelid_gem\",\"gelid_gem\",\"gelid_gem\",\"gelid_gem\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.energized\",color:-12931667,level:2},{identifier:\"tconevo.aftershock\",color:-12931667,level:3},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.energized2\",\"tconevo.aftershock2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "deb70884",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 2250,
+					HarvestLevel: 6,
+					Attack: 18.599998f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 2250,
+					HarvestLevel: 6,
+					Attack: 18.599998f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"gelid_gem",
+						"gelid_gem",
+						"gelid_gem",
+						"gelid_gem"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.energized",
+					color: -12931667,
+					level: 2
+				},
+				{
+					identifier: "tconevo.aftershock",
+					color: -12931667,
+					level: 3
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.energized2",
+					"tconevo.aftershock2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

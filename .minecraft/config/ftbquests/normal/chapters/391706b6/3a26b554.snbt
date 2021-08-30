@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 794.0d,
+	description: "{id:\"tp:blaze_cobblegen_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0208675e",
+		type: "item",
+		items: [{
+			item: "tp:blaze_cobblegen_block"
+		}],
+		consume_items: true
+	}]
+}

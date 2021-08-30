@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 106.0d,
+	description: "{id:\"mist:pills_bitter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9cc8ddb5",
+		type: "item",
+		items: [{
+			item: "mist:pills_bitter"
+		}],
+		consume_items: true
+	}]
+}

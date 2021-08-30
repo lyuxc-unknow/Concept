@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:zorrasteel_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f89ab7fa",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorrasteel_block"
+		}],
+		consume_items: true
+	}]
+}

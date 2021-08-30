@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 549.0d,
+	description: "{id:\"mysticalagriculture:graphite_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2e445909",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:graphite_seeds"
+		}],
+		consume_items: true
+	}]
+}

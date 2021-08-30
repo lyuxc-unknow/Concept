@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 492.0d,
+	description: "{id:\"bloodmagic:path\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "79321549",
+		type: "item",
+		items: [{
+			item: "bloodmagic:path 1 3"
+		}],
+		consume_items: true
+	}]
+}

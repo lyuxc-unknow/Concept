@@ -1,0 +1,66 @@
+{
+	x: 19.0d,
+	y: 345.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.02f,FreeModifiers:3,Durability:1566,HarvestLevel:4,Attack:9.030001f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.02f,FreeModifiers:3,Durability:1566,HarvestLevel:4,Attack:9.030001f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"mithril\",\"mithril\",\"mithril\",\"mithril\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"sos\",color:-14641744,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"sos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "951ec86b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.02f,
+					FreeModifiers: 3,
+					Durability: 1566,
+					HarvestLevel: 4,
+					Attack: 9.030001f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.02f,
+					FreeModifiers: 3,
+					Durability: 1566,
+					HarvestLevel: 4,
+					Attack: 9.030001f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"mithril",
+						"mithril",
+						"mithril",
+						"mithril"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "sos",
+					color: -14641744,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"sos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

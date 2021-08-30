@@ -1,0 +1,74 @@
+{
+	x: 26.0d,
+	y: 383.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.2f,DrawSpeed:3.5f,FreeModifiers:3,ProjectileBonusDamage:-3.0f,Durability:1,HarvestLevel:2,Attack:1.5f,Range:0.45f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.2f,DrawSpeed:3.5f,FreeModifiers:3,ProjectileBonusDamage:-3.0f,Durability:1,HarvestLevel:2,Attack:1.5f,Range:0.45f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"preservation\",\"preservation\",\"preservation\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{selective1:1b,identifier:\"selective\",selective2:1b,color:-5649516,level:3},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"selective1\",\"selective2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0dd8ee4c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.2f,
+					DrawSpeed: 3.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -3.0f,
+					Durability: 1,
+					HarvestLevel: 2,
+					Attack: 1.5f,
+					Range: 0.45f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.2f,
+					DrawSpeed: 3.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -3.0f,
+					Durability: 1,
+					HarvestLevel: 2,
+					Attack: 1.5f,
+					Range: 0.45f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"preservation",
+						"preservation",
+						"preservation",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					selective1: 1b,
+					identifier: "selective",
+					selective2: 1b,
+					color: -5649516,
+					level: 3
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"selective1",
+					"selective2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

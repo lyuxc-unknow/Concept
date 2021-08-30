@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:fire_charge\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "73410ab6",
+		type: "item",
+		items: [{
+			item: "minecraft:fire_charge"
+		}],
+		consume_items: true
+	}]
+}

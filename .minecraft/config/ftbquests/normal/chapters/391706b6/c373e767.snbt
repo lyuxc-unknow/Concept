@@ -1,0 +1,61 @@
+{
+	x: 29.0d,
+	y: 458.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:helmet\",Count:1b,tag:{StatsOriginal:{Toughness:7.0f,FreeModifiers:3,Durability:545,Defense:23.0f},Stats:{Toughness:7.0f,FreeModifiers:3,Durability:545,Defense:23.0f},ConArmEquipmentSlot:5,TinkerData:{Materials:[\"gelid_gem\",\"gelid_gem\",\"gelid_gem\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"tconevo.energized_armor\",color:-12931667,level:2},{identifier:\"tconevo.reactive_armor\",color:-12931667,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"tconevo.energized2_armor\",\"tconevo.reactive_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "698fad84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:helmet",
+			tag: {
+				StatsOriginal: {
+					Toughness: 7.0f,
+					FreeModifiers: 3,
+					Durability: 545,
+					Defense: 23.0f
+				},
+				Stats: {
+					Toughness: 7.0f,
+					FreeModifiers: 3,
+					Durability: 545,
+					Defense: 23.0f
+				},
+				ConArmEquipmentSlot: 5,
+				TinkerData: {
+					Materials: [
+						"gelid_gem",
+						"gelid_gem",
+						"gelid_gem"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.energized_armor",
+					color: -12931667,
+					level: 2
+				},
+				{
+					identifier: "tconevo.reactive_armor",
+					color: -12931667,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.energized2_armor",
+					"tconevo.reactive_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

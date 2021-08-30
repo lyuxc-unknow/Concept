@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 749.0d,
+	description: "{id:\"environmentalmaterials:alabaster_tile_stairs_brown\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "92588a1b",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_tile_stairs_brown"
+		}],
+		consume_items: true
+	}]
+}

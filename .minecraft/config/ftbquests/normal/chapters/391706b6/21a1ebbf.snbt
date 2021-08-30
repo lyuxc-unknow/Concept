@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 771.0d,
+	description: "{id:\"custom_additions:argent_infused_demonic_metal_dust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2263fdb4",
+		type: "item",
+		items: [{
+			item: "custom_additions:argent_infused_demonic_metal_dust"
+		}],
+		consume_items: true
+	}]
+}

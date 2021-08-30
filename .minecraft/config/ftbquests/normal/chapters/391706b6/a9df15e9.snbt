@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 144.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"extrautils2:ironwood_log\"},Damage:0s}",
+	tasks: [{
+		uid: "4d56e62b",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "extrautils2:ironwood_log"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 767.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:void_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a006a3b0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:void_crystal"
+		}],
+		consume_items: true
+	}]
+}

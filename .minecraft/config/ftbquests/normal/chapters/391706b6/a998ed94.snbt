@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 664.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"embers:magma_worm\"},Damage:0s}",
+	tasks: [{
+		uid: "cebd9dcc",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "embers:magma_worm"
+			}
+		}],
+		consume_items: true
+	}]
+}

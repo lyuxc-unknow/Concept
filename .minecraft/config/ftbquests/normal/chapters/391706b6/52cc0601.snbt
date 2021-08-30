@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 312.0d,
+	description: "{id:\"tconstruct:arrow_shaft\",Count:1b,tag:{Material:\"extrabotany:ingotshadowium\"},Damage:0s}",
+	tasks: [{
+		uid: "8e6afc96",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_shaft",
+			tag: {
+				Material: "extrabotany:ingotshadowium"
+			}
+		}],
+		consume_items: true
+	}]
+}

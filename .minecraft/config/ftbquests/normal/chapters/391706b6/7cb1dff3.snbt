@@ -1,0 +1,17 @@
+{
+	x: 27.0d,
+	y: 56.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"minecraft:zombie_villager\"},Damage:0s}",
+	tasks: [{
+		uid: "ec975c32",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "minecraft:zombie_villager"
+			}
+		}],
+		consume_items: true
+	}]
+}

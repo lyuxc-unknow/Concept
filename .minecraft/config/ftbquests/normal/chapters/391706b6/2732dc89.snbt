@@ -1,0 +1,17 @@
+{
+	x: 38.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:energy_cell\",Count:1b,tag:{internalMaxPower:200000.0d,internalCurrentPower:200000.0d},Damage:0s}",
+	tasks: [{
+		uid: "526f216f",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:energy_cell",
+			tag: {
+				internalMaxPower: 200000.0d,
+				internalCurrentPower: 200000.0d
+			}
+		}],
+		consume_items: true
+	}]
+}

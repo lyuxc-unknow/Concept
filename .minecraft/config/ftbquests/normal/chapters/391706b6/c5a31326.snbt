@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 428.0d,
+	description: "{id:\"botania:shimmerrock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "17db0b62",
+		type: "item",
+		items: [{
+			item: "botania:shimmerrock"
+		}],
+		consume_items: true
+	}]
+}

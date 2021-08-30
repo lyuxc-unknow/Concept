@@ -1,0 +1,63 @@
+{
+	x: 14.0d,
+	y: 367.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:battlesign\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:245,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:7,Durability:245,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"mica\",\"mica\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.modifiable\",color:-5263441,level:4},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.modifiable2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d65f8038",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:battlesign",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 245,
+					HarvestLevel: 2,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 7,
+					Durability: 245,
+					HarvestLevel: 2,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"mica",
+						"mica"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.modifiable",
+					color: -5263441,
+					level: 4
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.modifiable2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

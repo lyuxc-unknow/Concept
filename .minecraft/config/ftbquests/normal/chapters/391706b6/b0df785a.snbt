@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 553.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:supremium_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de5f2f6a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:supremium_shovel"
+		}],
+		consume_items: true
+	}]
+}

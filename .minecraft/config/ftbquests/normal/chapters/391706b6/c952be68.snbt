@@ -1,0 +1,19 @@
+{
+	x: 32.0d,
+	y: 415.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:manainkwell\",Count:1b,tag:{mana:7500},Damage:0s}",
+	tasks: [{
+		uid: "53d1abfb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:manainkwell",
+			tag: {
+				mana: 7500
+			}
+		}],
+		consume_items: true
+	}]
+}

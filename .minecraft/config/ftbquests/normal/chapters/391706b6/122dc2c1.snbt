@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:mob_slaughter_factory\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e343d153",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_slaughter_factory"
+		}],
+		consume_items: true
+	}]
+}

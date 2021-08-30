@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 42.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.shield_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8a9851c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.shield_tin"
+		}],
+		consume_items: true
+	}]
+}

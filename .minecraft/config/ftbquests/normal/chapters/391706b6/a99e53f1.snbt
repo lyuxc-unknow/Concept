@@ -1,0 +1,58 @@
+{
+	x: 21.0d,
+	y: 360.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.98f,FreeModifiers:3,Durability:242,HarvestLevel:1,Attack:1.76f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.98f,FreeModifiers:3,Durability:242,HarvestLevel:1,Attack:1.76f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"brass\",\"brass\",\"brass\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2a2ae191",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.98f,
+					FreeModifiers: 3,
+					Durability: 242,
+					HarvestLevel: 1,
+					Attack: 1.76f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.98f,
+					FreeModifiers: 3,
+					Durability: 242,
+					HarvestLevel: 1,
+					Attack: 1.76f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"brass",
+						"brass",
+						"brass"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

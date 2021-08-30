@@ -1,0 +1,77 @@
+{
+	x: 26.0d,
+	y: 380.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:988,HarvestLevel:3,Attack:5.1f,Range:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:988,HarvestLevel:3,Attack:5.1f,Range:2.0f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"crumbling\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b8fab1f4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 988,
+					HarvestLevel: 3,
+					Attack: 5.1f,
+					Range: 2.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 988,
+					HarvestLevel: 3,
+					Attack: 5.1f,
+					Range: 2.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"knightslime",
+						"knightslime",
+						"knightslime",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "crumbling",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"crumbling",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

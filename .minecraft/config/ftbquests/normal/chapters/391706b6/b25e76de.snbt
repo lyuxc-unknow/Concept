@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 89.0d,
+	description: "{id:\"randomthings:inventoryrerouter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "831d9a50",
+		type: "item",
+		items: [{
+			item: "randomthings:inventoryrerouter"
+		}],
+		consume_items: true
+	}]
+}

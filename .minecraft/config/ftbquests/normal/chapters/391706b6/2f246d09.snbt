@@ -1,0 +1,17 @@
+{
+	x: 15.0d,
+	y: 513.0d,
+	description: "{id:\"mekanism:transmitter\",Count:1b,tag:{tier:0},Damage:6s}",
+	tasks: [{
+		uid: "59e8d7b2",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			},
+			Damage: 6s
+		}],
+		consume_items: true
+	}]
+}

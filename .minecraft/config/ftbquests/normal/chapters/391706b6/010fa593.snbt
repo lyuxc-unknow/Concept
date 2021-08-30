@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:certus_quartz_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad9965d2",
+		type: "item",
+		items: [{
+			item: "moreplates:certus_quartz_gear"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 414.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:knockbackbelt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f6ac5896",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:knockbackbelt"
+		}],
+		consume_items: true
+	}]
+}

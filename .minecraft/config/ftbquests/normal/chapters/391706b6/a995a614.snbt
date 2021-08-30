@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 601.0d,
+	description: "{id:\"steamworld:upgrade\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "e533fe28",
+		type: "item",
+		items: [{
+			item: "steamworld:upgrade 1 1"
+		}],
+		consume_items: true
+	}]
+}

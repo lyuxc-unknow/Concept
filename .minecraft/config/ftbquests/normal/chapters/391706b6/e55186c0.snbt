@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: 17.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"minecraft:silverfish\"}},Damage:0s}",
+	tasks: [{
+		uid: "1317b91e",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:silverfish"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

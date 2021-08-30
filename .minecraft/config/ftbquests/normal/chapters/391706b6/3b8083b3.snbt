@@ -1,0 +1,19 @@
+{
+	x: 39.0d,
+	y: 782.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"ec.internal.slurrycleanlunar\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "3502f59c",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "ec.internal.slurrycleanlunar",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

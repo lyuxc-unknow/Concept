@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 124.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:zombie_pigman\"},Damage:0s}",
+	tasks: [{
+		uid: "e82bf8b1",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie_pigman"
+			}
+		}],
+		consume_items: true
+	}]
+}

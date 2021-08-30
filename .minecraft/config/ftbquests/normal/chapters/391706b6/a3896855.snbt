@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 492.0d,
+	description: "{id:\"bloodmagic:blood_rune\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "d790599c",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune 1 5"
+		}],
+		consume_items: true
+	}]
+}

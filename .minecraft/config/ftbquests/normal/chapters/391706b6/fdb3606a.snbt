@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 789.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"yoyos:book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9e71cc20",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yoyos:book"
+		}],
+		consume_items: true
+	}]
+}

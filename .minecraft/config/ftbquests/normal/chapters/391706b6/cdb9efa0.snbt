@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 571.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"ironchest:gold_diamond_shulker_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "611100f9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:gold_diamond_shulker_upgrade"
+		}],
+		consume_items: true
+	}]
+}

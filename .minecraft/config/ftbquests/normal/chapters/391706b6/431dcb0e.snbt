@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 516.0d,
+	description: "{id:\"mekanism:saltblock\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01f125f6",
+		type: "item",
+		items: [{
+			item: "mekanism:saltblock"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,58 @@
+{
+	x: 31.0d,
+	y: 356.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.98f,FreeModifiers:3,Durability:318,HarvestLevel:1,Attack:2.26f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.98f,FreeModifiers:3,Durability:318,HarvestLevel:1,Attack:2.26f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"brass\",\"brass\",\"brass\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fa0fad65",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.98f,
+					FreeModifiers: 3,
+					Durability: 318,
+					HarvestLevel: 1,
+					Attack: 2.26f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.98f,
+					FreeModifiers: 3,
+					Durability: 318,
+					HarvestLevel: 1,
+					Attack: 2.26f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"brass",
+						"brass",
+						"brass"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

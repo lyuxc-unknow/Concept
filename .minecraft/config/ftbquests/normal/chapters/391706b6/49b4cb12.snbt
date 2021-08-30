@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 139.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:end_bricks\"},Damage:0s}",
+	tasks: [{
+		uid: "25740d13",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:end_bricks"
+			}
+		}],
+		consume_items: true
+	}]
+}

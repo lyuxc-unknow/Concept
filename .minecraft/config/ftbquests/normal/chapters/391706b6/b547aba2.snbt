@@ -1,0 +1,19 @@
+{
+	x: 29.0d,
+	y: 122.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"cloud_seed_concentrated\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "8ccdbdb8",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "cloud_seed_concentrated",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

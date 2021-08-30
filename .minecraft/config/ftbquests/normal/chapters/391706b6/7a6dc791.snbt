@@ -1,0 +1,75 @@
+{
+	x: 13.0d,
+	y: 328.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.02f,FreeModifiers:3,HarvestLevelShovel:4,Durability:660,HarvestLevel:4,Attack:11.72f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.02f,FreeModifiers:3,HarvestLevelShovel:4,Durability:660,HarvestLevel:4,Attack:11.72f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"coldblooded\",\"insatiable\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "08c32406",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 660,
+					HarvestLevel: 4,
+					Attack: 11.72f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 7.02f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 660,
+					HarvestLevel: 4,
+					Attack: 11.72f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"manyullyn",
+						"manyullyn",
+						"manyullyn"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "coldblooded",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "insatiable",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"coldblooded",
+					"insatiable",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

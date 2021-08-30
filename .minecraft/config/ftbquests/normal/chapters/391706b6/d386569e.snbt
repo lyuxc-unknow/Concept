@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 258.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"carbon_fiber\"},Damage:0s}",
+	tasks: [{
+		uid: "36176ce9",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "carbon_fiber"
+			}
+		}],
+		consume_items: true
+	}]
+}

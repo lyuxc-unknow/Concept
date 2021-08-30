@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 116.0d,
+	description: "{id:\"moreplates:supremium_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e863afef",
+		type: "item",
+		items: [{
+			item: "moreplates:supremium_plate"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 21.0d,
+	y: 132.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"redstonerepository:ring_mining\",Count:1b,tag:{Energy:4000000},Damage:0s}",
+	tasks: [{
+		uid: "d48f2f16",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonerepository:ring_mining",
+			tag: {
+				Energy: 4000000
+			}
+		}],
+		consume_items: true
+	}]
+}

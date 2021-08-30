@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"clayconiaChibi\"},Damage:0s}",
+	tasks: [{
+		uid: "c5ee2e5d",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "clayconiaChibi"
+			}
+		}],
+		consume_items: true
+	}]
+}

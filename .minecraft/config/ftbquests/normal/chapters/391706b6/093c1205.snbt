@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 271.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "a448ca20",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

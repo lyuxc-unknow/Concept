@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 537.0d,
+	description: "{id:\"bigreactors:reactorcontrolrod\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cc73cf18",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcontrolrod"
+		}],
+		consume_items: true
+	}]
+}

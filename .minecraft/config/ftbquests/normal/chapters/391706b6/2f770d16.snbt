@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 561.0d,
+	description: "{id:\"rftools:storage_scanner\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ce2d3d64",
+		type: "item",
+		items: [{
+			item: "rftools:storage_scanner"
+		}],
+		consume_items: true
+	}]
+}

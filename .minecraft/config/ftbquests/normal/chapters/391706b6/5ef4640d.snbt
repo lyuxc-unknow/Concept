@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 671.0d,
+	description: "{id:\"actuallyadditions:block_crystal_cluster_coal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5bf8b2da",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_cluster_coal"
+		}],
+		consume_items: true
+	}]
+}

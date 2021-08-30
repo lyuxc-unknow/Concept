@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 678.0d,
+	description: "{id:\"actuallyadditions:item_fertilizer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eb58e5a5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_fertilizer"
+		}],
+		consume_items: true
+	}]
+}

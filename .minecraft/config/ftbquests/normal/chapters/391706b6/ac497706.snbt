@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 304.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"ancite\"},Damage:0s}",
+	tasks: [{
+		uid: "a129dd90",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "ancite"
+			}
+		}],
+		consume_items: true
+	}]
+}

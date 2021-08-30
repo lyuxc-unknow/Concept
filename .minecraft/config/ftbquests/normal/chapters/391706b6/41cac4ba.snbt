@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 133.0d,
+	description: "{id:\"thermaldynamics:servo\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "8f7e1c09",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:servo 1 2"
+		}],
+		consume_items: true
+	}]
+}

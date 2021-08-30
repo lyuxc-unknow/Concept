@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 419.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:temperancestone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b9fa8ed2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:temperancestone"
+		}],
+		consume_items: true
+	}]
+}

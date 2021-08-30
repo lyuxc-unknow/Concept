@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 611.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"fluxed_electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "d53f7fb9",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "fluxed_electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

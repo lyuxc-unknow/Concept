@@ -1,0 +1,84 @@
+{
+	x: 3.0d,
+	y: 372.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:32.73f,FreeModifiers:3,Durability:44880,HarvestLevel:7,Attack:1823.9879f},Stats:{AttackSpeedMultiplier:0.3f,MiningSpeed:32.73f,FreeModifiers:0,Durability:44880,HarvestLevel:7,Attack:1823.9879f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chaoticdraconium\",\"chaoticdraconium\",\"chaoticdraconium\",\"chaoticdraconium\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"energyrepair\",color:-15263977,level:1},{identifier:\"op\",op1:1b,color:-15263977,level:1},{identifier:\"energyeater\",color:-15263977,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"energyrepair\",\"op1\",\"energyeater\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "cff29489",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 32.73f,
+					FreeModifiers: 3,
+					Durability: 44880,
+					HarvestLevel: 7,
+					Attack: 1823.9879f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 0.3f,
+					MiningSpeed: 32.73f,
+					FreeModifiers: 0,
+					Durability: 44880,
+					HarvestLevel: 7,
+					Attack: 1823.9879f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"chaoticdraconium",
+						"chaoticdraconium",
+						"chaoticdraconium",
+						"chaoticdraconium"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "energyrepair",
+					color: -15263977,
+					level: 1
+				},
+				{
+					identifier: "op",
+					op1: 1b,
+					color: -15263977,
+					level: 1
+				},
+				{
+					identifier: "energyeater",
+					color: -15263977,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"energyrepair",
+					"op1",
+					"energyeater",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,65 @@
+{
+	x: 0.0d,
+	y: 372.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.65f,FreeModifiers:3,Durability:1670,HarvestLevel:3,Attack:11.879f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.65f,FreeModifiers:3,Durability:1670,HarvestLevel:3,Attack:11.879f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"quartzenrichediron\",\"quartzenrichediron\",\"quartzenrichediron\",\"quartzenrichediron\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a063593d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					Durability: 1670,
+					HarvestLevel: 3,
+					Attack: 11.879f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					Durability: 1670,
+					HarvestLevel: 3,
+					Attack: 11.879f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"quartzenrichediron",
+						"quartzenrichediron",
+						"quartzenrichediron",
+						"quartzenrichediron"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

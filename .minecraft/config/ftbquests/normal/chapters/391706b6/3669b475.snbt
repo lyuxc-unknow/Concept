@@ -1,0 +1,77 @@
+{
+	x: 30.0d,
+	y: 383.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:2.625f,Durability:1793,HarvestLevel:3,Attack:5.0f,Range:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:2.625f,Durability:1793,HarvestLevel:3,Attack:5.0f,Range:1.5f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"diamond\",\"diamond\",\"diamond\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"resilience\",color:-13374517,level:1},{identifier:\"diamond_edge\",color:-13374517,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"resilience\",\"diamond_edge\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b180b6ab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 2.625f,
+					Durability: 1793,
+					HarvestLevel: 3,
+					Attack: 5.0f,
+					Range: 1.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 0.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 2.625f,
+					Durability: 1793,
+					HarvestLevel: 3,
+					Attack: 5.0f,
+					Range: 1.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"diamond",
+						"diamond",
+						"diamond",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "resilience",
+					color: -13374517,
+					level: 1
+				},
+				{
+					identifier: "diamond_edge",
+					color: -13374517,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"resilience",
+					"diamond_edge",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

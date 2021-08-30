@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 602.0d,
+	description: "{id:\"steamworld:generator_steaite\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "2a1ec2bf",
+		type: "item",
+		items: [{
+			item: "steamworld:generator_steaite 1 4"
+		}],
+		consume_items: true
+	}]
+}

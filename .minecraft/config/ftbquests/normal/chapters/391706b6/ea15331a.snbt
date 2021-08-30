@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 290.0d,
+	description: "{id:\"tconstruct:hand_guard\",Count:1b,tag:{Material:\"extrabotany:ingotshadowium\"},Damage:0s}",
+	tasks: [{
+		uid: "542b69af",
+		type: "item",
+		items: [{
+			id: "tconstruct:hand_guard",
+			tag: {
+				Material: "extrabotany:ingotshadowium"
+			}
+		}],
+		consume_items: true
+	}]
+}

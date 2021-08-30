@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 106.0d,
+	description: "{id:\"mist:ash\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c1287de6",
+		type: "item",
+		items: [{
+			item: "mist:ash"
+		}],
+		consume_items: true
+	}]
+}

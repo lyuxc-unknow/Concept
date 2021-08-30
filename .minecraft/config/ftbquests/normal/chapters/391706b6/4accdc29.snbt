@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 631.0d,
+	description: "{id:\"totaltinkers:fullguard\",Count:1b,tag:{Material:\"psigem\"},Damage:0s}",
+	tasks: [{
+		uid: "166737a7",
+		type: "item",
+		items: [{
+			id: "totaltinkers:fullguard",
+			tag: {
+				Material: "psigem"
+			}
+		}],
+		consume_items: true
+	}]
+}

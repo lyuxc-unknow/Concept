@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 670.0d,
+	description: "{id:\"survivalist:jerky\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "72fc31e4",
+		type: "item",
+		items: [{
+			item: "survivalist:jerky"
+		}],
+		consume_items: true
+	}]
+}

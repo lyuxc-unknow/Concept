@@ -1,0 +1,90 @@
+{
+	x: 10.0d,
+	y: 660.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:2478,HarvestLevel:4,Attack:7.5f,Range:1.75f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:2478,HarvestLevel:4,Attack:7.5f,Range:1.75f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"terrasteel\",\"terrasteel\",\"terrasteel\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.mortal_wounds\",color:-13048576,level:1},{identifier:\"tconevo.mana_infused\",color:-13048576,level:1},{identifier:\"tconevo.staggering\",color:-13048576,level:1},{identifier:\"tconevo.gaia_wrath\",color:-13048576,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.mortal_wounds\",\"tconevo.mana_infused\",\"tconevo.staggering\",\"tconevo.gaia_wrath\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a7ad0d6f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 9.0f,
+					Durability: 2478,
+					HarvestLevel: 4,
+					Attack: 7.5f,
+					Range: 1.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					DrawSpeed: 0.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 9.0f,
+					Durability: 2478,
+					HarvestLevel: 4,
+					Attack: 7.5f,
+					Range: 1.75f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"terrasteel",
+						"terrasteel",
+						"terrasteel",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.mortal_wounds",
+					color: -13048576,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mana_infused",
+					color: -13048576,
+					level: 1
+				},
+				{
+					identifier: "tconevo.staggering",
+					color: -13048576,
+					level: 1
+				},
+				{
+					identifier: "tconevo.gaia_wrath",
+					color: -13048576,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.mortal_wounds",
+					"tconevo.mana_infused",
+					"tconevo.staggering",
+					"tconevo.gaia_wrath",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

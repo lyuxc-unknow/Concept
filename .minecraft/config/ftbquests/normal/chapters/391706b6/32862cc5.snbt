@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 583.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"pneumaticcraft:camo_applicator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd40c96e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:camo_applicator"
+		}],
+		consume_items: true
+	}]
+}

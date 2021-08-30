@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 212.0d,
+	description: "{id:\"enderio:block_powered_spawner\",Count:1b,tag:{entityId:\"minecraft:stray\"},Damage:0s}",
+	tasks: [{
+		uid: "61882bd6",
+		type: "item",
+		items: [{
+			id: "enderio:block_powered_spawner",
+			tag: {
+				entityId: "minecraft:stray"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 747.0d,
+	description: "{id:\"environmentalmaterials:alabaster_bricks\",Count:1b,Damage:14s}",
+	tasks: [{
+		uid: "e16b3454",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_bricks 1 14"
+		}],
+		consume_items: true
+	}]
+}

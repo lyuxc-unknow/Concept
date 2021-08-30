@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: 50.0d,
+	description: "{id:\"draconicevolution:draconic_legs\",Count:1b,tag:{DEUpgrades:{moveSpeed:3b,shieldRec:3b,shieldCap:3b,rfCap:3b},Energy:256000000},Damage:0s}",
+	tasks: [{
+		uid: "c98e21c7",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_legs",
+			tag: {
+				DEUpgrades: {
+					moveSpeed: 3b,
+					shieldRec: 3b,
+					shieldCap: 3b,
+					rfCap: 3b
+				},
+				Energy: 256000000
+			}
+		}],
+		consume_items: true
+	}]
+}

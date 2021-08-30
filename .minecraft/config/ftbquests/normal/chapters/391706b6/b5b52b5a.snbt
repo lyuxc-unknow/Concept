@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 307.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"psigem\"},Damage:0s}",
+	tasks: [{
+		uid: "807a6c6a",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "psigem"
+			}
+		}],
+		consume_items: true
+	}]
+}

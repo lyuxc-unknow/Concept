@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 435.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"elementium\"},Damage:0s}",
+	tasks: [{
+		uid: "b16af294",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "elementium"
+			}
+		}],
+		consume_items: true
+	}]
+}

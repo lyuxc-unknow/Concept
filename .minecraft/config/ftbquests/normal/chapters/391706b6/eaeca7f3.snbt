@@ -1,0 +1,71 @@
+{
+	x: 8.0d,
+	y: 382.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:1.75f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:277,HarvestLevel:2,Attack:4.0f,Range:0.75f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:1.75f,FreeModifiers:9,ProjectileBonusDamage:0.0f,Durability:277,HarvestLevel:2,Attack:4.0f,Range:0.75f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"mica\",\"mica\",\"mica\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.modifiable\",color:-5263441,level:6},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.modifiable2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "bfb23f52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 1.75f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 277,
+					HarvestLevel: 2,
+					Attack: 4.0f,
+					Range: 0.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 1.75f,
+					FreeModifiers: 9,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 277,
+					HarvestLevel: 2,
+					Attack: 4.0f,
+					Range: 0.75f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"mica",
+						"mica",
+						"mica",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.modifiable",
+					color: -5263441,
+					level: 6
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.modifiable2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

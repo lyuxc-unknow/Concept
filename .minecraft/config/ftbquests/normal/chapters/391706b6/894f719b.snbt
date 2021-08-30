@@ -1,0 +1,17 @@
+{
+	x: 9.0d,
+	y: 137.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:redstone_lamp\"},Damage:0s}",
+	tasks: [{
+		uid: "315fc231",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:redstone_lamp"
+			}
+		}],
+		consume_items: true
+	}]
+}

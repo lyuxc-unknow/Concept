@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 69.0d,
+	description: "{id:\"sonarcore:reinforcedstonestairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ef41afdf",
+		type: "item",
+		items: [{
+			item: "sonarcore:reinforcedstonestairs"
+		}],
+		consume_items: true
+	}]
+}

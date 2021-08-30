@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 608.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tinker_io:cd_lonesome_avenue\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0d156ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tinker_io:cd_lonesome_avenue"
+		}],
+		consume_items: true
+	}]
+}

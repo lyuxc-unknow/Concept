@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 27.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"extrautils2:xu2.gravity.long\"},Damage:0s}",
+	tasks: [{
+		uid: "e5278b79",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extrautils2:xu2.gravity.long"
+			}
+		}],
+		consume_items: true
+	}]
+}

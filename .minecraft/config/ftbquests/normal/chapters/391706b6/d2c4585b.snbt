@@ -1,0 +1,17 @@
+{
+	x: 17.0d,
+	y: 161.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"naturesaura:dimension_rail_overworld\"},Damage:0s}",
+	tasks: [{
+		uid: "1148d390",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "naturesaura:dimension_rail_overworld"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 558.0d,
+	description: "{id:\"rftools:clock_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "82d0686d",
+		type: "item",
+		items: [{
+			item: "rftools:clock_module"
+		}],
+		consume_items: true
+	}]
+}

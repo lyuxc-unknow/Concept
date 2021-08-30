@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 748.0d,
+	description: "{id:\"environmentalmaterials:alabaster_brick_stairs_purple\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a3ecf49c",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_brick_stairs_purple"
+		}],
+		consume_items: true
+	}]
+}

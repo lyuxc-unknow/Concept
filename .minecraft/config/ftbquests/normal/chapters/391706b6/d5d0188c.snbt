@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 596.0d,
+	description: "{id:\"roost:chicken\",Count:1b,tag:{Chicken:\"minecraft:chicken\"},Damage:0s}",
+	tasks: [{
+		uid: "703bdd86",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Chicken: "minecraft:chicken"
+			}
+		}],
+		consume_items: true
+	}]
+}

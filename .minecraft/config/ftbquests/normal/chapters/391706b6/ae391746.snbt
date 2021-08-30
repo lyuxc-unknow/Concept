@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 135.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:lapis_ore\"},Damage:0s}",
+	tasks: [{
+		uid: "b19796cf",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:lapis_ore"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 776.0d,
+	description: "{id:\"requious:assembler\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "70f24a80",
+		type: "item",
+		items: [{
+			item: "requious:assembler"
+		}],
+		consume_items: true
+	}]
+}

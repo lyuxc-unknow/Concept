@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 117.0d,
+	description: "{id:\"openblocks:heal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e2ffddc9",
+		type: "item",
+		items: [{
+			item: "openblocks:heal"
+		}],
+		consume_items: true
+	}]
+}

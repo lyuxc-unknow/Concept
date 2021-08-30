@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 576.0d,
+	description: "{id:\"modularmagic:blockgridproviderinput\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "85d1aee7",
+		type: "item",
+		items: [{
+			item: "modularmagic:blockgridproviderinput"
+		}],
+		consume_items: true
+	}]
+}

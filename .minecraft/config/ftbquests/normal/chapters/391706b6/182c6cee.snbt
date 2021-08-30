@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 591.0d,
+	description: "{id:\"prodigytech:energion_dust\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "061071ea",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_dust"
+		}],
+		consume_items: true
+	}]
+}

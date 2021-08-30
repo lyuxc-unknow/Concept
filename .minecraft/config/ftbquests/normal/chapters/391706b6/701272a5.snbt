@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 72.0d,
+	description: "{id:\"calculator:pearfence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d412ac2e",
+		type: "item",
+		items: [{
+			item: "calculator:pearfence"
+		}],
+		consume_items: true
+	}]
+}

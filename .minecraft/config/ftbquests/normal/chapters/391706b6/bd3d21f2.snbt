@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 73.0d,
+	description: "{id:\"calculator:atomicmodule\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0230fd20",
+		type: "item",
+		items: [{
+			item: "calculator:atomicmodule"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_clumpaluminium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1653a4d9",
+		type: "item",
+		items: [{
+			item: "jaopca:item_clumpaluminium"
+		}],
+		consume_items: true
+	}]
+}

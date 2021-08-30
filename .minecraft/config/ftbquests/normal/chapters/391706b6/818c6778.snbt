@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:destination_analyzer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c52865c7",
+		type: "item",
+		items: [{
+			item: "rftools:destination_analyzer"
+		}],
+		consume_items: true
+	}]
+}

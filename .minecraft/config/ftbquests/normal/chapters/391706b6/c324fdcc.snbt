@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 453.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"magmaslime\"},Damage:0s}",
+	tasks: [{
+		uid: "deb689f1",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "magmaslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

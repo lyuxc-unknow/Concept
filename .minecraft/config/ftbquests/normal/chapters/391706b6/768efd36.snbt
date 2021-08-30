@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 115.0d,
+	description: "{id:\"moreplates:iridium_stick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bc194668",
+		type: "item",
+		items: [{
+			item: "moreplates:iridium_stick"
+		}],
+		consume_items: true
+	}]
+}

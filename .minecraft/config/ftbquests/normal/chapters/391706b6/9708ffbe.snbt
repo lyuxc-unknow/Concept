@@ -1,0 +1,70 @@
+{
+	x: 21.0d,
+	y: 638.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:3000,HarvestLevel:5,Attack:10.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:3000,HarvestLevel:5,Attack:10.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"enderium\",\"enderium\",\"enderium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderference\",color:-15835295,level:1},{identifier:\"tconevo.mortal_wounds\",color:-15835295,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderference\",\"tconevo.mortal_wounds\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b6c7ce62",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 3000,
+					HarvestLevel: 5,
+					Attack: 10.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 3000,
+					HarvestLevel: 5,
+					Attack: 10.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"enderium",
+						"enderium",
+						"enderium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderference",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mortal_wounds",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderference",
+					"tconevo.mortal_wounds",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

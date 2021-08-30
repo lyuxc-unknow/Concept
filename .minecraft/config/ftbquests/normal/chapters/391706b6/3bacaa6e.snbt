@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 601.0d,
+	description: "{id:\"steamworld:ore\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "0a429e12",
+		type: "item",
+		items: [{
+			item: "steamworld:ore 1 8"
+		}],
+		consume_items: true
+	}]
+}

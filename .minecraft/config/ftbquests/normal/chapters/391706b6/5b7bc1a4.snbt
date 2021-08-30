@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 88.0d,
+	description: "{id:\"randomthings:biomeradar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "67c2501c",
+		type: "item",
+		items: [{
+			item: "randomthings:biomeradar"
+		}],
+		consume_items: true
+	}]
+}

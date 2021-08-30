@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 600.0d,
+	description: "{id:\"steamworld:shard_endritch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd1d5180",
+		type: "item",
+		items: [{
+			item: "steamworld:shard_endritch"
+		}],
+		consume_items: true
+	}]
+}

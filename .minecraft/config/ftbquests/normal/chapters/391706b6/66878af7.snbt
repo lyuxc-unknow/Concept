@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 590.0d,
+	description: "{id:\"prodigytech:sugar_cube\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "43457ef1",
+		type: "item",
+		items: [{
+			item: "prodigytech:sugar_cube"
+		}],
+		consume_items: true
+	}]
+}

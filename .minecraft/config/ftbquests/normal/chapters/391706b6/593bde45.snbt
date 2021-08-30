@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 9.0d,
+	description: "{id:\"minecraft:apple\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6b65de88",
+		type: "item",
+		items: [{
+			item: "minecraft:apple"
+		}],
+		consume_items: true
+	}]
+}

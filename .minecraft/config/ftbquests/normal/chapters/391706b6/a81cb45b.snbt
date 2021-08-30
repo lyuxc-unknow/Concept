@@ -1,0 +1,21 @@
+{
+	x: 13.0d,
+	y: 684.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemconstellationpaper\",Count:1b,tag:{astralsorcery:{constellationName:\"astralsorcery.constellation.lucerna\"}},Damage:0s}",
+	tasks: [{
+		uid: "10ed5375",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.lucerna"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

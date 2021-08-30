@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 487.0d,
+	description: "{id:\"bibliocraft:potionshelf\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "a883b392",
+		type: "item",
+		items: [{
+			item: "bibliocraft:potionshelf 1 5"
+		}],
+		consume_items: true
+	}]
+}

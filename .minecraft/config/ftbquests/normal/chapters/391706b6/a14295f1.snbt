@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 560.0d,
+	description: "{id:\"rftools:timer_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8f26cf89",
+		type: "item",
+		items: [{
+			item: "rftools:timer_block"
+		}],
+		consume_items: true
+	}]
+}

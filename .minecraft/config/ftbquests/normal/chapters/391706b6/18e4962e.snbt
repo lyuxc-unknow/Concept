@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 223.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"black_quartz\"},Damage:0s}",
+	tasks: [{
+		uid: "0a4bf146",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "black_quartz"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:conductormast\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "74e5ea8f",
+		type: "item",
+		items: [{
+			item: "calculator:conductormast"
+		}],
+		consume_items: true
+	}]
+}

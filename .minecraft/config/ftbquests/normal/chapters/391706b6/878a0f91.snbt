@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:blaze\"},Damage:0s}",
+	tasks: [{
+		uid: "15dc8612",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:blaze"
+			}
+		}],
+		consume_items: true
+	}]
+}

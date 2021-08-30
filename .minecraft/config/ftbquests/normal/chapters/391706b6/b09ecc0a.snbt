@@ -1,0 +1,74 @@
+{
+	x: 20.0d,
+	y: 391.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:140,HarvestLevel:0,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.0f,FreeModifiers:3,Durability:140,HarvestLevel:0,Attack:4.5f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"dreamwood\",\"dreamwood\",\"dreamwood\",\"dreamwood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-5391425,level:1},{identifier:\"tconevo.aura_siphon\",color:-5391425,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tconevo.aura_siphon\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2ccd0938",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 140,
+					HarvestLevel: 0,
+					Attack: 4.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.0f,
+					FreeModifiers: 3,
+					Durability: 140,
+					HarvestLevel: 0,
+					Attack: 4.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dreamwood",
+						"dreamwood",
+						"dreamwood",
+						"dreamwood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -5391425,
+					level: 1
+				},
+				{
+					identifier: "tconevo.aura_siphon",
+					color: -5391425,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tconevo.aura_siphon",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

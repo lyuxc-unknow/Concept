@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 61.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:goldenlasso\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f77f0a3f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:goldenlasso"
+		}],
+		consume_items: true
+	}]
+}

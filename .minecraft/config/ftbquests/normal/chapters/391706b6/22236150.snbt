@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 157.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"mist:cobblestone_step\"},Damage:0s}",
+	tasks: [{
+		uid: "6378f2b8",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "mist:cobblestone_step"
+			}
+		}],
+		consume_items: true
+	}]
+}

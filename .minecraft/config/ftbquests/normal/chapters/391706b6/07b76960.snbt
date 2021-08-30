@@ -1,0 +1,74 @@
+{
+	x: 37.0d,
+	y: 392.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shuriken\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:14.06f,FreeModifiers:3,Durability:1150,HarvestLevel:4,Attack:12.07f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:14.06f,FreeModifiers:3,Durability:1150,HarvestLevel:4,Attack:12.07f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"ivorypsi\",\"ivorypsi\",\"ivorypsi\",\"ivorypsi\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psirepair\",color:-13858615,level:1},{identifier:\"holy\",color:-13858615,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psirepair\",\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "92a24c95",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shuriken",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					Durability: 1150,
+					HarvestLevel: 4,
+					Attack: 12.07f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					Durability: 1150,
+					HarvestLevel: 4,
+					Attack: 12.07f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ivorypsi",
+						"ivorypsi",
+						"ivorypsi",
+						"ivorypsi"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psirepair",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "holy",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psirepair",
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

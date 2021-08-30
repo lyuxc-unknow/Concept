@@ -1,0 +1,60 @@
+{
+	x: 1.0d,
+	y: 635.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.65f,FreeModifiers:3,Durability:835,HarvestLevel:3,Attack:7.83f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.65f,FreeModifiers:3,Durability:835,HarvestLevel:3,Attack:7.83f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"quartzenrichediron\",\"quartzenrichediron\",\"quartzenrichediron\",\"quartzenrichediron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0786b4d0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					Durability: 835,
+					HarvestLevel: 3,
+					Attack: 7.83f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.65f,
+					FreeModifiers: 3,
+					Durability: 835,
+					HarvestLevel: 3,
+					Attack: 7.83f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"quartzenrichediron",
+						"quartzenrichediron",
+						"quartzenrichediron",
+						"quartzenrichediron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

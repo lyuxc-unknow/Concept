@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 428.0d,
+	description: "{id:\"botania:lightrelay\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "656ce540",
+		type: "item",
+		items: [{
+			item: "botania:lightrelay 1 1"
+		}],
+		consume_items: true
+	}]
+}

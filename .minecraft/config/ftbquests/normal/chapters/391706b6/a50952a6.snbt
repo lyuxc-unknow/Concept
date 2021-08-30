@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 420.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:incensestick\",Count:1b,tag:{brewKey:\"bloodthirst\"},Damage:0s}",
+	tasks: [{
+		uid: "20112be9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:incensestick",
+			tag: {
+				brewKey: "bloodthirst"
+			}
+		}],
+		consume_items: true
+	}]
+}

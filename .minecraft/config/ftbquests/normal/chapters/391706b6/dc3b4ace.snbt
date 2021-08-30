@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_shardlunar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "73710a21",
+		type: "item",
+		items: [{
+			item: "jaopca:item_shardlunar"
+		}],
+		consume_items: true
+	}]
+}

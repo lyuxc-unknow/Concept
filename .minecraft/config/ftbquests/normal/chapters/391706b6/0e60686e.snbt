@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 756.0d,
+	description: "{id:\"hardcorequesting:quest_portal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "af8c09bd",
+		type: "item",
+		items: [{
+			item: "hardcorequesting:quest_portal"
+		}],
+		consume_items: true
+	}]
+}

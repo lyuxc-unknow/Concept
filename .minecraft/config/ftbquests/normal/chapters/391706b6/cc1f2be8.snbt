@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 149.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:10b,Block:\"randomthings:coloredgrass\"},Damage:0s}",
+	tasks: [{
+		uid: "c7cda22d",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 10b,
+				Block: "randomthings:coloredgrass"
+			}
+		}],
+		consume_items: true
+	}]
+}

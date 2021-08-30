@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: 570.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:shader\",Count:1b,tag:{shader_name:\"Ancient\"},Damage:0s}",
+	tasks: [{
+		uid: "c4b0e42e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:shader",
+			tag: {
+				shader_name: "Ancient"
+			}
+		}],
+		consume_items: true
+	}]
+}

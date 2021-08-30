@@ -1,0 +1,19 @@
+{
+	x: 19.0d,
+	y: 206.0d,
+	description: "{id:\"enderio:item_dark_steel_treetap\",Count:1b,tag:{enderio.darksteel.upgrade.energyUpgrade:{level:3,energy:1000000}},Damage:0s}",
+	tasks: [{
+		uid: "60cd6a22",
+		type: "item",
+		items: [{
+			id: "enderio:item_dark_steel_treetap",
+			tag: {
+				enderio.darksteel.upgrade.energyUpgrade: {
+					level: 3,
+					energy: 1000000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

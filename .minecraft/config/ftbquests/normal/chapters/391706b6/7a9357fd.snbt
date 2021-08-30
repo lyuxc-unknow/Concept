@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 423.0d,
+	description: "{id:\"botania:manadetector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a33fc86a",
+		type: "item",
+		items: [{
+			item: "botania:manadetector"
+		}],
+		consume_items: true
+	}]
+}

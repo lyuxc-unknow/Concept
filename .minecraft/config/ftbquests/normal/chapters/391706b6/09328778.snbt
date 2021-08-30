@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 558.0d,
+	description: "{id:\"rftools:generic_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dc962e9d",
+		type: "item",
+		items: [{
+			item: "rftools:generic_module"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,69 @@
+{
+	x: 30.0d,
+	y: 328.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:8.01f,FreeModifiers:3,HarvestLevelShovel:2,Durability:613,HarvestLevel:2,Attack:9.62f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:8.01f,FreeModifiers:3,HarvestLevelShovel:2,Durability:613,HarvestLevel:2,Attack:9.62f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ma.prudentium\",\"ma.prudentium\",\"ma.prudentium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prosperous\",color:-16741341,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prosperous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "74cc0911",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 2,
+					MiningSpeed: 8.01f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 2,
+					Durability: 613,
+					HarvestLevel: 2,
+					Attack: 9.62f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 2,
+					MiningSpeed: 8.01f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 2,
+					Durability: 613,
+					HarvestLevel: 2,
+					Attack: 9.62f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.prudentium",
+						"ma.prudentium",
+						"ma.prudentium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -16741341,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

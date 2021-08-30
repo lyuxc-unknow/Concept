@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 565.0d,
+	description: "{id:\"immersiveengineering:conveyor\",Count:1b,tag:{conveyorType:\"immersiveengineering:verticalcovered\"},Damage:0s}",
+	tasks: [{
+		uid: "2f755f84",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:verticalcovered"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 742.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:inflictor_gem\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "afd98d32",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:inflictor_gem"
+		}],
+		consume_items: true
+	}]
+}

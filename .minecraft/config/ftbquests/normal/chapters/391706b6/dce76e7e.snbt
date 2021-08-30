@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 551.0d,
+	description: "{id:\"mysticalagriculture:compressed_iron_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f68965d4",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:compressed_iron_seeds"
+		}],
+		consume_items: true
+	}]
+}

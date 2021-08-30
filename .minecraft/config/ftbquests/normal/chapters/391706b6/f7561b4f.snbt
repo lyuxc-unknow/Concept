@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 171.0d,
+	description: "{id:\"alchemistry:wet_sand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6ec4e5ad",
+		type: "item",
+		items: [{
+			item: "alchemistry:wet_sand"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 607.0d,
+	description: "{id:\"thermalsolars:itemcapupgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "437b1c42",
+		type: "item",
+		items: [{
+			item: "thermalsolars:itemcapupgrade"
+		}],
+		consume_items: true
+	}]
+}

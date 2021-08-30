@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 752.0d,
+	description: "{id:\"environmentaltech:litherite_tile_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a38a649f",
+		type: "item",
+		items: [{
+			item: "environmentaltech:litherite_tile_stairs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 293.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"firewood\"},Damage:0s}",
+	tasks: [{
+		uid: "5031b869",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "firewood"
+			}
+		}],
+		consume_items: true
+	}]
+}

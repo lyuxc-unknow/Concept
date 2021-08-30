@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 797.0d,
+	description: "{id:\"jaopca:item_mysticalseedssalt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "98ae8c6c",
+		type: "item",
+		items: [{
+			item: "jaopca:item_mysticalseedssalt"
+		}],
+		consume_items: true
+	}]
+}

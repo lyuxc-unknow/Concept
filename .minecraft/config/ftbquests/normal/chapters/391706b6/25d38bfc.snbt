@@ -1,0 +1,49 @@
+{
+	x: 27.0d,
+	y: 466.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:73793,Defense:50.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:73793,Defense:50.0f},ConArmEquipmentSlot:3,TinkerData:{Materials:[\"ludicrite\",\"ludicrite\",\"ludicrite\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "0ea20a66",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 73793,
+					Defense: 50.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 73793,
+					Defense: 50.0f
+				},
+				ConArmEquipmentSlot: 3,
+				TinkerData: {
+					Materials: [
+						"ludicrite",
+						"ludicrite",
+						"ludicrite"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

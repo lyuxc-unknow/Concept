@@ -1,0 +1,22 @@
+{
+	x: 15.0d,
+	y: 207.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderio:item_end_steel_shield\",Count:1b,tag:{enderio.darksteel.upgrade.energyUpgrade:{level:3,energy:1000000}},Damage:0s}",
+	tasks: [{
+		uid: "6a7c815c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_end_steel_shield",
+			tag: {
+				enderio.darksteel.upgrade.energyUpgrade: {
+					level: 3,
+					energy: 1000000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 253.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"extrabotany:ingotshadowium\"},Damage:0s}",
+	tasks: [{
+		uid: "9c8bfd1b",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "extrabotany:ingotshadowium"
+			}
+		}],
+		consume_items: true
+	}]
+}

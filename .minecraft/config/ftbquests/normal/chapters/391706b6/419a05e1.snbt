@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 517.0d,
+	description: "{id:\"compactmachines3:redstonetunneltool\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "00a859fa",
+		type: "item",
+		items: [{
+			item: "compactmachines3:redstonetunneltool"
+		}],
+		consume_items: true
+	}]
+}

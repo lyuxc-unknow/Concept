@@ -1,0 +1,55 @@
+{
+	x: 14.0d,
+	y: 468.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:7663,Defense:15.75f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:7663,Defense:15.75f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"xu_enchanted_metal\",\"xu_enchanted_metal\",\"xu_enchanted_metal\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"xu_xp_boost\",color:-4197792,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"xu_xp_boost\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "7f8c0800",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 7663,
+					Defense: 15.75f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 7663,
+					Defense: 15.75f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"xu_enchanted_metal",
+						"xu_enchanted_metal",
+						"xu_enchanted_metal"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "xu_xp_boost",
+					color: -4197792,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"xu_xp_boost",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

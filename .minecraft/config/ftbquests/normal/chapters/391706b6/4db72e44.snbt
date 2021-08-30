@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 542.0d,
+	description: "{id:\"integratedtunnels:part_importer_world_block_item\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fca081c8",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_importer_world_block_item"
+		}],
+		consume_items: true
+	}]
+}

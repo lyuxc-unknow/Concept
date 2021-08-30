@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 37.0d,
+	description: "{id:\"thermalfoundation:material\",Count:1b,Damage:98s}",
+	tasks: [{
+		uid: "01733786",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 98"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 799.0d,
+	description: "{id:\"jaopca:item_gearender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e57808c8",
+		type: "item",
+		items: [{
+			item: "jaopca:item_gearender"
+		}],
+		consume_items: true
+	}]
+}

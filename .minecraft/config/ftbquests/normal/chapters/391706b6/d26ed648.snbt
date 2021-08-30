@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 569.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:shader\",Count:1b,tag:{shader_name:\"Sunstrike\"},Damage:0s}",
+	tasks: [{
+		uid: "dfcbfc86",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:shader",
+			tag: {
+				shader_name: "Sunstrike"
+			}
+		}],
+		consume_items: true
+	}]
+}

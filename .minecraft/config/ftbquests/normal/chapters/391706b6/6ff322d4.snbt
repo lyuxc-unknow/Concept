@@ -1,0 +1,71 @@
+{
+	x: 38.0d,
+	y: 382.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.01f,DrawSpeed:4.01f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:492,HarvestLevel:3,Attack:7.04f,Range:0.53f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.01f,DrawSpeed:4.01f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:492,HarvestLevel:3,Attack:7.04f,Range:0.53f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"elvenelementium\",\"elvenelementium\",\"elvenelementium\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"manarepair\",color:-1229864,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"manarepair\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "20097dca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.01f,
+					DrawSpeed: 4.01f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 492,
+					HarvestLevel: 3,
+					Attack: 7.04f,
+					Range: 0.53f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.01f,
+					DrawSpeed: 4.01f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 492,
+					HarvestLevel: 3,
+					Attack: 7.04f,
+					Range: 0.53f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"elvenelementium",
+						"elvenelementium",
+						"elvenelementium",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "manarepair",
+					color: -1229864,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"manarepair",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

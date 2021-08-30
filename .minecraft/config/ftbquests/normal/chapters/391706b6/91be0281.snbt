@@ -1,0 +1,81 @@
+{
+	x: 31.0d,
+	y: 327.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:5,MiningSpeed:8.25f,FreeModifiers:3,HarvestLevelShovel:5,Durability:410,HarvestLevel:5,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:5,MiningSpeed:8.25f,FreeModifiers:3,HarvestLevelShovel:5,Durability:410,HarvestLevel:5,Attack:8.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"end_steel\",\"end_steel\",\"end_steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-262989,level:1},{identifier:\"enderference\",color:-262989,level:1},{identifier:\"alien\",color:-262989,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"enderference\",\"alien\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4acf69fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 5,
+					MiningSpeed: 8.25f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 5,
+					Durability: 410,
+					HarvestLevel: 5,
+					Attack: 8.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 5,
+					MiningSpeed: 8.25f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 5,
+					Durability: 410,
+					HarvestLevel: 5,
+					Attack: 8.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"end_steel",
+						"end_steel",
+						"end_steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "enderference",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"enderference",
+					"alien",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

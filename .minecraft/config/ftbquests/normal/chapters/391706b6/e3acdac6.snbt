@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 518.0d,
+	description: "{id:\"darkutils:pearl_block\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "205b2d3b",
+		type: "item",
+		items: [{
+			item: "darkutils:pearl_block 1 2"
+		}],
+		consume_items: true
+	}]
+}

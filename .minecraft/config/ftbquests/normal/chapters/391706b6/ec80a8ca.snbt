@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"minecraft:zombie_pigman\"},Damage:0s}",
+	tasks: [{
+		uid: "5e0b4f33",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "minecraft:zombie_pigman"
+			}
+		}],
+		consume_items: true
+	}]
+}

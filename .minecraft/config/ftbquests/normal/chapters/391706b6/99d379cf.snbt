@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 785.0d,
+	description: "{id:\"yoyos:yoyo_axle\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "f19cbac5",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_axle",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

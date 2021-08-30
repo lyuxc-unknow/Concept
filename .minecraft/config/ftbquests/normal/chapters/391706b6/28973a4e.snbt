@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 563.0d,
+	description: "{id:\"immersiveengineering:cloth_device\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "192932aa",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:cloth_device 1 2"
+		}],
+		consume_items: true
+	}]
+}

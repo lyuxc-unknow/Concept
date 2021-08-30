@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 477.0d,
+	description: "{id:\"extrabotany:blockphotonium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "890c11a1",
+		type: "item",
+		items: [{
+			item: "extrabotany:blockphotonium"
+		}],
+		consume_items: true
+	}]
+}

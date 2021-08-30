@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 401.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"appliedenergistics2:spatial_storage_cell_2_cubed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a4ff3bc9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:spatial_storage_cell_2_cubed"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 545.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mysticalagriculture:infusion_crystal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e54668ec",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:infusion_crystal"
+		}],
+		consume_items: true
+	}]
+}

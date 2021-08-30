@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 585.0d,
+	description: "{id:\"pneumaticcraft:pneumatic_dynamo\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "88e520b8",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pneumatic_dynamo"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 252.0d,
+	description: "{id:\"tconstruct:excavator_head\",Count:1b,tag:{Material:\"blueslime\"},Damage:0s}",
+	tasks: [{
+		uid: "b03b2331",
+		type: "item",
+		items: [{
+			id: "tconstruct:excavator_head",
+			tag: {
+				Material: "blueslime"
+			}
+		}],
+		consume_items: true
+	}]
+}

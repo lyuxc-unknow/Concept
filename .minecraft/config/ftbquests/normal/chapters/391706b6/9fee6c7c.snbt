@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 743.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:dawnstone_mail\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "33a288e8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:dawnstone_mail"
+		}],
+		consume_items: true
+	}]
+}

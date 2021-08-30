@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:golden_carrot\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7b63710",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_carrot"
+		}],
+		consume_items: true
+	}]
+}

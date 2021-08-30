@@ -1,0 +1,73 @@
+{
+	x: 19.0d,
+	y: 641.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:javelin\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:283,HarvestLevel:3,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.1f,Accuracy:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:283,HarvestLevel:3,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\",\"projectile\"]},TinkerData:{Materials:[\"erodium\",\"erodium\",\"erodium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-8558701,level:1},{identifier:\"depthdigger\",color:-8558701,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"depthdigger\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "f936d944",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:javelin",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 283,
+					HarvestLevel: 3,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					Accuracy: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 283,
+					HarvestLevel: 3,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"erodium",
+						"erodium",
+						"erodium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -8558701,
+					level: 1
+				},
+				{
+					identifier: "depthdigger",
+					color: -8558701,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"depthdigger",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

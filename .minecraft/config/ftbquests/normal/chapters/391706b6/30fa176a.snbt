@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 521.0d,
+	description: "{id:\"deepmoblearning:pristine_matter_spider\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c5e964b",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_spider"
+		}],
+		consume_items: true
+	}]
+}

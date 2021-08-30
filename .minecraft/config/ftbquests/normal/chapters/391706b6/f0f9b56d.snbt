@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 796.0d,
+	description: "{id:\"tp:bsc_sugar_cookie\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1b7f8fb7",
+		type: "item",
+		items: [{
+			item: "tp:bsc_sugar_cookie"
+		}],
+		consume_items: true
+	}]
+}

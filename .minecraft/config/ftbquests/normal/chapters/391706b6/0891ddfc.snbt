@@ -1,0 +1,71 @@
+{
+	x: 18.0d,
+	y: 380.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.5f,Durability:106,HarvestLevel:4,Attack:4.2f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.5f,Durability:106,HarvestLevel:4,Attack:4.2f,Range:0.4f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "5284c3f3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.5f,
+					Durability: 106,
+					HarvestLevel: 4,
+					Attack: 4.2f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.5f,
+					Durability: 106,
+					HarvestLevel: 4,
+					Attack: 4.2f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"obsidian",
+						"obsidian",
+						"obsidian",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -10478396,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 248.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "934a78d6",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

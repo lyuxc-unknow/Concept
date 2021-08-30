@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 396.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"tconstruct:tough_tool_rod\"},Damage:0s}",
+	tasks: [{
+		uid: "fb664053",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "tconstruct:tough_tool_rod"
+			}
+		}],
+		consume_items: true
+	}]
+}

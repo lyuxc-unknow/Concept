@@ -1,0 +1,79 @@
+{
+	x: 32.0d,
+	y: 383.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:arrow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:2.5f,FreeModifiers:3,Durability:690,HarvestLevel:3,Attack:7.6f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:2.5f,FreeModifiers:3,Durability:690,HarvestLevel:3,Attack:7.6f},Special:{Categories:[\"tool\",\"no_melee\",\"projectile\"]},TinkerData:{Materials:[\"wood\",\"energetic_alloy\",\"feather\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"petramor\",color:-2518196,level:1},{identifier:\"unnatural\",color:-2518196,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"petramor\",\"unnatural\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "3a7d5468",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					Durability: 690,
+					HarvestLevel: 3,
+					Attack: 7.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					Durability: 690,
+					HarvestLevel: 3,
+					Attack: 7.6f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"no_melee",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"energetic_alloy",
+						"feather"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "petramor",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "unnatural",
+					color: -2518196,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"petramor",
+					"unnatural",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

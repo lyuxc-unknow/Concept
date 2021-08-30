@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 1.0d,
+	description: "{id:\"minecraft:sandstone\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "da932e97",
+		type: "item",
+		items: [{
+			item: "minecraft:sandstone 1 2"
+		}],
+		consume_items: true
+	}]
+}

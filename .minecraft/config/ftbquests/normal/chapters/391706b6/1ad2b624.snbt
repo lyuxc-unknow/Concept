@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 591.0d,
+	description: "{id:\"random_add:five_colors_rune\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "61016a86",
+		type: "item",
+		items: [{
+			item: "random_add:five_colors_rune"
+		}],
+		consume_items: true
+	}]
+}

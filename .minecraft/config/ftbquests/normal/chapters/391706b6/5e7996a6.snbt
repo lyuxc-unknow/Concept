@@ -1,0 +1,20 @@
+{
+	x: 17.0d,
+	y: 163.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"simplyjetpacks:itemfluxpack\",Count:1b,tag:{Energy:0},Damage:12s}",
+	tasks: [{
+		uid: "1385deba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "simplyjetpacks:itemfluxpack",
+			tag: {
+				Energy: 0
+			},
+			Damage: 12s
+		}],
+		consume_items: true
+	}]
+}

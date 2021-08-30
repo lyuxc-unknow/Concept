@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 428.0d,
+	description: "{id:\"botania:sparkchanger\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c2377a31",
+		type: "item",
+		items: [{
+			item: "botania:sparkchanger"
+		}],
+		consume_items: true
+	}]
+}

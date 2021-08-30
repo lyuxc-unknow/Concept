@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 559.0d,
+	description: "{id:\"rftools:featherfalling_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d7442810",
+		type: "item",
+		items: [{
+			item: "rftools:featherfalling_module"
+		}],
+		consume_items: true
+	}]
+}

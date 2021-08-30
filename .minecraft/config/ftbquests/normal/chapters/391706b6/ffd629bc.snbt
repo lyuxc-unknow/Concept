@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:quartz_enriched_iron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5891038e",
+		type: "item",
+		items: [{
+			item: "refinedstorage:quartz_enriched_iron"
+		}],
+		consume_items: true
+	}]
+}

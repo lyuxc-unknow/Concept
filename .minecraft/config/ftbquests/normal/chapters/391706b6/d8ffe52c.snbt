@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 11.0d,
+	description: "{id:\"minecraft:cooked_fish\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a573bff",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_fish"
+		}],
+		consume_items: true
+	}]
+}

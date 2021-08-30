@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:tier3_inferium_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d5afba8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tier3_inferium_seeds"
+		}],
+		consume_items: true
+	}]
+}

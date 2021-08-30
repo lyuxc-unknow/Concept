@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 60.0d,
+	description: "{id:\"extrautils2:decorativesolid\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "cb9760cd",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativesolid 1 8"
+		}],
+		consume_items: true
+	}]
+}

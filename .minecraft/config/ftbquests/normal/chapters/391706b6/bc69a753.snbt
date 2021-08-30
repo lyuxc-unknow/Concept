@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 74.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:firediamondhoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d3f1e91",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:firediamondhoe"
+		}],
+		consume_items: true
+	}]
+}

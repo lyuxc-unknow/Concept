@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 595.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftoolsdim:phased_field_generator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "008d6f7f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftoolsdim:phased_field_generator"
+		}],
+		consume_items: true
+	}]
+}

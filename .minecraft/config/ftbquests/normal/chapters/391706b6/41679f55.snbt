@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 88.0d,
+	description: "{id:\"randomthings:rainshield\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01e1255d",
+		type: "item",
+		items: [{
+			item: "randomthings:rainshield"
+		}],
+		consume_items: true
+	}]
+}

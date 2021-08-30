@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 556.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"北极熊\",level:10,mobId:\"minecraft:polar_bear\"},Damage:0s}",
+	tasks: [{
+		uid: "c16e1a5b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "北极熊",
+				level: 10,
+				mobId: "minecraft:polar_bear"
+			}
+		}],
+		consume_items: true
+	}]
+}

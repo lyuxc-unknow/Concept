@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 1.0d,
+	description: "{id:\"minecraft:red_flower\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "53b6280e",
+		type: "item",
+		items: [{
+			item: "minecraft:red_flower 1 1"
+		}],
+		consume_items: true
+	}]
+}

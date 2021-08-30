@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 740.0d,
+	description: "{id:\"embers:plate_silver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d9429f5e",
+		type: "item",
+		items: [{
+			item: "embers:plate_silver"
+		}],
+		consume_items: true
+	}]
+}

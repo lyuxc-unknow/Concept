@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 314.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"minecraft:log2\",Count:1b,Damage:1s}},Damage:2s}",
+	tasks: [{
+		uid: "53135995",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log2",
+					Count: 1b,
+					Damage: 1s
+				}
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

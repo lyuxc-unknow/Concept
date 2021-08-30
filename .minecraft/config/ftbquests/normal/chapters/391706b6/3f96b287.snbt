@@ -1,0 +1,62 @@
+{
+	x: 1.0d,
+	y: 463.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:187392,Defense:50.0f},Stats:{Toughness:0.0f,FreeModifiers:0,Durability:187392,Defense:50.0f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"chaoticdraconium\",\"chaoticdraconium\",\"chaoticdraconium\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"energyrepair\",color:-15263977,level:1},{identifier:\"op\",op1:1b,color:-15263977,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"energyrepair\",\"op1\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "fc873ad4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 187392,
+					Defense: 50.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 0,
+					Durability: 187392,
+					Defense: 50.0f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"chaoticdraconium",
+						"chaoticdraconium",
+						"chaoticdraconium"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "energyrepair",
+					color: -15263977,
+					level: 1
+				},
+				{
+					identifier: "op",
+					op1: 1b,
+					color: -15263977,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"energyrepair",
+					"op1",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

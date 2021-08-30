@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 669.0d,
+	description: "{id:\"xnet:connector\",Count:1b,tag:{display:{LocName:\"tile.xnet.connector_red.name\"}},Damage:1s}",
+	tasks: [{
+		uid: "421f3488",
+		type: "item",
+		items: [{
+			id: "xnet:connector",
+			tag: {
+				display: {
+					LocName: "tile.xnet.connector_red.name"
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

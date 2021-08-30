@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 766.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:void_hoe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b6308b9b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:void_hoe"
+		}],
+		consume_items: true
+	}]
+}

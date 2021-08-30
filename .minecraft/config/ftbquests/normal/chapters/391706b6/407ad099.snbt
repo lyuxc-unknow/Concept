@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 772.0d,
+	description: "{id:\"omegacraft:plate_magmite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f84e2579",
+		type: "item",
+		items: [{
+			item: "omegacraft:plate_magmite"
+		}],
+		consume_items: true
+	}]
+}

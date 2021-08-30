@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"gold\"},Damage:0s}",
+	tasks: [{
+		uid: "93d0c12e",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "gold"
+			}
+		}],
+		consume_items: true
+	}]
+}

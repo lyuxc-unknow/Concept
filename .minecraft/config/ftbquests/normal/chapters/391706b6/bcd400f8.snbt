@@ -1,0 +1,22 @@
+{
+	x: 20.0d,
+	y: 80.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extracells:pattern.fluid\",Count:1b,tag:{Fluid:{FluidName:\"refined_fuel\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "5f4350bf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:pattern.fluid",
+			tag: {
+				Fluid: {
+					FluidName: "refined_fuel",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 17.0d,
+	y: 132.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"redstonerepository:feeder\",Count:1b,tag:{Energy:4000000},Damage:0s}",
+	tasks: [{
+		uid: "b2a2df22",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonerepository:feeder",
+			tag: {
+				Energy: 4000000
+			}
+		}],
+		consume_items: true
+	}]
+}

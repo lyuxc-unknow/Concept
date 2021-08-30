@@ -1,0 +1,17 @@
+{
+	x: 18.0d,
+	y: 574.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"ironchest:iron_shulker_box_black\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "f9f9d395",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:iron_shulker_box_black",
+			Damage: 5s
+		}],
+		consume_items: true
+	}]
+}

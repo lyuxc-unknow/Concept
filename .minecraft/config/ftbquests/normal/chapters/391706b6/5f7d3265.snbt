@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"cofhcore:unluck2\"},Damage:0s}",
+	tasks: [{
+		uid: "92e1cc98",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "cofhcore:unluck2"
+			}
+		}],
+		consume_items: true
+	}]
+}

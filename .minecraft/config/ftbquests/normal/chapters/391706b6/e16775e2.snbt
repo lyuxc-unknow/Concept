@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 100.0d,
+	description: "{id:\"mist:r_tree_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e20f58ca",
+		type: "item",
+		items: [{
+			item: "mist:r_tree_stairs"
+		}],
+		consume_items: true
+	}]
+}

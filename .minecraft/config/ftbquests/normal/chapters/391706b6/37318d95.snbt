@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 10.0d,
+	description: "{id:\"minecraft:porkchop\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "25e22b89",
+		type: "item",
+		items: [{
+			item: "minecraft:porkchop"
+		}],
+		consume_items: true
+	}]
+}

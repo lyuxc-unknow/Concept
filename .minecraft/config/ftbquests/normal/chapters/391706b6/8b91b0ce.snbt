@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 197.0d,
+	description: "{id:\"enderio:block_pasture_enlightened_fused_glass\",Count:1b,Damage:12s}",
+	tasks: [{
+		uid: "db9731b4",
+		type: "item",
+		items: [{
+			item: "enderio:block_pasture_enlightened_fused_glass 1 12"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 669.0d,
+	description: "{id:\"survivalist:chopping_block\",Count:1b,Damage:13s}",
+	tasks: [{
+		uid: "87d9f61d",
+		type: "item",
+		items: [{
+			item: "survivalist:chopping_block 1 13"
+		}],
+		consume_items: true
+	}]
+}

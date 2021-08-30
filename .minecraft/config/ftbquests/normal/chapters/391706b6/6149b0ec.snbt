@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 541.0d,
+	description: "{id:\"integrateddynamics:crystalized_chorus_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6ec533fa",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:crystalized_chorus_block"
+		}],
+		consume_items: true
+	}]
+}

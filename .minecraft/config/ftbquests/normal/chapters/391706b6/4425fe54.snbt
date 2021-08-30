@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 437.0d,
+	description: "{id:\"conarm:armor_trim\",Count:1b,tag:{Material:\"pulsating_iron\"},Damage:0s}",
+	tasks: [{
+		uid: "f9b75983",
+		type: "item",
+		items: [{
+			id: "conarm:armor_trim",
+			tag: {
+				Material: "pulsating_iron"
+			}
+		}],
+		consume_items: true
+	}]
+}

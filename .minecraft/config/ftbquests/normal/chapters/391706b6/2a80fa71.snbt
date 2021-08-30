@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 773.0d,
+	description: "{id:\"omegacraft:mining_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "059db303",
+		type: "item",
+		items: [{
+			item: "omegacraft:mining_module"
+		}],
+		consume_items: true
+	}]
+}

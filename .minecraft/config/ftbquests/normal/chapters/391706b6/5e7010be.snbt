@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 802.0d,
+	description: "{id:\"jaopca:item_dustsmallyellorium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "602cbace",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustsmallyellorium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 776.0d,
+	description: "{id:\"requious:red_emitter_advanced\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "066959c5",
+		type: "item",
+		items: [{
+			item: "requious:red_emitter_advanced"
+		}],
+		consume_items: true
+	}]
+}

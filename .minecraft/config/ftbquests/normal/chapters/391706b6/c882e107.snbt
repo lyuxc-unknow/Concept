@@ -1,0 +1,72 @@
+{
+	x: 20.0d,
+	y: 653.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:greatblade\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:309,HarvestLevel:1,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:309,HarvestLevel:1,Attack:6.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lumium\",\"lumium\",\"lumium\",\"lumium\",\"lumium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.opportunist\",color:-2235507,level:1},{identifier:\"tconevo.luminiferous\",color:-2235507,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.opportunist\",\"tconevo.luminiferous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "3c5beb7c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:greatblade",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 309,
+					HarvestLevel: 1,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 309,
+					HarvestLevel: 1,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"lumium",
+						"lumium",
+						"lumium",
+						"lumium",
+						"lumium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.opportunist",
+					color: -2235507,
+					level: 1
+				},
+				{
+					identifier: "tconevo.luminiferous",
+					color: -2235507,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.opportunist",
+					"tconevo.luminiferous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

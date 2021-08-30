@@ -1,0 +1,83 @@
+{
+	x: 7.0d,
+	y: 318.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:880,HarvestLevel:2,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:880,HarvestLevel:2,Attack:5.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"elementium\",\"elementium\",\"elementium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.opportunist\",color:-959314,level:1},{identifier:\"tconevo.mana_infused\",color:-959314,level:1},{identifier:\"tconevo.cascading\",color:-959314,level:1},{identifier:\"tconevo.fae_voice\",color:-959314,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.opportunist\",\"tconevo.mana_infused\",\"tconevo.cascading\",\"tconevo.fae_voice\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "fb0e4d5d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 880,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 880,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"elementium",
+						"elementium",
+						"elementium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.opportunist",
+					color: -959314,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mana_infused",
+					color: -959314,
+					level: 1
+				},
+				{
+					identifier: "tconevo.cascading",
+					color: -959314,
+					level: 1
+				},
+				{
+					identifier: "tconevo.fae_voice",
+					color: -959314,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.opportunist",
+					"tconevo.mana_infused",
+					"tconevo.cascading",
+					"tconevo.fae_voice",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

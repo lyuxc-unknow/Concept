@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:draconic_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f421fc04",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_sword"
+		}],
+		consume_items: true
+	}]
+}

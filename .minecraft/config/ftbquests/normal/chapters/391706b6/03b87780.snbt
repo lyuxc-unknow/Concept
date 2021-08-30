@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 186.0d,
+	description: "{id:\"enderio:block_infinity\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "61f9d9e1",
+		type: "item",
+		items: [{
+			item: "enderio:block_infinity 1 2"
+		}],
+		consume_items: true
+	}]
+}

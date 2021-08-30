@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:block_pipe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "653dfe85",
+		type: "item",
+		items: [{
+			item: "steamworld:block_pipe"
+		}],
+		consume_items: true
+	}]
+}

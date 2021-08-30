@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 662.0d,
+	description: "{id:\"waystones:bound_scroll\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c7b2610e",
+		type: "item",
+		items: [{
+			item: "waystones:bound_scroll"
+		}],
+		consume_items: true
+	}]
+}

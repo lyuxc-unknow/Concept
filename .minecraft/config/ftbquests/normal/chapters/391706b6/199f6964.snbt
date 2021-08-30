@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 249.0d,
+	description: "{id:\"tconstruct:hammer_head\",Count:1b,tag:{Material:\"ma.prudentium\"},Damage:0s}",
+	tasks: [{
+		uid: "fe88a2b9",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "ma.prudentium"
+			}
+		}],
+		consume_items: true
+	}]
+}

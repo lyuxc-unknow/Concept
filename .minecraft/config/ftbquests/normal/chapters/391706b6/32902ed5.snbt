@@ -1,0 +1,75 @@
+{
+	x: 32.0d,
+	y: 330.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:14.06f,FreeModifiers:3,HarvestLevelShovel:4,Durability:1799,HarvestLevel:4,Attack:14.07f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:14.06f,FreeModifiers:3,HarvestLevelShovel:4,Durability:1799,HarvestLevel:4,Attack:14.07f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ivorypsi\",\"ivorypsi\",\"ivorypsi\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psirepair\",color:-13858615,level:1},{identifier:\"holy\",color:-13858615,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psirepair\",\"holy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0fb5f81b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 1799,
+					HarvestLevel: 4,
+					Attack: 14.07f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 14.06f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 1799,
+					HarvestLevel: 4,
+					Attack: 14.07f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ivorypsi",
+						"ivorypsi",
+						"ivorypsi"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psirepair",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "holy",
+					color: -13858615,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psirepair",
+					"holy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 518.0d,
+	description: "{id:\"darkutils:monolith\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8d00c812",
+		type: "item",
+		items: [{
+			item: "darkutils:monolith"
+		}],
+		consume_items: true
+	}]
+}

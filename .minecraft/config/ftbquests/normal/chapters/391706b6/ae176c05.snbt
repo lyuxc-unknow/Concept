@@ -1,0 +1,67 @@
+{
+	x: 2.0d,
+	y: 349.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.0f,FreeModifiers:3,Durability:569,HarvestLevel:1,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:10.0f,FreeModifiers:3,Durability:569,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"aluminium\",\"aluminium\",\"aluminium\",\"aluminium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-2697246,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "58f4fdc6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.0f,
+					FreeModifiers: 3,
+					Durability: 569,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 10.0f,
+					FreeModifiers: 3,
+					Durability: 569,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"aluminium",
+						"aluminium",
+						"aluminium",
+						"aluminium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -2697246,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

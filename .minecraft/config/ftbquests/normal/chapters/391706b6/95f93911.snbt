@@ -1,0 +1,78 @@
+{
+	x: 26.0d,
+	y: 661.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.76f,DrawSpeed:1.64f,FreeModifiers:3,ProjectileBonusDamage:10.0f,Durability:2100,HarvestLevel:4,Attack:14.06f,Range:2.56f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.76f,DrawSpeed:1.64f,FreeModifiers:3,ProjectileBonusDamage:10.0f,Durability:2100,HarvestLevel:4,Attack:14.06f,Range:2.56f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ebonypsi\",\"ebonypsi\",\"ebonypsi\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"psieater\",color:-16119286,level:1},{identifier:\"darkness\",color:-16119286,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"psieater\",\"darkness\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "5256d4d4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.76f,
+					DrawSpeed: 1.64f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 10.0f,
+					Durability: 2100,
+					HarvestLevel: 4,
+					Attack: 14.06f,
+					Range: 2.56f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.76f,
+					DrawSpeed: 1.64f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 10.0f,
+					Durability: 2100,
+					HarvestLevel: 4,
+					Attack: 14.06f,
+					Range: 2.56f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ebonypsi",
+						"ebonypsi",
+						"ebonypsi",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "psieater",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "darkness",
+					color: -16119286,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"psieater",
+					"darkness",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

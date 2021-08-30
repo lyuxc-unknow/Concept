@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 115.0d,
+	description: "{id:\"moreplates:mana_infused_stick\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "561267c8",
+		type: "item",
+		items: [{
+			item: "moreplates:mana_infused_stick"
+		}],
+		consume_items: true
+	}]
+}

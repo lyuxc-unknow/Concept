@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:tanzanitepiping\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f67dfd19",
+		type: "item",
+		items: [{
+			item: "calculator:tanzanitepiping"
+		}],
+		consume_items: true
+	}]
+}

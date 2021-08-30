@@ -1,0 +1,80 @@
+{
+	x: 18.0d,
+	y: 347.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.5f,FreeModifiers:3,Durability:18425,HarvestLevel:5,Attack:10.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.5f,FreeModifiers:6,Durability:18425,HarvestLevel:5,Attack:10.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"extrabotany:ingotorichalcos\",\"extrabotany:ingotorichalcos\",\"extrabotany:ingotorichalcos\",\"extrabotany:ingotorichalcos\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"mind\",color:-3730043,level:1},{identifier:\"body\",color:-3730043,level:1},{identifier:\"soul\",color:-3730043,level:1,soul1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"mind\",\"body\",\"soul1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0313d576",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.5f,
+					FreeModifiers: 3,
+					Durability: 18425,
+					HarvestLevel: 5,
+					Attack: 10.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.5f,
+					FreeModifiers: 6,
+					Durability: 18425,
+					HarvestLevel: 5,
+					Attack: 10.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"extrabotany:ingotorichalcos",
+						"extrabotany:ingotorichalcos",
+						"extrabotany:ingotorichalcos",
+						"extrabotany:ingotorichalcos"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "mind",
+					color: -3730043,
+					level: 1
+				},
+				{
+					identifier: "body",
+					color: -3730043,
+					level: 1
+				},
+				{
+					identifier: "soul",
+					color: -3730043,
+					level: 1,
+					soul1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"mind",
+					"body",
+					"soul1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:bow_limb\",Count:1b,tag:{Material:\"certus\"},Damage:0s}",
+	tasks: [{
+		uid: "3113e7e5",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_limb",
+			tag: {
+				Material: "certus"
+			}
+		}],
+		consume_items: true
+	}]
+}

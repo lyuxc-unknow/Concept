@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 752.0d,
+	description: "{id:\"environmentaltech:litherite_tile_slab\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "279730d9",
+		type: "item",
+		items: [{
+			item: "environmentaltech:litherite_tile_slab"
+		}],
+		consume_items: true
+	}]
+}

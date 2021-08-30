@@ -1,0 +1,75 @@
+{
+	x: 14.0d,
+	y: 329.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:2.5f,FreeModifiers:3,HarvestLevelShovel:0,Durability:80,HarvestLevel:0,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:2.5f,FreeModifiers:6,HarvestLevelShovel:0,Durability:80,HarvestLevel:0,Attack:6.5f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"livingwood\",\"livingwood\",\"livingwood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-8824277,level:1},{identifier:\"tconevo.modifiable\",color:-8824277,level:3},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tconevo.modifiable1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "dd9810f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 0,
+					Durability: 80,
+					HarvestLevel: 0,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 0,
+					MiningSpeed: 2.5f,
+					FreeModifiers: 6,
+					HarvestLevelShovel: 0,
+					Durability: 80,
+					HarvestLevel: 0,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"livingwood",
+						"livingwood",
+						"livingwood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -8824277,
+					level: 1
+				},
+				{
+					identifier: "tconevo.modifiable",
+					color: -8824277,
+					level: 3
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tconevo.modifiable1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

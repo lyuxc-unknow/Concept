@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:endothermionic_tube\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "21d88a31",
+		type: "item",
+		items: [{
+			item: "custom_additions:endothermionic_tube"
+		}],
+		consume_items: true
+	}]
+}

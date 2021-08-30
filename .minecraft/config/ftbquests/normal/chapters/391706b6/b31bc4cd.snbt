@@ -1,0 +1,62 @@
+{
+	x: 30.0d,
+	y: 466.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:121908,Defense:50.0f},Stats:{Toughness:0.0f,FreeModifiers:0,Durability:121908,Defense:50.0f},ConArmEquipmentSlot:3,TinkerData:{Materials:[\"awakeneddraconium\",\"awakeneddraconium\",\"awakeneddraconium\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"energyrepair\",color:-14039,level:1},{identifier:\"op\",op1:1b,color:-14039,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"energyrepair\",\"op1\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "1af129d3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 121908,
+					Defense: 50.0f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 0,
+					Durability: 121908,
+					Defense: 50.0f
+				},
+				ConArmEquipmentSlot: 3,
+				TinkerData: {
+					Materials: [
+						"awakeneddraconium",
+						"awakeneddraconium",
+						"awakeneddraconium"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "energyrepair",
+					color: -14039,
+					level: 1
+				},
+				{
+					identifier: "op",
+					op1: 1b,
+					color: -14039,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"energyrepair",
+					"op1",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

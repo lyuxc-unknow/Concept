@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 537.0d,
+	description: "{id:\"fluxnetworks:fluxstorage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0b98d2bd",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxstorage"
+		}],
+		consume_items: true
+	}]
+}

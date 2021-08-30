@@ -1,0 +1,73 @@
+{
+	x: 7.0d,
+	y: 640.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:javelin\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1271,HarvestLevel:4,Attack:3.6f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1271,HarvestLevel:4,Attack:3.6f},Special:{Categories:[\"weapon\",\"tool\",\"projectile\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"petramor\",\"stonebound\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "099ab8a5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:javelin",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 1271,
+					HarvestLevel: 4,
+					Attack: 3.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 1271,
+					HarvestLevel: 4,
+					Attack: 3.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ardite",
+						"ardite",
+						"ardite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "petramor",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "stonebound",
+					color: -3063280,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"petramor",
+					"stonebound",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

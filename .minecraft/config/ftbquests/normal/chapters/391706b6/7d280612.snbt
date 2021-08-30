@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:disk_manipulator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "124d6bef",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_manipulator"
+		}],
+		consume_items: true
+	}]
+}

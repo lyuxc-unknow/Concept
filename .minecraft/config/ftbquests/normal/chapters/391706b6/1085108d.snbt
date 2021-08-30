@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 49.0d,
+	description: "{ForgeCaps:{Parent:{Size:27,Items:[]}},id:\"draconicevolution:draconic_staff_of_power\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "76e669a1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_staff_of_power"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	x: 35.0d,
+	y: 359.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.25f,FreeModifiers:3,Durability:212,HarvestLevel:0,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.25f,FreeModifiers:3,Durability:212,HarvestLevel:0,Attack:2.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"meat_metal\",\"meat_metal\",\"meat_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tasty\",color:-8498894,level:1},{identifier:\"tconevo.rejuvenating\",color:-8498894,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tasty\",\"tconevo.rejuvenating\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7bd34d5e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.25f,
+					FreeModifiers: 3,
+					Durability: 212,
+					HarvestLevel: 0,
+					Attack: 2.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.25f,
+					FreeModifiers: 3,
+					Durability: 212,
+					HarvestLevel: 0,
+					Attack: 2.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"meat_metal",
+						"meat_metal",
+						"meat_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tasty",
+					color: -8498894,
+					level: 1
+				},
+				{
+					identifier: "tconevo.rejuvenating",
+					color: -8498894,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tasty",
+					"tconevo.rejuvenating",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

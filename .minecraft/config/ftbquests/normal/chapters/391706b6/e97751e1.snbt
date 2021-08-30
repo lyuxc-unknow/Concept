@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 745.0d,
+	description: "{id:\"embers:combustor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d6a5e659",
+		type: "item",
+		items: [{
+			item: "embers:combustor"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:elite_processor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b33962a1",
+		type: "item",
+		items: [{
+			item: "custom_additions:elite_processor"
+		}],
+		consume_items: true
+	}]
+}

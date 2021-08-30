@@ -1,0 +1,31 @@
+{
+	title: "{ftbquests.a.title.wood}",
+	icon: "minecraft:log 1 1",
+	x: -3.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "a77ee3a5",
+		type: "item",
+		icon: "minecraft:log 1 1",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "07bc8758",
+		type: "item",
+		item: "minecraft:log 1 1",
+		count: 16
+	}]
+}

@@ -1,0 +1,73 @@
+{
+	x: 16.0d,
+	y: 348.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:759,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:759,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"litherite\",\"litherite\",\"litherite\",\"litherite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"jagged\",color:-16088238,level:1},{identifier:\"petramor\",color:-16088238,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"jagged\",\"petramor\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "09e802a0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 759,
+					HarvestLevel: 2,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 759,
+					HarvestLevel: 2,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"litherite",
+						"litherite",
+						"litherite",
+						"litherite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "jagged",
+					color: -16088238,
+					level: 1
+				},
+				{
+					identifier: "petramor",
+					color: -16088238,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"jagged",
+					"petramor",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

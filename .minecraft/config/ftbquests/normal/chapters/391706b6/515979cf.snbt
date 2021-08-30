@@ -1,0 +1,64 @@
+{
+	x: 5.0d,
+	y: 658.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:scimitar\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1037,HarvestLevel:5,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1037,HarvestLevel:5,Attack:3.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"essen\",\"essen\",\"essen\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"dual_nature\",color:-16284266,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"dual_nature\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "40915dfd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:scimitar",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 1037,
+					HarvestLevel: 5,
+					Attack: 3.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 1037,
+					HarvestLevel: 5,
+					Attack: 3.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"essen",
+						"essen",
+						"essen"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "dual_nature",
+					color: -16284266,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"dual_nature",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 89.0d,
+	description: "{id:\"randomthings:triggerglass\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1bbd7744",
+		type: "item",
+		items: [{
+			item: "randomthings:triggerglass"
+		}],
+		consume_items: true
+	}]
+}

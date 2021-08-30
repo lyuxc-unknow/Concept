@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 88.0d,
+	description: "{id:\"randomthings:redstoneobserver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8d04b6d5",
+		type: "item",
+		items: [{
+			item: "randomthings:redstoneobserver"
+		}],
+		consume_items: true
+	}]
+}

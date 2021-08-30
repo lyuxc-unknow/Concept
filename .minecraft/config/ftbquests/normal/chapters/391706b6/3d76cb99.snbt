@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 753.0d,
+	description: "{id:\"environmentaltech:lonsdaleite_bricks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f4fa9e15",
+		type: "item",
+		items: [{
+			item: "environmentaltech:lonsdaleite_bricks"
+		}],
+		consume_items: true
+	}]
+}

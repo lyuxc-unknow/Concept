@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 444.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"ivorypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "1f7f5cf6",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "ivorypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

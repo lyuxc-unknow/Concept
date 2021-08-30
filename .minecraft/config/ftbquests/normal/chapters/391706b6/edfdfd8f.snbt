@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 619.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"psigem\"},Damage:0s}",
+	tasks: [{
+		uid: "a180a2c8",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "psigem"
+			}
+		}],
+		consume_items: true
+	}]
+}

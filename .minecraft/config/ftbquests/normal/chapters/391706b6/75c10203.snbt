@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 224.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"refined_glowstone\"},Damage:0s}",
+	tasks: [{
+		uid: "337cd919",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "refined_glowstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

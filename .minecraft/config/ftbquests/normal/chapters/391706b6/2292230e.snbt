@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 264.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"bronze\"},Damage:0s}",
+	tasks: [{
+		uid: "b2a46657",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "bronze"
+			}
+		}],
+		consume_items: true
+	}]
+}

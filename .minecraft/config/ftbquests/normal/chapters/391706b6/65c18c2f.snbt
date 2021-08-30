@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 421.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"puredaisy\"},Damage:0s}",
+	tasks: [{
+		uid: "0c45dbe4",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}],
+		consume_items: true
+	}]
+}

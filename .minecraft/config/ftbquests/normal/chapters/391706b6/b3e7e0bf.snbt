@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 778.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"mana\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "f0636f6c",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "mana",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

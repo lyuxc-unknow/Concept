@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 537.0d,
+	description: "{id:\"bigreactors:blockludicrite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0e903754",
+		type: "item",
+		items: [{
+			item: "bigreactors:blockludicrite"
+		}],
+		consume_items: true
+	}]
+}

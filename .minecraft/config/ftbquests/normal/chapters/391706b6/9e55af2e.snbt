@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:certus_quartz_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "312528f5",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:certus_quartz_essence"
+		}],
+		consume_items: true
+	}]
+}

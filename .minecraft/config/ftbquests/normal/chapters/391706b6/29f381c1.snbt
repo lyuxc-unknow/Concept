@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 7.0d,
+	description: "{id:\"minecraft:acacia_fence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "01f8d3e6",
+		type: "item",
+		items: [{
+			item: "minecraft:acacia_fence"
+		}],
+		consume_items: true
+	}]
+}

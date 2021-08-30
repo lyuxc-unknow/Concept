@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 606.0d,
+	description: "{id:\"thermalintegrate:lead_loot_crate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2b5cb414",
+		type: "item",
+		items: [{
+			item: "thermalintegrate:lead_loot_crate"
+		}],
+		consume_items: true
+	}]
+}

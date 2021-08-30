@@ -1,0 +1,27 @@
+{
+	x: 36.0d,
+	y: 48.0d,
+	description: "{ForgeCaps:{Parent:{Size:18,Items:[]}},id:\"draconicevolution:draconic_pick\",Count:1b,tag:{DEUpgrades:{digSpeed:3b,digAOE:3b,rfCap:3b},Energy:256000000},Damage:0s}",
+	tasks: [{
+		uid: "1508fd38",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 18,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_pick",
+			tag: {
+				DEUpgrades: {
+					digSpeed: 3b,
+					digAOE: 3b,
+					rfCap: 3b
+				},
+				Energy: 256000000
+			}
+		}],
+		consume_items: true
+	}]
+}

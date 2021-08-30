@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 518.0d,
+	description: "{id:\"darkutils:sneaky_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "022ba885",
+		type: "item",
+		items: [{
+			item: "darkutils:sneaky_plate"
+		}],
+		consume_items: true
+	}]
+}

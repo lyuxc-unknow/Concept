@@ -1,0 +1,18 @@
+{
+	x: 13.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"steamworld:propellorshell\"}},Damage:0s}",
+	tasks: [{
+		uid: "2c5d1814",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "steamworld:propellorshell"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

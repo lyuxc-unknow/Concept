@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:creative_generator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "36bb55da",
+		type: "item",
+		items: [{
+			item: "overloaded:creative_generator"
+		}],
+		consume_items: true
+	}]
+}

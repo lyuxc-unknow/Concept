@@ -1,0 +1,20 @@
+{
+	x: 15.0d,
+	y: 505.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:soul_gem\",Count:1b,tag:{souls:4096.0d},Damage:3s}",
+	tasks: [{
+		uid: "cdfc6f0d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {
+				souls: 4096.0d
+			},
+			Damage: 3s
+		}],
+		consume_items: true
+	}]
+}

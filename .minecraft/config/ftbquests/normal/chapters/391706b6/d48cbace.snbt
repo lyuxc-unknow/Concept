@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 54.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"liquidchorus\"},Damage:0s}",
+	tasks: [{
+		uid: "c04ca092",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "liquidchorus"
+			}
+		}],
+		consume_items: true
+	}]
+}

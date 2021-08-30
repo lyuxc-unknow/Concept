@@ -1,0 +1,74 @@
+{
+	x: 38.0d,
+	y: 347.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1172,HarvestLevel:3,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1172,HarvestLevel:3,Attack:5.5f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"fluix_steel\",\"fluix_steel\",\"fluix_steel\",\"fluix_steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-12044456,level:1,magnetic1:1b},{identifier:\"tconevo.piezoelectric\",color:-12044456,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic1\",\"tconevo.piezoelectric\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "de5997f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 1172,
+					HarvestLevel: 3,
+					Attack: 5.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 1172,
+					HarvestLevel: 3,
+					Attack: 5.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"fluix_steel",
+						"fluix_steel",
+						"fluix_steel",
+						"fluix_steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -12044456,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "tconevo.piezoelectric",
+					color: -12044456,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1",
+					"tconevo.piezoelectric",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

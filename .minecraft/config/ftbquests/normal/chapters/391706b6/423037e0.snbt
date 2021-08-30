@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 414.0d,
+	description: "{id:\"botania:quartz\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "ef342fe1",
+		type: "item",
+		items: [{
+			item: "botania:quartz 1 1"
+		}],
+		consume_items: true
+	}]
+}

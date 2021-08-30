@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 683.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"aroma1997sdimension:dimensionchanger\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a8e99b91",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aroma1997sdimension:dimensionchanger"
+		}],
+		consume_items: true
+	}]
+}

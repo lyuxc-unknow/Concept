@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:miner_essen\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7a7e1746",
+		type: "item",
+		items: [{
+			item: "steamworld:miner_essen"
+		}],
+		consume_items: true
+	}]
+}

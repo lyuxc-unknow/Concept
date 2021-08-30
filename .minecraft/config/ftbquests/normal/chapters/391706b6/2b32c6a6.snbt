@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 31.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"minecraft:long_regeneration\"},Damage:0s}",
+	tasks: [{
+		uid: "602d14ad",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:long_regeneration"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:spawn_egg\",Count:1b,tag:{EntityTag:{id:\"mist:snow_flea\"}},Damage:0s}",
+	tasks: [{
+		uid: "963326f9",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mist:snow_flea"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

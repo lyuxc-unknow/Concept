@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 186.0d,
+	description: "{id:\"enderio:block_dark_paper_anvil\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "73176324",
+		type: "item",
+		items: [{
+			item: "enderio:block_dark_paper_anvil 1 2"
+		}],
+		consume_items: true
+	}]
+}

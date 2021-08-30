@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 270.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"energetic_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "96773fec",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "energetic_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

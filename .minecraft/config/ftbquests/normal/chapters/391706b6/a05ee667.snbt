@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 606.0d,
+	description: "{id:\"thermalintegrate:crate_copper\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0c609bd0",
+		type: "item",
+		items: [{
+			item: "thermalintegrate:crate_copper"
+		}],
+		consume_items: true
+	}]
+}

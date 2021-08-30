@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 668.0d,
+	description: "{id:\"wirelessutils:fluid_gen_augment\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "703065c1",
+		type: "item",
+		items: [{
+			item: "wirelessutils:fluid_gen_augment"
+		}],
+		consume_items: true
+	}]
+}

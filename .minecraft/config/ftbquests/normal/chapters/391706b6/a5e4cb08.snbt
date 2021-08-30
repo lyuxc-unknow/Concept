@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 414.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:terrapick\",Count:1b,tag:{mana:99999999},Damage:0s}",
+	tasks: [{
+		uid: "747ea251",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:terrapick",
+			tag: {
+				mana: 99999999
+			}
+		}],
+		consume_items: true
+	}]
+}

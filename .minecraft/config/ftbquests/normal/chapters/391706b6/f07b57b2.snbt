@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 453.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"diamantine_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "9e995a65",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "diamantine_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

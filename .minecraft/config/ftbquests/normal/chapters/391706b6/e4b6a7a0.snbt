@@ -1,0 +1,19 @@
+{
+	x: 11.0d,
+	y: 73.0d,
+	description: "{ForgeCaps:{Parent:{Energy:0L},\"astralsorcery:cap_item_amulet_holder\":{}},id:\"calculator:advancedterrainmodule\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0c8bb1b0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Energy: 0L
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "calculator:advancedterrainmodule"
+		}],
+		consume_items: true
+	}]
+}

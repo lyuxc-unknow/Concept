@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 91.0d,
+	description: "{id:\"randomthings:plate_redirector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9776dfcf",
+		type: "item",
+		items: [{
+			item: "randomthings:plate_redirector"
+		}],
+		consume_items: true
+	}]
+}

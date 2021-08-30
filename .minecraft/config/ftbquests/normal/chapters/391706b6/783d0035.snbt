@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 258.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"aethium\"},Damage:0s}",
+	tasks: [{
+		uid: "b0ef0249",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "aethium"
+			}
+		}],
+		consume_items: true
+	}]
+}

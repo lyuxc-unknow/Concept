@@ -1,0 +1,70 @@
+{
+	x: 10.0d,
+	y: 636.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:792,HarvestLevel:2,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:792,HarvestLevel:2,Attack:5.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tasty\",\"baconlicious\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "64520730",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.2f,
+					FreeModifiers: 3,
+					Durability: 792,
+					HarvestLevel: 2,
+					Attack: 5.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.2f,
+					FreeModifiers: 3,
+					Durability: 792,
+					HarvestLevel: 2,
+					Attack: 5.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"pigiron",
+						"pigiron",
+						"pigiron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tasty",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "baconlicious",
+					color: -1073509,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tasty",
+					"baconlicious",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

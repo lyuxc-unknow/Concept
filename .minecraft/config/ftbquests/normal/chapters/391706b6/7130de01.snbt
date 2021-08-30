@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 227.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"livingwood\"},Damage:0s}",
+	tasks: [{
+		uid: "fa3d20fe",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "livingwood"
+			}
+		}],
+		consume_items: true
+	}]
+}

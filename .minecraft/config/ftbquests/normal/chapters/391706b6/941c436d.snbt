@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 676.0d,
+	description: "{id:\"actuallyadditions:item_small_to_medium_crate_upgrade\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a22f74a0",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_small_to_medium_crate_upgrade"
+		}],
+		consume_items: true
+	}]
+}

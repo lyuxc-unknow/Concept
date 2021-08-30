@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 295.0d,
+	description: "{id:\"tconstruct:cross_guard\",Count:1b,tag:{Material:\"lonsdaleite\"},Damage:0s}",
+	tasks: [{
+		uid: "bd16ae21",
+		type: "item",
+		items: [{
+			id: "tconstruct:cross_guard",
+			tag: {
+				Material: "lonsdaleite"
+			}
+		}],
+		consume_items: true
+	}]
+}

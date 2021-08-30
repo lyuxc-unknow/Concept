@@ -1,0 +1,67 @@
+{
+	x: 18.0d,
+	y: 348.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:scythe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.5f,FreeModifiers:3,Durability:1023,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.5f,FreeModifiers:3,Durability:1023,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"kyronite\",\"kyronite\",\"kyronite\",\"kyronite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.battle_furor\",color:-12118465,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.battle_furor\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "16450ff3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.5f,
+					FreeModifiers: 3,
+					Durability: 1023,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.5f,
+					FreeModifiers: 3,
+					Durability: 1023,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"kyronite",
+						"kyronite",
+						"kyronite",
+						"kyronite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.battle_furor",
+					color: -12118465,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.battle_furor",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

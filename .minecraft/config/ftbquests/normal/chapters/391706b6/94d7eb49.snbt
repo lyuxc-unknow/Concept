@@ -1,0 +1,72 @@
+{
+	x: 14.0d,
+	y: 316.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:pickaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:90,HarvestLevel:4,Attack:9.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:90,HarvestLevel:4,Attack:9.0f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"vibrant_alloy\",\"vibrant_alloy\",\"vibrant_alloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderpickup\",color:-4798352,level:1},{identifier:\"enderport\",enderport-4:1b,color:-4798352,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderpickup\",\"enderport-4\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ea905b84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 90,
+					HarvestLevel: 4,
+					Attack: 9.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					FreeModifiers: 3,
+					Durability: 90,
+					HarvestLevel: 4,
+					Attack: 9.0f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"vibrant_alloy",
+						"vibrant_alloy",
+						"vibrant_alloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderpickup",
+					color: -4798352,
+					level: 1
+				},
+				{
+					identifier: "enderport",
+					enderport-4: 1b,
+					color: -4798352,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderpickup",
+					"enderport-4",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

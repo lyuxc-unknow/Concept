@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 396.0d,
+	description: "{id:\"tconstruct:clay_cast\",Count:1b,tag:{PartType:\"totaltinkers:greatbladecore\"},Damage:0s}",
+	tasks: [{
+		uid: "626d1624",
+		type: "item",
+		items: [{
+			id: "tconstruct:clay_cast",
+			tag: {
+				PartType: "totaltinkers:greatbladecore"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 265.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"manasteel\"},Damage:0s}",
+	tasks: [{
+		uid: "be49e790",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "manasteel"
+			}
+		}],
+		consume_items: true
+	}]
+}

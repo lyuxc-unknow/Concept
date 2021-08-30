@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: 147.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"randomthings:lapislamp\"},Damage:0s}",
+	tasks: [{
+		uid: "5a6b057d",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "randomthings:lapislamp"
+			}
+		}],
+		consume_items: true
+	}]
+}

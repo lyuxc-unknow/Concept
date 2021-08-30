@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 531.0d,
+	description: "{id:\"enderutilities:enderpart\",Count:1b,Damage:70s}",
+	tasks: [{
+		uid: "cec5ceb5",
+		type: "item",
+		items: [{
+			item: "enderutilities:enderpart 1 70"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 16.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"extrautils2:xu2.purging\"},Damage:0s}",
+	tasks: [{
+		uid: "64a4fb89",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "extrautils2:xu2.purging"
+			}
+		}],
+		consume_items: true
+	}]
+}

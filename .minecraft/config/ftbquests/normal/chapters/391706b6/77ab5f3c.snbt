@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:black_hole_controller_reworked\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "894aaa09",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:black_hole_controller_reworked"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 790.0d,
+	description: "{id:\"tp:bacon_sandwhich\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cfe61f13",
+		type: "item",
+		items: [{
+			item: "tp:bacon_sandwhich"
+		}],
+		consume_items: true
+	}]
+}

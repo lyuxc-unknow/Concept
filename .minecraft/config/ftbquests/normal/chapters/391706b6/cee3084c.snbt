@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 133.0d,
+	description: "{id:\"thermaldynamics:filter\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "3213267c",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:filter 1 3"
+		}],
+		consume_items: true
+	}]
+}

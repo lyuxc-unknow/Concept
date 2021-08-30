@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:storage_monitor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "61640347",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_monitor"
+		}],
+		consume_items: true
+	}]
+}

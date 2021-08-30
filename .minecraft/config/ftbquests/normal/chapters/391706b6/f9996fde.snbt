@@ -1,0 +1,79 @@
+{
+	x: 9.0d,
+	y: 346.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:2320,HarvestLevel:3,Attack:7.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:2320,HarvestLevel:3,Attack:7.2f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"ancite\",\"ancite\",\"ancite\",\"ancite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"magnetic\",color:-8682833,level:1,magnetic1:1b},{identifier:\"unnatural\",color:-8682833,level:1},{identifier:\"heavy\",color:-8682833,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"magnetic1\",\"unnatural\",\"heavy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "d4d5a69c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 2320,
+					HarvestLevel: 3,
+					Attack: 7.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 2320,
+					HarvestLevel: 3,
+					Attack: 7.2f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ancite",
+						"ancite",
+						"ancite",
+						"ancite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "magnetic",
+					color: -8682833,
+					level: 1,
+					magnetic1: 1b
+				},
+				{
+					identifier: "unnatural",
+					color: -8682833,
+					level: 1
+				},
+				{
+					identifier: "heavy",
+					color: -8682833,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"magnetic1",
+					"unnatural",
+					"heavy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

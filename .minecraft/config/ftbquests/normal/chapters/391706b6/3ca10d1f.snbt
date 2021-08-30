@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"nickel\"},Damage:0s}",
+	tasks: [{
+		uid: "aa5249d3",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "nickel"
+			}
+		}],
+		consume_items: true
+	}]
+}

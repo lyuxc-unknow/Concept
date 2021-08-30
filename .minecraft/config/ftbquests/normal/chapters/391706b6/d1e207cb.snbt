@@ -1,0 +1,19 @@
+{
+	x: 21.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:potato_helm\",Count:1b,tag:{Energy:100000},Damage:0s}",
+	tasks: [{
+		uid: "6e00ca6f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:potato_helm",
+			tag: {
+				Energy: 100000
+			}
+		}],
+		consume_items: true
+	}]
+}

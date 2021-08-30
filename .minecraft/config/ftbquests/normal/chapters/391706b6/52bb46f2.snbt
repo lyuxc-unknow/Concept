@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 433.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "0a21fcc3",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

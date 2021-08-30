@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 550.0d,
+	description: "{id:\"mysticalagriculture:blitz_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0d2a4942",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:blitz_seeds"
+		}],
+		consume_items: true
+	}]
+}

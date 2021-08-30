@@ -1,0 +1,78 @@
+{
+	x: 18.0d,
+	y: 764.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconevo:tool_sceptre\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:526,HarvestLevel:3,Attack:5.0f,Range:1.05f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:3.5f,DrawSpeed:1.4641001f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:526,HarvestLevel:3,Attack:5.0f,Range:1.05f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"erodium\",\"erodium\",\"erodium\",\"erodium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-8558701,level:1},{identifier:\"depthdigger\",color:-8558701,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"depthdigger\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "63cb0ad2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconevo:tool_sceptre",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.5f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 526,
+					HarvestLevel: 3,
+					Attack: 5.0f,
+					Range: 1.05f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 3.5f,
+					DrawSpeed: 1.4641001f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 526,
+					HarvestLevel: 3,
+					Attack: 5.0f,
+					Range: 1.05f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"erodium",
+						"erodium",
+						"erodium",
+						"erodium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -8558701,
+					level: 1
+				},
+				{
+					identifier: "depthdigger",
+					color: -8558701,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"depthdigger",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

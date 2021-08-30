@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 478.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:cosmeticmaidhelm\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "53bf8d2b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:cosmeticmaidhelm"
+		}],
+		consume_items: true
+	}]
+}

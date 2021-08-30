@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 546.0d,
+	description: "{id:\"mysticalagriculture:gold_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4733332e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:gold_essence"
+		}],
+		consume_items: true
+	}]
+}

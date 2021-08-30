@@ -1,0 +1,16 @@
+{
+	x: 38.0d,
+	y: 400.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"appliedenergistics2:nether_quartz_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6a3c3906",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:nether_quartz_sword"
+		}],
+		consume_items: true
+	}]
+}

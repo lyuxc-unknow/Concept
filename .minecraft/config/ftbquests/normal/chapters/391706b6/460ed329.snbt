@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:player_interface\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "092d251e",
+		type: "item",
+		items: [{
+			item: "overloaded:player_interface"
+		}],
+		consume_items: true
+	}]
+}

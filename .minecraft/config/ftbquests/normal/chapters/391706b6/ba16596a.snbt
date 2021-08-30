@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 171.0d,
+	description: "{id:\"alchemistry:fission_core\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6851eff4",
+		type: "item",
+		items: [{
+			item: "alchemistry:fission_core"
+		}],
+		consume_items: true
+	}]
+}

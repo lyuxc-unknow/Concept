@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 770.0d,
+	description: "{id:\"custom_additions:compressed_alchemical_carbon\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de55581f",
+		type: "item",
+		items: [{
+			item: "custom_additions:compressed_alchemical_carbon"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: 802.0d,
+	description: "{id:\"jaopca:item_platedenseancite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ef47013",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platedenseancite"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 20.0d,
+	y: 555.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"岩浆怪\",level:10,mobId:\"minecraft:magma_cube\"},Damage:0s}",
+	tasks: [{
+		uid: "63e38d33",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "岩浆怪",
+				level: 10,
+				mobId: "minecraft:magma_cube"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 38.0d,
+	y: 57.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"mist:barvog\"},Damage:0s}",
+	tasks: [{
+		uid: "43939e72",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "mist:barvog"
+			}
+		}],
+		consume_items: true
+	}]
+}

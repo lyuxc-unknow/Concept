@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: 739.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"bigreactors:erguide\"},Damage:0s}",
+	tasks: [{
+		uid: "84e07bea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "bigreactors:erguide"
+			}
+		}],
+		consume_items: true
+	}]
+}

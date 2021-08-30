@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 773.0d,
+	description: "{id:\"omegacraft:cube_module\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7b4d0f85",
+		type: "item",
+		items: [{
+			item: "omegacraft:cube_module"
+		}],
+		consume_items: true
+	}]
+}

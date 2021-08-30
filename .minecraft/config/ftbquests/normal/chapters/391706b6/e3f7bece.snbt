@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 103.0d,
+	description: "{id:\"mist:r_tree_branch\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "ddbcc84b",
+		type: "item",
+		items: [{
+			item: "mist:r_tree_branch 1 6"
+		}],
+		consume_items: true
+	}]
+}

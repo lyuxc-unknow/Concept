@@ -1,0 +1,71 @@
+{
+	x: 7.0d,
+	y: 381.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,DrawSpeed:0.58f,FreeModifiers:3,ProjectileBonusDamage:2.865f,Durability:315,HarvestLevel:2,Attack:4.5f,Range:0.99f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,DrawSpeed:0.58f,FreeModifiers:3,ProjectileBonusDamage:2.865f,Durability:315,HarvestLevel:2,Attack:4.5f,Range:0.99f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"ma.inferium\",\"ma.inferium\",\"ma.inferium\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"prosperous\",color:-9138688,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"prosperous\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a8252ad7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					DrawSpeed: 0.58f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 2.865f,
+					Durability: 315,
+					HarvestLevel: 2,
+					Attack: 4.5f,
+					Range: 0.99f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					DrawSpeed: 0.58f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 2.865f,
+					Durability: 315,
+					HarvestLevel: 2,
+					Attack: 4.5f,
+					Range: 0.99f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.inferium",
+						"ma.inferium",
+						"ma.inferium",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "prosperous",
+					color: -9138688,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"prosperous",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

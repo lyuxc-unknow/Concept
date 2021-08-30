@@ -1,0 +1,55 @@
+{
+	x: 10.0d,
+	y: 460.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:chestplate\",Count:1b,tag:{StatsOriginal:{Toughness:3.5f,FreeModifiers:3,Durability:110,Defense:16.2f},Stats:{Toughness:3.5f,FreeModifiers:3,Durability:110,Defense:16.2f},ConArmEquipmentSlot:4,TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"duritos_ranch_armor\",color:-10478396,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"duritos_ranch_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "36522ed6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:chestplate",
+			tag: {
+				StatsOriginal: {
+					Toughness: 3.5f,
+					FreeModifiers: 3,
+					Durability: 110,
+					Defense: 16.2f
+				},
+				Stats: {
+					Toughness: 3.5f,
+					FreeModifiers: 3,
+					Durability: 110,
+					Defense: 16.2f
+				},
+				ConArmEquipmentSlot: 4,
+				TinkerData: {
+					Materials: [
+						"obsidian",
+						"obsidian",
+						"obsidian"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos_ranch_armor",
+					color: -10478396,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos_ranch_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

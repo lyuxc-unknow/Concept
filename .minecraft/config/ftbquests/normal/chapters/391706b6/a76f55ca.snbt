@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 794.0d,
+	description: "{id:\"tp:hardened_stone_bricks_slab_half\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "21be8705",
+		type: "item",
+		items: [{
+			item: "tp:hardened_stone_bricks_slab_half"
+		}],
+		consume_items: true
+	}]
+}

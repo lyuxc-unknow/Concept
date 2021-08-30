@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 12.0d,
+	description: "{id:\"minecraft:dye\",Count:1b,Damage:14s}",
+	tasks: [{
+		uid: "cf59eb89",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 14"
+		}],
+		consume_items: true
+	}]
+}

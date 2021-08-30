@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 112.0d,
+	description: "{id:\"moreplates:black_quartz_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9a0bb044",
+		type: "item",
+		items: [{
+			item: "moreplates:black_quartz_plate"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: 590.0d,
+	description: "{id:\"prodigytech:inferno_fuel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7ba05d46",
+		type: "item",
+		items: [{
+			item: "prodigytech:inferno_fuel"
+		}],
+		consume_items: true
+	}]
+}

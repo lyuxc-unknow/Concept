@@ -1,0 +1,17 @@
+{
+	x: 30.0d,
+	y: 138.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:2b,Block:\"minecraft:prismarine\"},Damage:0s}",
+	tasks: [{
+		uid: "7b29c57f",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 2b,
+				Block: "minecraft:prismarine"
+			}
+		}],
+		consume_items: true
+	}]
+}

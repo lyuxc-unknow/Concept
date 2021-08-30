@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 163.0d,
+	description: "{id:\"simplyjetpacks:metaitem\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "1c131299",
+		type: "item",
+		items: [{
+			item: "simplyjetpacks:metaitem 1 3"
+		}],
+		consume_items: true
+	}]
+}

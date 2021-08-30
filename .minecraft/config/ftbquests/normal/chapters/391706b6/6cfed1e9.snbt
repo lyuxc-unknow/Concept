@@ -1,0 +1,17 @@
+{
+	x: 34.0d,
+	y: 158.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:1b,Block:\"mist:acacia_fence\"},Damage:0s}",
+	tasks: [{
+		uid: "bb7d9c6b",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 1b,
+				Block: "mist:acacia_fence"
+			}
+		}],
+		consume_items: true
+	}]
+}

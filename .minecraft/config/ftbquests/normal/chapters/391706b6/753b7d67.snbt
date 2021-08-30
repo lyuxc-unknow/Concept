@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 537.0d,
+	description: "{id:\"bigreactors:reactorredstoneport\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5effa0c8",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorredstoneport"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 136.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:netherrack\"},Damage:0s}",
+	tasks: [{
+		uid: "58297885",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:netherrack"
+			}
+		}],
+		consume_items: true
+	}]
+}

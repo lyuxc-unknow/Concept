@@ -1,0 +1,71 @@
+{
+	x: 36.0d,
+	y: 379.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.2f,DrawSpeed:1.6f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:896,HarvestLevel:3,Attack:3.7f,Range:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.2f,DrawSpeed:1.6f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:896,HarvestLevel:3,Attack:3.7f,Range:1.2f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"steaite\",\"steaite\",\"steaite\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"duritos\",color:-6261415,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "df8ac72e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.2f,
+					DrawSpeed: 1.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 896,
+					HarvestLevel: 3,
+					Attack: 3.7f,
+					Range: 1.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.2f,
+					DrawSpeed: 1.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 3.0f,
+					Durability: 896,
+					HarvestLevel: 3,
+					Attack: 3.7f,
+					Range: 1.2f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"steaite",
+						"steaite",
+						"steaite",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -6261415,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

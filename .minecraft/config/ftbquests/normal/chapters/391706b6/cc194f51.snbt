@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 538.0d,
+	description: "{id:\"ftbquests:loot_crate_opener\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b35adc6c",
+		type: "item",
+		items: [{
+			item: "ftbquests:loot_crate_opener"
+		}],
+		consume_items: true
+	}]
+}

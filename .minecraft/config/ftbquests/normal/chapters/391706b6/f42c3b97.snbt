@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 105.0d,
+	description: "{id:\"mist:portal_base\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eebc03a2",
+		type: "item",
+		items: [{
+			item: "mist:portal_base"
+		}],
+		consume_items: true
+	}]
+}

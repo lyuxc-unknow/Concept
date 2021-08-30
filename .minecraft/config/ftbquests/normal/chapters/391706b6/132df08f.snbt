@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 612.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"psigem\"},Damage:0s}",
+	tasks: [{
+		uid: "06b2cfb9",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "psigem"
+			}
+		}],
+		consume_items: true
+	}]
+}

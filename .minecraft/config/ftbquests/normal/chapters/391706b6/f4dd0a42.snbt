@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 65.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"mist:border_plains\"},Damage:0s}",
+	tasks: [{
+		uid: "a6d67742",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "mist:border_plains"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 10.0d,
+	y: 686.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemcrystalshovel\",Count:1b,tag:{astralsorcery:{size:900,fract:0,purity:100,sizeOverride:-1,collect:100}},Damage:0s}",
+	tasks: [{
+		uid: "51466200",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcrystalshovel",
+			tag: {
+				astralsorcery: {
+					size: 900,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

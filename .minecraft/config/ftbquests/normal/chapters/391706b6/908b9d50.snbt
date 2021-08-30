@@ -1,0 +1,17 @@
+{
+	x: 28.0d,
+	y: 144.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"sonarcore:reinforcedstonebrickstairs\"},Damage:0s}",
+	tasks: [{
+		uid: "c8291376",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "sonarcore:reinforcedstonebrickstairs"
+			}
+		}],
+		consume_items: true
+	}]
+}

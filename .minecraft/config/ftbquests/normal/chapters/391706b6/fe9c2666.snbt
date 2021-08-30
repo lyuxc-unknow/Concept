@@ -1,0 +1,76 @@
+{
+	x: 36.0d,
+	y: 635.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:cutlass\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.25f,FreeModifiers:3,Durability:654,HarvestLevel:5,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.25f,FreeModifiers:3,Durability:654,HarvestLevel:5,Attack:6.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"end_steel\",\"end_steel\",\"end_steel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-262989,level:1},{identifier:\"enderference\",color:-262989,level:1},{identifier:\"alien\",color:-262989,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"enderference\",\"alien\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "e872e0f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:cutlass",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.25f,
+					FreeModifiers: 3,
+					Durability: 654,
+					HarvestLevel: 5,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.25f,
+					FreeModifiers: 3,
+					Durability: 654,
+					HarvestLevel: 5,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"end_steel",
+						"end_steel",
+						"end_steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "enderference",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "alien",
+					color: -262989,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"enderference",
+					"alien",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

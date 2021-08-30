@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"agricarnation\"},Damage:0s}",
+	tasks: [{
+		uid: "b8d2f986",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "agricarnation"
+			}
+		}],
+		consume_items: true
+	}]
+}

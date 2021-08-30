@@ -1,0 +1,72 @@
+{
+	x: 31.0d,
+	y: 645.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:dagger\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:10.0f,FreeModifiers:3,Durability:1023,HarvestLevel:6,Attack:11.0f},Stats:{AttackSpeedMultiplier:1.0f,Accuracy:1.0f,MiningSpeed:10.0f,FreeModifiers:3,Durability:1023,HarvestLevel:6,Attack:11.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"gelid_enderium\",\"gelid_enderium\",\"gelid_enderium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.energized\",color:-15567754,level:2},{identifier:\"tconevo.juggernaut\",color:-15567754,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.energized2\",\"tconevo.juggernaut\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "8725198f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:dagger",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 10.0f,
+					FreeModifiers: 3,
+					Durability: 1023,
+					HarvestLevel: 6,
+					Attack: 11.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 10.0f,
+					FreeModifiers: 3,
+					Durability: 1023,
+					HarvestLevel: 6,
+					Attack: 11.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"gelid_enderium",
+						"gelid_enderium",
+						"gelid_enderium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.energized",
+					color: -15567754,
+					level: 2
+				},
+				{
+					identifier: "tconevo.juggernaut",
+					color: -15567754,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.energized2",
+					"tconevo.juggernaut",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

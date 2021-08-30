@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 68.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"avaritia:skullfire_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "54d374f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "avaritia:skullfire_sword"
+		}],
+		consume_items: true
+	}]
+}

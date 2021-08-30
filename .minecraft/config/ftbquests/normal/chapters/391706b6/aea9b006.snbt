@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 128.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:crayon_glasses\",Count:1b,tag:{Color:14602026},Damage:0s}",
+	tasks: [{
+		uid: "e2171e27",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 14602026
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 543.0d,
+	description: "{id:\"mysticalagriculture:end_inferium_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5aa0e7ae",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:end_inferium_ore"
+		}],
+		consume_items: true
+	}]
+}

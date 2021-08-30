@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 101.0d,
+	description: "{id:\"mist:t_tree_step\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9453cd62",
+		type: "item",
+		items: [{
+			item: "mist:t_tree_step"
+		}],
+		consume_items: true
+	}]
+}

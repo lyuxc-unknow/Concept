@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 72.0d,
+	description: "{id:\"calculator:amethystplanks\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6eee7b20",
+		type: "item",
+		items: [{
+			item: "calculator:amethystplanks"
+		}],
+		consume_items: true
+	}]
+}

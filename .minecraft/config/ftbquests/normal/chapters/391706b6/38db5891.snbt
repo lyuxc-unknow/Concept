@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 528.0d,
+	description: "{id:\"emergingtechnology:minecraft_slimesyringe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9332ca20",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:minecraft_slimesyringe"
+		}],
+		consume_items: true
+	}]
+}

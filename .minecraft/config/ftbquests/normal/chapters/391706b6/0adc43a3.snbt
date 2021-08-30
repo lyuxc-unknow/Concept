@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 588.0d,
+	description: "{id:\"overloaded:compressed_netherrack\",Count:1b,Damage:12s}",
+	tasks: [{
+		uid: "1d51376b",
+		type: "item",
+		items: [{
+			item: "overloaded:compressed_netherrack 1 12"
+		}],
+		consume_items: true
+	}]
+}

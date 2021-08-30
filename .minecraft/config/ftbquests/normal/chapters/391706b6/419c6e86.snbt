@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"hyacidus\"},Damage:0s}",
+	tasks: [{
+		uid: "28009698",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "hyacidus"
+			}
+		}],
+		consume_items: true
+	}]
+}

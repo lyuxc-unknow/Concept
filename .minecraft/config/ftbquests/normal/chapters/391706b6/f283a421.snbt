@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 304.0d,
+	description: "{id:\"tconstruct:knife_blade\",Count:1b,tag:{Material:\"steaite\"},Damage:0s}",
+	tasks: [{
+		uid: "af8e6235",
+		type: "item",
+		items: [{
+			id: "tconstruct:knife_blade",
+			tag: {
+				Material: "steaite"
+			}
+		}],
+		consume_items: true
+	}]
+}

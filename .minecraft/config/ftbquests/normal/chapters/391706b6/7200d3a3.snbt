@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 53.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d5de9dfc",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:florb"
+		}],
+		consume_items: true
+	}]
+}

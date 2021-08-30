@@ -1,0 +1,20 @@
+{
+	x: 37.0d,
+	y: 476.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"bigreactors:blockludicrite\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "2fa8792f",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "bigreactors:blockludicrite",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

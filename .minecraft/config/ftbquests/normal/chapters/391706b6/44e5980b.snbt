@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 773.0d,
+	description: "{id:\"omegacraft:upgrade_machine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "148d1bd9",
+		type: "item",
+		items: [{
+			item: "omegacraft:upgrade_machine"
+		}],
+		consume_items: true
+	}]
+}

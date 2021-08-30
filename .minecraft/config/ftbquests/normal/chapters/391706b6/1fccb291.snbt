@@ -1,0 +1,17 @@
+{
+	x: 25.0d,
+	y: 138.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:acacia_stairs\"},Damage:0s}",
+	tasks: [{
+		uid: "a414f681",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:acacia_stairs"
+			}
+		}],
+		consume_items: true
+	}]
+}

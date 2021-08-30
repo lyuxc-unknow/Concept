@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 447.0d,
+	description: "{id:\"conarm:chest_core\",Count:1b,tag:{Material:\"polyethylene\"},Damage:0s}",
+	tasks: [{
+		uid: "09ec4aa7",
+		type: "item",
+		items: [{
+			id: "conarm:chest_core",
+			tag: {
+				Material: "polyethylene"
+			}
+		}],
+		consume_items: true
+	}]
+}

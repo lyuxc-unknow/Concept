@@ -1,0 +1,18 @@
+{
+	x: 36.0d,
+	y: 179.0d,
+	description: "{id:\"chickens:spawn_egg\",Count:1b,tag:{ChickenType:{id:\"morechickens:lunarreactivedustchicken\"}},Damage:0s}",
+	tasks: [{
+		uid: "9854fbf2",
+		type: "item",
+		items: [{
+			id: "chickens:spawn_egg",
+			tag: {
+				ChickenType: {
+					id: "morechickens:lunarreactivedustchicken"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

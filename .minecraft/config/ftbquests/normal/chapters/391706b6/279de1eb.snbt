@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 796.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:golden_multi\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7d7f745",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:golden_multi"
+		}],
+		consume_items: true
+	}]
+}

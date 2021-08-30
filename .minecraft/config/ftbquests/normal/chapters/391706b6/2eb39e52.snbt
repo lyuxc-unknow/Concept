@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 48.0d,
+	description: "{id:\"draconicevolution:draconium_capacitor\",Count:1b,tag:{DEUpgrades:{rfCap:3b},Energy:160000000},Damage:0s}",
+	tasks: [{
+		uid: "7389f05d",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconium_capacitor",
+			tag: {
+				DEUpgrades: {
+					rfCap: 3b
+				},
+				Energy: 160000000
+			}
+		}],
+		consume_items: true
+	}]
+}

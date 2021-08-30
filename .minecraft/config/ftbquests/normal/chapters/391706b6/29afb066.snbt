@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 743.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"embers:shovel_tin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf11e377",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:shovel_tin"
+		}],
+		consume_items: true
+	}]
+}

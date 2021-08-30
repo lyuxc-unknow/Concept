@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"bergamute\"},Damage:0s}",
+	tasks: [{
+		uid: "41348c37",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "bergamute"
+			}
+		}],
+		consume_items: true
+	}]
+}

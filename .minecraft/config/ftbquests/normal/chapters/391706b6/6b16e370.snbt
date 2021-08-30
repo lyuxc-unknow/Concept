@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 793.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:flint_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b56d629e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:flint_sword"
+		}],
+		consume_items: true
+	}]
+}

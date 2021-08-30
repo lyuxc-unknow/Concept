@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 761.0d,
+	description: "{id:\"threng:machine\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "22317107",
+		type: "item",
+		items: [{
+			item: "threng:machine"
+		}],
+		consume_items: true
+	}]
+}

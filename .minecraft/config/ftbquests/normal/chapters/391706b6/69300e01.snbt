@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 768.0d,
+	description: "{id:\"lordcraft:cyclicforge_advb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d165bef2",
+		type: "item",
+		items: [{
+			item: "lordcraft:cyclicforge_advb"
+		}],
+		consume_items: true
+	}]
+}

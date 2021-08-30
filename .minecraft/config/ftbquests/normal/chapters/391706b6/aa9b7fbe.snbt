@@ -1,0 +1,70 @@
+{
+	x: 19.0d,
+	y: 354.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:1037,HarvestLevel:3,Attack:5.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:1037,HarvestLevel:3,Attack:5.6f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"crumbling\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7616cd4f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					FreeModifiers: 3,
+					Durability: 1037,
+					HarvestLevel: 3,
+					Attack: 5.6f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					FreeModifiers: 3,
+					Durability: 1037,
+					HarvestLevel: 3,
+					Attack: 5.6f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"knightslime",
+						"knightslime",
+						"knightslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "crumbling",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"crumbling",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

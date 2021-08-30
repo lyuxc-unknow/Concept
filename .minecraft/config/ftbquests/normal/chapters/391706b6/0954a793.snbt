@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 671.0d,
+	description: "{id:\"actuallyadditions:block_crystal_cluster_redstone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cd1c6d96",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_cluster_redstone"
+		}],
+		consume_items: true
+	}]
+}

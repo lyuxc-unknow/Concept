@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 401.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"appliedenergistics2:entropy_manipulator\",Count:1b,tag:{internalMaxPower:200000.0d,internalCurrentPower:200000.0d},Damage:0s}",
+	tasks: [{
+		uid: "10ab057f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:entropy_manipulator",
+			tag: {
+				internalMaxPower: 200000.0d,
+				internalCurrentPower: 200000.0d
+			}
+		}],
+		consume_items: true
+	}]
+}

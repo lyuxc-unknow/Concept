@@ -1,0 +1,16 @@
+{
+	x: 29.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"bubbell\"},Damage:0s}",
+	tasks: [{
+		uid: "8ce2849a",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "bubbell"
+			}
+		}],
+		consume_items: true
+	}]
+}

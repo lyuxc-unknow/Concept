@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 417.0d,
+	description: "{id:\"botania:overgrowthseed\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f07e4d2",
+		type: "item",
+		items: [{
+			item: "botania:overgrowthseed"
+		}],
+		consume_items: true
+	}]
+}

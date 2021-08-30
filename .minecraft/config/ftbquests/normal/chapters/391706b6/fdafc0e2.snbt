@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 783.0d,
+	description: "{id:\"requious:lapotron_orb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "264204ca",
+		type: "item",
+		items: [{
+			item: "requious:lapotron_orb"
+		}],
+		consume_items: true
+	}]
+}

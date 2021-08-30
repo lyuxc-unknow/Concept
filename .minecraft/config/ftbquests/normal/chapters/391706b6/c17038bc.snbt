@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 519.0d,
+	description: "{id:\"darkutils:slime_dyed\",Count:1b,Damage:5s}",
+	tasks: [{
+		uid: "8eff1ebd",
+		type: "item",
+		items: [{
+			item: "darkutils:slime_dyed 1 5"
+		}],
+		consume_items: true
+	}]
+}

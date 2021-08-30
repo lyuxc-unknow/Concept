@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"solegnolia\"},Damage:0s}",
+	tasks: [{
+		uid: "62001f9f",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "solegnolia"
+			}
+		}],
+		consume_items: true
+	}]
+}

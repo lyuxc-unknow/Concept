@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 429.0d,
+	description: "{id:\"botania:quartztypelavender\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3eae4e7b",
+		type: "item",
+		items: [{
+			item: "botania:quartztypelavender"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 801.0d,
+	description: "{id:\"jaopca:item_dustsmallplatinum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "788bd367",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustsmallplatinum"
+		}],
+		consume_items: true
+	}]
+}

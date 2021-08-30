@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:wireless_access_point\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2be761a2",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:wireless_access_point"
+		}],
+		consume_items: true
+	}]
+}

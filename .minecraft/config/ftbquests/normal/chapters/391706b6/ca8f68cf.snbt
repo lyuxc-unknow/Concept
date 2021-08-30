@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 171.0d,
+	description: "{id:\"alchemistry:xenon_light\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "851acbde",
+		type: "item",
+		items: [{
+			item: "alchemistry:xenon_light"
+		}],
+		consume_items: true
+	}]
+}

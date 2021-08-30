@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: 401.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"appliedenergistics2:charged_staff\",Count:1b,tag:{internalMaxPower:8000.0d,internalCurrentPower:8000.0d},Damage:0s}",
+	tasks: [{
+		uid: "0deaa97d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:charged_staff",
+			tag: {
+				internalMaxPower: 8000.0d,
+				internalCurrentPower: 8000.0d
+			}
+		}],
+		consume_items: true
+	}]
+}

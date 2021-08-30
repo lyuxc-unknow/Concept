@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:awakened_draconium_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "713466cf",
+		type: "item",
+		items: [{
+			item: "moreplates:awakened_draconium_plate"
+		}],
+		consume_items: true
+	}]
+}

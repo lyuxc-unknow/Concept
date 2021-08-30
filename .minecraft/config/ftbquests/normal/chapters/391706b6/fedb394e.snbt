@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 395.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconstruct:axe_head\"},Damage:0s}",
+	tasks: [{
+		uid: "2afa2567",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:axe_head"
+			}
+		}],
+		consume_items: true
+	}]
+}

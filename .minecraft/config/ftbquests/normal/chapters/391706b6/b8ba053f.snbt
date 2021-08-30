@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 262.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"signalum\"},Damage:0s}",
+	tasks: [{
+		uid: "83f7a8d2",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "signalum"
+			}
+		}],
+		consume_items: true
+	}]
+}

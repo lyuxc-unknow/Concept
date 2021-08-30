@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 533.0d,
+	description: "{id:\"enderutilities:phasing\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "0ffaabfa",
+		type: "item",
+		items: [{
+			item: "enderutilities:phasing 1 1"
+		}],
+		consume_items: true
+	}]
+}

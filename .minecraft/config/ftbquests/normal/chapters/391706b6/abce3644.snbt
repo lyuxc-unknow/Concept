@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: 170.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"elvenelementium\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "82524ec0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "elvenelementium",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

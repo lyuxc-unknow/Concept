@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_crystallunar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3cbc258a",
+		type: "item",
+		items: [{
+			item: "jaopca:item_crystallunar"
+		}],
+		consume_items: true
+	}]
+}

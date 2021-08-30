@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 112.0d,
+	description: "{id:\"naturesaura:birth_spirit\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a41a3d2c",
+		type: "item",
+		items: [{
+			item: "naturesaura:birth_spirit"
+		}],
+		consume_items: true
+	}]
+}

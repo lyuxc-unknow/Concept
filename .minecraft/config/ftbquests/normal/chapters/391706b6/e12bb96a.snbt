@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 10.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"minecraft:golden_pickaxe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "083e5a3d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:golden_pickaxe"
+		}],
+		consume_items: true
+	}]
+}

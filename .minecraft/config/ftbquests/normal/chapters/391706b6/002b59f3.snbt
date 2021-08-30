@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 578.0d,
+	description: "{id:\"pneumaticcraft:assembly_program\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a14324a0",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_program"
+		}],
+		consume_items: true
+	}]
+}

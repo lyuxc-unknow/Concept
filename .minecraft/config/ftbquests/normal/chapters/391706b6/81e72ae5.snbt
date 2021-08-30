@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:fluid_interface\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8fade2aa",
+		type: "item",
+		items: [{
+			item: "refinedstorage:fluid_interface"
+		}],
+		consume_items: true
+	}]
+}

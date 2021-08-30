@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 540.0d,
+	description: "{id:\"integrateddynamics:part_world_reader_item\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "74ae3193",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:part_world_reader_item"
+		}],
+		consume_items: true
+	}]
+}

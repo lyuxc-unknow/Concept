@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 114.0d,
+	description: "{id:\"moreplates:crystalline_pink_slime_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ad0a7b53",
+		type: "item",
+		items: [{
+			item: "moreplates:crystalline_pink_slime_plate"
+		}],
+		consume_items: true
+	}]
+}

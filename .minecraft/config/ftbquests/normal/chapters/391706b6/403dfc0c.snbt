@@ -1,0 +1,72 @@
+{
+	x: 6.0d,
+	y: 333.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:kama\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:329,HarvestLevel:2,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:329,HarvestLevel:2,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"manasteel\",\"manasteel\",\"manasteel\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"momentum\",color:-15764755,level:1},{identifier:\"tconevo.mana_infused\",color:-15764755,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"momentum\",\"tconevo.mana_infused\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a878c792",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:kama",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 329,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 329,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"manasteel",
+						"manasteel",
+						"manasteel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "momentum",
+					color: -15764755,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mana_infused",
+					color: -15764755,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"momentum",
+					"tconevo.mana_infused",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

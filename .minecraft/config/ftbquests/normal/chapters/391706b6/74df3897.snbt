@@ -1,0 +1,19 @@
+{
+	x: 30.0d,
+	y: 65.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:biomemarker\",Count:1b,tag:{Biome:\"minecraft:mutated_taiga\"},Damage:0s}",
+	tasks: [{
+		uid: "feeb30da",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:biomemarker",
+			tag: {
+				Biome: "minecraft:mutated_taiga"
+			}
+		}],
+		consume_items: true
+	}]
+}

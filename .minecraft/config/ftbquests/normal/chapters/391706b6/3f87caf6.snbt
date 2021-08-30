@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 740.0d,
+	description: "{id:\"embers:dust_ember\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "92e71b0f",
+		type: "item",
+		items: [{
+			item: "embers:dust_ember"
+		}],
+		consume_items: true
+	}]
+}

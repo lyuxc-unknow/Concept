@@ -1,0 +1,21 @@
+{
+	x: 33.0d,
+	y: 685.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemshiftingstar\",Count:1b,tag:{astralsorcery:{starAttunement:\"astralsorcery.constellation.discidia\"}},Damage:0s}",
+	tasks: [{
+		uid: "1bd66d0c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				astralsorcery: {
+					starAttunement: "astralsorcery.constellation.discidia"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

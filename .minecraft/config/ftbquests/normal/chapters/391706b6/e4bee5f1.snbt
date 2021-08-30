@@ -1,0 +1,20 @@
+{
+	x: 31.0d,
+	y: 522.0d,
+	description: "{id:\"doubleslabs:vertical_slab\",Count:1b,tag:{item:{id:\"mist:r_tree_slab\",Count:1b,Damage:0s}},Damage:0s}",
+	tasks: [{
+		uid: "9e84249c",
+		type: "item",
+		items: [{
+			id: "doubleslabs:vertical_slab",
+			tag: {
+				item: {
+					id: "mist:r_tree_slab",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

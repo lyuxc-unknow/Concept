@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:incinerator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6d57c497",
+		type: "item",
+		items: [{
+			item: "prodigytech:incinerator"
+		}],
+		consume_items: true
+	}]
+}

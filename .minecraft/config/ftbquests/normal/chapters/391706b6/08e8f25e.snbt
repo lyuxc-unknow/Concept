@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 686.0d,
+	description: "{id:\"astralsorcery:itemusabledust\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "c4e08c9e",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemusabledust 1 1"
+		}],
+		consume_items: true
+	}]
+}

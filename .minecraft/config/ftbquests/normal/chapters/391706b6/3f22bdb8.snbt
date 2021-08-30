@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 5.0d,
+	description: "{id:\"minecraft:leaves2\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7b0fcca9",
+		type: "item",
+		items: [{
+			item: "minecraft:leaves2"
+		}],
+		consume_items: true
+	}]
+}

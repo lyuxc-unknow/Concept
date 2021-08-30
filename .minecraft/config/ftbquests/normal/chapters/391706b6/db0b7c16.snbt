@@ -1,0 +1,77 @@
+{
+	x: 33.0d,
+	y: 381.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:crossbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,DrawSpeed:1.1f,FreeModifiers:3,ProjectileBonusDamage:1.5f,Durability:154,HarvestLevel:0,Attack:3.5f,Range:1.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.0f,DrawSpeed:1.1f,FreeModifiers:3,ProjectileBonusDamage:1.5f,Durability:154,HarvestLevel:0,Attack:3.5f,Range:1.1f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"dreamwood\",\"dreamwood\",\"dreamwood\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"ecological\",color:-5391425,level:1},{identifier:\"tconevo.aura_siphon\",color:-5391425,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"ecological\",\"tconevo.aura_siphon\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "1020f1ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					DrawSpeed: 1.1f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.5f,
+					Durability: 154,
+					HarvestLevel: 0,
+					Attack: 3.5f,
+					Range: 1.1f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.0f,
+					DrawSpeed: 1.1f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.5f,
+					Durability: 154,
+					HarvestLevel: 0,
+					Attack: 3.5f,
+					Range: 1.1f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"dreamwood",
+						"dreamwood",
+						"dreamwood",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -5391425,
+					level: 1
+				},
+				{
+					identifier: "tconevo.aura_siphon",
+					color: -5391425,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"tconevo.aura_siphon",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

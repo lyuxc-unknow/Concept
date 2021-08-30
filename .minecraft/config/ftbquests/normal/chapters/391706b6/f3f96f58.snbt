@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 478.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:camera\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fdc7e3d2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:camera"
+		}],
+		consume_items: true
+	}]
+}

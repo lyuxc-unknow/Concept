@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 12.0d,
+	description: "{id:\"minecraft:ghast_tear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e0e1840b",
+		type: "item",
+		items: [{
+			item: "minecraft:ghast_tear"
+		}],
+		consume_items: true
+	}]
+}

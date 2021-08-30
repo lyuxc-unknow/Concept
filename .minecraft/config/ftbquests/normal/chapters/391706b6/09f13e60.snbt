@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 799.0d,
+	description: "{id:\"jaopca:item_platechargedcertusquartz\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b8867c9",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platechargedcertusquartz"
+		}],
+		consume_items: true
+	}]
+}

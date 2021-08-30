@@ -1,0 +1,13 @@
+{
+	x: 32.0d,
+	y: 164.0d,
+	description: "{id:\"solarflux:solar_panel_draconic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d57d6ab9",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_draconic"
+		}],
+		consume_items: true
+	}]
+}

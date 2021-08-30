@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 54.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"if.pink_slime\"},Damage:0s}",
+	tasks: [{
+		uid: "0c41e4fa",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "if.pink_slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

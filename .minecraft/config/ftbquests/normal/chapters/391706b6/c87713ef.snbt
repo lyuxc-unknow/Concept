@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 12.0d,
+	description: "{id:\"minecraft:ender_pearl\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7df7cd83",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}],
+		consume_items: true
+	}]
+}

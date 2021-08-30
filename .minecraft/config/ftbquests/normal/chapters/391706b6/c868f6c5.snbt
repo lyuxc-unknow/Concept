@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 550.0d,
+	description: "{id:\"mysticalagriculture:platinum_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ac86d7a0",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:platinum_seeds"
+		}],
+		consume_items: true
+	}]
+}

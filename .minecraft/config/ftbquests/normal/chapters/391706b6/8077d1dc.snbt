@@ -1,0 +1,16 @@
+{
+	x: 37.0d,
+	y: 287.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"litherite\"},Damage:0s}",
+	tasks: [{
+		uid: "6631fe56",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "litherite"
+			}
+		}],
+		consume_items: true
+	}]
+}

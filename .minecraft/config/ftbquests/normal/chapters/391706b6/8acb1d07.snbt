@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 789.0d,
+	description: "{id:\"tp:small_bandage\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "61889900",
+		type: "item",
+		items: [{
+			item: "tp:small_bandage"
+		}],
+		consume_items: true
+	}]
+}

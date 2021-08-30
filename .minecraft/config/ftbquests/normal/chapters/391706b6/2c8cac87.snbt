@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 258.0d,
+	description: "{id:\"tconstruct:kama_head\",Count:1b,tag:{Material:\"pink_slime\"},Damage:0s}",
+	tasks: [{
+		uid: "c9e44ddf",
+		type: "item",
+		items: [{
+			id: "tconstruct:kama_head",
+			tag: {
+				Material: "pink_slime"
+			}
+		}],
+		consume_items: true
+	}]
+}

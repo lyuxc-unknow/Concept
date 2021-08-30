@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 63.0d,
+	description: "{id:\"extrautils2:spike_creative\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1c55c1c8",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_creative"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 395.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"conarm:armor_plate\"},Damage:0s}",
+	tasks: [{
+		uid: "f8a6bc19",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:armor_plate"
+			}
+		}],
+		consume_items: true
+	}]
+}

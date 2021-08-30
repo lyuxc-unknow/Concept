@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 130.0d,
+	description: "{id:\"rebornstorage:multicrafter\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "e698d195",
+		type: "item",
+		items: [{
+			item: "rebornstorage:multicrafter 1 4"
+		}],
+		consume_items: true
+	}]
+}

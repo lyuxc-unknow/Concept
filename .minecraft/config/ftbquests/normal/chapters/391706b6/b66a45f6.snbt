@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 188.0d,
+	description: "{id:\"enderio:block_enderman_skull\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "c8e7ea86",
+		type: "item",
+		items: [{
+			item: "enderio:block_enderman_skull 1 2"
+		}],
+		consume_items: true
+	}]
+}

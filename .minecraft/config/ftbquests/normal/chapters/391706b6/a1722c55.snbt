@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 579.0d,
+	description: "{id:\"pneumaticcraft:programming_puzzle\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "78d897f0",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:programming_puzzle 1 1"
+		}],
+		consume_items: true
+	}]
+}

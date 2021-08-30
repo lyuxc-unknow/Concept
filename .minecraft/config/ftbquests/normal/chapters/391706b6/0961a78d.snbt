@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 413.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:auraring\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "240e6079",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:auraring"
+		}],
+		consume_items: true
+	}]
+}

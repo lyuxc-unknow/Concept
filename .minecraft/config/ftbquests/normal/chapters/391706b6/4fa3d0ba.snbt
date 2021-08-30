@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 608.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalsolars:itemtitaniumhammer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a1f6af2f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalsolars:itemtitaniumhammer"
+		}],
+		consume_items: true
+	}]
+}

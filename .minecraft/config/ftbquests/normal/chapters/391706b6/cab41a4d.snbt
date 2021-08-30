@@ -1,0 +1,77 @@
+{
+	x: 20.0d,
+	y: 369.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:1976,HarvestLevel:3,Attack:9.629999f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:1976,HarvestLevel:3,Attack:9.629999f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"crumbling\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "dfd3c6b4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					FreeModifiers: 3,
+					Durability: 1976,
+					HarvestLevel: 3,
+					Attack: 9.629999f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.8f,
+					FreeModifiers: 3,
+					Durability: 1976,
+					HarvestLevel: 3,
+					Attack: 9.629999f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"knightslime",
+						"knightslime",
+						"knightslime",
+						"knightslime"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "crumbling",
+					color: -946192,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"crumbling",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

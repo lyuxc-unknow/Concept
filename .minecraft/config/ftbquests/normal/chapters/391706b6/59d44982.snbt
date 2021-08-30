@@ -1,0 +1,75 @@
+{
+	x: 34.0d,
+	y: 330.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:13.52f,FreeModifiers:3,HarvestLevelShovel:4,Durability:2913,HarvestLevel:4,Attack:17.060001f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:13.52f,FreeModifiers:3,HarvestLevelShovel:4,Durability:2913,HarvestLevel:4,Attack:17.060001f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"electrumflux\",\"electrumflux\",\"electrumflux\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"energyrepair\",color:-2709,level:1},{identifier:\"energyeater\",color:-2709,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"energyrepair\",\"energyeater\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "0fc73c40",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 13.52f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 2913,
+					HarvestLevel: 4,
+					Attack: 17.060001f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 4,
+					MiningSpeed: 13.52f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 4,
+					Durability: 2913,
+					HarvestLevel: 4,
+					Attack: 17.060001f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"electrumflux",
+						"electrumflux",
+						"electrumflux"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "energyrepair",
+					color: -2709,
+					level: 1
+				},
+				{
+					identifier: "energyeater",
+					color: -2709,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"energyrepair",
+					"energyeater",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

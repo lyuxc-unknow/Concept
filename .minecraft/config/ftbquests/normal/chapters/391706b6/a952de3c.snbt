@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:wormhole_funnel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "48197219",
+		type: "item",
+		items: [{
+			item: "prodigytech:wormhole_funnel"
+		}],
+		consume_items: true
+	}]
+}

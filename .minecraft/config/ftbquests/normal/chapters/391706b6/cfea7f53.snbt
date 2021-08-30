@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 668.0d,
+	description: "{id:\"wirelessutils:infinite_wireless_transmitter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "cf409107",
+		type: "item",
+		items: [{
+			item: "wirelessutils:infinite_wireless_transmitter"
+		}],
+		consume_items: true
+	}]
+}

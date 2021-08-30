@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 31.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"randomthings:strong_collapse\"},Damage:0s}",
+	tasks: [{
+		uid: "d0e7eb1b",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "randomthings:strong_collapse"
+			}
+		}],
+		consume_items: true
+	}]
+}

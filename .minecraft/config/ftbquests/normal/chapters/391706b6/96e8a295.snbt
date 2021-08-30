@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 664.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"deepmoblearning:glitch\"},Damage:0s}",
+	tasks: [{
+		uid: "b3290435",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "deepmoblearning:glitch"
+			}
+		}],
+		consume_items: true
+	}]
+}

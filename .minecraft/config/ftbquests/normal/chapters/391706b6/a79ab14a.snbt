@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 585.0d,
+	description: "{id:\"pneumaticcraft:spawner_agitator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f8e827e0",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:spawner_agitator"
+		}],
+		consume_items: true
+	}]
+}

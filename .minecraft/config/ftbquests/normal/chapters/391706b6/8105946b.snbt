@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 590.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"prodigytech:heat_capacitor_0\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e82df199",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:heat_capacitor_0"
+		}],
+		consume_items: true
+	}]
+}

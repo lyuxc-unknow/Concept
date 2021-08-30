@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 63.0d,
+	description: "{id:\"extrautils2:quarry\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "aa086a0c",
+		type: "item",
+		items: [{
+			item: "extrautils2:quarry"
+		}],
+		consume_items: true
+	}]
+}

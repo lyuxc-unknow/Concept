@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 768.0d,
+	description: "{id:\"lordcraft:lord_brick_cracked_stairsb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "02f5733b",
+		type: "item",
+		items: [{
+			item: "lordcraft:lord_brick_cracked_stairsb"
+		}],
+		consume_items: true
+	}]
+}

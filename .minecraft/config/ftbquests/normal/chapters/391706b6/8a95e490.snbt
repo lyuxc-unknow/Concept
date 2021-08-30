@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 312.0d,
+	description: "{id:\"tconstruct:fletching\",Count:1b,tag:{Material:\"leaf\"},Damage:0s}",
+	tasks: [{
+		uid: "92fc0b21",
+		type: "item",
+		items: [{
+			id: "tconstruct:fletching",
+			tag: {
+				Material: "leaf"
+			}
+		}],
+		consume_items: true
+	}]
+}

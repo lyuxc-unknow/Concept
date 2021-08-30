@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 747.0d,
+	description: "{id:\"environmentalmaterials:alabaster_tiles\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "3f0ab200",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_tiles 1 1"
+		}],
+		consume_items: true
+	}]
+}

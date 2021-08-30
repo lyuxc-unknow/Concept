@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 742.0d,
+	description: "{id:\"embers:plate_aluminum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dd8404dc",
+		type: "item",
+		items: [{
+			item: "embers:plate_aluminum"
+		}],
+		consume_items: true
+	}]
+}

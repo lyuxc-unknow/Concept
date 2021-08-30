@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 268.0d,
+	description: "{id:\"tconstruct:sign_head\",Count:1b,tag:{Material:\"xu_enchanted_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "2bf1e7e0",
+		type: "item",
+		items: [{
+			id: "tconstruct:sign_head",
+			tag: {
+				Material: "xu_enchanted_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

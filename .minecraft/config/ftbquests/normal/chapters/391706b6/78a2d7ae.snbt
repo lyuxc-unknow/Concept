@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:furnace_ancite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e418d050",
+		type: "item",
+		items: [{
+			item: "steamworld:furnace_ancite"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 107.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mist:flint_and_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "134dc00b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mist:flint_and_stone"
+		}],
+		consume_items: true
+	}]
+}

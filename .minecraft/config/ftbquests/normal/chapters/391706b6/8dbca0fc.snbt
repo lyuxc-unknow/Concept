@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"ba_lightning_flower\"},Damage:0s}",
+	tasks: [{
+		uid: "2633ac4a",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "ba_lightning_flower"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 17.0d,
+	y: 263.0d,
+	description: "{id:\"tconstruct:pan_head\",Count:1b,tag:{Material:\"electrical_steel\"},Damage:0s}",
+	tasks: [{
+		uid: "89c8ef6b",
+		type: "item",
+		items: [{
+			id: "tconstruct:pan_head",
+			tag: {
+				Material: "electrical_steel"
+			}
+		}],
+		consume_items: true
+	}]
+}

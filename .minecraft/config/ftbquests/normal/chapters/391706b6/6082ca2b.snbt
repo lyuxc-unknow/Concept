@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 560.0d,
+	description: "{id:\"rftools:invchecker_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "037c18f7",
+		type: "item",
+		items: [{
+			item: "rftools:invchecker_block"
+		}],
+		consume_items: true
+	}]
+}

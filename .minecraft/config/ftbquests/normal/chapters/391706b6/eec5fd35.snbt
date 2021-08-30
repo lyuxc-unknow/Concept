@@ -1,0 +1,64 @@
+{
+	x: 29.0d,
+	y: 359.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:420,HarvestLevel:4,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:420,HarvestLevel:4,Attack:7.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"pladium\",\"pladium\",\"pladium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.relentless\",color:-14470306,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.relentless\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "76805c00",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 420,
+					HarvestLevel: 4,
+					Attack: 7.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 420,
+					HarvestLevel: 4,
+					Attack: 7.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"pladium",
+						"pladium",
+						"pladium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.relentless",
+					color: -14470306,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.relentless",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

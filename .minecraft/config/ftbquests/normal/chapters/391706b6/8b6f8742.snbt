@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 113.0d,
+	description: "{id:\"moreplates:elementium_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3df873ba",
+		type: "item",
+		items: [{
+			item: "moreplates:elementium_gear"
+		}],
+		consume_items: true
+	}]
+}

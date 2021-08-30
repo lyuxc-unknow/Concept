@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 97.0d,
+	description: "{id:\"mist:spruce_trunk\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0c69e09e",
+		type: "item",
+		items: [{
+			item: "mist:spruce_trunk"
+		}],
+		consume_items: true
+	}]
+}

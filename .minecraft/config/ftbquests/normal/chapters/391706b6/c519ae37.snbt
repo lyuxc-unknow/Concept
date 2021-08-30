@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 773.0d,
+	description: "{id:\"omegacraft:ore_tinb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dec602b8",
+		type: "item",
+		items: [{
+			item: "omegacraft:ore_tinb"
+		}],
+		consume_items: true
+	}]
+}

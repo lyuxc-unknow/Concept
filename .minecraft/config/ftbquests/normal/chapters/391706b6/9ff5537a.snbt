@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 793.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tp:wither_helmet\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bb2333e5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:wither_helmet"
+		}],
+		consume_items: true
+	}]
+}

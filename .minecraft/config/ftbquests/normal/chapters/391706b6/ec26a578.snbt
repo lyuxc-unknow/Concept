@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 800.0d,
+	description: "{id:\"jaopca:item_dusttinyardite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f1502dd",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dusttinyardite"
+		}],
+		consume_items: true
+	}]
+}

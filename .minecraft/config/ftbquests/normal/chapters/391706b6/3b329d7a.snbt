@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 206.0d,
+	description: "{id:\"enderio:item_inventory_charger_basic\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c33bd705",
+		type: "item",
+		items: [{
+			item: "enderio:item_inventory_charger_basic"
+		}],
+		consume_items: true
+	}]
+}

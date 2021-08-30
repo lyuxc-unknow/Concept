@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 540.0d,
+	description: "{id:\"integrateddynamics:logic_programmer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1202f04d",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:logic_programmer"
+		}],
+		consume_items: true
+	}]
+}

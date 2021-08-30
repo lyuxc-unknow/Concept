@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 744.0d,
+	description: "{id:\"embers:item_pipe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a75052f6",
+		type: "item",
+		items: [{
+			item: "embers:item_pipe"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 400.0d,
+	description: "{id:\"appliedenergistics2:quartz_pillar_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c8f8a839",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:quartz_pillar_stairs"
+		}],
+		consume_items: true
+	}]
+}

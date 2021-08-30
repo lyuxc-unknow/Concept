@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 537.0d,
+	description: "{id:\"fluxnetworks:adminconfigurator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "44473dc1",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:adminconfigurator"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 34.0d,
+	y: 511.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"mekanism:machineblock\",Count:1b,Damage:12s}",
+	tasks: [{
+		uid: "5f2f4e75",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			Damage: 12s
+		}],
+		consume_items: true
+	}]
+}

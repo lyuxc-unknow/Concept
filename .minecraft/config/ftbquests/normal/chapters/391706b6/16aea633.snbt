@@ -1,0 +1,71 @@
+{
+	x: 25.0d,
+	y: 375.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:shortbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.53f,DrawSpeed:2.51f,FreeModifiers:3,ProjectileBonusDamage:8.0f,Durability:300,HarvestLevel:3,Attack:4.83f,Range:1.11f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.53f,DrawSpeed:2.51f,FreeModifiers:3,ProjectileBonusDamage:8.0f,Durability:300,HarvestLevel:3,Attack:4.83f,Range:1.11f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"cyanite\",\"cyanite\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"radioactive\",color:-14300709,level:1,radioactive1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"radioactive1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "02fee7be",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:shortbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.53f,
+					DrawSpeed: 2.51f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 8.0f,
+					Durability: 300,
+					HarvestLevel: 3,
+					Attack: 4.83f,
+					Range: 1.11f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.53f,
+					DrawSpeed: 2.51f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 8.0f,
+					Durability: 300,
+					HarvestLevel: 3,
+					Attack: 4.83f,
+					Range: 1.11f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cyanite",
+						"cyanite",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "radioactive",
+					color: -14300709,
+					level: 1,
+					radioactive1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"radioactive1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:villager_golem\"},Damage:0s}",
+	tasks: [{
+		uid: "20cdb76a",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:villager_golem"
+			}
+		}],
+		consume_items: true
+	}]
+}

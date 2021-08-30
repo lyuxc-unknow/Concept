@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 279.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"extrabotany:ingotshadowium\"},Damage:0s}",
+	tasks: [{
+		uid: "c8e0c6b7",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "extrabotany:ingotshadowium"
+			}
+		}],
+		consume_items: true
+	}]
+}

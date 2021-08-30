@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 797.0d,
+	description: "{id:\"jaopca:item_singularitymithril\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2103c425",
+		type: "item",
+		items: [{
+			item: "jaopca:item_singularitymithril"
+		}],
+		consume_items: true
+	}]
+}

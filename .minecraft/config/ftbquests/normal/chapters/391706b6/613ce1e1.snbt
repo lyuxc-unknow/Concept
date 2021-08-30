@@ -1,0 +1,78 @@
+{
+	x: 18.0d,
+	y: 658.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,DrawSpeed:1.5f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:533,HarvestLevel:2,Attack:2.25f,Range:0.9f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:6.5f,DrawSpeed:1.9964999f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:533,HarvestLevel:2,Attack:2.25f,Range:0.9f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"electrical_steel\",\"electrical_steel\",\"electrical_steel\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shocking\",color:-5658199,level:1},{identifier:\"lightweight\",color:-5658199,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shocking\",\"lightweight\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c51579ab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 1.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.0f,
+					Durability: 533,
+					HarvestLevel: 2,
+					Attack: 2.25f,
+					Range: 0.9f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 6.5f,
+					DrawSpeed: 1.9964999f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.0f,
+					Durability: 533,
+					HarvestLevel: 2,
+					Attack: 2.25f,
+					Range: 0.9f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"electrical_steel",
+						"electrical_steel",
+						"electrical_steel",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shocking",
+					color: -5658199,
+					level: 1
+				},
+				{
+					identifier: "lightweight",
+					color: -5658199,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shocking",
+					"lightweight",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

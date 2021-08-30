@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 44.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.pickaxe_electrum\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c6a71d32",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.pickaxe_electrum"
+		}],
+		consume_items: true
+	}]
+}

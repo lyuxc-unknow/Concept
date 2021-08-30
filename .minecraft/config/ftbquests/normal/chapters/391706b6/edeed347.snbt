@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 678.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_drill_upgrade_silk_touch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d98ab7f4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_drill_upgrade_silk_touch"
+		}],
+		consume_items: true
+	}]
+}

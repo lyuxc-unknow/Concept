@@ -1,0 +1,22 @@
+{
+	x: 14.0d,
+	y: 81.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extracells:pattern.fluid\",Count:1b,tag:{Fluid:{FluidName:\"dark_steel\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "8239059e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:pattern.fluid",
+			tag: {
+				Fluid: {
+					FluidName: "dark_steel",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

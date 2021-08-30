@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 395.0d,
+	description: "{id:\"tconstruct:cast\",Count:1b,tag:{PartType:\"tconevo:part_arcane_focus\"},Damage:0s}",
+	tasks: [{
+		uid: "cbf180f7",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconevo:part_arcane_focus"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 128.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:technicolor_glasses\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0a10351",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:technicolor_glasses"
+		}],
+		consume_items: true
+	}]
+}

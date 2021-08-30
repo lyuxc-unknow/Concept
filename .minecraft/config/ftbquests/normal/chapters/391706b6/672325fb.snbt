@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 531.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"enderutilities:chairwand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ea9c90f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:chairwand"
+		}],
+		consume_items: true
+	}]
+}

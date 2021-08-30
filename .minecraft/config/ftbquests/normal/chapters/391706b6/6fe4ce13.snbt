@@ -1,0 +1,19 @@
+{
+	x: 18.0d,
+	y: 568.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"immersiveengineering:blueprint\",Count:1b,tag:{blueprint:\"specialBullet\"},Damage:0s}",
+	tasks: [{
+		uid: "6a262984",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "specialBullet"
+			}
+		}],
+		consume_items: true
+	}]
+}

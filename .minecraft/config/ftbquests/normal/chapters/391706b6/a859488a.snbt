@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 188.0d,
+	description: "{id:\"enderio:item_big_advanced_item_filter\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d25ec4ba",
+		type: "item",
+		items: [{
+			item: "enderio:item_big_advanced_item_filter"
+		}],
+		consume_items: true
+	}]
+}

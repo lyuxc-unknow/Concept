@@ -1,0 +1,24 @@
+{
+	x: 22.0d,
+	y: 77.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"draconicadditions:potato_helm\",Count:1b,tag:{DEUpgrades:{shieldRec:0b,shieldCap:0b,rfCap:0b},Energy:100000},Damage:0s}",
+	tasks: [{
+		uid: "df11084b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "draconicadditions:potato_helm",
+			tag: {
+				DEUpgrades: {
+					shieldRec: 0b,
+					shieldCap: 0b,
+					rfCap: 0b
+				},
+				Energy: 100000
+			}
+		}],
+		consume_items: true
+	}]
+}

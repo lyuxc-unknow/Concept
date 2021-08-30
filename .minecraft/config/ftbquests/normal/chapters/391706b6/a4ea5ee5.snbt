@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 737.0d,
+	description: "{id:\"refinedstorage:crafting_monitor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "17bac875",
+		type: "item",
+		items: [{
+			item: "refinedstorage:crafting_monitor"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,77 @@
+{
+	x: 6.0d,
+	y: 371.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:cleaver\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.25f,FreeModifiers:3,Durability:530,HarvestLevel:0,Attack:6.25f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.25f,FreeModifiers:3,Durability:530,HarvestLevel:0,Attack:6.25f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"meat_metal\",\"meat_metal\",\"meat_metal\",\"meat_metal\"],Modifiers:[\"beheading_cleaver\",\"toolleveling\"]},Modifiers:[{identifier:\"tasty\",color:-8498894,level:1},{identifier:\"tconevo.rejuvenating\",color:-8498894,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tasty\",\"tconevo.rejuvenating\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a637c922",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:cleaver",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.25f,
+					FreeModifiers: 3,
+					Durability: 530,
+					HarvestLevel: 0,
+					Attack: 6.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.25f,
+					FreeModifiers: 3,
+					Durability: 530,
+					HarvestLevel: 0,
+					Attack: 6.25f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"meat_metal",
+						"meat_metal",
+						"meat_metal",
+						"meat_metal"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tasty",
+					color: -8498894,
+					level: 1
+				},
+				{
+					identifier: "tconevo.rejuvenating",
+					color: -8498894,
+					level: 1
+				},
+				{
+					identifier: "beheading_cleaver",
+					color: 1070923,
+					level: 2
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tasty",
+					"tconevo.rejuvenating",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

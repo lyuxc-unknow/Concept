@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 260.0d,
+	description: "{id:\"tconstruct:scythe_head\",Count:1b,tag:{Material:\"extrabotany:ingotshadowium\"},Damage:0s}",
+	tasks: [{
+		uid: "824ec391",
+		type: "item",
+		items: [{
+			id: "tconstruct:scythe_head",
+			tag: {
+				Material: "extrabotany:ingotshadowium"
+			}
+		}],
+		consume_items: true
+	}]
+}

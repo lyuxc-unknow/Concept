@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 102.0d,
+	description: "{id:\"mist:birch_branch\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "0b9fd2ff",
+		type: "item",
+		items: [{
+			item: "mist:birch_branch 1 6"
+		}],
+		consume_items: true
+	}]
+}

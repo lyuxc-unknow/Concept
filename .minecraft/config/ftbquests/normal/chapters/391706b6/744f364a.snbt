@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:witch\"},Damage:0s}",
+	tasks: [{
+		uid: "addf6b5f",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:witch"
+			}
+		}],
+		consume_items: true
+	}]
+}

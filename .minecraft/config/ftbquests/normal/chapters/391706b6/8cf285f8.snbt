@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 129.0d,
+	description: "{id:\"packagedauto:package_component\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "de8d090a",
+		type: "item",
+		items: [{
+			item: "packagedauto:package_component"
+		}],
+		consume_items: true
+	}]
+}

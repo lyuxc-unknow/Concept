@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 787.0d,
+	description: "{id:\"yoyos:yoyo_cord\",Count:1b,tag:{Material:\"slimevine_purple\"},Damage:0s}",
+	tasks: [{
+		uid: "dcf4feba",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_cord",
+			tag: {
+				Material: "slimevine_purple"
+			}
+		}],
+		consume_items: true
+	}]
+}

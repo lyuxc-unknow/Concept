@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 774.0d,
+	description: "{id:\"omegacraft:esd_basicb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "28afd7d9",
+		type: "item",
+		items: [{
+			item: "omegacraft:esd_basicb"
+		}],
+		consume_items: true
+	}]
+}

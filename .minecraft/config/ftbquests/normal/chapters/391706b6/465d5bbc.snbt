@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 233.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "ea084c79",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

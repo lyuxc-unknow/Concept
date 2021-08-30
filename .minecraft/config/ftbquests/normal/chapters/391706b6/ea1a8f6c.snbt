@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 628.0d,
+	description: "{id:\"torchmaster:mega_torch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5aae2659",
+		type: "item",
+		items: [{
+			item: "torchmaster:mega_torch"
+		}],
+		consume_items: true
+	}]
+}

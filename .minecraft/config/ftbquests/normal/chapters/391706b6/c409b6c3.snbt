@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 577.0d,
+	description: "{id:\"pneumaticcraft:fluid.oil\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b53ffa7e",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:fluid.oil"
+		}],
+		consume_items: true
+	}]
+}

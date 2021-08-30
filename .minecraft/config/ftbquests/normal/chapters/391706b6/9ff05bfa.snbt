@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 576.0d,
+	description: "{id:\"mob_grinding_utils:tank_sink\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6666d778",
+		type: "item",
+		items: [{
+			item: "mob_grinding_utils:tank_sink"
+		}],
+		consume_items: true
+	}]
+}

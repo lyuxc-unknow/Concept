@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 59.0d,
+	description: "{id:\"extrautils2:enderlilly\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4a7fe618",
+		type: "item",
+		items: [{
+			item: "extrautils2:enderlilly"
+		}],
+		consume_items: true
+	}]
+}

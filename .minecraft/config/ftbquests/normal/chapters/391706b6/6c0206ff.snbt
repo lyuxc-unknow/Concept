@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 413.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:terrasword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d8b90dfa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:terrasword"
+		}],
+		consume_items: true
+	}]
+}

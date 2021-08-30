@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 297.0d,
+	description: "{id:\"tconstruct:large_plate\",Count:1b,tag:{Material:\"soularium\"},Damage:0s}",
+	tasks: [{
+		uid: "562be725",
+		type: "item",
+		items: [{
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "soularium"
+			}
+		}],
+		consume_items: true
+	}]
+}

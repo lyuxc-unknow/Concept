@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 744.0d,
+	description: "{id:\"embers:block_tank\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b5b5af6f",
+		type: "item",
+		items: [{
+			item: "embers:block_tank"
+		}],
+		consume_items: true
+	}]
+}

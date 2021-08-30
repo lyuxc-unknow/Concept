@@ -1,0 +1,19 @@
+{
+	x: 23.0d,
+	y: 540.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"integrateddynamics:energy_battery\",Count:1b,tag:{energy:0},Damage:0s}",
+	tasks: [{
+		uid: "8ea01ba2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "integrateddynamics:energy_battery",
+			tag: {
+				energy: 0
+			}
+		}],
+		consume_items: true
+	}]
+}

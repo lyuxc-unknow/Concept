@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 665.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"steamworld:glowdusty\"},Damage:0s}",
+	tasks: [{
+		uid: "2dcb845b",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "steamworld:glowdusty"
+			}
+		}],
+		consume_items: true
+	}]
+}

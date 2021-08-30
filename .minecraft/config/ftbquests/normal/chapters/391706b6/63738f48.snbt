@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 674.0d,
+	description: "{id:\"actuallyadditions:block_grinder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2be1aa26",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_grinder"
+		}],
+		consume_items: true
+	}]
+}

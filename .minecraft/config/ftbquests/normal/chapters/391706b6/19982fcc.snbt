@@ -1,0 +1,17 @@
+{
+	x: 27.0d,
+	y: 57.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"thermalfoundation:blitz\"},Damage:0s}",
+	tasks: [{
+		uid: "4ed230b0",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "thermalfoundation:blitz"
+			}
+		}],
+		consume_items: true
+	}]
+}

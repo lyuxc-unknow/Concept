@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 536.0d,
+	description: "{id:\"bigreactors:turbinerotorshaft\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2ee05315",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinerotorshaft"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 606.0d,
+	description: "{id:\"thermalintegrate:silver_loot_crate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "777c7378",
+		type: "item",
+		items: [{
+			item: "thermalintegrate:silver_loot_crate"
+		}],
+		consume_items: true
+	}]
+}

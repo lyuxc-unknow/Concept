@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 287.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"emeraldic_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "a5b2c45e",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "emeraldic_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: 538.0d,
+	description: "{id:\"modularmachinery:itemmodularium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6838c44c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:itemmodularium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 478.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:ultimatehammer\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b03e44a6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:ultimatehammer"
+		}],
+		consume_items: true
+	}]
+}

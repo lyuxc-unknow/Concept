@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"steamworld:anemone\"},Damage:0s}",
+	tasks: [{
+		uid: "46b1a90e",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "steamworld:anemone"
+			}
+		}],
+		consume_items: true
+	}]
+}

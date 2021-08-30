@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 18.0d,
+	description: "{id:\"minecraft:experience_bottle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9f786d71",
+		type: "item",
+		items: [{
+			item: "minecraft:experience_bottle"
+		}],
+		consume_items: true
+	}]
+}

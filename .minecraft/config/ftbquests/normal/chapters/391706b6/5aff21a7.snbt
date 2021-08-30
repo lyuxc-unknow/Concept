@@ -1,0 +1,78 @@
+{
+	x: 8.0d,
+	y: 659.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,DrawSpeed:0.65f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:1218,HarvestLevel:4,Attack:8.72f,Range:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,DrawSpeed:0.65f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:1218,HarvestLevel:4,Attack:8.72f,Range:1.2f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"insatiable\",color:-6202120,level:1},{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"insatiable\",\"coldblooded\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "dc23d609",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					DrawSpeed: 0.65f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 1218,
+					HarvestLevel: 4,
+					Attack: 8.72f,
+					Range: 1.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.02f,
+					DrawSpeed: 0.65f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 4.0f,
+					Durability: 1218,
+					HarvestLevel: 4,
+					Attack: 8.72f,
+					Range: 1.2f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"manyullyn",
+						"manyullyn",
+						"manyullyn",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "insatiable",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "coldblooded",
+					color: -6202120,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"insatiable",
+					"coldblooded",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 757.0d,
+	description: "{id:\"industrialforegoing:laser_drill\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "176a666a",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_drill"
+		}],
+		consume_items: true
+	}]
+}

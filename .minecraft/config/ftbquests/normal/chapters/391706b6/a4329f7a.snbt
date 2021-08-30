@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 787.0d,
+	description: "{id:\"yoyos:yoyo_cord\",Count:1b,tag:{Material:\"string\"},Damage:0s}",
+	tasks: [{
+		uid: "be06888b",
+		type: "item",
+		items: [{
+			id: "yoyos:yoyo_cord",
+			tag: {
+				Material: "string"
+			}
+		}],
+		consume_items: true
+	}]
+}

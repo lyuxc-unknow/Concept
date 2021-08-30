@@ -1,0 +1,58 @@
+{
+	x: 38.0d,
+	y: 360.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.86f,FreeModifiers:3,Durability:672,HarvestLevel:3,Attack:9.53f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.86f,FreeModifiers:3,Durability:672,HarvestLevel:3,Attack:9.53f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"refinediron\",\"refinediron\",\"refinediron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2c5706a0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.86f,
+					FreeModifiers: 3,
+					Durability: 672,
+					HarvestLevel: 3,
+					Attack: 9.53f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.86f,
+					FreeModifiers: 3,
+					Durability: 672,
+					HarvestLevel: 3,
+					Attack: 9.53f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"refinediron",
+						"refinediron",
+						"refinediron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

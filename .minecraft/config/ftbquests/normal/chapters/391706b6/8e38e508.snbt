@@ -1,0 +1,17 @@
+{
+	x: 35.0d,
+	y: 58.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:wateringcan\",Count:1b,Damage:1000s}",
+	tasks: [{
+		uid: "b53b9385",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:wateringcan",
+			Damage: 1000s
+		}],
+		consume_items: true
+	}]
+}

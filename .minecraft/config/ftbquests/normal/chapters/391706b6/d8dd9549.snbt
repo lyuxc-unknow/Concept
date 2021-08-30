@@ -1,0 +1,75 @@
+{
+	x: 16.0d,
+	y: 328.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.25f,FreeModifiers:3,HarvestLevelShovel:1,Durability:254,HarvestLevel:1,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.25f,FreeModifiers:3,HarvestLevelShovel:1,Durability:254,HarvestLevel:1,Attack:6.5f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"poisonous\",\"heavy\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "08f6e723",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 1,
+					MiningSpeed: 5.25f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 1,
+					Durability: 254,
+					HarvestLevel: 1,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 1,
+					MiningSpeed: 5.25f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 1,
+					Durability: 254,
+					HarvestLevel: 1,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"lead",
+						"lead",
+						"lead"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "poisonous",
+					color: -11712152,
+					level: 1
+				},
+				{
+					identifier: "heavy",
+					color: -11712152,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"poisonous",
+					"heavy",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 12.0d,
+	y: 401.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"appliedenergistics2:color_applicator\",Count:1b,tag:{internalMaxPower:20000.0d,internalCurrentPower:20000.0d},Damage:0s}",
+	tasks: [{
+		uid: "bcd70558",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:color_applicator",
+			tag: {
+				internalMaxPower: 20000.0d,
+				internalCurrentPower: 20000.0d
+			}
+		}],
+		consume_items: true
+	}]
+}

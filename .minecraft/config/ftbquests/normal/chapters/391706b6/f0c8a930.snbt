@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 58.0d,
+	description: "{id:\"extrautils2:unstableingots\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "a7f1e8e4",
+		type: "item",
+		items: [{
+			item: "extrautils2:unstableingots 1 2"
+		}],
+		consume_items: true
+	}]
+}

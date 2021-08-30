@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 745.0d,
+	description: "{id:\"embers:caminite_lever\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "06d4c523",
+		type: "item",
+		items: [{
+			item: "embers:caminite_lever"
+		}],
+		consume_items: true
+	}]
+}

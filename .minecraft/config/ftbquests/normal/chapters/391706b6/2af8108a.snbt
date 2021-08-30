@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 509.0d,
+	description: "{id:\"mekanism:electrolyticcore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0a69e3e2",
+		type: "item",
+		items: [{
+			item: "mekanism:electrolyticcore"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 771.0d,
+	description: "{id:\"omegacraft:ingot_steel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "05f05c65",
+		type: "item",
+		items: [{
+			item: "omegacraft:ingot_steel"
+		}],
+		consume_items: true
+	}]
+}

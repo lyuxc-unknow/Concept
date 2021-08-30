@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 529.0d,
+	description: "{id:\"emergingtechnology:algaebioreactor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "77a30349",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:algaebioreactor"
+		}],
+		consume_items: true
+	}]
+}

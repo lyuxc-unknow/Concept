@@ -1,0 +1,70 @@
+{
+	x: 34.0d,
+	y: 351.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:broadsword\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:649,HarvestLevel:4,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:649,HarvestLevel:4,Attack:8.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bound_metal\",\"bound_metal\",\"bound_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.bloodbound\",color:-9764347,level:1},{identifier:\"tconevo.crystalys\",color:-9764347,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.bloodbound\",\"tconevo.crystalys\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a2c40b45",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:broadsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 649,
+					HarvestLevel: 4,
+					Attack: 8.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 649,
+					HarvestLevel: 4,
+					Attack: 8.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bound_metal",
+						"bound_metal",
+						"bound_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.bloodbound",
+					color: -9764347,
+					level: 1
+				},
+				{
+					identifier: "tconevo.crystalys",
+					color: -9764347,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.bloodbound",
+					"tconevo.crystalys",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

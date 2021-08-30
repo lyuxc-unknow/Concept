@@ -1,0 +1,58 @@
+{
+	x: 28.0d,
+	y: 360.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.21f,FreeModifiers:3,Durability:3502,HarvestLevel:4,Attack:12.42f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:11.21f,FreeModifiers:3,Durability:3502,HarvestLevel:4,Attack:12.42f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ludicrite\",\"ludicrite\",\"ludicrite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "69628c87",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.21f,
+					FreeModifiers: 3,
+					Durability: 3502,
+					HarvestLevel: 4,
+					Attack: 12.42f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 11.21f,
+					FreeModifiers: 3,
+					Durability: 3502,
+					HarvestLevel: 4,
+					Attack: 12.42f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ludicrite",
+						"ludicrite",
+						"ludicrite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,77 @@
+{
+	x: 26.0d,
+	y: 378.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:1.6f,FreeModifiers:3,ProjectileBonusDamage:1.5f,Durability:1813,HarvestLevel:2,Attack:5.5f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:6.0f,DrawSpeed:2.1296f,FreeModifiers:3,ProjectileBonusDamage:1.5f,Durability:1813,HarvestLevel:2,Attack:5.5f,Range:1.0f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"carbon_fiber\",\"carbon_fiber\",\"carbon_fiber\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-13487566,level:1},{identifier:\"tconevo.relentless\",color:-13487566,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"tconevo.relentless\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "36b7f70c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 1.6f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.5f,
+					Durability: 1813,
+					HarvestLevel: 2,
+					Attack: 5.5f,
+					Range: 1.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 6.0f,
+					DrawSpeed: 2.1296f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 1.5f,
+					Durability: 1813,
+					HarvestLevel: 2,
+					Attack: 5.5f,
+					Range: 1.0f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"carbon_fiber",
+						"carbon_fiber",
+						"carbon_fiber",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -13487566,
+					level: 1
+				},
+				{
+					identifier: "tconevo.relentless",
+					color: -13487566,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"tconevo.relentless",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

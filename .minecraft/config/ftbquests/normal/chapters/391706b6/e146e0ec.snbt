@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: 161.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"naturesaura:infused_brick\"},Damage:0s}",
+	tasks: [{
+		uid: "af175aab",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "naturesaura:infused_brick"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 288.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"nickel\"},Damage:0s}",
+	tasks: [{
+		uid: "1b947965",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "nickel"
+			}
+		}],
+		consume_items: true
+	}]
+}

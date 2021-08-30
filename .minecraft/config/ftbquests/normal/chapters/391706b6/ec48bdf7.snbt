@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 400.0d,
+	description: "{id:\"appliedenergistics2:light_detector\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "81696f65",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:light_detector"
+		}],
+		consume_items: true
+	}]
+}

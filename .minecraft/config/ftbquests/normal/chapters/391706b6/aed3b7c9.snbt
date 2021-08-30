@@ -1,0 +1,17 @@
+{
+	x: 11.0d,
+	y: 586.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"overloaded:railgun\",Count:1b,tag:{},Damage:0s}",
+	tasks: [{
+		uid: "aefe4978",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "overloaded:railgun",
+			tag: {}
+		}],
+		consume_items: true
+	}]
+}

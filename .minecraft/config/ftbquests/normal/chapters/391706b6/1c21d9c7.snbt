@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 595.0d,
+	description: "{id:\"rftoolsdim:activity_probe\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c992e834",
+		type: "item",
+		items: [{
+			item: "rftoolsdim:activity_probe"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,78 @@
+{
+	x: 18.0d,
+	y: 376.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:longbow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,DrawSpeed:2.5f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:378,HarvestLevel:0,Attack:1.5f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.5f,DrawSpeed:2.5f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:378,HarvestLevel:0,Attack:1.5f,Range:0.4f},Special:{Categories:[\"launcher\",\"tool\"]},TinkerData:{Materials:[\"redstone_alloy\",\"redstone_alloy\",\"redstone_alloy\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"shocking\",color:-5167321,level:1},{identifier:\"crude\",color:-5167321,level:1,crude1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"shocking\",\"crude1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "c1417a80",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					DrawSpeed: 2.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 378,
+					HarvestLevel: 0,
+					Attack: 1.5f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.5f,
+					DrawSpeed: 2.5f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 378,
+					HarvestLevel: 0,
+					Attack: 1.5f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"redstone_alloy",
+						"redstone_alloy",
+						"redstone_alloy",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "shocking",
+					color: -5167321,
+					level: 1
+				},
+				{
+					identifier: "crude",
+					color: -5167321,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"shocking",
+					"crude1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

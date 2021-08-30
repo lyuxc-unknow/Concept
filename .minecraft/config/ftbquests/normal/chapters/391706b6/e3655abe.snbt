@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 211.0d,
+	description: "{id:\"enderio:block_enhanced_combustion_generator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "e95fbc09",
+		type: "item",
+		items: [{
+			item: "enderio:block_enhanced_combustion_generator"
+		}],
+		consume_items: true
+	}]
+}

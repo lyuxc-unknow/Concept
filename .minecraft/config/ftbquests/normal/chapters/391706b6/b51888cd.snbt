@@ -1,0 +1,19 @@
+{
+	x: 27.0d,
+	y: 122.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"liquid_sunshine\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "d5f720d4",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "liquid_sunshine",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

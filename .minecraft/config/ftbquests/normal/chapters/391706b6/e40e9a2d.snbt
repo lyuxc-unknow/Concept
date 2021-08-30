@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 453.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"restonia_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "5bff9d07",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "restonia_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

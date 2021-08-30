@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 281.0d,
+	description: "{id:\"tconstruct:binding\",Count:1b,tag:{Material:\"chaoticdraconium\"},Damage:0s}",
+	tasks: [{
+		uid: "86267f27",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "chaoticdraconium"
+			}
+		}],
+		consume_items: true
+	}]
+}

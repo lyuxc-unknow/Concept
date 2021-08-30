@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 277.0d,
+	description: "{id:\"tconstruct:tough_tool_rod\",Count:1b,tag:{Material:\"fluxed_electrum\"},Damage:0s}",
+	tasks: [{
+		uid: "b9babd51",
+		type: "item",
+		items: [{
+			id: "tconstruct:tough_tool_rod",
+			tag: {
+				Material: "fluxed_electrum"
+			}
+		}],
+		consume_items: true
+	}]
+}

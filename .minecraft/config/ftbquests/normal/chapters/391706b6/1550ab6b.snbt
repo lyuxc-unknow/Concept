@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 93.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"randomthings:superlubricentboots\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "0c3c4e61",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:superlubricentboots"
+		}],
+		consume_items: true
+	}]
+}

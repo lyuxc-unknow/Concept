@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 103.0d,
+	description: "{id:\"mist:willow_branch\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "4805104e",
+		type: "item",
+		items: [{
+			item: "mist:willow_branch 1 3"
+		}],
+		consume_items: true
+	}]
+}

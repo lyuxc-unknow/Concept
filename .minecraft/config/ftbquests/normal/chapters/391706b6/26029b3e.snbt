@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 308.0d,
+	description: "{id:\"tconstruct:bow_string\",Count:1b,tag:{Material:\"fluxed_string\"},Damage:0s}",
+	tasks: [{
+		uid: "32ece080",
+		type: "item",
+		items: [{
+			id: "tconstruct:bow_string",
+			tag: {
+				Material: "fluxed_string"
+			}
+		}],
+		consume_items: true
+	}]
+}

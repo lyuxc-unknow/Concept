@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 794.0d,
+	description: "{id:\"tp:wither_rib\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ba231706",
+		type: "item",
+		items: [{
+			item: "tp:wither_rib"
+		}],
+		consume_items: true
+	}]
+}

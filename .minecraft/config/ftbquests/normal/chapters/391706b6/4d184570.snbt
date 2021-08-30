@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: 477.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"immersiveengineering:storage\",Count:1b,Damage:5s}},Damage:0s}",
+	tasks: [{
+		uid: "d69443ce",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "immersiveengineering:storage",
+					Count: 1b,
+					Damage: 5s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

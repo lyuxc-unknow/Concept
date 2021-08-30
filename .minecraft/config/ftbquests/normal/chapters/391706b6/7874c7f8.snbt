@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 226.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"manyullyn\"},Damage:0s}",
+	tasks: [{
+		uid: "f35be999",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "manyullyn"
+			}
+		}],
+		consume_items: true
+	}]
+}

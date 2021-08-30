@@ -1,0 +1,20 @@
+{
+	x: 13.0d,
+	y: 167.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"forge:bucketfilled\",Count:1b,tag:{FluidName:\"mushroom_stew\",Amount:1000},Damage:0s}",
+	tasks: [{
+		uid: "27eaa52a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "mushroom_stew",
+				Amount: 1000
+			}
+		}],
+		consume_items: true
+	}]
+}

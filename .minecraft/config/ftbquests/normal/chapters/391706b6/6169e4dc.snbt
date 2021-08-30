@@ -1,0 +1,19 @@
+{
+	x: 22.0d,
+	y: 781.0d,
+	description: "{id:\"requious:cell\",Count:1b,tag:{fluidContent:{FluidName:\"cloud_seed\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "1b878ecb",
+		type: "item",
+		items: [{
+			id: "requious:cell",
+			tag: {
+				fluidContent: {
+					FluidName: "cloud_seed",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

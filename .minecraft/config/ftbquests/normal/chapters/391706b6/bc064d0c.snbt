@@ -1,0 +1,13 @@
+{
+	x: 22.0d,
+	y: 589.0d,
+	description: "{id:\"prodigytech:food_enricher\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "67ef1a05",
+		type: "item",
+		items: [{
+			item: "prodigytech:food_enricher"
+		}],
+		consume_items: true
+	}]
+}

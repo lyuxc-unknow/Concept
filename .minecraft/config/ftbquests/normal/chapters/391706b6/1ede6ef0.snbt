@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:awkward\"},Damage:0s}",
+	tasks: [{
+		uid: "5c36a637",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:awkward"
+			}
+		}],
+		consume_items: true
+	}]
+}

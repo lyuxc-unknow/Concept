@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 496.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:sigil_green_grove\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "95ef5ba0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_green_grove"
+		}],
+		consume_items: true
+	}]
+}

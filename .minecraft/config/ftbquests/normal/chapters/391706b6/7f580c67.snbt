@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 584.0d,
+	description: "{id:\"pneumaticcraft:elevator_caller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "794793ce",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:elevator_caller"
+		}],
+		consume_items: true
+	}]
+}

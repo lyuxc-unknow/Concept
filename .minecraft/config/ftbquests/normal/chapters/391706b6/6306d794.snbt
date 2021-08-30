@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 94.0d,
+	description: "{id:\"randomthings:grassseeds\",Count:1b,Damage:8s}",
+	tasks: [{
+		uid: "a166ca80",
+		type: "item",
+		items: [{
+			item: "randomthings:grassseeds 1 8"
+		}],
+		consume_items: true
+	}]
+}

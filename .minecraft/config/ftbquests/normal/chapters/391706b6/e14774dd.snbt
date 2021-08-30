@@ -1,0 +1,20 @@
+{
+	x: 34.0d,
+	y: 126.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:paint_can\",Count:1b,tag:{amount:30,color:1973019},Damage:0s}",
+	tasks: [{
+		uid: "4f473aed",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:paint_can",
+			tag: {
+				amount: 30,
+				color: 1973019
+			}
+		}],
+		consume_items: true
+	}]
+}

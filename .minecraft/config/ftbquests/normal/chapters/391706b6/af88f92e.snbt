@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 585.0d,
+	description: "{id:\"overloaded:item_core\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c0f7f0d5",
+		type: "item",
+		items: [{
+			item: "overloaded:item_core"
+		}],
+		consume_items: true
+	}]
+}

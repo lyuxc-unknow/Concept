@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 496.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:sigil_lava\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d80cb2f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_lava"
+		}],
+		consume_items: true
+	}]
+}

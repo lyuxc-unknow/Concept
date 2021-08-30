@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 666.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"mist:forest_runner\"},Damage:0s}",
+	tasks: [{
+		uid: "c5f1cab7",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "mist:forest_runner"
+			}
+		}],
+		consume_items: true
+	}]
+}

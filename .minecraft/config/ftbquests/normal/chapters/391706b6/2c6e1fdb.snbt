@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 406.0d,
+	description: "{id:\"appliedenergistics2:part\",Count:1b,Damage:469s}",
+	tasks: [{
+		uid: "8abafcc1",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 469"
+		}],
+		consume_items: true
+	}]
+}

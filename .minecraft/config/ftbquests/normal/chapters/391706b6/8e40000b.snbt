@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"mekanism:babyskeleton\"},Damage:0s}",
+	tasks: [{
+		uid: "94c15c34",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "mekanism:babyskeleton"
+			}
+		}],
+		consume_items: true
+	}]
+}

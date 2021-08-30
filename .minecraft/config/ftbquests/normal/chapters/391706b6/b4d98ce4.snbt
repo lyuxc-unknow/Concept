@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 422.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"marimorphosis\"},Damage:0s}",
+	tasks: [{
+		uid: "b8398281",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "marimorphosis"
+			}
+		}],
+		consume_items: true
+	}]
+}

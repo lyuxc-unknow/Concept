@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 742.0d,
+	description: "{id:\"embers:isolated_materia\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f066a952",
+		type: "item",
+		items: [{
+			item: "embers:isolated_materia"
+		}],
+		consume_items: true
+	}]
+}

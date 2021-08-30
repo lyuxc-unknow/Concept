@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 222.0d,
+	description: "{id:\"tconstruct:sharpening_kit\",Count:1b,tag:{Material:\"construction_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "9598f1a5",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "construction_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

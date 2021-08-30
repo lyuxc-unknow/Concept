@@ -1,0 +1,60 @@
+{
+	x: 4.0d,
+	y: 654.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:greatblade\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.63f,FreeModifiers:3,Durability:5999,HarvestLevel:4,Attack:14.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.63f,FreeModifiers:3,Durability:5999,HarvestLevel:4,Attack:14.23f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"advancedalloy\",\"advancedalloy\",\"advancedalloy\",\"advancedalloy\",\"advancedalloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "bca8d37b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:greatblade",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.63f,
+					FreeModifiers: 3,
+					Durability: 5999,
+					HarvestLevel: 4,
+					Attack: 14.23f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.63f,
+					FreeModifiers: 3,
+					Durability: 5999,
+					HarvestLevel: 4,
+					Attack: 14.23f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

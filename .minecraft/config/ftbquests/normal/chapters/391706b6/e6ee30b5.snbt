@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:dynamiccalculator\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "16595b0c",
+		type: "item",
+		items: [{
+			item: "calculator:dynamiccalculator"
+		}],
+		consume_items: true
+	}]
+}

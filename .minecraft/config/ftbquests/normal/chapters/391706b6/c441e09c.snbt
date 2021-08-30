@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 399.0d,
+	description: "{id:\"appliedenergistics2:tiny_tnt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9c4d4706",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:tiny_tnt"
+		}],
+		consume_items: true
+	}]
+}

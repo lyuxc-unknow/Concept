@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 103.0d,
+	description: "{id:\"mist:poplar_fence\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "88bdffba",
+		type: "item",
+		items: [{
+			item: "mist:poplar_fence 1 2"
+		}],
+		consume_items: true
+	}]
+}

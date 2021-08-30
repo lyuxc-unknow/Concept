@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 549.0d,
+	description: "{id:\"mysticalagriculture:nether_quartz_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fa7279dc",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:nether_quartz_seeds"
+		}],
+		consume_items: true
+	}]
+}

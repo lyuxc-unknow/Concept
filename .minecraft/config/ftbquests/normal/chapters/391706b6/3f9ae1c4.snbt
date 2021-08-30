@@ -1,0 +1,21 @@
+{
+	x: 17.0d,
+	y: 684.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"astralsorcery:itemconstellationpaper\",Count:1b,tag:{astralsorcery:{constellationName:\"astralsorcery.constellation.bootes\"}},Damage:0s}",
+	tasks: [{
+		uid: "ae8664be",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.bootes"
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

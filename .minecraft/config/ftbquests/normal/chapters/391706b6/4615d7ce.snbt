@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 129.0d,
+	description: "{id:\"openblocks:info_book\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8fc38fba",
+		type: "item",
+		items: [{
+			item: "openblocks:info_book"
+		}],
+		consume_items: true
+	}]
+}

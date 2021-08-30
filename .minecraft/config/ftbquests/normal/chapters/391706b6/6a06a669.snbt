@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 62.0d,
+	description: "{id:\"extrautils2:machine\",Count:1b,tag:{Type:\"extrautils2:generator_survival\"},Damage:0s}",
+	tasks: [{
+		uid: "c69a0b0e",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_survival"
+			}
+		}],
+		consume_items: true
+	}]
+}

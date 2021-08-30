@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 60.0d,
+	description: "{id:\"extrautils2:compressednetherrack\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "a0c2d55a",
+		type: "item",
+		items: [{
+			item: "extrautils2:compressednetherrack 1 2"
+		}],
+		consume_items: true
+	}]
+}

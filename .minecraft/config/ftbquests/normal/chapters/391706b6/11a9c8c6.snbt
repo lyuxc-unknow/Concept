@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:crankhandle\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "77106e1e",
+		type: "item",
+		items: [{
+			item: "calculator:crankhandle"
+		}],
+		consume_items: true
+	}]
+}

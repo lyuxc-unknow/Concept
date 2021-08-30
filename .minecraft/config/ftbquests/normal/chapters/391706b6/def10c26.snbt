@@ -1,0 +1,17 @@
+{
+	x: 26.0d,
+	y: 398.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:slime_boots\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "a1003bf5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:slime_boots",
+			Damage: 3s
+		}],
+		consume_items: true
+	}]
+}

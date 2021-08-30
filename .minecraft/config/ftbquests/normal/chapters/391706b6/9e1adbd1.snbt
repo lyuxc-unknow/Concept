@@ -1,0 +1,72 @@
+{
+	x: 9.0d,
+	y: 634.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.5f,FreeModifiers:3,Durability:2164,HarvestLevel:5,Attack:9.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.5f,FreeModifiers:3,Durability:2164,HarvestLevel:5,Attack:9.5f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"pink_metal\",\"pink_metal\",\"pink_metal\",\"pink_metal\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"unnatural\",color:-4032074,level:1},{identifier:\"tconevo.mortal_wounds\",color:-4032074,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"unnatural\",\"tconevo.mortal_wounds\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "ce9d9746",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 12.5f,
+					FreeModifiers: 3,
+					Durability: 2164,
+					HarvestLevel: 5,
+					Attack: 9.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 12.5f,
+					FreeModifiers: 3,
+					Durability: 2164,
+					HarvestLevel: 5,
+					Attack: 9.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"pink_metal",
+						"pink_metal",
+						"pink_metal",
+						"pink_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "unnatural",
+					color: -4032074,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mortal_wounds",
+					color: -4032074,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"unnatural",
+					"tconevo.mortal_wounds",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

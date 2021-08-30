@@ -1,0 +1,65 @@
+{
+	x: 17.0d,
+	y: 657.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:scimitar\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.52f,FreeModifiers:3,Durability:624,HarvestLevel:2,Attack:6.08f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.52f,FreeModifiers:3,Durability:624,HarvestLevel:2,Attack:6.08f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"yellorium\",\"yellorium\",\"yellorium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"radioactive\",color:-329912,level:2,radioactive2:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"radioactive2\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "857d5bf1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:scimitar",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.52f,
+					FreeModifiers: 3,
+					Durability: 624,
+					HarvestLevel: 2,
+					Attack: 6.08f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.52f,
+					FreeModifiers: 3,
+					Durability: 624,
+					HarvestLevel: 2,
+					Attack: 6.08f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"yellorium",
+						"yellorium",
+						"yellorium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "radioactive",
+					color: -329912,
+					level: 2,
+					radioactive2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"radioactive2",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

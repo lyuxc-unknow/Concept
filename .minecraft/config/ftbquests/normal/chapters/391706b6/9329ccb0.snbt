@@ -1,0 +1,78 @@
+{
+	x: 4.0d,
+	y: 661.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:8.0f,Durability:2100,HarvestLevel:4,Attack:6.5f,Range:0.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:8.0f,Durability:2100,HarvestLevel:4,Attack:6.5f,Range:0.8f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"platinum\",\"platinum\",\"platinum\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"coldblooded\",color:-10366477,level:1},{identifier:\"tconevo.deadly_precision\",color:-10366477,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"coldblooded\",\"tconevo.deadly_precision\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "4596cb9f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 8.0f,
+					Durability: 2100,
+					HarvestLevel: 4,
+					Attack: 6.5f,
+					Range: 0.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 8.0f,
+					Durability: 2100,
+					HarvestLevel: 4,
+					Attack: 6.5f,
+					Range: 0.8f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"platinum",
+						"platinum",
+						"platinum",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "coldblooded",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "tconevo.deadly_precision",
+					color: -10366477,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"coldblooded",
+					"tconevo.deadly_precision",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

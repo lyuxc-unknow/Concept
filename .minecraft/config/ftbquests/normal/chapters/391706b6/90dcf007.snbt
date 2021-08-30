@@ -1,0 +1,62 @@
+{
+	x: 27.0d,
+	y: 457.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:helmet\",Count:1b,tag:{StatsOriginal:{Toughness:2.5f,FreeModifiers:3,Durability:241,Defense:18.0f},Stats:{Toughness:2.5f,FreeModifiers:3,Durability:241,Defense:18.0f},ConArmEquipmentSlot:5,TinkerData:{Materials:[\"fluix_steel\",\"fluix_steel\",\"fluix_steel\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"steady_armor\",color:-12044456,level:1},{identifier:\"magnetic_armor\",color:-12044456,level:1,magnetic1_armor:1b},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"steady_armor\",\"magnetic1_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "a4a03651",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:helmet",
+			tag: {
+				StatsOriginal: {
+					Toughness: 2.5f,
+					FreeModifiers: 3,
+					Durability: 241,
+					Defense: 18.0f
+				},
+				Stats: {
+					Toughness: 2.5f,
+					FreeModifiers: 3,
+					Durability: 241,
+					Defense: 18.0f
+				},
+				ConArmEquipmentSlot: 5,
+				TinkerData: {
+					Materials: [
+						"fluix_steel",
+						"fluix_steel",
+						"fluix_steel"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "steady_armor",
+					color: -12044456,
+					level: 1
+				},
+				{
+					identifier: "magnetic_armor",
+					color: -12044456,
+					level: 1,
+					magnetic1_armor: 1b
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"steady_armor",
+					"magnetic1_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

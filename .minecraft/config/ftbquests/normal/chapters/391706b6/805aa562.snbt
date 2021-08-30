@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 790.0d,
+	description: "{id:\"tp:wub_ore\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6c65d7e6",
+		type: "item",
+		items: [{
+			item: "tp:wub_ore"
+		}],
+		consume_items: true
+	}]
+}

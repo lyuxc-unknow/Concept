@@ -1,0 +1,20 @@
+{
+	x: 23.0d,
+	y: 501.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:6,key:\"bloodmagic.upgrade.slowHeal\"},Damage:0s}",
+	tasks: [{
+		uid: "2c924575",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 6,
+				key: "bloodmagic.upgrade.slowHeal"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 11.0d,
+	y: 143.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:5b,Block:\"extrautils2:decorativesolid\"},Damage:0s}",
+	tasks: [{
+		uid: "3cdc56f7",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 5b,
+				Block: "extrautils2:decorativesolid"
+			}
+		}],
+		consume_items: true
+	}]
+}

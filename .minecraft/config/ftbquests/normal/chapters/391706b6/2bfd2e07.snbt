@@ -1,0 +1,78 @@
+{
+	x: 38.0d,
+	y: 763.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconevo:tool_sceptre\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:26,HarvestLevel:1,Attack:2.0f,Range:0.25f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:20,HarvestLevel:1,Attack:2.0f,Range:0.25f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\",\"stone\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"cheap\",\"cheapskate\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "9d347e26",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconevo:tool_sceptre",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 26,
+					HarvestLevel: 1,
+					Attack: 2.0f,
+					Range: 0.25f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 20,
+					HarvestLevel: 1,
+					Attack: 2.0f,
+					Range: 0.25f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"stone",
+						"stone",
+						"stone",
+						"stone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheap",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "cheapskate",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheap",
+					"cheapskate",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 41.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:armor.helmet_constantan\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "86db7dba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:armor.helmet_constantan"
+		}],
+		consume_items: true
+	}]
+}

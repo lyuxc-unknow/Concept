@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 677.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_chest_emerald\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7692e234",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_chest_emerald"
+		}],
+		consume_items: true
+	}]
+}

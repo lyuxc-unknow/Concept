@@ -1,0 +1,13 @@
+{
+	x: 28.0d,
+	y: 742.0d,
+	description: "{id:\"embers:shifting_scales\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b7ddda15",
+		type: "item",
+		items: [{
+			item: "embers:shifting_scales"
+		}],
+		consume_items: true
+	}]
+}

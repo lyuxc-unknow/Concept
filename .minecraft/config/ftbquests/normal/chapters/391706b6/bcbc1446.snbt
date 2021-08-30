@@ -1,0 +1,16 @@
+{
+	x: 28.0d,
+	y: 471.0d,
+	description: "{id:\"conarm:polishing_kit\",Count:1b,tag:{Material:\"energetic_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "cc81e947",
+		type: "item",
+		items: [{
+			id: "conarm:polishing_kit",
+			tag: {
+				Material: "energetic_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

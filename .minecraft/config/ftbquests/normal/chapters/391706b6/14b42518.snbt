@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 420.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:speedupbelt\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "434d58c0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:speedupbelt"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 674.0d,
+	description: "{id:\"actuallyadditions:block_fermenting_barrel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fe83ab66",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_fermenting_barrel"
+		}],
+		consume_items: true
+	}]
+}

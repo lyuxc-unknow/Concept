@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 745.0d,
+	description: "{id:\"embers:ashen_stone\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "5214868c",
+		type: "item",
+		items: [{
+			item: "embers:ashen_stone"
+		}],
+		consume_items: true
+	}]
+}

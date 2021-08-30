@@ -1,0 +1,61 @@
+{
+	x: 18.0d,
+	y: 466.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:leggings\",Count:1b,tag:{StatsOriginal:{Toughness:3.5f,FreeModifiers:3,Durability:742,Defense:24.5f},Stats:{Toughness:3.5f,FreeModifiers:3,Durability:742,Defense:24.5f},ConArmEquipmentSlot:3,TinkerData:{Materials:[\"enderium\",\"enderium\",\"enderium\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"vengeful_armor\",color:-15835295,level:1},{identifier:\"enderport_armor\",color:-15835295,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"vengeful_armor\",\"enderport_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "45f1a6fa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:leggings",
+			tag: {
+				StatsOriginal: {
+					Toughness: 3.5f,
+					FreeModifiers: 3,
+					Durability: 742,
+					Defense: 24.5f
+				},
+				Stats: {
+					Toughness: 3.5f,
+					FreeModifiers: 3,
+					Durability: 742,
+					Defense: 24.5f
+				},
+				ConArmEquipmentSlot: 3,
+				TinkerData: {
+					Materials: [
+						"enderium",
+						"enderium",
+						"enderium"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "vengeful_armor",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "enderport_armor",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"vengeful_armor",
+					"enderport_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

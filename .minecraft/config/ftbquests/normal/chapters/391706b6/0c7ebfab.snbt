@@ -1,0 +1,19 @@
+{
+	x: 15.0d,
+	y: 416.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botania:brewvial\",Count:1b,tag:{brewKey:\"revolution\"},Damage:0s}",
+	tasks: [{
+		uid: "b4e7ab91",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:brewvial",
+			tag: {
+				brewKey: "revolution"
+			}
+		}],
+		consume_items: true
+	}]
+}

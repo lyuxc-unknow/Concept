@@ -1,0 +1,66 @@
+{
+	x: 21.0d,
+	y: 345.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.76f,FreeModifiers:3,Durability:2,HarvestLevel:1,Attack:2.53f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:1.76f,FreeModifiers:3,Durability:2,HarvestLevel:1,Attack:2.53f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"zinc\",\"zinc\",\"zinc\",\"zinc\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"crumbling\",color:-2887704,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"crumbling\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "8ceba778",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.76f,
+					FreeModifiers: 3,
+					Durability: 2,
+					HarvestLevel: 1,
+					Attack: 2.53f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.76f,
+					FreeModifiers: 3,
+					Durability: 2,
+					HarvestLevel: 1,
+					Attack: 2.53f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"zinc",
+						"zinc",
+						"zinc",
+						"zinc"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crumbling",
+					color: -2887704,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crumbling",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

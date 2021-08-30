@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:fertilizer_steaite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8a1bebda",
+		type: "item",
+		items: [{
+			item: "steamworld:fertilizer_steaite"
+		}],
+		consume_items: true
+	}]
+}

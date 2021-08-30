@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 453.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"xu_enchanted_metal\"},Damage:0s}",
+	tasks: [{
+		uid: "2640deb3",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "xu_enchanted_metal"
+			}
+		}],
+		consume_items: true
+	}]
+}

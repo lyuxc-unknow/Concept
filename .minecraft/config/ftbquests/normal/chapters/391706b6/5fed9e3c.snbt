@@ -1,0 +1,17 @@
+{
+	x: 34.0d,
+	y: 56.0d,
+	description: "{id:\"thermalexpansion:morb\",Count:1b,tag:{Generic:1b,id:\"minecraft:vindication_illager\"},Damage:0s}",
+	tasks: [{
+		uid: "f25463a1",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "minecraft:vindication_illager"
+			}
+		}],
+		consume_items: true
+	}]
+}

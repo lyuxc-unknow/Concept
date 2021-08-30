@@ -1,0 +1,16 @@
+{
+	x: 22.0d,
+	y: 664.0d,
+	description: "{id:\"wirelessutils:void_pearl\",Count:1b,tag:{EntityID:\"mist:caravan\"},Damage:0s}",
+	tasks: [{
+		uid: "898cabce",
+		type: "item",
+		items: [{
+			id: "wirelessutils:void_pearl",
+			tag: {
+				EntityID: "mist:caravan"
+			}
+		}],
+		consume_items: true
+	}]
+}

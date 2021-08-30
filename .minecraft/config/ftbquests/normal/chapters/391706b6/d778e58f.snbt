@@ -1,0 +1,19 @@
+{
+	x: 39.0d,
+	y: 119.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"oil_soul\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "7dcc5d70",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "oil_soul",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

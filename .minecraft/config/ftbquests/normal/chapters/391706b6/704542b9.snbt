@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 804.0d,
+	description: "{id:\"jaopca:item_shardgalite\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b1aa9238",
+		type: "item",
+		items: [{
+			item: "jaopca:item_shardgalite"
+		}],
+		consume_items: true
+	}]
+}

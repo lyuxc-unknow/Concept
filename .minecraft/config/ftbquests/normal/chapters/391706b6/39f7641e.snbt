@@ -1,0 +1,13 @@
+{
+	x: 36.0d,
+	y: 536.0d,
+	description: "{id:\"bigreactors:turbinefluidport\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0a7a542",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinefluidport"
+		}],
+		consume_items: true
+	}]
+}

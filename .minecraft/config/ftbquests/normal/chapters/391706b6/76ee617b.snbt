@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 66.0d,
+	description: "{id:\"extrautils2:terraformer\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "a1a97049",
+		type: "item",
+		items: [{
+			item: "extrautils2:terraformer 1 9"
+		}],
+		consume_items: true
+	}]
+}

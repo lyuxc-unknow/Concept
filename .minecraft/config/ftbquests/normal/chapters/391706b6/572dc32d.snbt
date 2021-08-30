@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 213.0d,
+	description: "{id:\"enderio:item_capacitor_stellar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8bb786d7",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_stellar"
+		}],
+		consume_items: true
+	}]
+}

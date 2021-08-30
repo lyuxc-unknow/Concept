@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 658.0d,
+	description: "{id:\"totaltinkers:explosivecore\",Count:1b,tag:{Material:\"sponge\"},Damage:0s}",
+	tasks: [{
+		uid: "a9d3524e",
+		type: "item",
+		items: [{
+			id: "totaltinkers:explosivecore",
+			tag: {
+				Material: "sponge"
+			}
+		}],
+		consume_items: true
+	}]
+}

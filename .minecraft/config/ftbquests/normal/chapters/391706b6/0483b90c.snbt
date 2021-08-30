@@ -1,0 +1,16 @@
+{
+	x: 35.0d,
+	y: 13.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:weakness\"},Damage:0s}",
+	tasks: [{
+		uid: "ef1e6fdb",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:weakness"
+			}
+		}],
+		consume_items: true
+	}]
+}

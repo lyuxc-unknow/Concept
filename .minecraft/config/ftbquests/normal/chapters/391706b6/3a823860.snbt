@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 54.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"alchemical_redstone\"},Damage:0s}",
+	tasks: [{
+		uid: "e947a4f8",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "alchemical_redstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_singularitycoal\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "07ecb88f",
+		type: "item",
+		items: [{
+			item: "jaopca:item_singularitycoal"
+		}],
+		consume_items: true
+	}]
+}

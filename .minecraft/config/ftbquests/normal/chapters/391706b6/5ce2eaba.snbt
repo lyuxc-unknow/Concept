@@ -1,0 +1,13 @@
+{
+	x: 27.0d,
+	y: 529.0d,
+	description: "{id:\"emergingtechnology:pollutedsand\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f368160",
+		type: "item",
+		items: [{
+			item: "emergingtechnology:pollutedsand"
+		}],
+		consume_items: true
+	}]
+}

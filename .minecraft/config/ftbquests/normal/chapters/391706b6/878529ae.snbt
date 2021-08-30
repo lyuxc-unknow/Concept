@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 60.0d,
+	description: "{id:\"extrautils2:ingredients\",Count:1b,Damage:11s}",
+	tasks: [{
+		uid: "9f4ae25d",
+		type: "item",
+		items: [{
+			item: "extrautils2:ingredients 1 11"
+		}],
+		consume_items: true
+	}]
+}

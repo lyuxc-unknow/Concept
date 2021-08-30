@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 521.0d,
+	description: "{id:\"deepmoblearning:pristine_matter_tinker_slime\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1d1ca86c",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_tinker_slime"
+		}],
+		consume_items: true
+	}]
+}

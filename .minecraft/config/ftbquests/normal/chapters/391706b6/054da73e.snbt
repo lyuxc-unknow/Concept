@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 749.0d,
+	description: "{id:\"environmentalmaterials:alabaster_slab_magenta\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4b7a3162",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster_slab_magenta"
+		}],
+		consume_items: true
+	}]
+}

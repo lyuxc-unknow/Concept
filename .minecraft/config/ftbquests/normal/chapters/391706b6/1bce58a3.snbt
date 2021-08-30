@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: 121.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"refined_glowstone\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "08af77e9",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "refined_glowstone",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

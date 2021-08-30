@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 662.0d,
+	description: "{id:\"wirelessutils:fluxed_pearl\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "098aac29",
+		type: "item",
+		items: [{
+			item: "wirelessutils:fluxed_pearl"
+		}],
+		consume_items: true
+	}]
+}

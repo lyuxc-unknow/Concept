@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 541.0d,
+	description: "{id:\"integrateddynamics:block_menril_resin\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "46e85bc2",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:block_menril_resin"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 16.0d,
+	y: 313.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"extrautils2:ironwood_planks\",Count:1b,Damage:1s}},Damage:1s}",
+	tasks: [{
+		uid: "2312d86f",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "extrautils2:ironwood_planks",
+					Count: 1b,
+					Damage: 1s
+				}
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

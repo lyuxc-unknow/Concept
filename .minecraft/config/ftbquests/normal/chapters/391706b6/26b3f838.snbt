@@ -1,0 +1,13 @@
+{
+	x: 33.0d,
+	y: 533.0d,
+	description: "{id:\"extendedcrafting:lamp\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "da0baf8b",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:lamp"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 425.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"dandelifeon\"},Damage:0s}",
+	tasks: [{
+		uid: "c7d105af",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "dandelifeon"
+			}
+		}],
+		consume_items: true
+	}]
+}

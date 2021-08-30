@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_singularitysulfur\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "171d1827",
+		type: "item",
+		items: [{
+			item: "jaopca:item_singularitysulfur"
+		}],
+		consume_items: true
+	}]
+}

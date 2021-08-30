@@ -1,0 +1,16 @@
+{
+	x: 34.0d,
+	y: 125.0d,
+	description: "{id:\"openblocks:trophy\",Count:1b,tag:{entity_id:\"minecraft:vex\"},Damage:0s}",
+	tasks: [{
+		uid: "b1402daa",
+		type: "item",
+		items: [{
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:vex"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 30.0d,
+	y: 93.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"randomthings:floopouch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c5b65d58",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:floopouch"
+		}],
+		consume_items: true
+	}]
+}

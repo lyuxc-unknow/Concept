@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 612.0d,
+	description: "{id:\"tinkersarsenal:boomstick_barrel\",Count:1b,tag:{Material:\"ebonypsi\"},Damage:0s}",
+	tasks: [{
+		uid: "beed03a8",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:boomstick_barrel",
+			tag: {
+				Material: "ebonypsi"
+			}
+		}],
+		consume_items: true
+	}]
+}

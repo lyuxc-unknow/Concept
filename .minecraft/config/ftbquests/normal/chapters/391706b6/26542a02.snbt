@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 509.0d,
+	description: "{id:\"mekanism:otherdust\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "6bcb1087",
+		type: "item",
+		items: [{
+			item: "mekanism:otherdust 1 3"
+		}],
+		consume_items: true
+	}]
+}

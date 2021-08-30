@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 77.0d,
+	description: "{id:\"draconicadditions:chaos_liquefier\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "98f68d6b",
+		type: "item",
+		items: [{
+			item: "draconicadditions:chaos_liquefier"
+		}],
+		consume_items: true
+	}]
+}

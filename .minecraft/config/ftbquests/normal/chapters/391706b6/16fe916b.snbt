@@ -1,0 +1,19 @@
+{
+	x: 17.0d,
+	y: 678.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_battery_quintuple\",Count:1b,tag:{Energy:2000000},Damage:0s}",
+	tasks: [{
+		uid: "8732a804",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_battery_quintuple",
+			tag: {
+				Energy: 2000000
+			}
+		}],
+		consume_items: true
+	}]
+}

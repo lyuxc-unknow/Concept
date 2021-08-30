@@ -1,0 +1,16 @@
+{
+	x: 26.0d,
+	y: 433.0d,
+	description: "{id:\"conarm:helmet_core\",Count:1b,tag:{Material:\"energetic_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "2898287a",
+		type: "item",
+		items: [{
+			id: "conarm:helmet_core",
+			tag: {
+				Material: "energetic_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

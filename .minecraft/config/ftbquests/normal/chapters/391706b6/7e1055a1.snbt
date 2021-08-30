@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 683.0d,
+	description: "{id:\"aroma1997sdimension:portalframesphere\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f139ea16",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:portalframesphere"
+		}],
+		consume_items: true
+	}]
+}

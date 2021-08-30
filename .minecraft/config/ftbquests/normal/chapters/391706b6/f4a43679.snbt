@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 482.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrabotany:silenteternity\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "54e1eaf6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:silenteternity"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 30.0d,
+	y: 799.0d,
+	description: "{id:\"jaopca:item_plateyellorium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c41aeb5c",
+		type: "item",
+		items: [{
+			item: "jaopca:item_plateyellorium"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 273.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"gelid_gem\"},Damage:0s}",
+	tasks: [{
+		uid: "1ec2ad7f",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "gelid_gem"
+			}
+		}],
+		consume_items: true
+	}]
+}

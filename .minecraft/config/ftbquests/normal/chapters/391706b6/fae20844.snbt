@@ -1,0 +1,17 @@
+{
+	x: 29.0d,
+	y: 134.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"minecraft:iron_ore\"},Damage:0s}",
+	tasks: [{
+		uid: "84fef862",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:iron_ore"
+			}
+		}],
+		consume_items: true
+	}]
+}

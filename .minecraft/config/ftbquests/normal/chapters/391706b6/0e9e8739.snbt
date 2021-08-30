@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 453.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"ma.intermedium\"},Damage:0s}",
+	tasks: [{
+		uid: "5e1645ee",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "ma.intermedium"
+			}
+		}],
+		consume_items: true
+	}]
+}

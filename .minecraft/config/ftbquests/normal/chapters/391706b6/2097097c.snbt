@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 521.0d,
+	description: "{id:\"deepmoblearning:pristine_matter_shulker\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c354d807",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_shulker"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 12.0d,
+	y: 315.0d,
+	description: "{id:\"tconstruct:toolforge\",Count:1b,tag:{textureBlock:{id:\"enderio:block_alloy\",Count:1b,Damage:8s}},Damage:0s}",
+	tasks: [{
+		uid: "81df324c",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "enderio:block_alloy",
+					Count: 1b,
+					Damage: 8s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

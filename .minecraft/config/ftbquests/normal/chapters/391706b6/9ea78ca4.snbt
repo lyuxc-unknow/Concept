@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:reinforcedchest\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ea9aeff3",
+		type: "item",
+		items: [{
+			item: "calculator:reinforcedchest"
+		}],
+		consume_items: true
+	}]
+}

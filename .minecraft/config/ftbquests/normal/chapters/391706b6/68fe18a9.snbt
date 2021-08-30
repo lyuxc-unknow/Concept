@@ -1,0 +1,17 @@
+{
+	x: 24.0d,
+	y: 483.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"psi:spell_bullet\",Count:1b,Damage:6s}",
+	tasks: [{
+		uid: "aa1598dc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "psi:spell_bullet",
+			Damage: 6s
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 285.0d,
+	description: "{id:\"tconstruct:wide_guard\",Count:1b,tag:{Material:\"vibrant_alloy\"},Damage:0s}",
+	tasks: [{
+		uid: "55ea0e0c",
+		type: "item",
+		items: [{
+			id: "tconstruct:wide_guard",
+			tag: {
+				Material: "vibrant_alloy"
+			}
+		}],
+		consume_items: true
+	}]
+}

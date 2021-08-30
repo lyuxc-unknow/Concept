@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 746.0d,
+	description: "{id:\"environmentalmaterials:alabaster\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "67f9b498",
+		type: "item",
+		items: [{
+			item: "environmentalmaterials:alabaster 1 4"
+		}],
+		consume_items: true
+	}]
+}

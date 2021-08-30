@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 97.0d,
+	description: "{id:\"mist:poplar_leaves\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9087a810",
+		type: "item",
+		items: [{
+			item: "mist:poplar_leaves"
+		}],
+		consume_items: true
+	}]
+}

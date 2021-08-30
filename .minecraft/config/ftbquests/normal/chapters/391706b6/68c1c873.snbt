@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 508.0d,
+	description: "{id:\"mekanism:dirtydust\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "950231ec",
+		type: "item",
+		items: [{
+			item: "mekanism:dirtydust 1 3"
+		}],
+		consume_items: true
+	}]
+}

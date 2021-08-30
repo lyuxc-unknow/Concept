@@ -1,0 +1,20 @@
+{
+	x: 35.0d,
+	y: 475.0d,
+	description: "{id:\"conarm:armorforge\",Count:1b,tag:{textureBlock:{id:\"thermalfoundation:storage_alloy\",Count:1b,Damage:2s}},Damage:0s}",
+	tasks: [{
+		uid: "ba215991",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "thermalfoundation:storage_alloy",
+					Count: 1b,
+					Damage: 2s
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

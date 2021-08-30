@@ -1,0 +1,72 @@
+{
+	x: 38.0d,
+	y: 633.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:345,HarvestLevel:2,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:345,HarvestLevel:2,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"litherite\",\"litherite\",\"litherite\",\"litherite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"jagged\",color:-16088238,level:1},{identifier:\"petramor\",color:-16088238,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"jagged\",\"petramor\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "58cf8c9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 345,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.5f,
+					FreeModifiers: 3,
+					Durability: 345,
+					HarvestLevel: 2,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"litherite",
+						"litherite",
+						"litherite",
+						"litherite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "jagged",
+					color: -16088238,
+					level: 1
+				},
+				{
+					identifier: "petramor",
+					color: -16088238,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"jagged",
+					"petramor",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

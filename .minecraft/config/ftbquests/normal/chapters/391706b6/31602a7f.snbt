@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 25.0d,
+	description: "{id:\"minecraft:splash_potion\",Count:1b,tag:{Potion:\"minecraft:weakness\"},Damage:0s}",
+	tasks: [{
+		uid: "8ffee70e",
+		type: "item",
+		items: [{
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:weakness"
+			}
+		}],
+		consume_items: true
+	}]
+}

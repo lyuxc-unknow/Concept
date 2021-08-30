@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 244.0d,
+	description: "{id:\"tconstruct:sword_blade\",Count:1b,tag:{Material:\"certus\"},Damage:0s}",
+	tasks: [{
+		uid: "5d653711",
+		type: "item",
+		items: [{
+			id: "tconstruct:sword_blade",
+			tag: {
+				Material: "certus"
+			}
+		}],
+		consume_items: true
+	}]
+}

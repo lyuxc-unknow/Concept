@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 798.0d,
+	description: "{id:\"jaopca:item_nuggetyellorium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d30963a0",
+		type: "item",
+		items: [{
+			item: "jaopca:item_nuggetyellorium"
+		}],
+		consume_items: true
+	}]
+}

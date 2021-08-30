@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 541.0d,
+	description: "{id:\"integrateddynamics:crystalized_menril_block_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b0cd150e",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:crystalized_menril_block_stairs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 2.0d,
+	description: "{id:\"minecraft:diamond_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ccf4c1ae",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_block"
+		}],
+		consume_items: true
+	}]
+}

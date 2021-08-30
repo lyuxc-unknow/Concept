@@ -1,0 +1,66 @@
+{
+	x: 15.0d,
+	y: 635.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:603,HarvestLevel:3,Attack:7.84f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:10.12f,FreeModifiers:3,Durability:603,HarvestLevel:3,Attack:7.84f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"ruby\",\"ruby\",\"ruby\",\"ruby\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"reflect\",color:-3211264,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"reflect\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "7df40360",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 603,
+					HarvestLevel: 3,
+					Attack: 7.84f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 10.12f,
+					FreeModifiers: 3,
+					Durability: 603,
+					HarvestLevel: 3,
+					Attack: 7.84f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ruby",
+						"ruby",
+						"ruby",
+						"ruby"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "reflect",
+					color: -3211264,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"reflect",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

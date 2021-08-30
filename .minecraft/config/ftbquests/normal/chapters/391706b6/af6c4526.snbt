@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 49.0d,
+	description: "{id:\"draconicevolution:draconic_sword\",Count:1b,tag:{Energy:16000000},Damage:0s}",
+	tasks: [{
+		uid: "f003dca3",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_sword",
+			tag: {
+				Energy: 16000000
+			}
+		}],
+		consume_items: true
+	}]
+}

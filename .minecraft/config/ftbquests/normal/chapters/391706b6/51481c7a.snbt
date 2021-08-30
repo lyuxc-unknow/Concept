@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 421.0d,
+	description: "{id:\"botania:specialflower\",Count:1b,tag:{type:\"entropinnyum\"},Damage:0s}",
+	tasks: [{
+		uid: "9371f158",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "entropinnyum"
+			}
+		}],
+		consume_items: true
+	}]
+}

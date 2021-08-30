@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 752.0d,
+	description: "{id:\"environmentaltech:kyronite_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1bd2d673",
+		type: "item",
+		items: [{
+			item: "environmentaltech:kyronite_stairs"
+		}],
+		consume_items: true
+	}]
+}

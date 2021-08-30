@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 480.0d,
+	description: "{id:\"extrabotany:flyingboat\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "497d9216",
+		type: "item",
+		items: [{
+			item: "extrabotany:flyingboat 1 2"
+		}],
+		consume_items: true
+	}]
+}

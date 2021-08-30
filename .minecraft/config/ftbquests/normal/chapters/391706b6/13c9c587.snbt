@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: 55.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"cyanite\"},Damage:1s}",
+	tasks: [{
+		uid: "13bb65ea",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "cyanite"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

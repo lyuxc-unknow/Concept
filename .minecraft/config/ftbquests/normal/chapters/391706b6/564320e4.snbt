@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 129.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:golden_eye\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "a0cd36b9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:golden_eye"
+		}],
+		consume_items: true
+	}]
+}

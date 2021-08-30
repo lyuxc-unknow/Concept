@@ -1,0 +1,17 @@
+{
+	x: 9.0d,
+	y: 142.0d,
+	description: "{id:\"thermaldynamics:cover\",Count:1b,tag:{Meta:0b,Block:\"draconicevolution:draconium_block\"},Damage:0s}",
+	tasks: [{
+		uid: "1e0f6a79",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "draconicevolution:draconium_block"
+			}
+		}],
+		consume_items: true
+	}]
+}

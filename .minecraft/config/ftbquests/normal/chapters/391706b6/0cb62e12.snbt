@@ -1,0 +1,20 @@
+{
+	x: 28.0d,
+	y: 503.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:upgrade_tome\",Count:1b,tag:{level:0,key:\"bloodmagic.upgrade.meleeDecrease\"},Damage:0s}",
+	tasks: [{
+		uid: "da81abc0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 0,
+				key: "bloodmagic.upgrade.meleeDecrease"
+			}
+		}],
+		consume_items: true
+	}]
+}

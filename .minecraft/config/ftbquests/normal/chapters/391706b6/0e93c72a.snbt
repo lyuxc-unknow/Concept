@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 96.0d,
+	description: "{id:\"mist:latex_block\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2f8a3c80",
+		type: "item",
+		items: [{
+			item: "mist:latex_block"
+		}],
+		consume_items: true
+	}]
+}

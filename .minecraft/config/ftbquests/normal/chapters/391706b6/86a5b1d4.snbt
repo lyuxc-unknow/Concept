@@ -1,0 +1,61 @@
+{
+	x: 5.0d,
+	y: 469.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"conarm:boots\",Count:1b,tag:{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:64,Defense:5.2f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:64,Defense:5.2f},ConArmEquipmentSlot:2,TinkerData:{Materials:[\"livingrock\",\"livingrock\",\"livingrock\"],Modifiers:[\"leveling_armor\"]},Modifiers:[{identifier:\"tconevo.stonebound_armor\",color:-2630969,level:1},{identifier:\"tconevo.stifling_armor\",color:-2630969,level:1},{identifier:\"leveling_armor\",color:16777215,level:1}],Traits:[\"tconevo.stonebound_armor\",\"tconevo.stifling_armor\",\"leveling_armor\"]},Damage:0s}",
+	tasks: [{
+		uid: "f9972758",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:boots",
+			tag: {
+				StatsOriginal: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 64,
+					Defense: 5.2f
+				},
+				Stats: {
+					Toughness: 0.0f,
+					FreeModifiers: 3,
+					Durability: 64,
+					Defense: 5.2f
+				},
+				ConArmEquipmentSlot: 2,
+				TinkerData: {
+					Materials: [
+						"livingrock",
+						"livingrock",
+						"livingrock"
+					],
+					Modifiers: [
+						"leveling_armor"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.stonebound_armor",
+					color: -2630969,
+					level: 1
+				},
+				{
+					identifier: "tconevo.stifling_armor",
+					color: -2630969,
+					level: 1
+				},
+				{
+					identifier: "leveling_armor",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.stonebound_armor",
+					"tconevo.stifling_armor",
+					"leveling_armor"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

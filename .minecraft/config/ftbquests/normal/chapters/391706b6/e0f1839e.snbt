@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: 59.0d,
+	description: "{id:\"extrautils2:supermobspawner\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2d1c8324",
+		type: "item",
+		items: [{
+			item: "extrautils2:supermobspawner"
+		}],
+		consume_items: true
+	}]
+}

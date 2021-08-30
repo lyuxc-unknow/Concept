@@ -1,0 +1,13 @@
+{
+	x: 37.0d,
+	y: 494.0d,
+	description: "{id:\"bloodmagic:demon_light\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "86a2652d",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_light 1 2"
+		}],
+		consume_items: true
+	}]
+}

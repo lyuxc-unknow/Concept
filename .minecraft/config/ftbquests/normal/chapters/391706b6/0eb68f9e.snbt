@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: 803.0d,
+	description: "{id:\"jaopca:item_dustdirtylunar\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "3d11bd53",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustdirtylunar"
+		}],
+		consume_items: true
+	}]
+}

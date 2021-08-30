@@ -1,0 +1,13 @@
+{
+	x: 25.0d,
+	y: 112.0d,
+	description: "{id:\"moreplates:diamatine_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d45eb16e",
+		type: "item",
+		items: [{
+			item: "moreplates:diamatine_plate"
+		}],
+		consume_items: true
+	}]
+}

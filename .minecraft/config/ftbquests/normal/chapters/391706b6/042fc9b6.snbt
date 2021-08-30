@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 271.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"endstone\"},Damage:0s}",
+	tasks: [{
+		uid: "683b7665",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "endstone"
+			}
+		}],
+		consume_items: true
+	}]
+}

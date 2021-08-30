@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 164.0d,
+	description: "{id:\"solarflux:solar_panel_neutronium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "86e7b8bc",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_neutronium"
+		}],
+		consume_items: true
+	}]
+}

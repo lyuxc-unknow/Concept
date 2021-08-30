@@ -1,0 +1,22 @@
+{
+	x: 35.0d,
+	y: 83.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extracells:pattern.fluid\",Count:1b,tag:{Fluid:{FluidName:\"chrome\",Amount:1000}},Damage:0s}",
+	tasks: [{
+		uid: "c3f26cf5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extracells:pattern.fluid",
+			tag: {
+				Fluid: {
+					FluidName: "chrome",
+					Amount: 1000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

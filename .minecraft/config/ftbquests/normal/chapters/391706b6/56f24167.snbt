@@ -1,0 +1,72 @@
+{
+	x: 33.0d,
+	y: 652.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:greatblade\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:902,HarvestLevel:6,Attack:10.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:902,HarvestLevel:6,Attack:10.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"aethium\",\"aethium\",\"aethium\",\"aethium\",\"aethium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"tconevo.executor\",color:-11053225,level:1},{identifier:\"tconevo.corrupting\",color:-11053225,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"tconevo.executor\",\"tconevo.corrupting\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "13d0c0b4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:greatblade",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 902,
+					HarvestLevel: 6,
+					Attack: 10.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 9.0f,
+					FreeModifiers: 3,
+					Durability: 902,
+					HarvestLevel: 6,
+					Attack: 10.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"aethium",
+						"aethium",
+						"aethium",
+						"aethium",
+						"aethium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "tconevo.executor",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "tconevo.corrupting",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"tconevo.executor",
+					"tconevo.corrupting",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

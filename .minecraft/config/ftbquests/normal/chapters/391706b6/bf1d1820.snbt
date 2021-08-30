@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 114.0d,
+	description: "{id:\"moreplates:energetic_alloy_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fa320e51",
+		type: "item",
+		items: [{
+			item: "moreplates:energetic_alloy_plate"
+		}],
+		consume_items: true
+	}]
+}

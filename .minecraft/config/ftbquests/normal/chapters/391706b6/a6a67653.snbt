@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: 213.0d,
+	description: "{id:\"enderio:item_capacitor_silver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "27f34733",
+		type: "item",
+		items: [{
+			item: "enderio:item_capacitor_silver"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 56.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"obsidian\"},Damage:1s}",
+	tasks: [{
+		uid: "1893bb5f",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "obsidian"
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}]
+}

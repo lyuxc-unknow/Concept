@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 178.0d,
+	description: "{id:\"alchemistry:ingot\",Count:1b,Damage:78s}",
+	tasks: [{
+		uid: "b5b9cd4a",
+		type: "item",
+		items: [{
+			item: "alchemistry:ingot 1 78"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 35.0d,
+	y: 789.0d,
+	description: "{id:\"tp:bams_pizza\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "dab905ee",
+		type: "item",
+		items: [{
+			item: "tp:bams_pizza"
+		}],
+		consume_items: true
+	}]
+}

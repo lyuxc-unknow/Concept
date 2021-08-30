@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 538.0d,
+	description: "{id:\"modularmachinery:blockcontroller\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "97dcbc04",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcontroller"
+		}],
+		consume_items: true
+	}]
+}

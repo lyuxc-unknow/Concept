@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 9.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"minecraft:golden_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b69d7b1a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:golden_shovel"
+		}],
+		consume_items: true
+	}]
+}

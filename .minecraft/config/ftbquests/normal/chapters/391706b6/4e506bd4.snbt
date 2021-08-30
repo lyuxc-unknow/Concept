@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 217.0d,
+	description: "{id:\"tconstruct:pattern\",Count:1b,tag:{PartType:\"tconstruct:shard\"},Damage:0s}",
+	tasks: [{
+		uid: "a3c3176f",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:shard"
+			}
+		}],
+		consume_items: true
+	}]
+}

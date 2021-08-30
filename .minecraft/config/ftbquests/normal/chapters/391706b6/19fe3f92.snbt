@@ -1,0 +1,13 @@
+{
+	x: 14.0d,
+	y: 774.0d,
+	description: "{id:\"omegacraft:gen_catalystb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "f8043b25",
+		type: "item",
+		items: [{
+			item: "omegacraft:gen_catalystb"
+		}],
+		consume_items: true
+	}]
+}

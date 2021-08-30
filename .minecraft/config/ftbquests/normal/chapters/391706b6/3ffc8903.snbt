@@ -1,0 +1,17 @@
+{
+	x: 14.0d,
+	y: 61.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"extrautils2:angelring\",Count:1b,Damage:4s}",
+	tasks: [{
+		uid: "e91b185f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:angelring",
+			Damage: 4s
+		}],
+		consume_items: true
+	}]
+}

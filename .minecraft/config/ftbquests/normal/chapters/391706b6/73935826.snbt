@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 479.0d,
+	description: "{id:\"extrabotany:splashgrenade\",Count:1b,tag:{brewKey:\"deadpool\"},Damage:0s}",
+	tasks: [{
+		uid: "b4933a0d",
+		type: "item",
+		items: [{
+			id: "extrabotany:splashgrenade",
+			tag: {
+				brewKey: "deadpool"
+			}
+		}],
+		consume_items: true
+	}]
+}

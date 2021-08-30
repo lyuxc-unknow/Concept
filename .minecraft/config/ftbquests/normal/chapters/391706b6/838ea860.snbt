@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 69.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"botanicadds:mana_stealer_sword\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "baf082ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botanicadds:mana_stealer_sword"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,63 @@
+{
+	x: 31.0d,
+	y: 361.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:25,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:25,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"duritos\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "1a2e65fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					FreeModifiers: 3,
+					Durability: 25,
+					HarvestLevel: 4,
+					Attack: 4.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					FreeModifiers: 3,
+					Durability: 25,
+					HarvestLevel: 4,
+					Attack: 4.2f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"obsidian",
+						"obsidian"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -10478396,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

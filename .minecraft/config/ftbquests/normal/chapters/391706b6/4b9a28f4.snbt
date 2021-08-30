@@ -1,0 +1,78 @@
+{
+	x: 14.0d,
+	y: 661.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:14.52f,DrawSpeed:1.54f,FreeModifiers:3,ProjectileBonusDamage:15.0f,Durability:2492,HarvestLevel:4,Attack:19.62f,Range:6.45f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:14.52f,DrawSpeed:1.54f,FreeModifiers:3,ProjectileBonusDamage:15.0f,Durability:2492,HarvestLevel:4,Attack:19.62f,Range:6.45f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"gaia\",\"gaia\",\"gaia\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"alien\",color:-7252043,level:1},{identifier:\"payback\",color:-7252043,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"alien\",\"payback\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a47fd9b9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 14.52f,
+					DrawSpeed: 1.54f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 15.0f,
+					Durability: 2492,
+					HarvestLevel: 4,
+					Attack: 19.62f,
+					Range: 6.45f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 14.52f,
+					DrawSpeed: 1.54f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 15.0f,
+					Durability: 2492,
+					HarvestLevel: 4,
+					Attack: 19.62f,
+					Range: 6.45f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"gaia",
+						"gaia",
+						"gaia",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "alien",
+					color: -7252043,
+					level: 1
+				},
+				{
+					identifier: "payback",
+					color: -7252043,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"alien",
+					"payback",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

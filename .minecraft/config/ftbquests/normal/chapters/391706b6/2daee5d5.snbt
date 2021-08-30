@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 312.0d,
+	description: "{id:\"tconstruct:arrow_shaft\",Count:1b,tag:{Material:\"blizz_rod\"},Damage:0s}",
+	tasks: [{
+		uid: "3d5ac389",
+		type: "item",
+		items: [{
+			id: "tconstruct:arrow_shaft",
+			tag: {
+				Material: "blizz_rod"
+			}
+		}],
+		consume_items: true
+	}]
+}

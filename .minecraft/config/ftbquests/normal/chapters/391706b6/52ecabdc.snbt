@@ -1,0 +1,13 @@
+{
+	x: 39.0d,
+	y: 797.0d,
+	description: "{id:\"jaopca:item_singularityniobium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "eb423ea8",
+		type: "item",
+		items: [{
+			item: "jaopca:item_singularityniobium"
+		}],
+		consume_items: true
+	}]
+}

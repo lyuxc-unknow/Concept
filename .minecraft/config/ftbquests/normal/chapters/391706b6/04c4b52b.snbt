@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 71.0d,
+	description: "{id:\"calculator:glowstoneextractor\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "7c04276c",
+		type: "item",
+		items: [{
+			item: "calculator:glowstoneextractor"
+		}],
+		consume_items: true
+	}]
+}

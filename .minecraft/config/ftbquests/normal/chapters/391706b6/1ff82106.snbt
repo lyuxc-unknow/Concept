@@ -1,0 +1,75 @@
+{
+	x: 19.0d,
+	y: 659.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.83f,DrawSpeed:1.4f,FreeModifiers:3,ProjectileBonusDamage:-1.2f,Durability:78,HarvestLevel:0,Attack:0.1f,Range:0.63f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.83f,DrawSpeed:1.4f,FreeModifiers:5,ProjectileBonusDamage:-1.2f,Durability:78,HarvestLevel:0,Attack:0.1f,Range:0.63f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ma.prosperity\",\"ma.prosperity\",\"ma.prosperity\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"writable\",color:-6044219,level:2,writable2:1b,writable1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"writable2\",\"writable1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "00e158c6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.83f,
+					DrawSpeed: 1.4f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.2f,
+					Durability: 78,
+					HarvestLevel: 0,
+					Attack: 0.1f,
+					Range: 0.63f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 0.83f,
+					DrawSpeed: 1.4f,
+					FreeModifiers: 5,
+					ProjectileBonusDamage: -1.2f,
+					Durability: 78,
+					HarvestLevel: 0,
+					Attack: 0.1f,
+					Range: 0.63f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"ma.prosperity",
+						"ma.prosperity",
+						"ma.prosperity",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "writable",
+					color: -6044219,
+					level: 2,
+					writable2: 1b,
+					writable1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"writable2",
+					"writable1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

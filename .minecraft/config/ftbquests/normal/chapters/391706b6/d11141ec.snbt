@@ -1,0 +1,70 @@
+{
+	x: 13.0d,
+	y: 362.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:frypan\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:60,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:6,Durability:60,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"xu_magical_wood\",\"xu_magical_wood\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"brittle\",color:-131160,level:1},{identifier:\"magical_modifier\",color:-131160,level:1,magical_modifier:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"brittle\",\"magical_modifier\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "29c8c0f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 3,
+					Durability: 60,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 6,
+					Durability: 60,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"xu_magical_wood",
+						"xu_magical_wood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "brittle",
+					color: -131160,
+					level: 1
+				},
+				{
+					identifier: "magical_modifier",
+					color: -131160,
+					level: 1,
+					magical_modifier: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"brittle",
+					"magical_modifier",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

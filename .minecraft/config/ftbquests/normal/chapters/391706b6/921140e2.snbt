@@ -1,0 +1,21 @@
+{
+	x: 8.0d,
+	y: 314.0d,
+	description: "{id:\"tconstruct:tooltables\",Count:1b,tag:{textureBlock:{id:\"extrautils2:ironwood_log\",Count:1b,Damage:1s}},Damage:2s}",
+	tasks: [{
+		uid: "e7a18610",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "extrautils2:ironwood_log",
+					Count: 1b,
+					Damage: 1s
+				}
+			},
+			Damage: 2s
+		}],
+		consume_items: true
+	}]
+}

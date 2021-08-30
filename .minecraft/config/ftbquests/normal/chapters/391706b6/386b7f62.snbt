@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 541.0d,
+	description: "{id:\"integrateddynamics:wrench\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1e6735ec",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:wrench"
+		}],
+		consume_items: true
+	}]
+}

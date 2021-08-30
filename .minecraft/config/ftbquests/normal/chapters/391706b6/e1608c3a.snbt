@@ -1,0 +1,63 @@
+{
+	x: 33.0d,
+	y: 368.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:battlesign\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:550,HarvestLevel:4,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:8.0f,FreeModifiers:3,Durability:550,HarvestLevel:4,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"galite\",\"galite\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"lightweight\",color:-10094647,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"lightweight\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "8e82d65d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:battlesign",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 550,
+					HarvestLevel: 4,
+					Attack: 5.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.1f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 550,
+					HarvestLevel: 4,
+					Attack: 5.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"galite",
+						"galite"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "lightweight",
+					color: -10094647,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"lightweight",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

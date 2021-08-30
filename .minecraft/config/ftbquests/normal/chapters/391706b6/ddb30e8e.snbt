@@ -1,0 +1,16 @@
+{
+	x: 36.0d,
+	y: 666.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"mist:swamp_crab\"},Damage:0s}",
+	tasks: [{
+		uid: "c0701ed8",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "mist:swamp_crab"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 31.0d,
+	description: "{id:\"minecraft:lingering_potion\",Count:1b,tag:{Potion:\"enderio:long_withering\"},Damage:0s}",
+	tasks: [{
+		uid: "340a6b50",
+		type: "item",
+		items: [{
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "enderio:long_withering"
+			}
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 534.0d,
+	description: "{id:\"extendedcrafting:table_advanced\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "8754400c",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_advanced"
+		}],
+		consume_items: true
+	}]
+}

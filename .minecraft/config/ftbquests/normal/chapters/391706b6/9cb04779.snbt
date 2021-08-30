@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 769.0d,
+	description: "{id:\"custom_additions:iron_alloy_plate\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "2fa1f244",
+		type: "item",
+		items: [{
+			item: "custom_additions:iron_alloy_plate"
+		}],
+		consume_items: true
+	}]
+}

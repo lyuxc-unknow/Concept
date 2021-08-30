@@ -1,0 +1,16 @@
+{
+	x: 15.0d,
+	y: 274.0d,
+	description: "{id:\"tconstruct:tool_rod\",Count:1b,tag:{Material:\"sapphire\"},Damage:0s}",
+	tasks: [{
+		uid: "a6077ae4",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "sapphire"
+			}
+		}],
+		consume_items: true
+	}]
+}

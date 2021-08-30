@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 800.0d,
+	description: "{id:\"jaopca:item_dusttinyiridium\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "040b4251",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dusttinyiridium"
+		}],
+		consume_items: true
+	}]
+}

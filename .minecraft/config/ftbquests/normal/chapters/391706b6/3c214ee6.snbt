@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 753.0d,
+	description: "{id:\"environmentaltech:pladium_stairs\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ceab3fee",
+		type: "item",
+		items: [{
+			item: "environmentaltech:pladium_stairs"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 765.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"lordcraft:staff_air\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "ee268a8f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lordcraft:staff_air"
+		}],
+		consume_items: true
+	}]
+}

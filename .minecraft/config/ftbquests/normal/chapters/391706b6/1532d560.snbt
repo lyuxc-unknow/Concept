@@ -1,0 +1,13 @@
+{
+	x: 11.0d,
+	y: 116.0d,
+	description: "{id:\"moreplates:red_matter_gear\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "1ef82136",
+		type: "item",
+		items: [{
+			item: "moreplates:red_matter_gear"
+		}],
+		consume_items: true
+	}]
+}

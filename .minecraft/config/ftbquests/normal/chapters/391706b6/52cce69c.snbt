@@ -1,0 +1,13 @@
+{
+	x: 38.0d,
+	y: 393.0d,
+	description: "{id:\"tconstruct:smeltery_io\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "bf8bd85e",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}],
+		consume_items: true
+	}]
+}

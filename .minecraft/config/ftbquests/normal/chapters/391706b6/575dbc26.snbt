@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 66.0d,
+	description: "{id:\"extrautils2:flattransfernode\",Count:1b,Damage:1s}",
+	tasks: [{
+		uid: "4d926263",
+		type: "item",
+		items: [{
+			item: "extrautils2:flattransfernode 1 1"
+		}],
+		consume_items: true
+	}]
+}

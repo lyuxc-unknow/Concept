@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: 454.0d,
+	description: "{id:\"conarm:boots_core\",Count:1b,tag:{Material:\"lonsdaleite\"},Damage:0s}",
+	tasks: [{
+		uid: "72f38f95",
+		type: "item",
+		items: [{
+			id: "conarm:boots_core",
+			tag: {
+				Material: "lonsdaleite"
+			}
+		}],
+		consume_items: true
+	}]
+}

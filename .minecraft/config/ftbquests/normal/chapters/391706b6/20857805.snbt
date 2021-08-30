@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: 122.0d,
+	description: "{id:\"openblocks:tank\",Count:1b,tag:{tank:{FluidName:\"steaite\",Amount:16000}},Damage:0s}",
+	tasks: [{
+		uid: "926cc432",
+		type: "item",
+		items: [{
+			id: "openblocks:tank",
+			tag: {
+				tank: {
+					FluidName: "steaite",
+					Amount: 16000
+				}
+			}
+		}],
+		consume_items: true
+	}]
+}

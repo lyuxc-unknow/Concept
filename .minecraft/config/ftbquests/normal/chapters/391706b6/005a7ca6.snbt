@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 802.0d,
+	description: "{id:\"jaopca:item_platedenseiron\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "6276b0af",
+		type: "item",
+		items: [{
+			item: "jaopca:item_platedenseiron"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 601.0d,
+	description: "{id:\"steamworld:generic_material\",Count:1b,Damage:3s}",
+	tasks: [{
+		uid: "a238b574",
+		type: "item",
+		items: [{
+			item: "steamworld:generic_material 1 3"
+		}],
+		consume_items: true
+	}]
+}

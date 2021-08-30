@@ -1,0 +1,16 @@
+{
+	x: 32.0d,
+	y: 444.0d,
+	description: "{id:\"conarm:armor_plate\",Count:1b,tag:{Material:\"essen\"},Damage:0s}",
+	tasks: [{
+		uid: "afbe84cf",
+		type: "item",
+		items: [{
+			id: "conarm:armor_plate",
+			tag: {
+				Material: "essen"
+			}
+		}],
+		consume_items: true
+	}]
+}

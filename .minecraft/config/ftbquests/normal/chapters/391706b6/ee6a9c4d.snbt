@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: 111.0d,
+	description: "{id:\"naturesaura:gold_leaf\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "60eb9537",
+		type: "item",
+		items: [{
+			item: "naturesaura:gold_leaf"
+		}],
+		consume_items: true
+	}]
+}

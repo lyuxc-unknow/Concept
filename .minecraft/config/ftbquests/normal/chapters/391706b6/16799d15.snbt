@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: 557.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"rftools:syringe\",Count:1b,tag:{mobName:\"Snow Flea\",level:10,mobId:\"mist:snow_flea\"},Damage:0s}",
+	tasks: [{
+		uid: "a2085f95",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:syringe",
+			tag: {
+				mobName: "Snow Flea",
+				level: 10,
+				mobId: "mist:snow_flea"
+			}
+		}],
+		consume_items: true
+	}]
+}

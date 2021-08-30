@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 776.0d,
+	description: "{id:\"omegacraft:fluid_pusherb\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "13b918fd",
+		type: "item",
+		items: [{
+			item: "omegacraft:fluid_pusherb"
+		}],
+		consume_items: true
+	}]
+}

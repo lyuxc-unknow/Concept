@@ -1,0 +1,63 @@
+{
+	x: 35.0d,
+	y: 330.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:mattock\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:7.86f,FreeModifiers:3,HarvestLevelShovel:3,Durability:694,HarvestLevel:3,Attack:12.53f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:7.86f,FreeModifiers:3,HarvestLevelShovel:3,Durability:694,HarvestLevel:3,Attack:12.53f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"refinediron\",\"refinediron\",\"refinediron\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "b7bf5287",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:mattock",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 7.86f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 694,
+					HarvestLevel: 3,
+					Attack: 12.53f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevelAxe: 3,
+					MiningSpeed: 7.86f,
+					FreeModifiers: 3,
+					HarvestLevelShovel: 3,
+					Durability: 694,
+					HarvestLevel: 3,
+					Attack: 12.53f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"refinediron",
+						"refinediron",
+						"refinediron"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

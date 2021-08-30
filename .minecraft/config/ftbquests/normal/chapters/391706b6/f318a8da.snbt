@@ -1,0 +1,83 @@
+{
+	x: 28.0d,
+	y: 660.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:explosive_bow\",Count:1b,tag:{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:2.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:322,HarvestLevel:1,Attack:1.5f,Range:0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:2.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:322,HarvestLevel:1,Attack:1.5f,Range:0.5f},Special:{Categories:[\"launcher\",\"weapon\",\"tool\"]},TinkerData:{Materials:[\"rubber\",\"rubber\",\"rubber\",\"string\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"squeaky\",color:-11053225,level:1},{identifier:\"crude\",color:-11053225,level:1,crude1:1b},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"squeaky\",\"crude1\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "77647773",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:explosive_bow",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 33s
+				}],
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 2.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 322,
+					HarvestLevel: 1,
+					Attack: 1.5f,
+					Range: 0.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					DrawSpeed: 2.0f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 322,
+					HarvestLevel: 1,
+					Attack: 1.5f,
+					Range: 0.5f
+				},
+				Special: {
+					Categories: [
+						"launcher",
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"rubber",
+						"rubber",
+						"rubber",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "squeaky",
+					color: -11053225,
+					level: 1
+				},
+				{
+					identifier: "crude",
+					color: -11053225,
+					level: 1,
+					crude1: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"squeaky",
+					"crude1",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

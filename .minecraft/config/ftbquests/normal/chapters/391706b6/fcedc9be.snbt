@@ -1,0 +1,13 @@
+{
+	x: 31.0d,
+	y: 602.0d,
+	description: "{id:\"steamworld:generator_endritch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "918d22fe",
+		type: "item",
+		items: [{
+			item: "steamworld:generator_endritch"
+		}],
+		consume_items: true
+	}]
+}

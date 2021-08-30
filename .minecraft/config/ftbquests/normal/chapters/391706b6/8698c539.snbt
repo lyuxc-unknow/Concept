@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 484.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"psi:psimetal_shovel\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b53ce086",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "psi:psimetal_shovel"
+		}],
+		consume_items: true
+	}]
+}

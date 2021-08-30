@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 117.0d,
+	description: "{id:\"openblocks:elevator_rotating\",Count:1b,Damage:9s}",
+	tasks: [{
+		uid: "fa41036f",
+		type: "item",
+		items: [{
+			item: "openblocks:elevator_rotating 1 9"
+		}],
+		consume_items: true
+	}]
+}

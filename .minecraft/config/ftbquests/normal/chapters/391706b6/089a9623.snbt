@@ -1,0 +1,72 @@
+{
+	x: 31.0d,
+	y: 634.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"totaltinkers:battleaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:2500,HarvestLevel:5,Attack:10.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:2500,HarvestLevel:5,Attack:10.0f},Special:{Categories:[\"weapon\",\"tool\",\"aoe\"]},TinkerData:{Materials:[\"enderium\",\"enderium\",\"enderium\",\"enderium\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"enderference\",color:-15835295,level:1},{identifier:\"tconevo.mortal_wounds\",color:-15835295,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"enderference\",\"tconevo.mortal_wounds\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "2d48b1c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "totaltinkers:battleaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 2500,
+					HarvestLevel: 5,
+					Attack: 10.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 8.0f,
+					FreeModifiers: 3,
+					Durability: 2500,
+					HarvestLevel: 5,
+					Attack: 10.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"enderium",
+						"enderium",
+						"enderium",
+						"enderium"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "enderference",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "tconevo.mortal_wounds",
+					color: -15835295,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"enderference",
+					"tconevo.mortal_wounds",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

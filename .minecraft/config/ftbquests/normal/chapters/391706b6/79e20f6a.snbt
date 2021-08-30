@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 426.0d,
+	description: "{id:\"botania:floatingspecialflower\",Count:1b,tag:{type:\"tigerseye\"},Damage:0s}",
+	tasks: [{
+		uid: "96d4b655",
+		type: "item",
+		items: [{
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "tigerseye"
+			}
+		}],
+		consume_items: true
+	}]
+}

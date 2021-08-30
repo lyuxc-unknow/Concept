@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 618.0d,
+	description: "{id:\"tinkersarsenal:bayonet\",Count:1b,tag:{Material:\"emeraldic_crystal\"},Damage:0s}",
+	tasks: [{
+		uid: "d4ead460",
+		type: "item",
+		items: [{
+			id: "tinkersarsenal:bayonet",
+			tag: {
+				Material: "emeraldic_crystal"
+			}
+		}],
+		consume_items: true
+	}]
+}

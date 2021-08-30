@@ -1,0 +1,16 @@
+{
+	x: 14.0d,
+	y: 128.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"openblocks:paintbrush\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c56c0acd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "openblocks:paintbrush"
+		}],
+		consume_items: true
+	}]
+}

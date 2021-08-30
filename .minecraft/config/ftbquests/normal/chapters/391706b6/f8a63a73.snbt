@@ -1,0 +1,16 @@
+{
+	x: 39.0d,
+	y: 220.0d,
+	description: "{id:\"tconstruct:shard\",Count:1b,tag:{Material:\"polyethylene\"},Damage:0s}",
+	tasks: [{
+		uid: "395a1ba7",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "polyethylene"
+			}
+		}],
+		consume_items: true
+	}]
+}

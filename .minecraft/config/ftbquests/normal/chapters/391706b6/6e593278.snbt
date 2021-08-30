@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 603.0d,
+	description: "{id:\"steamworld:furnace_endritch\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4c9c4d9c",
+		type: "item",
+		items: [{
+			item: "steamworld:furnace_endritch"
+		}],
+		consume_items: true
+	}]
+}

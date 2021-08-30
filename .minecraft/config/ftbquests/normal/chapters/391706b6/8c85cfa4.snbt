@@ -1,0 +1,17 @@
+{
+	x: 19.0d,
+	y: 579.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"pneumaticcraft:pneumatic_wrench\",Count:1b,Damage:30000s}",
+	tasks: [{
+		uid: "8eb9fd89",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:pneumatic_wrench",
+			Damage: 30000s
+		}],
+		consume_items: true
+	}]
+}

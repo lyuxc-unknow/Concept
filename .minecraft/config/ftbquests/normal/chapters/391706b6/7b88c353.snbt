@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: 687.0d,
+	description: "{id:\"astralsorcery:blockblackmarble\",Count:1b,Damage:2s}",
+	tasks: [{
+		uid: "031485f4",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble 1 2"
+		}],
+		consume_items: true
+	}]
+}

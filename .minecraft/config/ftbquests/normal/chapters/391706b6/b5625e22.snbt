@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 237.0d,
+	description: "{id:\"tconstruct:axe_head\",Count:1b,tag:{Material:\"ancite\"},Damage:0s}",
+	tasks: [{
+		uid: "3b6c5469",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "ancite"
+			}
+		}],
+		consume_items: true
+	}]
+}

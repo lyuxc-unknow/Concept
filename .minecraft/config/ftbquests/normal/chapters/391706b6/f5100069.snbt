@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 505.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"bloodmagic:monster_soul\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "acf8ac53",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:monster_soul"
+		}],
+		consume_items: true
+	}]
+}

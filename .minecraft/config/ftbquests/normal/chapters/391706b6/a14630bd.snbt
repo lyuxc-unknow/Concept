@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 42.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.shovel_silver\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4181a9d6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.shovel_silver"
+		}],
+		consume_items: true
+	}]
+}

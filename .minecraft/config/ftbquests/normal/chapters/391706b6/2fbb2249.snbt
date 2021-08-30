@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 570.0d,
+	description: "{id:\"immersiveengineering:shader_bag\",Count:1b,tag:{rarity:\"RELIC\"},Damage:0s}",
+	tasks: [{
+		uid: "d11cd426",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:shader_bag",
+			tag: {
+				rarity: "RELIC"
+			}
+		}],
+		consume_items: true
+	}]
+}

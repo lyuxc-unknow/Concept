@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 548.0d,
+	description: "{id:\"mysticalagriculture:refined_obsidian_essence\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "c69aaa80",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:refined_obsidian_essence"
+		}],
+		consume_items: true
+	}]
+}

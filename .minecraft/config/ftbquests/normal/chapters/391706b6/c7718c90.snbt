@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 667.0d,
+	description: "{id:\"wirelessutils:crystallized_void_pearl\",Count:1b,tag:{EntityID:\"mist:desert_fish\"},Damage:0s}",
+	tasks: [{
+		uid: "decbdd78",
+		type: "item",
+		items: [{
+			id: "wirelessutils:crystallized_void_pearl",
+			tag: {
+				EntityID: "mist:desert_fish"
+			}
+		}],
+		consume_items: true
+	}]
+}

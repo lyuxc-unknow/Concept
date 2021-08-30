@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 14.0d,
+	description: "{id:\"minecraft:potion\",Count:1b,tag:{Potion:\"enderio:floating\"},Damage:0s}",
+	tasks: [{
+		uid: "7195f432",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "enderio:floating"
+			}
+		}],
+		consume_items: true
+	}]
+}

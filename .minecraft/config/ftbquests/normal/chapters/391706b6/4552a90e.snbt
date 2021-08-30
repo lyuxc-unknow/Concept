@@ -1,0 +1,70 @@
+{
+	x: 16.0d,
+	y: 359.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:rapier\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:156,HarvestLevel:1,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:156,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"livingrock\",\"livingrock\",\"livingrock\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"stonebound\",color:-2630969,level:1},{identifier:\"tconevo.sundering\",color:-2630969,level:1},{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"stonebound\",\"tconevo.sundering\",\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "082208a5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:rapier",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 156,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.5f,
+					FreeModifiers: 3,
+					Durability: 156,
+					HarvestLevel: 1,
+					Attack: 4.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"livingrock",
+						"livingrock",
+						"livingrock"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "stonebound",
+					color: -2630969,
+					level: 1
+				},
+				{
+					identifier: "tconevo.sundering",
+					color: -2630969,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"stonebound",
+					"tconevo.sundering",
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

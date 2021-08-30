@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 676.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"actuallyadditions:item_color_lens\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "d4bd4c2c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_color_lens"
+		}],
+		consume_items: true
+	}]
+}

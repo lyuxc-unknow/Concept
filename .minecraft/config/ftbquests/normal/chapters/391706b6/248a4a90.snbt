@@ -1,0 +1,13 @@
+{
+	x: 34.0d,
+	y: 8.0d,
+	description: "{id:\"minecraft:concrete_powder\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "4f3168af",
+		type: "item",
+		items: [{
+			item: "minecraft:concrete_powder"
+		}],
+		consume_items: true
+	}]
+}

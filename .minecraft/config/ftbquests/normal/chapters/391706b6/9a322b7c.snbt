@@ -1,0 +1,13 @@
+{
+	x: 16.0d,
+	y: 549.0d,
+	description: "{id:\"mysticalagriculture:sheep_seeds\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "b63170c3",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:sheep_seeds"
+		}],
+		consume_items: true
+	}]
+}

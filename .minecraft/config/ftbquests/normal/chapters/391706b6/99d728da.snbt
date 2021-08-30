@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 229.0d,
+	description: "{id:\"tconstruct:pick_head\",Count:1b,tag:{Material:\"psigem\"},Damage:0s}",
+	tasks: [{
+		uid: "e7ebf434",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "psigem"
+			}
+		}],
+		consume_items: true
+	}]
+}

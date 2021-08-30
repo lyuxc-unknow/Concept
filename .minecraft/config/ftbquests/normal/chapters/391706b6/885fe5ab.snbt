@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 754.0d,
+	description: "{id:\"environmentaltech:mica\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "9151dc27",
+		type: "item",
+		items: [{
+			item: "environmentaltech:mica"
+		}],
+		consume_items: true
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 33.0d,
+	y: 45.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"thermalfoundation:tool.sickle_diamond\",Count:1b,Damage:0s}",
+	tasks: [{
+		uid: "fc4db7db",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.sickle_diamond"
+		}],
+		consume_items: true
+	}]
+}

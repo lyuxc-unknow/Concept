@@ -1,0 +1,60 @@
+{
+	x: 1.0d,
+	y: 346.0d,
+	description: "{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"tconstruct:lumberaxe\",Count:1b,tag:{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.63f,FreeModifiers:3,Durability:8570,HarvestLevel:4,Attack:15.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:13.63f,FreeModifiers:3,Durability:8570,HarvestLevel:4,Attack:15.23f},Special:{Categories:[\"tool\",\"harvest\",\"aoe\"]},TinkerData:{Materials:[\"advancedalloy\",\"advancedalloy\",\"advancedalloy\",\"advancedalloy\"],Modifiers:[\"toolleveling\"]},Modifiers:[{identifier:\"toolleveling\",color:16777215,level:1}],Traits:[\"toolleveling\"]},Damage:0s}",
+	tasks: [{
+		uid: "a31239c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.63f,
+					FreeModifiers: 3,
+					Durability: 8570,
+					HarvestLevel: 4,
+					Attack: 15.23f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 13.63f,
+					FreeModifiers: 3,
+					Durability: 8570,
+					HarvestLevel: 4,
+					Attack: 15.23f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy",
+						"advancedalloy"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"toolleveling"
+				]
+			}
+		}],
+		consume_items: true
+	}]
+}

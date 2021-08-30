@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: 54.0d,
+	description: "{id:\"thermalexpansion:florb\",Count:1b,tag:{Fluid:\"refinedcanolaoil\"},Damage:0s}",
+	tasks: [{
+		uid: "0be18790",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "refinedcanolaoil"
+			}
+		}],
+		consume_items: true
+	}]
+}

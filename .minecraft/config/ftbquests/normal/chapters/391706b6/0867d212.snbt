@@ -1,0 +1,13 @@
+{
+	x: 17.0d,
+	y: 197.0d,
+	description: "{id:\"enderio:block_pasture_enlightened_fused_quartz\",Count:1b,Damage:15s}",
+	tasks: [{
+		uid: "32e2df1d",
+		type: "item",
+		items: [{
+			item: "enderio:block_pasture_enlightened_fused_quartz 1 15"
+		}],
+		consume_items: true
+	}]
+}
