@@ -1,0 +1,28 @@
+{
+    "uf:water_tank": 
+	{
+		"chance": 100,
+		"Item":
+		[
+			{"item":{
+				"id":"bloodmagic:blood_tank", 
+				"Count":1,
+				"Damage": 15,
+				"tag":{
+					"BlockEntityTag": {
+						"tank": {
+							"FluidName": "water", 
+							"Amount": 524288000
+							}, 
+						"capacity": 524288000
+						}, 
+					"display": {
+						"Name": "Oh,Water!"
+						}
+					}
+				}, 
+			"delay":20
+			}
+		]
+    }
+}

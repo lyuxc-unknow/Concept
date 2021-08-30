@@ -1,0 +1,34 @@
+{
+    "uf:water_tank_2": 
+	{
+		"chance": 100,
+		"Item":
+		[
+			{
+                "item":{
+				"id":"thermalexpansion:tank", 
+				"Count":1,
+				"Damage": 0,
+				"tag":{
+					"ench": [
+                        {
+                            "lvl": 32764, "id": 44
+                        }
+                     ],
+                    "Creative": 0,
+                    "Fluid": {
+                        "FluidName": "water",
+                        "Amount": 2147483647
+                    }, 
+                    "Level": 4,
+                    "Lock": 0,
+                    "display":{
+                        "Name" : "Hello, World!"
+                        }
+				    }, 
+			    "delay":0
+			    }
+            }
+		]
+    }
+}

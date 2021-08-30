@@ -201,6 +201,9 @@
     "thermalfoundation:hardened_glass": true,
     "thermalfoundation:hardened_alloy_glass": true,
     "thermalexpansion:florbs": true,
-    "thermalexpansion:stay_hydrated": true
+    "thermalexpansion:stay_hydrated": true,
+    "test": true,
+    "uf:water_tank": true,
+    "uf:water_tank_2": true
   }
 }

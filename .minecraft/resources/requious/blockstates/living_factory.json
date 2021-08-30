@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-      "model": "requious:advanced_efab_terminal",
+      "model": "requious:living_factory",
       "textures": {
         "0": "requious:blocks/living_factory/top",
 		"1": "requious:blocks/living_factory/other",

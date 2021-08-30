@@ -1,3 +1,4 @@
+#priority 10000
 #loader contenttweaker
 
 import mods.contenttweaker.VanillaFactory;

@@ -1,0 +1,28 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "model": "requious:kettle",
+      "textures": {
+        "0": "minecraft:blocks/log_oak",
+		"1": "requious:blocks/kettle/kettle",
+		"particle": "requious:blocks/kettle/kettle"
+      },
+      "transform": "forge:default-block"
+    },
+    "variants":{
+      "normal":[{}],
+      "inventory":[{}],
+      "facing": {
+          "down":  { "z": 180 },
+          "up":    { },
+          "north": { "z": 90 },
+          "south": { "z": 90, "y": 180 },
+          "west":  { "z": 90, "y": 270 },
+          "east":  { "z": 90, "y": 90 }
+      },
+      "active": {
+        "true": {},
+        "false": {}
+      }
+    }
+  }

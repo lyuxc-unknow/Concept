@@ -19,6 +19,7 @@ drying.setDurationSlot(4,2)
 drying.setJEIItemSlot(3,2,"input");
 drying.setJEIItemSlot(5,2,"output");
 drying.setJEIDurationSlot(4,2,"time",SlotVisual.arrowRight());
+drying.setTextSlot(0,0).setVisual(SlotVisual.create(0,0)).setRenderText(game.localize("tile.drying.name"));
 
 function addDryingRecipes(input as IItemStack, output as IItemStack,time as int){
 	//var drying = <assembly:drying>;

@@ -1,0 +1,29 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "model": "requious:laser_table",
+      "textures": {
+        "0": "requious:blocks/laser_table/one",
+		"1": "requious:blocks/laser_table/table",
+		"2": "requious:blocks/laser_table/small_table",
+		"particle": "requious:blocks/laser_table/one"
+      },
+      "transform": "forge:default-block"
+    },
+    "variants":{
+      "normal":[{}],
+      "inventory":[{}],
+      "facing": {
+          "down":  { "z": 180 },
+          "up":    { },
+          "north": { "z": 90 },
+          "south": { "z": 90, "y": 180 },
+          "west":  { "z": 90, "y": 270 },
+          "east":  { "z": 90, "y": 90 }
+      },
+      "active": {
+        "true": {},
+        "false": {}
+      }
+    }
+  }

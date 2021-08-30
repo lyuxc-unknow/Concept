@@ -6925,53 +6925,53 @@ tconstruct:slime_vine_purple_end:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple_mid:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple:0, 紫色史莱姆藤蔓
 tconstruct:pattern:0, 空白模具
-tconstruct:pattern:0, 火枪枪管模具
-tconstruct:pattern:0, 刺刀模具
-tconstruct:pattern:0, 宽剑刃模具
-tconstruct:pattern:0, 抛光工具模具
-tconstruct:pattern:0, 轮轴模具
-tconstruct:pattern:0, 胸甲基底模具
-tconstruct:pattern:0, 园艺镰头模具
-tconstruct:pattern:0, 奇术焦镜模具
-tconstruct:pattern:0, 护手模具
-tconstruct:pattern:0, 剑刃模具
-tconstruct:pattern:0, 弓弦模具
-tconstruct:pattern:0, 护甲夹板模具
-tconstruct:pattern:0, 护腿基底模具
-tconstruct:pattern:0, 磨制工具模具
-tconstruct:pattern:0, 靴子基底模具
-tconstruct:pattern:0, 十字柄模具
-tconstruct:pattern:0, 镐头模具
-tconstruct:pattern:0, 锤头模具
-tconstruct:pattern:0, 护甲板模具
-tconstruct:pattern:0, 坚韧手柄模具
-tconstruct:pattern:0, 大板模具
-tconstruct:pattern:0, 刀刃模具
-tconstruct:pattern:0, 绑定结模具
-tconstruct:pattern:0, 子弹模具
-tconstruct:pattern:0, 铲头模具
-tconstruct:pattern:0, 箭头模具
-tconstruct:pattern:0, 开掘铲头模具
-tconstruct:pattern:0, 捆绳模具
-tconstruct:pattern:0, 牌板模具
-tconstruct:pattern:0, 大型护手模具
-tconstruct:pattern:0, 爆炸触媒模具
-tconstruct:pattern:0, 镰刀头模具
-tconstruct:pattern:0, 箭羽模具
-tconstruct:pattern:0, 碎片模具
-tconstruct:pattern:0, 宽斧刃模具
-tconstruct:pattern:0, 手柄模具
-tconstruct:pattern:0, Bullet Shell模具
-tconstruct:pattern:0, 坚韧绑定结模具
-tconstruct:pattern:0, 头盔基底模具
-tconstruct:pattern:0, 弓臂模具
-tconstruct:pattern:0, 巨剑核心模具
-tconstruct:pattern:0, 宽护手模具
-tconstruct:pattern:0, 外壳模具
-tconstruct:pattern:0, 箭杆模具
 tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 巨剑核心模具
+tconstruct:pattern:0, 手柄模具
+tconstruct:pattern:0, 弓臂模具
+tconstruct:pattern:0, 碎片模具
+tconstruct:pattern:0, 宽剑刃模具
+tconstruct:pattern:0, 刀刃模具
+tconstruct:pattern:0, 捆绳模具
+tconstruct:pattern:0, 坚韧手柄模具
+tconstruct:pattern:0, 护手模具
+tconstruct:pattern:0, 铲头模具
+tconstruct:pattern:0, 牌板模具
+tconstruct:pattern:0, 开掘铲头模具
+tconstruct:pattern:0, 抛光工具模具
+tconstruct:pattern:0, 奇术焦镜模具
+tconstruct:pattern:0, 火枪枪管模具
+tconstruct:pattern:0, 箭头模具
+tconstruct:pattern:0, 靴子基底模具
+tconstruct:pattern:0, 大型护手模具
+tconstruct:pattern:0, 磨制工具模具
+tconstruct:pattern:0, 子弹模具
+tconstruct:pattern:0, 镰刀头模具
+tconstruct:pattern:0, 头盔基底模具
+tconstruct:pattern:0, 胸甲基底模具
+tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, Bullet Shell模具
+tconstruct:pattern:0, 弓弦模具
+tconstruct:pattern:0, 镐头模具
+tconstruct:pattern:0, 护甲夹板模具
+tconstruct:pattern:0, 箭羽模具
+tconstruct:pattern:0, 护腿基底模具
+tconstruct:pattern:0, 爆炸触媒模具
+tconstruct:pattern:0, 宽护手模具
+tconstruct:pattern:0, 箭杆模具
+tconstruct:pattern:0, 护甲板模具
+tconstruct:pattern:0, 锤头模具
+tconstruct:pattern:0, 大板模具
 tconstruct:pattern:0, 盘模具
+tconstruct:pattern:0, 园艺镰头模具
+tconstruct:pattern:0, 宽斧刃模具
+tconstruct:pattern:0, 十字柄模具
 tconstruct:pattern:0, 火枪手柄模具
+tconstruct:pattern:0, 绑定结模具
+tconstruct:pattern:0, 外壳模具
+tconstruct:pattern:0, 轮轴模具
+tconstruct:pattern:0, 坚韧绑定结模具
+tconstruct:pattern:0, 刺刀模具
 tconstruct:shard:0, 熔融木 碎片
 tconstruct:shard:0, 黑暗木 碎片
 tconstruct:shard:0, 血木 碎片
@@ -11257,102 +11257,102 @@ tconstruct:seared_stairs_road:0, 焦黑铺路石楼梯
 tconstruct:seared_stairs_tile:0, 焦黑瓷砖楼梯
 tconstruct:seared_stairs_creeper:0, 焦黑雕琢楼梯
 tconstruct:cast:0, 空白铸模
-tconstruct:cast:0, 火枪枪管铸模
-tconstruct:cast:0, 刺刀铸模
+tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 巨剑核心铸模
+tconstruct:cast:0, 手柄铸模
+tconstruct:cast:0, 弓臂铸模
+tconstruct:cast:0, 碎片铸模
 tconstruct:cast:0, 宽剑刃铸模
-tconstruct:cast:0, 抛光工具铸模
-tconstruct:cast:0, 轮轴铸模
-tconstruct:cast:0, 胸甲基底铸模
-tconstruct:cast:0, 园艺镰头铸模
-tconstruct:cast:0, 奇术焦镜铸模
+tconstruct:cast:0, 刀刃铸模
+tconstruct:cast:0, 捆绳铸模
+tconstruct:cast:0, 坚韧手柄铸模
 tconstruct:cast:0, 护手铸模
+tconstruct:cast:0, 铲头铸模
+tconstruct:cast:0, 牌板铸模
+tconstruct:cast:0, 开掘铲头铸模
+tconstruct:cast:0, 抛光工具铸模
+tconstruct:cast:0, 奇术焦镜铸模
+tconstruct:cast:0, 火枪枪管铸模
+tconstruct:cast:0, 箭头铸模
+tconstruct:cast:0, 靴子基底铸模
+tconstruct:cast:0, 大型护手铸模
+tconstruct:cast:0, 磨制工具铸模
+tconstruct:cast:0, 子弹铸模
+tconstruct:cast:0, 镰刀头铸模
+tconstruct:cast:0, 头盔基底铸模
+tconstruct:cast:0, 胸甲基底铸模
 tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, Bullet Shell铸模
 tconstruct:cast:0, 弓弦铸模
+tconstruct:cast:0, 镐头铸模
 tconstruct:cast:0, 护甲夹板铸模
 tconstruct:cast:0, 护腿基底铸模
-tconstruct:cast:0, 磨制工具铸模
-tconstruct:cast:0, 靴子基底铸模
-tconstruct:cast:0, 十字柄铸模
-tconstruct:cast:0, 镐头铸模
-tconstruct:cast:0, 锤头铸模
-tconstruct:cast:0, 护甲板铸模
-tconstruct:cast:0, 坚韧手柄铸模
-tconstruct:cast:0, 大板铸模
-tconstruct:cast:0, 刀刃铸模
-tconstruct:cast:0, 绑定结铸模
-tconstruct:cast:0, 子弹铸模
-tconstruct:cast:0, 铲头铸模
-tconstruct:cast:0, 箭头铸模
-tconstruct:cast:0, 开掘铲头铸模
-tconstruct:cast:0, 捆绳铸模
-tconstruct:cast:0, 牌板铸模
-tconstruct:cast:0, 大型护手铸模
 tconstruct:cast:0, 爆炸触媒铸模
-tconstruct:cast:0, 镰刀头铸模
-tconstruct:cast:0, 碎片铸模
-tconstruct:cast:0, 宽斧刃铸模
-tconstruct:cast:0, 手柄铸模
-tconstruct:cast:0, Bullet Shell铸模
-tconstruct:cast:0, 坚韧绑定结铸模
-tconstruct:cast:0, 头盔基底铸模
-tconstruct:cast:0, 弓臂铸模
-tconstruct:cast:0, 巨剑核心铸模
 tconstruct:cast:0, 宽护手铸模
-tconstruct:cast:0, 外壳铸模
-tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 护甲板铸模
+tconstruct:cast:0, 锤头铸模
+tconstruct:cast:0, 大板铸模
 tconstruct:cast:0, 盘铸模
+tconstruct:cast:0, 园艺镰头铸模
+tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, 十字柄铸模
 tconstruct:cast:0, 火枪手柄铸模
+tconstruct:cast:0, 绑定结铸模
+tconstruct:cast:0, 外壳铸模
+tconstruct:cast:0, 轮轴铸模
+tconstruct:cast:0, 坚韧绑定结铸模
+tconstruct:cast:0, 刺刀铸模
 tconstruct:cast_custom:0, 锭铸模
 tconstruct:cast_custom:1, 粒铸模
 tconstruct:cast_custom:2, 宝石铸模
 tconstruct:cast_custom:3, 板铸模
 tconstruct:cast_custom:4, 齿轮铸模
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 火枪枪管粘土铸模
-tconstruct:clay_cast:0, 刺刀粘土铸模
+tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 巨剑核心粘土铸模
+tconstruct:clay_cast:0, 手柄粘土铸模
+tconstruct:clay_cast:0, 弓臂粘土铸模
+tconstruct:clay_cast:0, 碎片粘土铸模
 tconstruct:clay_cast:0, 宽剑刃粘土铸模
-tconstruct:clay_cast:0, 抛光工具粘土铸模
-tconstruct:clay_cast:0, 轮轴粘土铸模
-tconstruct:clay_cast:0, 胸甲基底粘土铸模
-tconstruct:clay_cast:0, 园艺镰头粘土铸模
-tconstruct:clay_cast:0, 奇术焦镜粘土铸模
+tconstruct:clay_cast:0, 刀刃粘土铸模
+tconstruct:clay_cast:0, 捆绳粘土铸模
+tconstruct:clay_cast:0, 坚韧手柄粘土铸模
 tconstruct:clay_cast:0, 护手粘土铸模
+tconstruct:clay_cast:0, 铲头粘土铸模
+tconstruct:clay_cast:0, 牌板粘土铸模
+tconstruct:clay_cast:0, 开掘铲头粘土铸模
+tconstruct:clay_cast:0, 抛光工具粘土铸模
+tconstruct:clay_cast:0, 奇术焦镜粘土铸模
+tconstruct:clay_cast:0, 火枪枪管粘土铸模
+tconstruct:clay_cast:0, 箭头粘土铸模
+tconstruct:clay_cast:0, 靴子基底粘土铸模
+tconstruct:clay_cast:0, 大型护手粘土铸模
+tconstruct:clay_cast:0, 磨制工具粘土铸模
+tconstruct:clay_cast:0, 子弹粘土铸模
+tconstruct:clay_cast:0, 镰刀头粘土铸模
+tconstruct:clay_cast:0, 头盔基底粘土铸模
+tconstruct:clay_cast:0, 胸甲基底粘土铸模
 tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, Bullet Shell粘土铸模
 tconstruct:clay_cast:0, 弓弦粘土铸模
+tconstruct:clay_cast:0, 镐头粘土铸模
 tconstruct:clay_cast:0, 护甲夹板粘土铸模
 tconstruct:clay_cast:0, 护腿基底粘土铸模
-tconstruct:clay_cast:0, 磨制工具粘土铸模
-tconstruct:clay_cast:0, 靴子基底粘土铸模
-tconstruct:clay_cast:0, 十字柄粘土铸模
-tconstruct:clay_cast:0, 镐头粘土铸模
-tconstruct:clay_cast:0, 锤头粘土铸模
-tconstruct:clay_cast:0, 护甲板粘土铸模
-tconstruct:clay_cast:0, 坚韧手柄粘土铸模
-tconstruct:clay_cast:0, 大板粘土铸模
-tconstruct:clay_cast:0, 刀刃粘土铸模
-tconstruct:clay_cast:0, 绑定结粘土铸模
-tconstruct:clay_cast:0, 子弹粘土铸模
-tconstruct:clay_cast:0, 铲头粘土铸模
-tconstruct:clay_cast:0, 箭头粘土铸模
-tconstruct:clay_cast:0, 开掘铲头粘土铸模
-tconstruct:clay_cast:0, 捆绳粘土铸模
-tconstruct:clay_cast:0, 牌板粘土铸模
-tconstruct:clay_cast:0, 大型护手粘土铸模
 tconstruct:clay_cast:0, 爆炸触媒粘土铸模
-tconstruct:clay_cast:0, 镰刀头粘土铸模
-tconstruct:clay_cast:0, 碎片粘土铸模
-tconstruct:clay_cast:0, 宽斧刃粘土铸模
-tconstruct:clay_cast:0, 手柄粘土铸模
-tconstruct:clay_cast:0, Bullet Shell粘土铸模
-tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
-tconstruct:clay_cast:0, 头盔基底粘土铸模
-tconstruct:clay_cast:0, 弓臂粘土铸模
-tconstruct:clay_cast:0, 巨剑核心粘土铸模
 tconstruct:clay_cast:0, 宽护手粘土铸模
-tconstruct:clay_cast:0, 外壳粘土铸模
-tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 护甲板粘土铸模
+tconstruct:clay_cast:0, 锤头粘土铸模
+tconstruct:clay_cast:0, 大板粘土铸模
 tconstruct:clay_cast:0, 盘粘土铸模
+tconstruct:clay_cast:0, 园艺镰头粘土铸模
+tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, 十字柄粘土铸模
 tconstruct:clay_cast:0, 火枪手柄粘土铸模
+tconstruct:clay_cast:0, 绑定结粘土铸模
+tconstruct:clay_cast:0, 外壳粘土铸模
+tconstruct:clay_cast:0, 轮轴粘土铸模
+tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
+tconstruct:clay_cast:0, 刺刀粘土铸模
 tconstruct:stone_torch:0, 石柄火把
 tconstruct:stone_ladder:0, 石梯
 tconstruct:punji:0, 尖竹钉
@@ -12296,9 +12296,9 @@ botania:specialflower:0, 小气泡铃
 botania:specialflower:0, 弱磁兰
 botania:specialflower:0, 小弱磁兰
 botania:specialflower:0, 消音柑
-botania:specialflower:0, 凋零之花
-botania:specialflower:0, 碎玉之花
 botania:specialflower:0, 惊雷之花
+botania:specialflower:0, 碎玉之花
+botania:specialflower:0, 凋零之花
 botania:specialflower:0, 清露之花
 botania:specialflower:0, 阿斯加德蒲公英
 botania:specialflower:0, 索利安德之嗜
@@ -12456,9 +12456,9 @@ botania:floatingspecialflower:0, 浮空小气泡铃
 botania:floatingspecialflower:0, 浮空弱磁兰
 botania:floatingspecialflower:0, 浮空小弱磁兰
 botania:floatingspecialflower:0, 浮空消音柑
-botania:floatingspecialflower:0, 浮空凋零之花
-botania:floatingspecialflower:0, 浮空碎玉之花
 botania:floatingspecialflower:0, 浮空惊雷之花
+botania:floatingspecialflower:0, 浮空碎玉之花
+botania:floatingspecialflower:0, 浮空凋零之花
 botania:floatingspecialflower:0, 浮空清露之花
 botania:floatingspecialflower:0, 浮空阿斯加德蒲公英
 botania:floatingspecialflower:0, 浮空索利安德之嗜
@@ -13966,6 +13966,20 @@ conarm:armorforge:0, 盔甲装配台
 conarm:armorforge:0, 盔甲装配台
 conarm:armorforge:0, 盔甲装配台
 conarm:armorstation:0, 盔甲组装台
+extrabotany:pedestal, 基座
+extrabotany:blockorichalcos, tile.blockorichalcos.name
+extrabotany:manabarrel, tile.manabarrel.name
+extrabotany:cocoondesire, tile.cocoondesire.name
+extrabotany:managenerator, tile.managenerator.name
+extrabotany:manaliquefaction, tile.manaliquefaction.name
+extrabotany:fluidedmana, 液态魔力
+extrabotany:elfjar, tile.elfjar.name
+extrabotany:trophy, tile.trophy.name
+extrabotany:quantummanabuffer, tile.quantummanabuffer.name
+extrabotany:dimensioncatalyst, tile.dimensioncatalyst.name
+extrabotany:blockshadowium, tile.blockshadowium.name
+extrabotany:blockphotonium, tile.blockphotonium.name
+extrabotany:chargepad, tile.chargepad.name
 extrabotany:manareader, item.manareader.name
 extrabotany:spiritfuel, item.spiritfuel.name
 extrabotany:nightmarefuel, item.nightmarefuel.name
@@ -14085,20 +14099,6 @@ extrabotany:magicfinger, item.magicfinger.name
 extrabotany:silenteternity, item.silenteternity.name
 extrabotany:specialbag, item.specialbag.name
 extrabotany:firstfractal, item.firstfractal.name
-extrabotany:pedestal, 基座
-extrabotany:blockorichalcos, tile.blockorichalcos.name
-extrabotany:manabarrel, tile.manabarrel.name
-extrabotany:cocoondesire, tile.cocoondesire.name
-extrabotany:managenerator, tile.managenerator.name
-extrabotany:manaliquefaction, tile.manaliquefaction.name
-extrabotany:fluidedmana, 液态魔力
-extrabotany:elfjar, tile.elfjar.name
-extrabotany:trophy, tile.trophy.name
-extrabotany:quantummanabuffer, tile.quantummanabuffer.name
-extrabotany:dimensioncatalyst, tile.dimensioncatalyst.name
-extrabotany:blockshadowium, tile.blockshadowium.name
-extrabotany:blockphotonium, tile.blockphotonium.name
-extrabotany:chargepad, tile.chargepad.name
 akashictome:tome, item.tome.name
 psi:material:0, Psi粉
 psi:material:1, Psi金属锭
@@ -14553,6 +14553,8 @@ bloodmagic:demon_crystal:4, [坚毅]意志晶簇
 bloodmagic:alchemy_table, 炼金术桌
 bloodmagic:decorative_brick:0, 大血石砖
 bloodmagic:decorative_brick:1, 血石砖
+bloodmagic:decorative_brick:2, 晶簇块
+bloodmagic:decorative_brick:3, 晶簇砖
 bloodmagic:path:0, 木制路面
 bloodmagic:path:1, 木瓦路面
 bloodmagic:path:2, 石砖路面
@@ -14681,6 +14683,7 @@ bloodmagic:blood_orb:0, [学徒]气血宝珠
 bloodmagic:blood_orb:0, [法师]气血宝珠
 bloodmagic:blood_orb:0, [导师]气血宝珠
 bloodmagic:blood_orb:0, [贤者]气血宝珠
+bloodmagic:blood_orb:0, [卓越]气血宝珠
 bloodmagic:activation_crystal:0, [虚弱]激活水晶
 bloodmagic:activation_crystal:1, [觉醒]激活水晶
 bloodmagic:activation_crystal:2, [创造]激活水晶
@@ -14694,6 +14697,7 @@ bloodmagic:inscription_tool:2, 元素铭文工具：火
 bloodmagic:inscription_tool:3, 元素铭文工具：土
 bloodmagic:inscription_tool:4, 元素铭文工具：风
 bloodmagic:inscription_tool:5, 元素铭文工具：薄暮
+bloodmagic:inscription_tool:6, 元素铭文工具：破晓
 bloodmagic:sacrificial_dagger:0, 牺牲匕首
 bloodmagic:sacrificial_dagger:1, [创造]牺牲匕首
 bloodmagic:pack_sacrifice, 斗士铠衣
@@ -15583,6 +15587,41 @@ emergingtechnology:circuitbasic, 基础电路板
 emergingtechnology:circuitadvanced, 进阶电路板
 emergingtechnology:circuitsuperior, 高级电路板
 csb_ench_table:ender_enchanting_table, 末影附魔台
+enderutilities:asu:0, 可调储物箱
+enderutilities:barrel:0, 储物桶
+enderutilities:draw_bridge:0, 吊桥
+enderutilities:draw_bridge:1, 高级吊桥
+enderutilities:ender_elevator:0, 末影电梯（white）
+enderutilities:ender_elevator_slab:0, 末影电梯台阶（white）
+enderutilities:ender_elevator_layer:0, 末影电梯地毯（white）
+enderutilities:inserter:0, 插入器
+enderutilities:inserter:1, 插入器（过滤型）
+enderutilities:floor:0, 地板
+enderutilities:floor:1, 劣质地板
+enderutilities:energy_bridge:0, 能量桥谐振器
+enderutilities:energy_bridge:1, 能量桥接收器
+enderutilities:energy_bridge:2, 能量桥发送器
+enderutilities:machine_0:0, 末影熔炉
+enderutilities:machine_1:0, 末影灌注器
+enderutilities:machine_1:1, 工具工作台
+enderutilities:machine_1:2, 创造台
+enderutilities:machine_1:3, 高级快速存放器
+enderutilities:molecular_exciter, tile.null.name
+enderutilities:msu:0, 大型存储单元
+enderutilities:msu:1, 大型存储包
+enderutilities:phasing:0, 定相方块
+enderutilities:phasing:1, 定相方块（反相）
+enderutilities:frame, tile.null.name
+enderutilities:portal_panel, tile.null.name
+enderutilities:sound_block:0, 放音方块
+enderutilities:storage_0:0, 小型记忆箱
+enderutilities:storage_0:1, 记忆箱
+enderutilities:storage_0:2, 大型记忆箱
+enderutilities:storage_0:3, 便捷箱子（小）
+enderutilities:storage_0:4, 便捷箱子（正常）
+enderutilities:storage_0:5, 便捷箱子（大）
+enderutilities:storage_0:6, 便捷箱子（超大）
+enderutilities:storage_0:7, 杂物存储单元
 enderutilities:endercapacitor:0, 末影电容（基础）
 enderutilities:endercapacitor:0, 末影电容（基础）
 enderutilities:endercapacitor:1, 末影电容（增强）
@@ -15654,41 +15693,6 @@ enderutilities:syringe:1, 阻滞剂注射器
 enderutilities:syringe:2, 兴奋剂注射器
 enderutilities:syringe:3, 镇静剂注射器
 enderutilities:void_pickaxe, 虚空镐
-enderutilities:asu:0, 可调储物箱
-enderutilities:barrel:0, 储物桶
-enderutilities:draw_bridge:0, 吊桥
-enderutilities:draw_bridge:1, 高级吊桥
-enderutilities:ender_elevator:0, 末影电梯（white）
-enderutilities:ender_elevator_slab:0, 末影电梯台阶（white）
-enderutilities:ender_elevator_layer:0, 末影电梯地毯（white）
-enderutilities:inserter:0, 插入器
-enderutilities:inserter:1, 插入器（过滤型）
-enderutilities:floor:0, 地板
-enderutilities:floor:1, 劣质地板
-enderutilities:energy_bridge:0, 能量桥谐振器
-enderutilities:energy_bridge:1, 能量桥接收器
-enderutilities:energy_bridge:2, 能量桥发送器
-enderutilities:machine_0:0, 末影熔炉
-enderutilities:machine_1:0, 末影灌注器
-enderutilities:machine_1:1, 工具工作台
-enderutilities:machine_1:2, 创造台
-enderutilities:machine_1:3, 高级快速存放器
-enderutilities:molecular_exciter, tile.null.name
-enderutilities:msu:0, 大型存储单元
-enderutilities:msu:1, 大型存储包
-enderutilities:phasing:0, 定相方块
-enderutilities:phasing:1, 定相方块（反相）
-enderutilities:frame, tile.null.name
-enderutilities:portal_panel, tile.null.name
-enderutilities:sound_block:0, 放音方块
-enderutilities:storage_0:0, 小型记忆箱
-enderutilities:storage_0:1, 记忆箱
-enderutilities:storage_0:2, 大型记忆箱
-enderutilities:storage_0:3, 便捷箱子（小）
-enderutilities:storage_0:4, 便捷箱子（正常）
-enderutilities:storage_0:5, 便捷箱子（大）
-enderutilities:storage_0:6, 便捷箱子（超大）
-enderutilities:storage_0:7, 杂物存储单元
 exponentialpower:endercell, Ender Cell
 exponentialpower:endergenerator, Ender Generator
 exponentialpower:enderstorage, Ender Storage
@@ -16600,16 +16604,8 @@ mysticalagriculture:supremium_boots, §c终极精华靴子
 mysticalagradditions:storage:0, §5究极精华块
 mysticalagradditions:storage:1, §5究极精华锭块
 mysticalagradditions:storage:2, §5究极精华煤块
-mysticalagradditions:special:0, 下界之星核心
-mysticalagradditions:special:1, 龙蛋核心
-mysticalagradditions:special:4, 觉醒龙粒核心
-mysticalagradditions:special:5, 中子素核心
 mysticalagradditions:tinkering_table, 工具装配台
 mysticalagradditions:tier6_inferium_crop, 究极精华作物
-mysticalagradditions:nether_star_crop, 下界之星作物
-mysticalagradditions:dragon_egg_crop, 龙蛋作物
-mysticalagradditions:awakened_draconium_crop, 觉醒龙粒作物
-mysticalagradditions:neutronium_crop, 中子素作物
 mysticalagradditions:insanium:0, §5究极精华
 mysticalagradditions:insanium:1, 六级合成种子
 mysticalagradditions:insanium:2, §5究极精华锭
@@ -16621,15 +16617,7 @@ mysticalagradditions:stuff:1, 凋灵灵魂碎片
 mysticalagradditions:stuff:2, 龙蛋块
 mysticalagradditions:stuff:3, 龙鳞
 mysticalagradditions:stuff:69, 创造精华
-mysticalagradditions:nether_star_essence, 下界之星精华
-mysticalagradditions:dragon_egg_essence, 龙蛋精华
-mysticalagradditions:awakened_draconium_essence, 觉醒龙粒精华
-mysticalagradditions:neutronium_essence, 中子素精华
 mysticalagradditions:tier6_inferium_seeds, 究极精华种子
-mysticalagradditions:nether_star_seeds, 下界之星种子
-mysticalagradditions:dragon_egg_seeds, 龙蛋种子
-mysticalagradditions:awakened_draconium_seeds, 觉醒龙种子
-mysticalagradditions:neutronium_seeds, 中子素种子
 mysticalagradditions:charm:0, 附魔：开采AOE
 mysticalagradditions:inferium_paxel, §e下级精华全能工具
 mysticalagradditions:prudentium_paxel, §a初级精华全能工具
@@ -17117,6 +17105,24 @@ immersiveengineering:steel_armor_feet, 钢靴子
 immersiveengineering:steel_armor_legs, 钢护腿
 immersiveengineering:steel_armor_chest, 钢胸甲
 immersiveengineering:steel_armor_head, 钢头盔
+ironchest:iron_gold_chest_upgrade, 箱子升级：铁>金
+ironchest:gold_diamond_chest_upgrade, 箱子升级：金>钻石
+ironchest:copper_silver_chest_upgrade, 箱子升级：铜>银
+ironchest:silver_gold_chest_upgrade, 箱子升级：银>金
+ironchest:copper_iron_chest_upgrade, 箱子升级：铜>铁
+ironchest:diamond_crystal_chest_upgrade, 箱子升级：钻石>水晶
+ironchest:wood_iron_chest_upgrade, 箱子升级：木>铁
+ironchest:wood_copper_chest_upgrade, 箱子升级：木>铜
+ironchest:diamond_obsidian_chest_upgrade, 箱子升级：钻石>黑曜石
+ironchest:iron_gold_shulker_upgrade, 潜影盒升级：铁>金
+ironchest:gold_diamond_shulker_upgrade, 潜影盒升级：金>钻石
+ironchest:copper_silver_shulker_upgrade, 潜影盒升级：铜>银
+ironchest:silver_gold_shulker_upgrade, 潜影盒升级：银>金
+ironchest:copper_iron_shulker_upgrade, 潜影盒升级：铜>铁
+ironchest:diamond_crystal_shulker_upgrade, 潜影盒升级：钻石>水晶
+ironchest:vanilla_iron_shulker_upgrade, 潜影盒升级：原版>铁
+ironchest:vanilla_copper_shulker_upgrade, 潜影盒升级：原版>铜
+ironchest:diamond_obsidian_shulker_upgrade, 潜影盒升级：钻石>黑曜石
 ironchest:iron_chest:0, 铁箱子
 ironchest:iron_chest:1, 金箱子
 ironchest:iron_chest:2, 钻石箱子
@@ -17237,24 +17243,6 @@ ironchest:iron_shulker_box_black:3, 黑色铜质潜影盒
 ironchest:iron_shulker_box_black:4, 黑色银质潜影盒
 ironchest:iron_shulker_box_black:5, 黑色水晶潜影盒
 ironchest:iron_shulker_box_black:6, 黑色黑曜石潜影盒
-ironchest:iron_gold_chest_upgrade, 箱子升级：铁>金
-ironchest:gold_diamond_chest_upgrade, 箱子升级：金>钻石
-ironchest:copper_silver_chest_upgrade, 箱子升级：铜>银
-ironchest:silver_gold_chest_upgrade, 箱子升级：银>金
-ironchest:copper_iron_chest_upgrade, 箱子升级：铜>铁
-ironchest:diamond_crystal_chest_upgrade, 箱子升级：钻石>水晶
-ironchest:wood_iron_chest_upgrade, 箱子升级：木>铁
-ironchest:wood_copper_chest_upgrade, 箱子升级：木>铜
-ironchest:diamond_obsidian_chest_upgrade, 箱子升级：钻石>黑曜石
-ironchest:iron_gold_shulker_upgrade, 潜影盒升级：铁>金
-ironchest:gold_diamond_shulker_upgrade, 潜影盒升级：金>钻石
-ironchest:copper_silver_shulker_upgrade, 潜影盒升级：铜>银
-ironchest:silver_gold_shulker_upgrade, 潜影盒升级：银>金
-ironchest:copper_iron_shulker_upgrade, 潜影盒升级：铜>铁
-ironchest:diamond_crystal_shulker_upgrade, 潜影盒升级：钻石>水晶
-ironchest:vanilla_iron_shulker_upgrade, 潜影盒升级：原版>铁
-ironchest:vanilla_copper_shulker_upgrade, 潜影盒升级：原版>铜
-ironchest:diamond_obsidian_shulker_upgrade, 潜影盒升级：钻石>黑曜石
 jecalculation:item_calculator:0, 合成计算器
 jecalculation:item_calculator:1, 数学计算器
 matc:inferiumcrystal, §e下级注魔水晶
@@ -17394,15 +17382,6 @@ morebuckets:cobalt_bucket, 钴桶
 morebuckets:manyullyn_bucket, 玛玉灵桶
 morechickens:solidxp, 固态经验
 moreplates:hammer, 锤子
-pneumaticcraft:logistic_frame_active_provider, 物流主动供应框架
-pneumaticcraft:logistic_frame_passive_provider, 物流被动供应框架
-pneumaticcraft:logistic_frame_storage, 物流存储框架
-pneumaticcraft:logistic_frame_default_storage, 物流默认存储框架
-pneumaticcraft:logistic_frame_requester, 物流请求框架
-pneumaticcraft:heat_frame, 导热框架
-pneumaticcraft:spawner_agitator, 刷怪笼激发器
-pneumaticcraft:crop_support, 作物架
-pneumaticcraft:transfer_gadget, 传输装置
 pneumaticcraft:gps_tool, 定位工具
 pneumaticcraft:gps_area_tool, 区域定位工具
 pneumaticcraft:ingot_iron_compressed, 压缩铁锭
@@ -17551,6 +17530,23 @@ pneumaticcraft:flux_compressor, 通量压缩机
 pneumaticcraft:pneumatic_dynamo, 气动能源炉
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:thermal_compressor, 热力压缩器
+pneumaticcraft:logistic_frame_active_provider, 物流主动供应框架
+pneumaticcraft:logistic_frame_passive_provider, 物流被动供应框架
+pneumaticcraft:logistic_frame_storage, 物流存储框架
+pneumaticcraft:logistic_frame_default_storage, 物流默认存储框架
+pneumaticcraft:logistic_frame_requester, 物流请求框架
+pneumaticcraft:heat_frame, 导热框架
+pneumaticcraft:spawner_agitator, 刷怪笼激发器
+pneumaticcraft:crop_support, 作物架
+pneumaticcraft:transfer_gadget, 传输装置
+pneumaticcraft:fluid.fuel, 汽油
+pneumaticcraft:fluid.etchacid, 蚀刻酸
+pneumaticcraft:fluid.diesel, 柴油
+pneumaticcraft:fluid.lubricant, 润滑油
+pneumaticcraft:fluid.lpg, 液化石油气（LPG）
+pneumaticcraft:fluid.kerosene, 煤油
+pneumaticcraft:fluid.oil, 石油
+pneumaticcraft:fluid.plastic, 塑料
 pneumaticcraft:safety_tube_module, 安全管道模块
 pneumaticcraft:pressure_gauge_module, 压力表管道模块
 pneumaticcraft:flow_detector_module, 流量检测管道模块
@@ -17559,14 +17555,6 @@ pneumaticcraft:regulator_tube_module, 调节器管道模块
 pneumaticcraft:charging_module, 充气模块
 pneumaticcraft:logistics_module, 物流模块
 pneumaticcraft:redstone_module, 红石模块
-pneumaticcraft:fluid.plastic, 塑料
-pneumaticcraft:fluid.oil, 石油
-pneumaticcraft:fluid.kerosene, 煤油
-pneumaticcraft:fluid.fuel, 汽油
-pneumaticcraft:fluid.lubricant, 润滑油
-pneumaticcraft:fluid.etchacid, 蚀刻酸
-pneumaticcraft:fluid.diesel, 柴油
-pneumaticcraft:fluid.lpg, 液化石油气（LPG）
 mysticalcreations:cake_crop, tile.cake_crop.name
 mysticalcreations:cake_essence, item.cake_essence.name
 mysticalcreations:cake_seeds, item.cake_seeds.name
@@ -17944,31 +17932,31 @@ rftoolsdim:structure_essence:8, 沼泽小屋结构要素
 rftoolsdim:structure_essence:9, 沙漠神殿结构要素
 rftoolsdim:structure_essence:10, 丛林神殿结构要素
 rftoolsdim:structure_essence:11, 雪屋结构要素
-rftoolsdim:known_dimlet:7, 特征信息卡 (None)
-rftoolsdim:known_dimlet:8, 时间信息卡 (Normal)
-rftoolsdim:known_dimlet:4, 天空信息卡 (Normal)
-rftoolsdim:known_dimlet:6, 地形信息卡 (Void)
+rftoolsdim:known_dimlet:6, 地形信息卡 (Flat)
 rftoolsdim:known_dimlet:4, 天空信息卡 (Normal day)
-rftoolsdim:known_dimlet:10, 效果信息卡 (None)
-rftoolsdim:known_dimlet:1, 流体信息卡 (水)
-rftoolsdim:known_dimlet:12, 控制器信息卡 (Default)
-rftoolsdim:known_dimlet:5, 结构信息卡 (None)
-rftoolsdim:known_dimlet:9, 数位信息卡 (8)
-rftoolsdim:known_dimlet:4, 天空信息卡 (Normal night)
-rftoolsdim:known_dimlet:9, 数位信息卡 (9)
-rftoolsdim:known_dimlet:9, 数位信息卡 (6)
-rftoolsdim:known_dimlet:9, 数位信息卡 (7)
 rftoolsdim:known_dimlet:9, 数位信息卡 (4)
 rftoolsdim:known_dimlet:9, 数位信息卡 (5)
-rftoolsdim:known_dimlet:9, 数位信息卡 (2)
-rftoolsdim:known_dimlet:9, 数位信息卡 (3)
+rftoolsdim:known_dimlet:9, 数位信息卡 (6)
+rftoolsdim:known_dimlet:12, 控制器信息卡 (Single)
+rftoolsdim:known_dimlet:9, 数位信息卡 (7)
+rftoolsdim:known_dimlet:13, 天气信息卡 (Default)
 rftoolsdim:known_dimlet:9, 数位信息卡 (0)
 rftoolsdim:known_dimlet:9, 数位信息卡 (1)
+rftoolsdim:known_dimlet:9, 数位信息卡 (2)
+rftoolsdim:known_dimlet:7, 特征信息卡 (None)
+rftoolsdim:known_dimlet:9, 数位信息卡 (3)
+rftoolsdim:known_dimlet:9, 数位信息卡 (8)
+rftoolsdim:known_dimlet:9, 数位信息卡 (9)
+rftoolsdim:known_dimlet:6, 地形信息卡 (Void)
+rftoolsdim:known_dimlet:10, 效果信息卡 (None)
+rftoolsdim:known_dimlet:1, 流体信息卡 (水)
+rftoolsdim:known_dimlet:4, 天空信息卡 (Normal)
+rftoolsdim:known_dimlet:8, 时间信息卡 (Normal)
+rftoolsdim:known_dimlet:5, 结构信息卡 (None)
 rftoolsdim:known_dimlet:2, 材料信息卡 (石头)
+rftoolsdim:known_dimlet:12, 控制器信息卡 (Default)
 rftoolsdim:known_dimlet:3, 生物信息卡 (Default)
-rftoolsdim:known_dimlet:12, 控制器信息卡 (Single)
-rftoolsdim:known_dimlet:13, 天气信息卡 (Default)
-rftoolsdim:known_dimlet:6, 地形信息卡 (Flat)
+rftoolsdim:known_dimlet:4, 天空信息卡 (Normal night)
 rftoolsdim:efficiency_essence, 效率要素
 rftoolsdim:mediocre_efficiency_essence, 平庸的效率要素
 rftoolsdim:empty_dimension_tab, 空白世界构建模板
@@ -18245,6 +18233,27 @@ steamworld:block_dynamo, Steam Dynamo
 steamworld:generator_electric, Electric Steam Generator
 steamworld:block_steaite, Steaite Block (Legacy)
 steamworld:ore_steaite, Steaite Ore (Legacy)
+storagedrawers:upgrade_template, 升级模板
+storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
+storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
+storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
+storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
+storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
+storagedrawers:upgrade_one_stack, 存储降级
+storagedrawers:upgrade_status:0, 状态显示升级（I）
+storagedrawers:upgrade_status:1, 状态显示升级（II）
+storagedrawers:upgrade_void, 清空升级
+storagedrawers:upgrade_conversion, 转换升级
+storagedrawers:upgrade_creative:0, 创造模式容量升级
+storagedrawers:upgrade_creative:1, 创造模式取出升级
+storagedrawers:upgrade_redstone:0, 红石升级
+storagedrawers:upgrade_redstone:1, 红石升级（最大）
+storagedrawers:upgrade_redstone:2, 红石升级（最小）
+storagedrawers:drawer_key, 抽屉钥匙
+storagedrawers:shroud_key, 屏蔽钥匙
+storagedrawers:personal_key, 私人钥匙
+storagedrawers:quantify_key, 量化钥匙
+storagedrawers:tape, 打包带
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
@@ -18295,27 +18304,6 @@ storagedrawers:customdrawers:2, 2x2 镶框抽屉
 storagedrawers:customdrawers:3, 1x2 小型镶框抽屉
 storagedrawers:customdrawers:4, 2x2 小型镶框抽屉
 storagedrawers:customtrim, 镶框
-storagedrawers:upgrade_template, 升级模板
-storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
-storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
-storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
-storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
-storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
-storagedrawers:upgrade_one_stack, 存储降级
-storagedrawers:upgrade_status:0, 状态显示升级（I）
-storagedrawers:upgrade_status:1, 状态显示升级（II）
-storagedrawers:upgrade_void, 清空升级
-storagedrawers:upgrade_conversion, 转换升级
-storagedrawers:upgrade_creative:0, 创造模式容量升级
-storagedrawers:upgrade_creative:1, 创造模式取出升级
-storagedrawers:upgrade_redstone:0, 红石升级
-storagedrawers:upgrade_redstone:1, 红石升级（最大）
-storagedrawers:upgrade_redstone:2, 红石升级（最小）
-storagedrawers:drawer_key, 抽屉钥匙
-storagedrawers:shroud_key, 屏蔽钥匙
-storagedrawers:personal_key, 私人钥匙
-storagedrawers:quantify_key, 量化钥匙
-storagedrawers:tape, 打包带
 thermalconversion:cell0, Conversion Matrix
 thermalconversion:cell1, Thermal Cell
 thermalconversion:cell8, Thermal Pack X8
@@ -18370,22 +18358,6 @@ thermallogistics:distributor:3, 信素分配器
 thermallogistics:distributor:4, 谐振分配器
 thermallogistics:manager, 网络管理器
 thermallogistics:terminal_item, 终端
-thermalsolars:blocksolarpanel1, 1 级太阳能板
-thermalsolars:blocksolarpanel2, 2 级太阳能板
-thermalsolars:blocksolarpanel3, 3 级太阳能板
-thermalsolars:blocksolarpanel4, 4 级太阳能板
-thermalsolars:blocksolarpanel5, 5 级太阳能板
-thermalsolars:blocksolarpanel6, 6 级太阳能板
-thermalsolars:blocksolarpanel101, 1 级月光太阳能板
-thermalsolars:blocksolarpanel102, 2 级月光太阳能板
-thermalsolars:blocksolarpanel103, 3 级月光太阳能板
-thermalsolars:blocktitaniumore, 钛矿
-thermalsolars:blocklunarorenether, 月矿
-thermalsolars:blockenderoreend, 末影矿
-thermalsolars:blockenderpanel, 末影模块太阳能板
-thermalsolars:blocktitaniumblock, 钛块
-thermalsolars:blocklunarblock, 月块
-thermalsolars:blockenderblock, 末影块
 thermalsolars:itemtitaniumglassplate, 钛玻璃板
 thermalsolars:itemtitaniumdust, 钛粉
 thermalsolars:itemtitaniumsolarcell, 钛太阳能电池
@@ -18429,6 +18401,22 @@ thermalsolars:itemenderhammer, 末影锤
 thermalsolars:itemtitaniumexcavator, 钛开掘铲
 thermalsolars:itemlunarexcavator, 月开掘铲
 thermalsolars:itemenderexcavator, 末影开掘铲
+thermalsolars:blocksolarpanel1, 1 级太阳能板
+thermalsolars:blocksolarpanel2, 2 级太阳能板
+thermalsolars:blocksolarpanel3, 3 级太阳能板
+thermalsolars:blocksolarpanel4, 4 级太阳能板
+thermalsolars:blocksolarpanel5, 5 级太阳能板
+thermalsolars:blocksolarpanel6, 6 级太阳能板
+thermalsolars:blocksolarpanel101, 1 级月光太阳能板
+thermalsolars:blocksolarpanel102, 2 级月光太阳能板
+thermalsolars:blocksolarpanel103, 3 级月光太阳能板
+thermalsolars:blocktitaniumore, 钛矿
+thermalsolars:blocklunarorenether, 月矿
+thermalsolars:blockenderoreend, 末影矿
+thermalsolars:blockenderpanel, 末影模块太阳能板
+thermalsolars:blocktitaniumblock, 钛块
+thermalsolars:blocklunarblock, 月块
+thermalsolars:blockenderblock, 末影块
 tinker_io:cd_lonesome_avenue, 音乐唱片
 tinker_io:upg:0, 基础升级元件
 tinker_io:upg:1, 容量升级 I
@@ -21421,6 +21409,8 @@ chiselsandbits:block_bit:0, 雕刻碎屑 - 仪式石
 chiselsandbits:block_bit:0, 雕刻碎屑 - 仪式石
 chiselsandbits:block_bit:0, 雕刻碎屑 - 大血石砖
 chiselsandbits:block_bit:0, 雕刻碎屑 - 血石砖
+chiselsandbits:block_bit:0, 雕刻碎屑 - 晶簇块
+chiselsandbits:block_bit:0, 雕刻碎屑 - 晶簇砖
 chiselsandbits:block_bit:0, 雕刻碎屑 - 木制路面
 chiselsandbits:block_bit:0, 雕刻碎屑 - 木瓦路面
 chiselsandbits:block_bit:0, 雕刻碎屑 - 石砖路面
@@ -21684,10 +21674,6 @@ chiselsandbits:block_bit:0, 雕刻碎屑 - 防凋零方块
 chiselsandbits:block_bit:0, 雕刻碎屑 - §5究极精华块
 chiselsandbits:block_bit:0, 雕刻碎屑 - §5究极精华锭块
 chiselsandbits:block_bit:0, 雕刻碎屑 - §5究极精华煤块
-chiselsandbits:block_bit:0, 雕刻碎屑 - 下界之星核心
-chiselsandbits:block_bit:0, 雕刻碎屑 - 龙蛋核心
-chiselsandbits:block_bit:0, 雕刻碎屑 - 觉醒龙粒核心
-chiselsandbits:block_bit:0, 雕刻碎屑 - 中子素核心
 chiselsandbits:block_bit:0, 雕刻碎屑 - 机器框架
 chiselsandbits:block_bit:0, 雕刻碎屑 - 机器基座
 chiselsandbits:block_bit:0, 雕刻碎屑 - 空间碎片矿石
@@ -23215,21 +23201,21 @@ etlunar:lunar_cont_5, 月光阵列控制器（等级5）
 etlunar:lunar_cont_6, 月光阵列控制器（等级6）
 etlunar:lunar_cell_mica, 月光云母电池
 etlunar:lunarvoltaic_cell, 月光能量电池板
+hardcorequesting:quest_portal, tile.hqm:quest_portal.name
+hardcorequesting:item_barrel, 任务提交系统
+hardcorequesting:quest_tracker, 任务追踪系统
 hardcorequesting:bags:0, 奖励袋子
 hardcorequesting:bags:1, 奖励袋子
 hardcorequesting:bags:2, 奖励袋子
 hardcorequesting:bags:3, 奖励袋子
 hardcorequesting:bags:4, 奖励袋子
-hardcorequesting:quest_tracker, 任务追踪系统
-hardcorequesting:rottenheart:0, 腐烂的心
-hardcorequesting:quarterheart:0, 四分之一颗心
-hardcorequesting:quest_book, item.hqm:quest_book.name
-hardcorequesting:quest_portal, tile.hqm:quest_portal.name
-hardcorequesting:item_barrel, 任务提交系统
 hardcorequesting:halfheart:0, 半颗心
+hardcorequesting:rottenheart:0, 腐烂的心
 hardcorequesting:threequarts:0, 四分之三颗心
-hardcorequesting:hqm_invalid_item, 无效物品
+hardcorequesting:quarterheart:0, 四分之一颗心
 hardcorequesting:heart:0, 完整的心
+hardcorequesting:quest_book, item.hqm:quest_book.name
+hardcorequesting:hqm_invalid_item, 无效物品
 industrialforegoing:petrified_fuel_generator, 火力发电机
 industrialforegoing:enchantment_refiner, 附魔物品分拣机
 industrialforegoing:enchantment_extractor, 附魔提取机
@@ -23397,6 +23383,28 @@ industrialforegoing:conveyor:13, 绿色§r 传送带
 industrialforegoing:conveyor:14, 红色§r 传送带
 industrialforegoing:conveyor:15, 黑色§r 传送带
 industrialforegoing:black_hole_label, 黑洞标签
+threng:machine:0, 福鲁伊克斯聚合器
+threng:machine:1, 脉冲离心机
+threng:machine:2, ME电路板蚀刻器
+threng:machine:3, 优先装配单元
+threng:machine:4, ME缓存指令器
+threng:machine:5, 晶体充能器
+threng:big_assembler:0, 大型分子装配室框架
+threng:big_assembler:1, 大型分子装配室外壁
+threng:big_assembler:2, 大型分子装配室控制器
+threng:big_assembler:3, 大型分子装配室样板核心
+threng:big_assembler:4, 大型分子装配室处理核心
+threng:big_assembler:5, 大型分子装配室IO端口
+tconevo:earth_material_block:0, 粉色史莱姆泥土
+tconevo:metal_block:0, 飞龙金属块
+tconevo:metal_block:1, 神龙金属块
+tconevo:metal_block:2, 混沌金属块
+tconevo:metal_block:3, 蕴魔源质金属块
+tconevo:metal_block:4, 元金块
+tconevo:metal_block:5, 束缚金属块
+tconevo:metal_block:6, 感知金属块
+tconevo:metal_block:7, 能量金属块
+tconevo:metal_block:8, UU金属块
 threng:material:0, 福鲁伊克斯钢锭
 threng:material:1, 含碳福鲁伊克斯复合物
 threng:material:2, 福鲁伊克斯镀层铁锭
@@ -23447,28 +23455,6 @@ tconevo:metal:33, 感知板
 tconevo:metal:34, 感知齿轮
 tconevo:edible:0, 生肉锭
 tconevo:edible:1, 熟肉锭
-tconevo:earth_material_block:0, 粉色史莱姆泥土
-tconevo:metal_block:0, 飞龙金属块
-tconevo:metal_block:1, 神龙金属块
-tconevo:metal_block:2, 混沌金属块
-tconevo:metal_block:3, 蕴魔源质金属块
-tconevo:metal_block:4, 元金块
-tconevo:metal_block:5, 束缚金属块
-tconevo:metal_block:6, 感知金属块
-tconevo:metal_block:7, 能量金属块
-tconevo:metal_block:8, UU金属块
-threng:machine:0, 福鲁伊克斯聚合器
-threng:machine:1, 脉冲离心机
-threng:machine:2, ME电路板蚀刻器
-threng:machine:3, 优先装配单元
-threng:machine:4, ME缓存指令器
-threng:machine:5, 晶体充能器
-threng:big_assembler:0, 大型分子装配室框架
-threng:big_assembler:1, 大型分子装配室外壁
-threng:big_assembler:2, 大型分子装配室控制器
-threng:big_assembler:3, 大型分子装配室样板核心
-threng:big_assembler:4, 大型分子装配室处理核心
-threng:big_assembler:5, 大型分子装配室IO端口
 tconevo:mana_giver, 内部物品
 tconevo:part_arcane_focus:0, 圆石 奇术焦镜
 tconevo:part_arcane_focus:0, 银 奇术焦镜
@@ -24229,9 +24215,11 @@ requious:item_gate, tile.item_gate.name
 requious:laser, tile.laser.name
 requious:assembler, tile.assembler.name
 requious:drying, 晾干台
-requious:living_factory, tile.living_factory.name
-requious:material_factory, tile.material_factory.name
-requious:advanced_efab_terminal, tile.advanced_efab_terminal.name
+requious:living_factory, 心-工厂
+requious:material_factory, 材料工厂
+requious:advanced_efab_terminal, 高级EFab合成终端
+requious:laser_table, tile.laser_table.name
+requious:kettle, tile.kettle.name
 requious:cell:0, 细胞
 requious:cell:0, 细胞
 requious:cell:0, 细胞
@@ -24781,7 +24769,7 @@ tp:lava_block, 熔岩源石头
 tp:flint_pickaxe, 燧石镐
 tp:large_bandage, 大型医疗绷带
 tp:diamond_shears, 钻石龙鳞剪
-tp:wooden_shears, 木剪
+tp:wooden_shears, 木制剪刀
 tp:redstone_leggings, 红石护腿
 tp:pumpkin_juice, 南瓜汁
 tp:golden_spear, 金质长矛
