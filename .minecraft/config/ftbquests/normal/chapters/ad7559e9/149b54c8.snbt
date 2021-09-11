@@ -1,0 +1,34 @@
+{
+	title: "{ftbquests.title.zombie}",
+	x: -2.0d,
+	y: 0.0d,
+	optional: true,
+	tasks: [{
+		uid: "9849106a",
+		type: "kill",
+		icon: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:zombie"
+				}
+			}
+		},
+		entity: "minecraft:zombie",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "f1a3fd1d",
+		type: "item",
+		team_reward: true,
+		auto: "no_toast",
+		item: {
+			id: "extrautils2:spike_creative",
+			tag: {
+				display: {
+					Name: "粒子生成器"
+				}
+			}
+		}
+	}]
+}

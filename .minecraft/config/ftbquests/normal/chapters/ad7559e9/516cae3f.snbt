@@ -1,5 +1,13 @@
 {
 	title: "{ftbquests.title.villages}",
+	icon: {
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:villager"
+			}
+		}
+	},
 	x: 0.0d,
 	y: 0.0d,
 	can_repeat: true,

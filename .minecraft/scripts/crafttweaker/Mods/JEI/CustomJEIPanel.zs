@@ -1,8 +1,9 @@
 #loader crafttweaker
 import mods.jei.JEI;
 import mods.randomtweaker.jei.JEIPanel;
+import scripts.baseUtils.baseUtils;
 
-var gaia_plate as JEIPanel = JEI.createJEIPanel("gaia_panel", "GaiaPanel");
+var gaia_plate as JEIPanel = JEI.createJEIPanel("gaia_plate", baseUtils.I18n("rt.customJEI.GaiaPlate"));
 gaia_plate.setModID("botania");
 gaia_plate.setIcon(<botanicadds:gaia_plate>);
 gaia_plate.addRecipeCatalyst(<botanicadds:gaia_plate>);
@@ -14,7 +15,7 @@ gaia_plate.addJEISlot(JEI.createItemSlot(false, 67, 47,false));
 gaia_plate.addJEIElement(JEI.createJEIArrowElement(68,26,3));
 gaia_plate.register();
 
-JEI.createJEIRecipe("gaia_panel")
+JEI.createJEIRecipe("gaia_plate")
     .addInput(<botania:manaresource:9>)
     .addInput(<botania:manaresource:8>)
     .addInput(<botania:manaresource:14>)
@@ -22,7 +23,7 @@ JEI.createJEIRecipe("gaia_panel")
     .setJEIElements([JEI.createJEIManaBarElement(25,65,1000000)])
     .build();
 
-JEI.createJEIRecipe("gaia_panel")
+JEI.createJEIRecipe("gaia_plate")
     .addInput(<botania:manaresource:1>)
     .addInput(<botania:manaresource:2>)
     .addInput(<botania:manaresource>)
