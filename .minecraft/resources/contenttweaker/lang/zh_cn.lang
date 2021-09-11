@@ -1,1 +1,6 @@
+//Items
 item.contenttweaker.super_dynamic_mana_ring.name=超动态魔力磁环
+//Material
+base.material.iron=铁
+//Part
+contenttweaker.part.component=%s 精密零件

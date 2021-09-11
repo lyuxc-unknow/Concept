@@ -1,1 +1,6 @@
+//items
 item.contenttweaker.super_dynamic_mana_ring.name=Super dynamic mnan ring
+//material
+base.material.iron=Iron
+//Part
+contenttweaker.part.component=%s Component
