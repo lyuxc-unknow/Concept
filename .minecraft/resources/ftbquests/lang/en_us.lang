@@ -1,0 +1,20 @@
+//pages
+ftbquests.page.a=A
+ftbquests.page.b=B
+ftbquests.page.c=C
+ftbquests.page.d=D
+ftbquests.page.e=E
+ftbquests.page.f=F
+ftbquests.page.g=G
+ftbquests.page.Miscellaneous=[Hide!] Miscellaneous
+
+//quests title
+ftbquests.title.villages=What kind of creature is the villager
+ftbquests.title.zombie=Kill zombie!
+ftbquests.a.title.wood=Get wood!
+
+//quests
+ftbquests.quests.vallages=Observing the villagers
+
+//reward
+ftbquests.reward.vallages=Surprise the villagers
