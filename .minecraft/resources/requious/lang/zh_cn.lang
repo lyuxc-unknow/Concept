@@ -22,9 +22,13 @@ tile.drying.name=晾干台
 tile.advanced_efab_terminal.name=高级EFab合成终端
 tile.living_factory.name=心-工厂
 tile.material_factory.name=材料工厂
+tile.laser_table.name=激光印刷台
+tile.kettle.name=柴火水壶
 
 //JEI
 requious.jei.recipe.drying=晾干台
 requious.jei.recipe.advanced_efab_terminal=高级EFab合成
 requious.jei.recipe.living_factory=心-合成
 requious.jei.recipe.material_factory=材料加工
+requious.jei.recipe.laser_table=激光印刷
+requious.jei.recipe.kettle=自然猛火蒸发

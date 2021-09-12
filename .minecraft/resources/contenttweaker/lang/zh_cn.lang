@@ -2,5 +2,8 @@
 item.contenttweaker.super_dynamic_mana_ring.name=超动态魔力磁环
 //Material
 base.material.iron=铁
+base.material.magnet=磁铁
+base.material.cave_magnet=磁化合金
+base.material.fine_iron=精铁
 //Part
 contenttweaker.part.component=%s 精密零件

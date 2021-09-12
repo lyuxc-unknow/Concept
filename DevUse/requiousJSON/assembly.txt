@@ -1,0 +1,80 @@
+[
+  {
+    "placeType": "Any",//放置类型
+    "layerType": "Cutout",//叠加类型
+    "hasGUI": true,//是否有GUI
+    "extraVariants": [],//?
+    "resourceName": "item_gate",//注册名
+    "model": "requious:assembly_block",//模型名
+    "colors": [//RGBA
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      }
+    ],
+    "hardness": 5.0,//硬度
+    "blastResistance": 5.0,//抗爆性
+    "aabb": {//AABB
+      "x1": 0.0,
+      "y1": 0.0,
+      "z1": 0.0,
+      "x2": 1.0,
+      "y2": 1.0,
+      "z2": 1.0
+    }
+  },
+  {
+    "placeType": "Any",//同上
+    "layerType": "Cutout",
+    "hasGUI": true,
+    "extraVariants": [],
+    "resourceName": "laser",
+    "model": "requious:assembly_laser",
+    "colors": [
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      }
+    ],
+    "hardness": 5.0,
+    "blastResistance": 5.0,
+    "aabb": {
+      "x1": 0.0,
+      "y1": 0.0,
+      "z1": 0.0,
+      "x2": 1.0,
+      "y2": 1.0,
+      "z2": 1.0
+    }
+  },
+  {
+    "placeType": "Any",
+    "layerType": "Cutout",
+    "hasGUI": true,
+    "extraVariants": [],
+    "resourceName": "assembler",
+    "model": "requious:assembly_slab",
+    "colors": [
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      }
+    ],
+    "hardness": 5.0,
+    "blastResistance": 5.0,
+    "aabb": {
+      "x1": 0.0,
+      "y1": 0.0,
+      "z1": 0.0,
+      "x2": 1.0,
+      "y2": 1.0,
+      "z2": 1.0
+    }
+  }
+]

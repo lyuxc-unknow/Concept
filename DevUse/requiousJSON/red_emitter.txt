@@ -1,0 +1,56 @@
+[
+  {
+    "capacity": 64,//容量
+    "interval": 40,//间隔(延迟)
+    "canEmit": false,//可以发射
+    "canReceive": false,//可以接收
+    "canRelay": false,//可以中续
+    "resourceName": "red_emitter_basic",//注册名
+    "model": "requious:red_emitter",//模型名
+    "colors": [//RGBA
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      }
+    ],
+    "hardness": 5.0,//硬度
+    "blastResistance": 5.0,//抗爆性
+    "aabb": {//AABB
+      "x1": 0.0,
+      "y1": 0.0,
+      "z1": 0.0,
+      "x2": 1.0,
+      "y2": 1.0,
+      "z2": 1.0
+    }
+  },
+  {
+    "capacity": 128,//同上
+    "interval": 20,
+    "canEmit": false,
+    "canReceive": false,
+    "canRelay": false,
+    "resourceName": "red_emitter_advanced",
+    "model": "requious:red_emitter",
+    "colors": [
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      }
+    ],
+    "hardness": 5.0,
+    "blastResistance": 5.0,
+    "aabb": {
+      "x1": 0.0,
+      "y1": 0.0,
+      "z1": 0.0,
+      "x2": 1.0,
+      "y2": 1.0,
+      "z2": 1.0
+    }
+  }
+]

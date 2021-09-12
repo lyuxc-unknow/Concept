@@ -1,0 +1,7 @@
+{
+    "parent" : "item/generated",
+    "textures" : {
+        "layer0" : "requious:items/fluid_unit",
+        "layer1" : "requious:items/fluid_unit_full"
+    }
+}

@@ -22,9 +22,13 @@ tile.drying.name=Drying
 tile.advanced_efab_terminal.name=Advanced Efab Terminal
 tile.living_factory.name=Living Factory
 tile.material_factory.name=Material Factory
+tile.laser_table.name=Laser Table
+tile.kettle.name=Kettle
 
 //JEI
 requious.jei.recipe.drying=Drying
 requious.jei.recipe.advanced_efab_terminal=Advanced Efab Crafting
-tile.living_factory.name=Living
-tile.material_factory.name=Material Crafting
+requious.jei.recipe.living_factory=Living
+requious.jei.recipe.material_factory=Material Crafting
+requious.jei.recipe.laser_table=Laser Table
+requious.jei.recipe.kettle=Kettle

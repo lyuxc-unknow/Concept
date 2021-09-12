@@ -13,6 +13,13 @@ iron.registerPart(material);
 */
 
 var iron as Material = MaterialSystem.getMaterialBuilder().setName("Iron").setColor(13487565).build();
+var magnet as Material = MaterialSystem.getMaterialBuilder().setName("Magnet").setColor(16731420).build();
+var caveMagnet as Material = MaterialSystem.getMaterialBuilder().setName("CaveMagnet").setColor(11665663).build();
+var fineiron as Material = MaterialSystem.getMaterialBuilder().setName("FineIron").setColor(10526880).build();
+
 var component = MaterialSystem.getPartBuilder().setName("component").setOreDictName("Component").setPartType(MaterialSystem.getPartType("item")).build();
 
 iron.registerPart(component);
+magnet.registerPart(component);
+caveMagnet.registerPart(component);
+fineiron.registerPart(component);

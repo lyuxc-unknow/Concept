@@ -1,3 +1,8 @@
 {
-  "materialMappings": {}
+  "materialMappings": {
+    "fine_iron_component": 2,
+    "cave_magnet_component": 1,
+    "magnet_component": 0,
+    "iron_component": 3
+  }
 }
