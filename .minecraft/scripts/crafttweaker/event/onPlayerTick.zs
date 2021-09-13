@@ -20,5 +20,6 @@ events.onPlayerTick(function(event as PlayerTickEvent){
 	if(!world.isRemote() && item.matches(<roost:catcher>)) {
 		var sc = server.commandManager as ICommandManager;
 		sc.executeCommand(server, "clear @a roost:catcher 0");
+		player.dropItem(<roost:catcher>);
     }
 });
