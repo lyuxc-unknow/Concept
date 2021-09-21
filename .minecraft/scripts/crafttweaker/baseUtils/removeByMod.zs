@@ -31,7 +31,10 @@ var removeItems as IItemStack[] = [
 <thermalintegrate:gold_loot_crate>,<thermalintegrate:diamond_loot_crate>,<thermalintegrate:copper_loot_crate>,
 <thermalintegrate:emerald_loot_crate>,<thermalintegrate:tin_loot_crate>,<thermalintegrate:lead_loot_crate>,
 <thermalintegrate:silver_loot_crate>,<thermalintegrate:wooden_loot_crate>,<thermalsolars:blocktitaniumblock>,
-<thermalsolars:blockenderblock>
+<thermalsolars:blockenderblock>,<bloodmagic:alchemic_vial>,<mist:achiev_item>,
+<projecte:item.pe_wind_projectile>,<projecte:item.pe_fire_projectile>,
+<thermalsolars:itemlunaraxe>,<thermalsolars:itemenderaxe>,
+<tconstruct:clay_cast>
 ];
 
 for remove in removeItems{

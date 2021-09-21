@@ -17,14 +17,18 @@ requious.fluid.empty=空
 requious.text.test=已激活 %sTick
 requious.text.owner=被 %s 拥有
 
-//Custom 
+//自定义机器
 tile.drying.name=晾干台
 tile.advanced_efab_terminal.name=高级EFab合成终端
 tile.living_factory.name=心-工厂
 tile.material_factory.name=材料工厂
 tile.laser_table.name=激光印刷台
 tile.kettle.name=柴火水壶
-
+//流体单元
+item.basic_fluid_unit.name=基础流体单元
+item.adv_fluid_unit.name=高级流体单元
+item.ulimate_fluid_unit.name=终极流体单元
+item.elite_fluid_unit.name=精英流体单元
 //JEI
 requious.jei.recipe.drying=晾干台
 requious.jei.recipe.advanced_efab_terminal=高级EFab合成

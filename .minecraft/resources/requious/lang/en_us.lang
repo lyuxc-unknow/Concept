@@ -17,14 +17,18 @@ requious.fluid.empty=Empty
 requious.text.test=I've been alive for %s ticks
 requious.text.owner=Owned by %s
 
-//Custom 
+//Custom machines
 tile.drying.name=Drying
 tile.advanced_efab_terminal.name=Advanced Efab Terminal
 tile.living_factory.name=Living Factory
 tile.material_factory.name=Material Factory
 tile.laser_table.name=Laser Table
 tile.kettle.name=Kettle
-
+//fluid unit
+item.basic_fluid_unit.name=Basic Unit
+item.adv_fluid_unit.name=Advanced Unit
+item.ulimate_fluid_unit.name=Unimate Unit
+item.elite_fluid_unit.name=Elite Unit
 //JEI
 requious.jei.recipe.drying=Drying
 requious.jei.recipe.advanced_efab_terminal=Advanced Efab Crafting

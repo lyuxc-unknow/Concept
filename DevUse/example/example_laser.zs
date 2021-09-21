@@ -44,7 +44,7 @@ a.setDurationSlot(4,2)
 function addaRecipes(input as int,time as int){
 	var recipe = AssemblyRecipe.create(function(container) {
 		container.addItemOutput("output",<minecraft:dirt>);
-	}).requireDuration("time",time).requireLaser("input","laser",input);
+	}).requireDuration("time",time).requireLaser("input","laser",input);//加载顺序导致无法合成,合成不了就换一下顺序[doge]
 	a.addRecipe(recipe);
 }
 addaRecipes(1000,10);
