@@ -41,10 +41,6 @@ liquidfusionfuel                                  ([no block])                  
 liquidlithium                                     ([no block])                                                                     = ÒºÌ¬ï®
 heavywater                                        ([no block])                                                                     = ÖØË®
 steam                                             ([no block])                                                                     = ÕôÆû
-canolaoil                                         (actuallyadditions:block_canola_oil)                                             = ²Ë×ÑÓÍ
-refinedcanolaoil                                  (actuallyadditions:block_refined_canola_oil)                                     = ¾«ÖÆ²Ë×ÑÓÍ
-crystaloil                                        (actuallyadditions:block_crystal_oil)                                            = ¾§»¯ÓÍ
-empoweredoil                                      (actuallyadditions:block_empowered_oil)                                          = ³äÄÜÓÍ
 creosote                                          (immersiveengineering:fluidcreosote)                                             = ÔÓ·ÓÓÍ
 coal                                              ([no block])                                                                     = ÒºÌ¬ÃºÌ¿
 crude_oil                                         (thermalfoundation:fluid_crude_oil)                                              = Ê¯ÓÍ
@@ -94,6 +90,10 @@ stellar_alloy                                     (enderio:block_fluid_stellar_a
 crystalline_pink_slime                            (enderio:block_fluid_crystalline_pink_slime)                                     = ÈÛÈÚ¾§»¯·ÛºìÕ³Òº
 energetic_silver                                  (enderio:block_fluid_energetic_silver)                                           = ÈÛÈÚ³äÄÜÒø
 vivid_alloy                                       (enderio:block_fluid_vivid_alloy)                                                = ÈÛÈÚÉú¶¯ºÏ½ð
+canolaoil                                         (actuallyadditions:block_canola_oil)                                             = ²Ë×ÑÓÍ
+refinedcanolaoil                                  (actuallyadditions:block_refined_canola_oil)                                     = ¾«ÖÆ²Ë×ÑÓÍ
+crystaloil                                        (actuallyadditions:block_crystal_oil)                                            = ¾§»¯ÓÍ
+empoweredoil                                      (actuallyadditions:block_empowered_oil)                                          = ³äÄÜÓÍ
 xu_evil_metal                                     ([no block])                                                                     = ¶ñÄ§¹à×¢Ìú
 xu_enchanted_metal                                ([no block])                                                                     = ¸½Ä§½ðÊô
 xu_demonic_metal                                  ([no block])                                                                     = ÈÛÈÚ¶ñÄ§½ðÊô

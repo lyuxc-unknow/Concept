@@ -6,3 +6,4 @@ scripts.crafttweaker.mods.tinker.melting.init();
 scripts.crafttweaker.mods.requious.kettle.init();
 scripts.crafttweaker.mods.AA.recipes.init();
 scripts.crafttweaker.mods.AA.compost.init();
+scripts.crafttweaker.mods.stage.orestage.init();
