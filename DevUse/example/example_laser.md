@@ -1,5 +1,5 @@
 # ReF镭射实例(参考)
-````ZenScripts
+```zenscript
 import crafttweaker.item.IItemStack;
 import mods.requious.ComponentFace;
 import mods.requious.AssemblyRecipe;
@@ -48,4 +48,4 @@ function addaRecipes(input as int,time as int){
 	a.addRecipe(recipe);
 }
 addaRecipes(1000,10);
-````
+```
