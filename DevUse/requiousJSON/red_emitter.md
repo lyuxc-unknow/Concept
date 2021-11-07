@@ -40,6 +40,6 @@
 |resourceName|资源名(注册名)|相当于机器的注册名|无|
 |model|模型|从一个自定义的位置读取模型(需要RL而且要在RL的范围内)|自己去学习RL|
 |colors|机器颜色|基于贴图的颜色叠加|自己看着上面写,格式为RGBA(0~255)|
-|hardness|硬度|控制自定义的机器的硬度|`float`|
-|blastResistance|抗爆性|控制机器的抗爆性|`float`|
+|hardness|硬度|设置硬度|`float`|
+|blastResistance|抗爆性|设置抗爆性|`float`|
 |aabb|AABB|更改方块的大小|过于复杂,需要`x1 y1 z1`为起始点的坐标`x2 y2 z2`为终点的坐标(相较于放置的位置)|
