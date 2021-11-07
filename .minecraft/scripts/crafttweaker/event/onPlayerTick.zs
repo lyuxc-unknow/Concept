@@ -14,13 +14,20 @@ events.onPlayerTick(function(event as PlayerTickEvent){
 	var player as IPlayer = event.player;
 	var item as IItemStack = player.currentItem;
 	var world as IWorld = player.world;
+	var commandManager = server.commandManager as ICommandManager;
 	if(isNull(item)){
         return;
-        }
-	if(!world.isRemote() && item.matches(<roost:catcher>)) {
-		var sc = server.commandManager as ICommandManager;
-		sc.executeCommand(server, "clear @a roost:catcher 0");
+    }
+	//禁用鸡捕手[仅丢出(假)]
+	if(!world.isRemote() && item.matches(<roost:catcher>)){
+		commandManager.executeCommand(server, "clear @a roost:catcher 0");
 		player.sendChat("§4Banned!");
 		player.dropItem(<roost:catcher>);
     }
+	/*
+	//不知道为啥,没用
+	if(world.isRaining()){
+		player.sendChat("123!");
+	}
+	*/
 });

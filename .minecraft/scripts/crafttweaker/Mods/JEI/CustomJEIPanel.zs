@@ -1,32 +1,36 @@
 #loader crafttweaker
 import mods.jei.JEI;
-import mods.randomtweaker.jei.JEIPanel;
+import mods.randomtweaker.jei.IJeiPanel;
+import mods.randomtweaker.jei.IJeiUtils;
 import scripts.baseUtils.baseUtils;
 
-var gaia_plate as JEIPanel = JEI.createJEIPanel("gaia_plate", baseUtils.I18n("rt.customJEI.GaiaPlate"));
-gaia_plate.setModID("botania");
+var gaia_plate as IJeiPanel = JEI.createJei("gaia_plate", "GaiaPlate");
+gaia_plate.setModid("botania");
 gaia_plate.setIcon(<botanicadds:gaia_plate>);
 gaia_plate.addRecipeCatalyst(<botanicadds:gaia_plate>);
-gaia_plate.setJEIBackGroup(JEI.createJEIBackground(150, 75));
-gaia_plate.addJEISlot(JEI.createItemSlot(true, 50, 8,false));
-gaia_plate.addJEISlot(JEI.createItemSlot(true, 66, 8,false));
-gaia_plate.addJEISlot(JEI.createItemSlot(true, 82, 8,false));
-gaia_plate.addJEISlot(JEI.createItemSlot(false, 67, 47,false));
-gaia_plate.addJEIElement(JEI.createJEIArrowElement(68,26,3));
+gaia_plate.setBackground(IJeiUtils.createBackground(150, 75));
+gaia_plate.setSlots(
+    [
+        IJeiUtils.createItemSlot(50, 8,true,false),
+        IJeiUtils.createItemSlot(66, 8,true,false),
+        IJeiUtils.createItemSlot(82, 8,true,false),
+        IJeiUtils.createItemSlot(67, 47,false,false)
+    ]);
+gaia_plate.addElement(IJeiUtils.createArrowElement(68,26,3));
 gaia_plate.register();
 
-JEI.createJEIRecipe("gaia_plate")
+JEI.createJeiRecipe("gaia_plate")
     .addInput(<botania:manaresource:9>)
     .addInput(<botania:manaresource:8>)
     .addInput(<botania:manaresource:14>)
     .addOutput(<botanicadds:gaiasteel_ingot>)
-    .setJEIElements([JEI.createJEIManaBarElement(25,65,1000000)])
+    .setElements([IJeiUtils.createJeiManaBarElement(25,65,1000000,330000)])
     .build();
 
-JEI.createJEIRecipe("gaia_plate")
+JEI.createJeiRecipe("gaia_plate")
     .addInput(<botania:manaresource:1>)
     .addInput(<botania:manaresource:2>)
     .addInput(<botania:manaresource>)
     .addOutput(<botania:manaresource:4>)
-    .setJEIElements([JEI.createJEIManaBarElement(25,65,301000)])
+    .setElements([IJeiUtils.createJeiManaBarElement(25,65,1000000,1000000)])
     .build();

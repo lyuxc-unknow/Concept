@@ -1,0 +1,65 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiIngameMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = quitgame
+  x = -50
+  width = 100
+  actionid = 465a105f-a059-4098-a1b8-7e3fc1e1c10c1633150813713
+  action = addbutton
+  y = -20
+  label = Quit
+  value = 
+  height = 20
+}
+
+customization {
+  identifier = %id=400354%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400258%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400306%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400330%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400282%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502330%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502282%
+  action = vanilla_button_visibility_requirements
+}
+

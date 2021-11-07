@@ -21,3 +21,6 @@ us.getfluxed.controlsearch.client.gui.GuiNewControls {
 net.minecraftforge.fml.client.GuiModList {
 }
 
+net.minecraft.client.gui.GuiIngameMenu {
+}
+

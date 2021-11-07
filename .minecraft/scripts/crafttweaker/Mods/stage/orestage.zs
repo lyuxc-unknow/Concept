@@ -15,7 +15,7 @@ static overworld as IItemStack[] =[
 <omegacraft:ore_aluminiumb>,<omegacraft:ore_magmiteb>,<rftools:dimensional_shard_ore>,
 <thermalfoundation:ore>,<thermalfoundation:ore:1>,<thermalfoundation:ore:2>,<thermalfoundation:ore:3>,
 <thermalfoundation:ore:4>,<thermalfoundation:ore:5>,<thermalfoundation:ore:6>,<thermalfoundation:ore:7>,
-<thermalfoundation:ore:8>,<thermalfoundation:ore_fluid:2>,<tp:wub_ore>,<tp:ender_ore>
+<thermalfoundation:ore:8>,<thermalfoundation:ore_fluid:2>,<tp:wub_ore>,<tp:ender_ore>,<mysticalagriculture:prosperity_ore>
 ];
 
 static nather as IItemStack[] = [
@@ -44,7 +44,7 @@ static skyworld as IItemStack[] = [
 
 static mistyworld as IItemStack[] = [
 <mist:iron_ore>,<mist:gold_ore>,<mist:niobium_ore>,<mist:lapis_ore>,<mist:sulfur_ore>,
-<mist:saltpeter_ore>,<mysticalagriculture:prosperity_ore>
+<mist:saltpeter_ore>
 ];
 
 function Disable(){

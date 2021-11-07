@@ -1,9 +1,20 @@
 //Items
 item.contenttweaker.super_dynamic_mana_ring.name=超动态魔力磁环
+item.contenttweaker.beacon_symbol.name=信标象征
 //Material
 base.material.iron=铁
+base.material.wood=木
+base.material.stone=石
+base.material.gold=金
+base.material.diamond=钻石
+base.material.emerald=绿宝石
+base.material.ancite=安科特
+base.material.steaite=硬铁
+base.material.galite=伽利特
+base.material.essen=埃森
 base.material.magnet=磁铁
 base.material.cave_magnet=磁化合金
 base.material.fine_iron=精铁
 //Part
-contenttweaker.part.component=%s 精密零件
+contenttweaker.part.component=%s精密零件
+contenttweaker.part.hammer=%s锤

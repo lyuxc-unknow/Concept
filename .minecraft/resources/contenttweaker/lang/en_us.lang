@@ -1,9 +1,16 @@
 //items
 item.contenttweaker.super_dynamic_mana_ring.name=Super dynamic mnan ring
+item.contenttweaker.beacon_symbol.name=Beacon Symbol
 //material
 base.material.iron=Iron
+base.material.wood=Wood
+base.material.stone=Stone
+base.material.gold=Gold
+base.material.diamond=Diamond
+base.material.emerald=Emerald
 base.material.magnet=Magnet
-base.material.cave_magnet=CaveMagnet
-base.material.fine_iron=FineIron
+base.material.cave_magnet=Cave Magnet
+base.material.fine_iron=Fine Iron
 //Part
 contenttweaker.part.component=%s Component
+contenttweaker.part.hammer=%s Hammer

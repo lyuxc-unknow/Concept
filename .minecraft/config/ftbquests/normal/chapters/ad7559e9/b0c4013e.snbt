@@ -1,0 +1,18 @@
+{
+	x: 0.5d,
+	y: 0.0d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "c3c42958",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:villager",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "9e11f07b",
+		type: "command",
+		command: "/kill @e[type=villager]"
+	}]
+}

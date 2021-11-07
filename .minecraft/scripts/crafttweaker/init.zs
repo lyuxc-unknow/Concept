@@ -1,4 +1,4 @@
-#priority -10
+#priority -32764
 
 scripts.crafttweaker.vanilla.crafting_table.init();
 scripts.crafttweaker.mods.bonsiatrees.init();
