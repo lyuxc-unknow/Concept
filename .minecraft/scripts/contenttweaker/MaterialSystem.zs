@@ -27,7 +27,9 @@ fineiron.registerPart(component);
 */
 static partNames as string[string] = {
     hammer : "hammer",
-    component : "component"
+    component : "component",
+    saw : "saw",
+    clamp : "clamp"
 };
 
 static Materials as int[string] = {
@@ -58,6 +60,7 @@ static parts as string[] = [
     "beam"
 ];
 
+//注册自定义部件以及自定义材料
 function registerPartsAndMaterials(){
     for name,oreDict in partNames{
         MaterialSystem.getPartBuilder().setName(name).setOreDictName(oreDict).setPartType(MaterialSystem.getPartType("item")).build();
@@ -69,11 +72,13 @@ function registerPartsAndMaterials(){
     }
 }
 
+//为自定义材料注册已有部件
 function registerMaterial(oreDict as string,color as int){
     var material = MaterialSystem.getMaterialBuilder().setName(oreDict).setColor(color).build();
     material.registerParts(parts);
 }
 
+//Init
 function init(){
     registerPartsAndMaterials();
     for materialsName,color in Materials{

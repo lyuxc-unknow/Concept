@@ -14,3 +14,5 @@ base.material.fine_iron=Fine Iron
 //Part
 contenttweaker.part.component=%s Component
 contenttweaker.part.hammer=%s Hammer
+contenttweaker.part.saw=%s Saw
+contenttweaker.part.clamp=%s Clamp

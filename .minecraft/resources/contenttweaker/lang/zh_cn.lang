@@ -18,3 +18,5 @@ base.material.fine_iron=精铁
 //Part
 contenttweaker.part.component=%s精密零件
 contenttweaker.part.hammer=%s锤
+contenttweaker.part.saw=%s锯
+contenttweaker.part.clamp=%s钳
