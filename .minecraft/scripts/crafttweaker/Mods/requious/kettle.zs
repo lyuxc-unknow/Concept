@@ -27,10 +27,7 @@ kettle.setTextSlot(0,0).setVisual(SlotVisual.create(0,0)).setRenderText(game.loc
 function addKettleRecipes(input as ILiquidStack, output as ILiquidStack,time as int){
 	var recipe = AssemblyRecipe.create(function(container) {
 		container.addFluidOutput("output", output);
-	}).requireFluid("input", input).requireDuration("time",time);
+	}).requireFluid("input", input).requireDuration("time",time*20);
 	kettle.addRecipe(recipe);
 	kettle.addJEIRecipe(recipe);	
-}
-function init(){
-	addKettleRecipes(<liquid:water>*100,<liquid:steam>*50,100);
 }

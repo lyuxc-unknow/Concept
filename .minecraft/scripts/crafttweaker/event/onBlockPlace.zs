@@ -1,3 +1,7 @@
+/*
+    Copy form:https://ikexing.gitbook.io/crt/events/restriction-endoflame
+*/
+
 #loader crafttweaker reloadableevents
 
 import crafttweaker.world.IWorld;

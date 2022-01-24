@@ -4,9 +4,9 @@
       "model": "requious:advanced_efab_terminal",
       "textures": {
         "0": "requious:blocks/adv_efab/top",
-		"1": "requious:blocks/adv_efab/down",
-		"2": "requious:blocks/adv_efab/other",
-		"particle": "requious:blocks/adv_efab/top"
+	    	"1": "requious:blocks/adv_efab/down",
+	    	"2": "requious:blocks/adv_efab/other",
+	    	"particle": "requious:blocks/adv_efab/top"
       },
       "transform": "forge:default-block"
     },

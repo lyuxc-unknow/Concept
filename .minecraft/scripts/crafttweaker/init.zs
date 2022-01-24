@@ -1,9 +1,9 @@
 #priority -32764
 
-scripts.crafttweaker.vanilla.crafting_table.init();
-scripts.crafttweaker.mods.bonsiatrees.init();
-scripts.crafttweaker.mods.tinker.melting.init();
-scripts.crafttweaker.mods.requious.kettle.init();
-scripts.crafttweaker.mods.AA.recipes.init();
-scripts.crafttweaker.mods.AA.compost.init();
-scripts.crafttweaker.mods.stage.orestage.init();
+scripts.crafttweaker.Vanilla.CraftingTable.init();
+scripts.crafttweaker.mods.BonsiaTrees.init();
+scripts.crafttweaker.mods.Tinkers.Melting.init();
+scripts.crafttweaker.mods.Requious.RecipesInit.init();
+scripts.crafttweaker.mods.ActuallyAdditions.Recipes.init();
+scripts.crafttweaker.mods.ActuallyAdditions.Compost.init();
+scripts.crafttweaker.mods.GameStage.OreStage.init();

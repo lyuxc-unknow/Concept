@@ -24,10 +24,4 @@ events.onPlayerTick(function(event as PlayerTickEvent){
 		player.sendChat("§4Banned!");
 		player.dropItem(<roost:catcher>);
     }
-	/*
-	//不知道为啥,没用
-	if(world.isRaining()){
-		player.sendChat("123!");
-	}
-	*/
 });
